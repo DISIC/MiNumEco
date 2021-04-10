@@ -1,0 +1,32 @@
+{
+  "name": "mission-numerique-ecoresponsable",
+  "version": "0.1.0",
+  "description": "Mission interministérielle",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/11ty/eleventy-base-blog.git"
+  },
+  "author": {
+    "name": "Richard Hanna",
+    "email": "richard.hanna@modernisation.gouv.fr"
+  },
+  "license": "Licence Ouverte Etalab v2.0",
+  "homepage": "https://ecoresponsable.numerique.gouv.fr",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
+    "@gouvfr/dsfr": "^1.0.0-rc1.0",
+    "luxon": "^1.25.0",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.2.5"
+  }
+}

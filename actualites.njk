@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /actualités/
+eleventyNavigation:
+  key: Actualités
+  order: 30
+---
+
+<h1>Actualités</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

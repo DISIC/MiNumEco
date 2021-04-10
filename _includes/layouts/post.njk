@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+---
+<h1>{{ title }}</h1>
+
+
+
+{%- if date %}<p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>{% endif %}
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+  <div class="fr-col-md-8">
+    {{ content | safe }}
+  </div>
+
+{%- if link or image %}
+  <div class="fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+      {%- if link %}
+        <div class="fr-card__body">
+            <h4 class="fr-card__title">
+                <a href="{{ link }}" class="fr-card__link">{{ linkTitle }}</a>
+            </h4>
+            <p class="fr-card__desc"></p>
+        </div>
+      {% endif %}
+
+      {%- if image %}
+        <div class="fr-card__img">
+            <img src="{{ image }}" alt="">
+        </div>
+      {% endif %}
+    </div> 
+  </div>
+{% endif %}
+</div>

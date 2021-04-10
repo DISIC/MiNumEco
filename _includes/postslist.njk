@@ -1,0 +1,22 @@
+<div class="fr-grid-row fr-grid-row--gutters">
+   
+{% for post in postslist | reverse %}
+  <div class="fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+            <h4 class="fr-card__title">
+                <a href="{{ post.url | url }}" class="fr-card__link">{{ post.data.title }}</a>
+            </h4>
+            <p class="fr-card__desc">
+              {{ post.data.description }}
+            </p>
+        </div>
+        <div class="fr-card__img">
+            <img src="/img/guide-achats.png" alt="">
+        </div>
+    </div> 
+  </div>
+{% endfor %}
+
+</div>
