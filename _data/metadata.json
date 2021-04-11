@@ -1,20 +1,20 @@
 {
-  "title": "Green Tech - Stratégie interministérielle de développement du numérique éco-responsable",
-  "url": "https://example.com/",
+  "title": "Numérique éco-responsable - Stratégie interministérielle pour un numérique éco-responsable",
+  "url": "https://ecoresponsable.numerique.gouv.fr/",
   "description": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition Ecologique",
   "feed": {
     "subtitle": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition Ecologique",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://ecoresponsable.numerique.gouv.fr/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://ecoresponsable.numerique.gouv.fr/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Mission Green Tech",
+    "email": "numerique-responsable.dinum@modernisation.gouv.fr",
+    "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   }
 }
