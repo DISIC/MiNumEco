@@ -13,7 +13,7 @@ eleventyNavigation:
   order: 30
 ---
 
-<img src="/img/guide-achats.png" alt="" />
+![](/img/guide-achats.png)
 
 Depuis la loi relative à la lutte contre le gaspillage et à l'économie circulaire, ainsi que la circulaire relative aux services publics écoresponsables, l’État s’engage davantage à réduire son empreinte environnementale liée au numérique. Les efforts d’adaptation pour s’engager dans la transition écologique et solidaire doivent, pour une raison d’exemplarité, s’appliquer au service public. 
 
