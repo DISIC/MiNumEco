@@ -74,6 +74,12 @@
                                     <br>Française
                                 </p>
                             </div>
+
+                            <div class="fr-header__navbar">
+                                <button id="button-menu" class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Menu">
+                                    Menu
+                                </button>
+                            </div>
                         </div>
                         <div class="fr-header__service">
                             <a href="/" title="Accueil - Mission Numérique éco-responsable">
@@ -83,9 +89,15 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <nav class="fr-nav " id="header-navigation" role="navigation" aria-label="Menu principal"> 
-                    <ul class="fr-nav__list">
+        <div class="fr-header__menu fr-modal" id="header-navigation" aria-labelledby="button-menu">
+            <div class="fr-container">
+                <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
+                <div class="fr-header__menu-links"></div>
+                <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+                    <ul class="fr-nav__list"
                     {%- for entry in collections.all | eleventyNavigation %}
                         <li class="fr-nav__item{% if entry.url == page.url %} fr-nav__item--active{% endif %}">
                             <a class="fr-nav__link" href="{{ entry.url | url }}" target="_self" {% if entry.url == page.url %}aria-current="page"{% endif %}>{{ entry.title }}</a>
