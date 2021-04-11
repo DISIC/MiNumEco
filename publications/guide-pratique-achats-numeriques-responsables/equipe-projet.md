@@ -8,7 +8,7 @@ eleventyNavigation:
   key: equipe
   parent: guideachat
   title: Equipe projet
-  order: 10
+  order: 100
 ---
 
 **Coordination du guide** : Olivier Joviado et Richard Hanna, mission Green Tech - DINUM

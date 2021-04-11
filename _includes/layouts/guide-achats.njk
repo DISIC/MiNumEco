@@ -46,87 +46,37 @@ layout: layouts/base.njk
                     <div class="fr-sidemenu__title">Guide pratique pour des achats numériques responsables</div>
                         <ul class="fr-sidemenu__list">
                             {% for item in collections.all | eleventyNavigation("guideachat") %}
-                                <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="{{ item.url | url }}" class="fr-card__link" aria-current="{% if item.url == page.url %}page{% endif %}">{{ item.title }}</a>
-                                </li>
+                                {% set subItems = collections.all | eleventyNavigation(item.key) %}
+                                {% set expanded = false %}
+
+                                {% if subItems.length === 0 %}
+                                    <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                                        <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                                    </li>
+                                {% else %}
+                                    {% for subItem in subItems %}
+                                        {% if subItem.url == page.url %}
+                                            {% set expanded = true %}
+                                        {% endif %}
+                                    {% endfor %}
+
+                                    <li class="fr-sidemenu__item">
+                                        <button class="fr-sidemenu__btn" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-{{ item.key }}">{{ item.title }}</button>
+                                        <div class="fr-collapse" id="fr-sidemenu-item-{{ item.key }}">
+                                            <ul class="fr-sidemenu__list">
+                                            {% for subItem in subItems %}
+                                                <li class="fr-sidemenu__item {% if subItem.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                                                    <a class="fr-sidemenu__link" href="{{ subItem.url | url }}" {% if subItem.url == page.url %}aria-current="page"{% endif %}>{{ subItem.title }}</a>
+                                                </li>
+                                            {% endfor %}
+                                            </ul>
+                                        </div>
+                                    </li>
+                                {% endif %}
                             {% endfor %}
 
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="/publications/guide-pratique-achats-numeriques-responsables/introduction" target="_self" aria-current="">Introduction</a>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                                <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-1">La démarche vers un numérique responsable</button>
-                                <div class="fr-collapse" id="fr-sidemenu-item-1">
-                                    <ul class="fr-sidemenu__list">
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self" aria-current="">Qu’est-ce que le numérique responsable ?</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Qu'est-ce que l’analyse de cycle de vie (ACV) ?</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Quelles sont les alternatives à l’achat du neuf ?</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Comment réussir la gestion de la fin de vie des équipements ?</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Que prévoit la loi ?</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                                <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-2">Les labels</button>
-                                <div class="fr-collapse" id="fr-sidemenu-item-2">
-                                    <ul class="fr-sidemenu__list">
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Produits</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Organisation</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Interministériel</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                                <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-3">Fiches pratiques par segment d’achats</button>
-                                <div class="fr-collapse" id="fr-sidemenu-item-3">
-                                    <ul class="fr-sidemenu__list">
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Matériels bureautiques : PC fixes - portables - écrans - tablettes</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Solutions d’impression</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Réseaux et télécoms</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Matériels d’infrastructures informatiques et services d’hébergement / solutions hébergées</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Prestations Intellectuelles (P2i)</a>
-                                        </li>
-                                        <li class="fr-sidemenu__item">
-                                            <a class="fr-sidemenu__link" href="#" target="_self">Logiciels</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#" target="_self">Glossaire</a>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#" target="_self">Webo-bibliographie</a>
-                            </li>
-                            <li class="fr-sidemenu__item">
-                            {% if entry.url == page.url %} fr-nav__item--active{% endif %}
-                            
-                                <a class="fr-sidemenu__link" href="/publications/guide-pratique-achats-numeriques-responsables/equipe-projet" target="_self">Equipe projet</a>
+                                <a class="fr-sidemenu__link" href="#">Télécharger le guide (PDF, X Mo)</a>
                             </li>
                         </ul>
                     </div>
