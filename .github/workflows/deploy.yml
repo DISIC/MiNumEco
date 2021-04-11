@@ -19,4 +19,4 @@ jobs:
         with:
           publish_dir: _site 
           publish_branch: prod
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
