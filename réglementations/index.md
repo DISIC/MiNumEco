@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: Réglementations
 date: 2021-04-25
+link: /publications/
+linkTitle: Nos publications
 eleventyNavigation:
   key: Réglementations
   order: 30

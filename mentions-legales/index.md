@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Mentions légales
+link: /a-propos/
+linkTitle: À propos de la mission
 ---
 
 ## Éditeur

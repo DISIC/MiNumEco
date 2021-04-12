@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: À propos
+title: À propos de la mission
 date: 2021-04-25
 eleventyNavigation:
   key: À propos

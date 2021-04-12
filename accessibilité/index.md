@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: Accessibilité
 date: 2021-04-25
+link: /mentions-legales/
+linkTitle: Mentions légales
 ---
 
 ## Déclaration d’accessibilité
