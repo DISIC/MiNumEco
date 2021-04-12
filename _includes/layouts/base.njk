@@ -2,31 +2,32 @@
 <html lang="fr" data-fr-theme>
   <head>
     <script>
-    function hash(input) {
-        for (i = 0; i < input.length; i++) {
-            chr   = input.charCodeAt(i);
-            hash  = ((hash << 5) - hash) + chr;
-            hash |= 0;
+        // light protection, to remove
+        function hash(input) {
+            for (i = 0; i < input.length; i++) {
+                chr   = input.charCodeAt(i);
+                hash  = ((hash << 5) - hash) + chr;
+                hash |= 0;
+            }
+            return hash;
+        };
+
+        function resetBody() {
+            document.body.style.display = 'inherit';
         }
-        return hash;
-    };
 
-    function resetBody() {
-        document.body.style.display = 'inherit';
-    }
+        let code = localStorage.getItem('code');
 
-    let code = localStorage.getItem('code');
+        if (null === code) {
+            code = window.prompt('Code');
+        }
 
-    if (null === code) {
-        code = window.prompt('Code');
-    }
-
-    if (null === code || 1707493324 !== hash(code)) {
-        location.reload();   
-    } else {
-        localStorage.setItem('code', code);
-        window.onload = resetBody;
-    }
+        if (null === code || 1707493324 !== hash(code)) {
+            location.reload();
+        } else {
+            localStorage.setItem('code', code);
+            window.onload = resetBody;
+        }
     </script>
 
     <meta charset="utf-8">
