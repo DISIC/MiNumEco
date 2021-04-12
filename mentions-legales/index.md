@@ -3,10 +3,28 @@ layout: layouts/post.njk
 title: Mentions légales
 ---
 
-## Direction de la publication
+## Éditeur
 
-Aliquam eget leo fringilla, condimentum felis non, accumsan nulla. Nullam velit felis, efficitur at aliquam ut, vestibulum et risus. Suspendisse consequat, arcu eget euismod convallis, sapien turpis fringilla dui, eu vehicula tellus odio id sapien. Duis velit enim, molestie in pretium ac, tristique eu felis. Praesent efficitur eros sit amet justo euismod aliquet sit amet ac libero. Nulla faucibus ac nisl vel faucibus. Nunc semper lorem quis luctus sodales. Donec convallis leo lectus, id tincidunt velit suscipit ac.
+Le site ecoresponsable.numerique.gouv.fr est édité par la mission Pi3 Green Tech au sein de la Direction interministérielle du numérique (DINUM).
+
+Coordonnées :
+Adresse : DINUM, 20 avenue de Ségur, 75007 Paris
+Tel. accueil : 01.71.21.01.70
+SIRET : 12000101100010 (secrétariat général du gouvernement)
+SIREN : 120 001 011
+
+## Directeur de la publication
+
+Directeur interministériel du numérique.
 
 ## Hébergement
 
-Aliquam tincidunt metus dolor, non iaculis tellus condimentum non. Maecenas varius, dui id vehicula dignissim, lacus quam pellentesque elit, commodo interdum libero ligula vel ex. Sed gravida tortor libero, nec vulputate arcu vestibulum ac. In nec gravida arcu. Suspendisse laoreet dictum est, nec sollicitudin odio rhoncus ut. Suspendisse ut malesuada velit. Fusce eu viverra mauris, at ultrices lectus. Praesent diam orci, dictum id dolor eu, semper egestas nisi. 
+Ce site est hébergé par Github Pages, 88 Colin P Kelly Junior Street, San Francisco, CA 94107.
+
+## Code source du site
+
+Le [code source du site est disponible sur Github](https://github.com/DISIC/greentech).
+
+## Accessibilité
+
+[Voir la déclaration d'accessibilité](/accessibilité/)

@@ -3,13 +3,14 @@ layout: layouts/base.njk
 ---
 <h1>{{ title }}</h1>
 
-
-
-{%- if date %}<p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>{% endif %}
-
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
   <div class="fr-col-md-8">
     {{ content | safe }}
+
+    {%- if date %}
+      <hr />
+      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
+    {% endif %}
   </div>
 
 {%- if link or image %}
@@ -30,6 +31,20 @@ layout: layouts/base.njk
         </div>
       {% endif %}
     </div> 
+  </div>
+{% else %}
+  <div class="fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+      <div class="fr-card__body">
+          <h4 class="fr-card__title">
+              <a href="/actualités/" class="fr-card__link">Actualités</a>
+          </h4>
+          <p class="fr-card__desc"></p>
+      </div>
+      <div class="fr-card__img">
+          <img src="/img/guide-achats.png" alt="">
+      </div>
+    </div>
   </div>
 {% endif %}
 </div>
