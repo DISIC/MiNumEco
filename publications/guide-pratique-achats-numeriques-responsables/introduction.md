@@ -1,7 +1,7 @@
 ---
 layout: layouts/guide-achats.njk
 title: Introduction
-description: This is a post on My Blog about agile frameworks.
+seoTitle: Introduction - Guide pratique pour des achats numériques responsables
 date: 2021-05-15
 tags: guideachat
 eleventyNavigation:

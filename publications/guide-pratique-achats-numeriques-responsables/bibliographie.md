@@ -1,7 +1,7 @@
 ---
 layout: layouts/guide-achats.njk
 title: Webo-bibliographie
-description: Webo-bibliographie du Guide pour des achats numériques responsables
+seoTitle: Webo-bibliographie du Guide pour des achats numériques responsables
 date: 2021-05-15
 tags: guideachat
 eleventyNavigation:

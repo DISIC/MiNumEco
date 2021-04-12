@@ -1,7 +1,6 @@
 ---
 layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
-description: This is a post on My Blog about agile frameworks.
 date: 2021-05-15
 image: /img/guide-achats.png
 eleventyNavigation:

@@ -1,7 +1,6 @@
 ---
 layout: layouts/guide-achats.njk
 title: Equipe projet
-description: This is a post on My Blog about agile frameworks.
 date: 2021-05-15
 tags: guideachat
 eleventyNavigation:
