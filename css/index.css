@@ -3,3 +3,7 @@
   display: block;
   margin: 0 auto;
 }
+
+#contenu p {
+  margin: 0 0 1.5rem;
+}
