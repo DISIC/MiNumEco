@@ -15,9 +15,11 @@ layout: layouts/base.njk
             <h2 class="fr-card__title">
                 <a href="{{ post.url | url }}" class="fr-card__link">{{ post.title }}</a>
             </h2>
+            {%if post.description %}
             <p class="fr-card__desc">
               {{ post.description }}
             </p>
+            {%endif %}
         </div>
         <div class="fr-card__img">
             <img src="{{ post.image }}" alt="">
