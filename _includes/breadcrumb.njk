@@ -1,0 +1,18 @@
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-189">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+        {% if type == 'news' %}
+            <li>
+                <a class="fr-breadcrumb__link" href="/actualités/">Actualités</a>
+            </li>
+        {% endif %}
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+            </li>
+        </ol>
+    </div>
+</nav>

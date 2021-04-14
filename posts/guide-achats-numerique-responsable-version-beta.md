@@ -1,5 +1,6 @@
 ---
 title: Publication du Guide pratique pour des achats numériques responsables en version bêta
+type: news
 date: 2021-04-29
 link: /publications/guide-pratique-achats-numeriques-responsables/
 linkTitle: Consulter le Guide pratique pour des achats numériques responsables

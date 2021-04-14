@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 30
 ---
 
-<h1>Actualités</h1>
+{% include "breadcrumb.njk" %}
+
+<h1>{{ title }}</h1>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}
