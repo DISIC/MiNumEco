@@ -43,7 +43,7 @@ layout: layouts/base.njk
             <div class="fr-sidemenu__inner">
                 <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
                 <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                    <div class="fr-sidemenu__title">Guide pratique pour des achats numériques responsables</div>
+                    <p class="fr-sidemenu__title">Guide pratique pour des achats numériques responsables</p>
                         <ul class="fr-sidemenu__list">
                             {% for item in collections.all | eleventyNavigation("guideachat") %}
                                 {% set subItems = collections.all | eleventyNavigation(item.key) %}

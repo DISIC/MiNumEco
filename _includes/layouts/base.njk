@@ -99,7 +99,7 @@
                 <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
                 <div class="fr-header__menu-links"></div>
                 <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
-                    <ul class="fr-nav__list"
+                    <ul class="fr-nav__list">
                     {%- for entry in collections.all | eleventyNavigation %}
                         <li class="fr-nav__item{% if entry.url == page.url %} fr-nav__item--active{% endif %}">
                             <a class="fr-nav__link" href="{{ entry.url | url }}" target="_self" {% if entry.url == page.url %}aria-current="page"{% endif %}>{{ entry.title }}</a>
@@ -110,10 +110,12 @@
             </div>
         </div>
     </header>
-
-    <div id="contenu" class="fr-container fr-py-3w">
-      {{ content | safe }}
-    </div>
+    
+    <main role="main">
+        <div id="contenu" class="fr-container fr-py-3w">
+        {{ content | safe }}
+        </div>
+    </main>
 
     <footer class="fr-footer" role="contentinfo" id="footer">
         <div class="fr-container">
@@ -154,7 +156,7 @@
                         <a class="fr-footer__bottom-link" href="/contact/">Contact</a>
                     </li>
                     <li class="fr-footer__bottom-item">
-                        <a class="fr-footer__bottom-link" href="/accessibilité/">Accessibilité: totalement conforme</a>
+                        <a class="fr-footer__bottom-link" href="/accessibilité/">Accessibilité : partiellement conforme</a>
                     </li>
                     <li class="fr-footer__bottom-item">
                         <a class="fr-footer__bottom-link" href="/mentions-legales/">Mentions légales</a>
@@ -171,7 +173,7 @@
                 </ul>
                 <div class="fr-footer__bottom-copy">
                     <p>
-                        Sauf mention contraire, tous les textes de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank">licence etalab-2.0</a>
+                        Sauf mention contraire, tous les textes de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank" title="licence etalab-2.0 - nouvelle fenêtre">licence etalab-2.0</a>
                     </p>
                 </div>
             </div>
