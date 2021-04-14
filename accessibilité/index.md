@@ -10,20 +10,37 @@ linkTitle: Mentions légales
 
 Le site ecoresponsable.numerique.gouv.fr est développé selon les recommendations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
 
-### État de conformité
+## État de conformité
 
-Ce site est totalement conforme avec le RGAA 4.
+Le site ecoresponsable.numerique.gouv.fr est partiellement conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités énumérées ci-dessous.
+
+### Résultats des tests
+
+L’audit de conformité réalisé par nos soins révèle que : 92% des critères du RGAA version 4 sont respectés.
+
+## Établissement de cette déclaration d’accessibilité
+
+Cette déclaration a été établie le 14 avril 2021.
 
 ### Échantillon évalué
 
-L’audit mené en avril 2021 par nos soins n’a relevé aucune non-conformité sur l’échantillon suivant :
+L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivant :
 
 * [Accueil](/)
 * [À propos](/a-propos/)
-* [Actualités](/actualités/)
-* [Réglementations](/réglementations/)
-* [Publications](/publications/)
+* [Accessibilité](/accessibilite/)
+* [Mentions légales](/mentions-legales/)
+* [Contact](/contact/)
 * [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
+* [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/)
+
+
+### Contenus non accessibles
+
+Les non-conformités suivantes ont été relevées :
+* Absence de plan site
+* Absence de fil d’ariane sur toutes les pages
+* Certains liens n’ont pas un libellé suffisamment explicite
 
 ## Retour d’information et contact
 
