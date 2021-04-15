@@ -8,11 +8,11 @@ linkTitle: Mentions légales
 
 ## Déclaration d’accessibilité
 
-Le site ecoresponsable.numerique.gouv.fr est développé selon les recommendations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
+Le site `ecoresponsable.numerique.gouv.fr` est développé selon les recommendations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
 
 ## État de conformité
 
-Le site ecoresponsable.numerique.gouv.fr est partiellement conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités énumérées ci-dessous.
+Le site `ecoresponsable.numerique.gouv.fr` est partiellement conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités énumérées ci-dessous.
 
 ### Résultats des tests
 
@@ -46,7 +46,7 @@ Les non-conformités suivantes ont été relevées :
 
 La DINUM s’engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l’objet d’une dérogation ou non.
 
-La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à numerique-responsable.dinum@modernisation.gouv.fr afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
+La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à `numerique-responsable.dinum@modernisation.gouv.fr` afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
 
 ## Défenseur des droits
 
