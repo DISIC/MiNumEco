@@ -12,11 +12,11 @@ Le site ecoresponsable.numerique.gouv.fr est développé selon les recommendatio
 
 ## État de conformité
 
-Le site ecoresponsable.numerique.gouv.fr est partiellement conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités énumérées ci-dessous.
+Le site ecoresponsable.numerique.gouv.fr est totalement conforme avec le référentiel général d’amélioration de l’accessibilité.
 
 ### Résultats des tests
 
-L’audit de conformité réalisé par nos soins révèle que : 92% des critères du RGAA version 4 sont respectés.
+L’audit de conformité réalisé par [DesignGouv](https://design.numerique.gouv.fr) révèle que 100% des critères du RGAA version 4.1 sont respectés.
 
 ## Établissement de cette déclaration d’accessibilité
 
@@ -33,14 +33,6 @@ L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivan
 * [Contact](/contact/)
 * [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
 * [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/)
-
-
-### Contenus non accessibles
-
-Les non-conformités suivantes ont été relevées :
-* Absence de plan site
-* Absence de fil d’ariane sur toutes les pages
-* Certains liens n’ont pas un libellé suffisamment explicite
 
 ## Retour d’information et contact
 
