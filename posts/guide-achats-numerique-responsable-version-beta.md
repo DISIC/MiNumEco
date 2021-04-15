@@ -14,6 +14,6 @@ Ce guide, contenant des fiches pratiques d’achat responsable et s’adressant 
 
 Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommandations déclinées en fiches pratiques : Matériels bureautiques, Solutions d’impressions, Réseaux et télécoms, Infrastructures et cloud, Prestations intellectuelles (P2I) et Logiciels.
 
-Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’Etat. Il a été construit avec eux.
+Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’État. Il a été construit avec eux.
 
 Cependant ce guide a une portée plus large. Tout acheteur public ou privé doit pouvoir y trouver des ressources pour être acteur de ce changement. C’est une volonté forte des parties prenantes de ce projet. 

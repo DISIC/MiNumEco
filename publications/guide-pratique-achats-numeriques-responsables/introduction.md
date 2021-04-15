@@ -2,7 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Introduction
 seoTitle: Introduction - Guide pratique pour des achats numériques responsables
-date: 2021-05-15
+date: 2021-04-29
 tags: guideachat
 eleventyNavigation:
   key: introduction
@@ -31,7 +31,7 @@ Enfin, pour ce qui concerne les activités extractives, la production et le recy
 
 À l’heure où les pratiques numériques s’incarnent dans le quotidien de milliards d’individus, la recherche d’un numérique responsable doit devenir un axe structurant de la transition écologique et solidaire.
 
-Soucieux de son exemplarité, l’État développe une stratégie volontariste de maîtrise du numérique et de ses effets. Ces engagements de l’État sont notamment formalisés par le dispositif « Services publics écoresponsables » (circulaire du Premier ministre n°6145/SG du 25 février 2020 portant engagements de l’Etat pour des services publics écoresponsables).
+Soucieux de son exemplarité, l’État développe une stratégie volontariste de maîtrise du numérique et de ses effets. Ces engagements de l’État sont notamment formalisés par le dispositif « Services publics écoresponsables » (circulaire du Premier ministre n°6145/SG du 25 février 2020 portant engagements de l’État pour des services publics écoresponsables).
 
 Les administrations, les collectivités territoriales, les agents, tout un écosystème recherche cette cohérence et participe aux côtés d’acteurs privés, coopératives et associations, à la mise en œuvre du numérique responsable sur l’échelle du territoire.
 
@@ -49,11 +49,11 @@ La commande publique est unanimement reconnue comme un moyen efficace pour soute
 
 ## À qui s’adresse ce guide ?
 
-Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’Etat. Il a été construit avec eux.
+Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’État. Il a été construit avec eux.
 
 Cependant ce guide a une portée plus large. Tout acheteur public ou privé doit pouvoir y trouver des ressources pour être acteur de ce changement. C’est une volonté forte des parties prenantes de ce projet. 
 
-Ce guide s’adresse aussi aux directeurs de projets numériques, aux agents des administrations centrales et déconcentrées, opérateurs de l’Etat, au sens budgétaire, et celles et ceux qui travaillent dans les collectivités territoriales ou encore les établissements publics locaux et les structures relevant de la fonction publique hospitalière. Il s’adresse donc à celles et ceux qui souhaitent engager leur organisation, leur département, leur administration, vers plus d’achats responsables. Nous voulons par ce guide, vous partager toutes les pistes qui permettent de réussir cette transition. 
+Ce guide s’adresse aussi aux directeurs de projets numériques, aux agents des administrations centrales et déconcentrées, opérateurs de l’État, au sens budgétaire, et celles et ceux qui travaillent dans les collectivités territoriales ou encore les établissements publics locaux et les structures relevant de la fonction publique hospitalière. Il s’adresse donc à celles et ceux qui souhaitent engager leur organisation, leur département, leur administration, vers plus d’achats responsables. Nous voulons par ce guide, vous partager toutes les pistes qui permettent de réussir cette transition. 
 
 Enfin, ce guide s’adresse aussi à l’écosystème des sociétés privées et des associations, qui pourront y trouver des bonnes pratiques, des actualités et des indications sur la commande publique. A eux, par la suite, d’adapter à leurs écosystèmes, les fiches de bonnes pratiques de ce guide. 
 
@@ -73,7 +73,7 @@ Ce guide est fait pour vous, par des acteurs qui restent ouverts aux processus d
 
 Les parties prenantes sont des acteurs et les contributeurs de la mission interministérielle « Green Tech » du programme - lui aussi - interministériel TECH.GOUV, porté par la Direction Interministérielle du Numérique.
 
-Historiquement, le département Informatique Caisse Des Dépôts est à l’origine d’une première version proposée aux membres du Club Green IT. Ces membres créent en 2018  l’Institut du Numérique Responsable, et enrichissent ce guide de leurs expertises, dans l’objectif d’en faire un outil gratuit accessible à tous les acheteurs, avec des contributions plus spécifiques de la DSI de Pôle emploi et d’Airbus, allant jusqu’à en faire une traduction en anglais afin de couvrir les besoins du groupe à l’international. Une version a été ensuite proposée à la Direction des achats de l’Etat et la DINUM. C’est tout naturellement que les parties prenantes, alignées sur les mêmes valeurs de partage, se sont organisées pour produire un livrable en commun.
+Historiquement, le département Informatique Caisse Des Dépôts est à l’origine d’une première version proposée aux membres du Club Green IT. Ces membres créent en 2018  l’Institut du Numérique Responsable, et enrichissent ce guide de leurs expertises, dans l’objectif d’en faire un outil gratuit accessible à tous les acheteurs, avec des contributions plus spécifiques de la DSI de Pôle emploi et d’Airbus, allant jusqu’à en faire une traduction en anglais afin de couvrir les besoins du groupe à l’international. Une version a été ensuite proposée à la Direction des achats de l’État et la DINUM. C’est tout naturellement que les parties prenantes, alignées sur les mêmes valeurs de partage, se sont organisées pour produire un livrable en commun.
 
 Ce livrable a pour objectif de devenir le référentiel des achats publics comme privés en matière d’achat numérique responsable.
 
@@ -101,7 +101,7 @@ Sous l’autorité du Premier ministre, la DAE a en charge de définir la politi
 
 Ses principales missions sont les suivantes :
 
-* Porter la performance des achats de l’Etat autour de 5 axes prioritaires et en mesurer les résultats : réaliser des économies achat ; faciliter l’accès des PME à l’achat public ; augmenter le recours à l’achat d’innovation ; développer la performance environnementale des achats ; développer la performance sociale des achats.
+* Porter la performance des achats de l’État autour de 5 axes prioritaires et en mesurer les résultats : réaliser des économies achat ; faciliter l’accès des PME à l’achat public ; augmenter le recours à l’achat d’innovation ; développer la performance environnementale des achats ; développer la performance sociale des achats.
 * Animer la gouvernance interministérielle des achats de l’État et la décliner en région en s’appuyant sur le réseau des plateformes régionales des achats de l’État (PFRA) placées sous l’autorité des préfets de région ; 
 * Conduire les marchés publics interministériels ou en confier la gestion à un autre service de l’État ou une centrale d’achat publique et s’assurer de la bonne exécution de ces marchés ; Développer la professionnalisation de la fonction achat, conseiller les services de l’État et les EP pour leurs stratégies d’achat ainsi que pour l’organisation et l’efficience de leur fonction d’achat.
 
@@ -127,7 +127,7 @@ Fidèle à son investissement en faveur de l’intérêt général et notamment 
 
 ### La DSI de Pôle Emploi
 
-Crée le 19 décembre 2008 par la fusion de l’ANPE et des ASSEDIC, Pôle emploi est un établissement public d’état, rattaché au Ministère du Travail, de l’Emploi et de l’Insertion. Son financement est assuré à un tiers par l’Etat et deux tiers par l’Unedic. Pôle emploi est organisé en une direction générale et dix-huit directions régionales  
+Crée le 19 décembre 2008 par la fusion de l’ANPE et des ASSEDIC, Pôle emploi est un établissement public d’état, rattaché au Ministère du Travail, de l’Emploi et de l’Insertion. Son financement est assuré à un tiers par l’État et deux tiers par l’Unedic. Pôle emploi est organisé en une direction générale et dix-huit directions régionales  
 
 A l’instar des Directions régionales, la DSI est considérée comme un établissement indépendant de la Direction Générale.   
 
@@ -147,4 +147,4 @@ Depuis janvier 2019, la direction informatique de l'entité du groupe Airbus dé
 
 Ce guide des achats NR est fondamental car il permet de donner un cadre validé par un panel large d'experts, en termes de bonnes pratiques, mais surtout en termes d'écolabels pertinents pour chaque famille d'équipements informatiques achetés. Cet outil permet à chaque organisation d'aborder de manière pragmatique et efficace l'approche "cycle de vie" sans devoir réaliser des comparaisons laborieuses.
 
-<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/">Qu’est-ce que le numérique responsable ?</a>
+<p class="text-align--right"><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/">Qu’est-ce que le numérique responsable ?</a></p>

@@ -7,3 +7,7 @@
 #contenu p {
   margin: 0 0 1.5rem;
 }
+
+.text-align--right {
+  text-align: right;
+}

@@ -9,5 +9,3 @@ eleventyNavigation:
   date: 2021-05-15
   order: 10
 ---
-
-Démarche NR

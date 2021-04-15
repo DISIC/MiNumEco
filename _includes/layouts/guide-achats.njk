@@ -33,9 +33,15 @@ layout: layouts/base.njk
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
 
     <div class="fr-col-md-8">
-        {{ content | safe }}
+        
+        
+        {% if date %}
+            <p>
+                <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
+            </p>
+        {% endif %}
 
-        {%- if date %}<p class="fr-tag"><time class="postlist-date" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>{% endif %}
+        {{ content | safe }}
     </div>
     
     <div class="fr-col-md-4">
