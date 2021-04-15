@@ -10,4 +10,6 @@ eleventyNavigation:
 
 Olivier Joviado et Richard Hanna, chargés de mission Pi3 Green Tech à la Direction interministérielle du numérique (DINUM).
 
-Pour nous contacter : numerique-responsable.dinum@modernisation.gouv.fr
+Pour nous contacter par e-mail :
+
+`numerique-responsable.dinum@modernisation.gouv.fr`
