@@ -7,6 +7,7 @@ eleventyNavigation:
   key: guideachat
   parent: publications
   title: Guide pratique pour des achats numériques responsables
+  date: 2021-04-29
   image: /img/guide-achats.png
   order: 30
 ---
