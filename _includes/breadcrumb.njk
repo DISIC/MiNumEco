@@ -9,6 +9,10 @@
             <li>
                 <a class="fr-breadcrumb__link" href="/actualités/">Actualités</a>
             </li>
+        {% elseif type == 'publication' %}
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
         {% endif %}
             <li>
                 <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
