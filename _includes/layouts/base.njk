@@ -218,5 +218,13 @@
     </dialog>
 
     <script src="/js/dsfr.module.min.js"></script>
+    <script src="/js/smarttag.js"></script>
+    <script>
+    var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
+    //tag.privacy.setVisitorOptout();
+    tag.privacy.setVisitorMode('cnil', 'exempt');
+    tag.page.set({ name: "{{ seoTitle or title or metadata.title }}" });
+    tag.dispatch();
+    </script>
   </body>
 </html>
