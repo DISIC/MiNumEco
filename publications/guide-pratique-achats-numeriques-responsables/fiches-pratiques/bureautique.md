@@ -9,6 +9,8 @@ eleventyNavigation:
   order: 10
 ---
 
+![](/img/guide-achats/picto-ordinateur.png)
+
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Comment lire chaque fiche ?</div>
     <p>Les conseils pratiques pour les achats sont rédigés sous la forme de fiches opérationnelles permettant à tout acheteur de disposer :</p>
@@ -120,13 +122,19 @@ En matière de qualité environnementale des matériels IT, les principaux texte
 
 Avant d’introduire toute clause ou exigence technique minimale visant à réduire les externalités négatives sur l’environnement ou à améliorer la performance sociale de l’achat, il est recommandé de réaliser des études et échanges préalables : sourcing ou sourçage.
 
-Les études de sourcing peuvent être réalisées éventuellement par téléphone ou au moyen d’un questionnaire envoyé par courriel à quelques fournisseurs représentatifs du segment d’achat. En fonction du montant et de la complexité de l’achat, il est recommandé de rencontrer directement les fournisseurs lors d’un échange en présentiel d’environ une à deux heures (durée à définir par l’acheteur selon son besoin). Cette action de sourcing permet d’évaluer la capacité du marché fournisseur à répondre aux exigences formulées par l’acheteur. Pour plus d’information sur la méthode de conduite des entretiens de sourcing, vous pouvez consulter le guide de l’achat public de la DAE intitulé « le sourcing opérationnel ».
+Les études de sourcing peuvent être réalisées éventuellement par téléphone ou au moyen d’un questionnaire envoyé par courriel à quelques fournisseurs représentatifs du segment d’achat. En fonction du montant et de la complexité de l’achat, il est recommandé de rencontrer directement les fournisseurs lors d’un échange en présentiel d’environ une à deux heures (durée à définir par l’acheteur selon son besoin). Cette action de sourcing permet d’évaluer la capacité du marché fournisseur à répondre aux exigences formulées par l’acheteur.
+
+<div class="fr-highlight">
+
+Pour plus d’information sur la méthode de conduite des entretiens de sourcing, vous pouvez consulter [le guide de l’achat public de la DAE intitulé « le sourcing opérationnel »](https://www.economie.gouv.fr/dae/sourcing-operationnel-guide-lachat-public-a-disposition-des-acheteurs-publics).
+
+</div>
 
 Deux catégories de fournisseurs doivent a minima être sollicités : les constructeurs de matériels et les distributeurs.
 
 Ce paragraphe présente de manière synthétique les exemples de questions à poser lors de ces échanges préalables :
 
-### Avec les constructeurs et les distributeurs
+<h3 class="fr-fi-arrow-right-line fr-link--icon-left">Avec les constructeurs et les distributeurs</h3>
 
 #### Préoccupations sociales : provenance des produits, implantation des services
 
@@ -168,7 +176,7 @@ Nota bene : la garantie est en général délivrée par le distributeur, mais il
     * Quelles sont les missions de ce référent/correspondant RSE, (communication institutionnelle, communication commerciale, gestion de l’exécution de clauses marchées, …) ?
 * Connaissez-vous les / des politiques publiques en matière RSE ? Dans l’affirmative, quel est votre avis à leur égard ?
 
-### Avec les constructeurs seulement
+<h3 class="fr-fi-arrow-right-line fr-link--icon-left">Avec les constructeurs seulement</h3>
 
 #### Préoccupations environnementales : consommation énergie (pour des produits)
 
@@ -248,3 +256,246 @@ Ces moyens de preuve doivent être transparents (délivrés par une autorité in
 Les titulaires du marché sont invités à porter à la connaissance de l’acheteur toute nouvelle labellisation dont pourrait bénéficier les équipements objet du marché et ce durant toute la période d’exécution de ce dernier, étant entendu que cette nouvelle certification constitue un niveau supérieur d’exigence en matière de performance environnementale par rapport à celle dont bénéficie l’équipement au moment de l’attribution du marché.
 
 De même, le titulaire est invité à proposer à l’acheteur, tout au long de l’exécution du marché, toute innovation apportée aux matériels et, susceptible de constituer une progression de la qualité environnementale de son offre (augmentation du taux de matériaux recyclés notamment plastique, offre en produits reconditionnés, performance énergétique accrue, etc…)
+
+#### X.2 Dispositions sociales
+
+##### X.2.1 Traçabilité sociale / origine des produits
+
+Le secteur économique de la fabrication des matériels informatiques et de télécommunication est caractérisé par des chaînes de production mondialisées localisées dans des zones géographiques réputées exposées au risque de violation des droits humains fondamentaux au travail.
+
+Toutes les étapes de production sont concernées : extraction minière, fabrication des composants, assemblage des matériels, transports (notamment transfrontaliers).
+
+Les enjeux liés à l’extraction minière sont particulièrement prégnants :
+-	provenance des minerais de zones de conflit ou à haut risque
+-	conditions de travail dans les mines : pénibilité, conditions de santé et de sécurité dangereuses
+-	alimentation des conflits armés impliquant 4 minerais (« 3TG » ou « minerais de sang ») : tungstène, étain, tantale et or 
+-	travail des enfants dans les mines, notamment pour le cobalt dont la moitié de la production mondiale provient de la République démocratique du Congo et employant des enfants.
+
+Les étapes de fabrication des composants et d’assemblage des équipements sont également porteuses de nombreux risques : heures de travail irrégulières, travail précaire, risque de travail forcé dans certaines régions du monde, non application des règles de santé et sécurité au travail, etc.
+
+L’article 6 du cahier des clauses administratives générales (CCAG) des marchés publics de prestations intellectuelles et de techniques de l’information et de la communication rappelle les obligations qui s’imposent au titulaire en matière de protection de la main-d’œuvre et de conditions de travail. Cet article se réfère explicitement aux huit conventions fondamentales de l’OIT. Il impose au titulaire d’être en mesure de justifier le respect de ces obligations par lui et ses sous-traitants, et ce, sur simple demande de l’acheteur et tout au long de l’exécution du marché.
+
+Cet article précise par ailleurs que les modalités d’application de ces textes sont prévues dans les documents particuliers du marché. 
+
+Ces obligations deviennent ainsi applicables dès lors qu’elles sont précisées aux cahiers des clauses administratives particulières.
+
+L’acheteur peut ainsi compléter la clause par les éléments suivants :
+
+« Les équipements fournis sont fabriqués dans des conditions de travail socialement satisfaisantes Les sites de production (y compris les sites d’extraction minière), tout au long de la chaîne de fabrication et de commercialisation, respectent notamment les 8 conventions fondamentales de [l’organisation internationale du travail](https://www.ilo.org/global/lang--fr/index.htm) :
+-	Convention (n° 87) sur la liberté syndicale et la protection du droit syndical, 1948
+-	Convention (n° 98) sur le droit d'organisation et de négociation collective, 1949
+-	Convention (n° 29) sur le travail forcé, 1930
+-	Convention (n° 105) sur l'abolition du travail forcé, 1957
+-	Convention (n° 138) sur l'âge minimum, 1973
+-	Convention (n° 182) sur les pires formes de travail des enfants, 1999
+-	Convention (n° 100) sur l'égalité de rémunération, 1951
+-	Convention (n° 111) concernant la discrimination (emploi et profession), 1958
+
+Le cadre de réponse « traçabilité sociale des matériels acquis dans le cadre du marché » qui a été renseigné lors de la remise des offres valent engagement du titulaire sur toute la durée d’exécution du marché. »
+
+##### X.2.2 Action d’insertion par l’activité économique
+
+Les marchés publics sont un support efficace pour permettre l’accès à l’emploi des personnes qui en sont éloignées. En intégrant au titre des conditions d’exécution de son marché une clause d’insertion par l’activité économique, l’acheteur permet aux publics éloignés de l’emploi de réaliser, sur un volume horaire défini, des missions qui concourent à la bonne exécution du marché.
+
+Le dispositif d’insertion par l’activité économique est ainsi construit par l’acheteur avec l’appui d’un facilitateur de la clause sociale d’insertion : calibrage du volume horaire réservé aux publics ciblés par l’action d’insertion, rédaction de la clause, suivi de l’exécution de l’obligation d’insertion.
+
+Chaque projet d’achat doit faire l’objet d’une analyse afin de définir la pertinence d’intégrer la clause et, le cas échéant, d’en calibrer le volume horaire et les modalités d’exécution.
+
+<div class="fr-highlight">
+
+Identifier le facilitateur dans sa région : [contacter Alliance Villes Emploi, tête de réseau nationale des facilitateurs](https://www.ville-emploi.asso.fr/)
+
+</div>
+
+<div class="fr-highlight">
+
+Plus d’informations sur [le dispositif d’insertion dans les marchés publics](https://www.economie.gouv.fr/files/files/directions_services/daj/marches_publics/conseil_acheteurs/guides/guide-aspects-sociaux-cp.pdf).
+
+</div>
+
+##### X.2.3 Formation des jeunes en situation de décrochage scolaire
+
+Le dispositif de formation sous statut scolaire de jeunes en situation de décrochage scolaire est développé par le ministère de l’éducation nationale ; il s’adresse à tous les marchés de l’Etat et de ses établissements publics. Il vise à encourager les jeunes en situation de décrochage scolaire à réintégrer le système éducatif ou à les orienter vers un premier emploi.
+
+Ce dispositif est particulièrement adapté aux marchés dont les montants ne sont pas suffisamment importants pour calibrer une clause sociale d’insertion. Durant la préparation de son projet achat, l’acheteur doit choisir un des deux dispositifs à intégrer dans son marché. 
+
+Condition d’exécution du marché, la clause de formation engage le titulaire à réaliser une action de formation d’un ou plusieurs jeunes entre 16 et 25 ans, d’un niveau de qualification inférieur à celui mentionné à l'article L. 313-7 du code de l'éducation, tel que modifié par le décret n° 2010-1781 du 31 décembre 2010. Les jeunes sont stagiaires de l’entreprise sur une durée précisée à la clause et calibrée selon le montant du marché. Ils sont accompagnés par les Missions de Lutte contre le Décrochage Scolaire (MLDS) du ministère chargé de l’Education nationale.
+
+<table class="fr-table fr-table--bordered">
+  <caption>Les volumes horaires sont calibrés comme indiqué dans ce tableau. Ils constituent un minimum que le titulaire peut dépasser s’il le souhaite.</caption>
+  <thead>
+  <tr>
+    <th scope="col">Montant total facturé sur toute la durée du marché (€ HT)</th>
+    <th scope="col">Volume horaire à réaliser par le titulaire</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>≤ 100 000 € HT</td><td>150 heures (1 mois)</td>
+    </tr>
+    <tr>
+      <td>> 100 000 € HT et ≤ 200 000 € HT</td><td>300 heures (2 mois)</td>
+    </tr>
+    <tr>
+      <td>> 200 000 € HT et ≤ 400 000 € HT</td><td>450 heures (3 mois)</td>
+    </tr>
+    <tr>
+      <td>> 400 000 € HT</td><td>900 heures (6 mois)</td>
+    </tr>
+  </tbody>
+</table>
+	
+<div class="fr-highlight">
+
+Les informations sur le dispositif : [La clause sociale de formation sous statut scolaire dans les marchés publics](https://www.education.gouv.fr/la-clause-sociale-de-formation-sous-statut-scolaire-dans-les-marches-publics-41543)
+
+</div>
+
+### B. Cahier des clauses techniques particulières (CCTP)
+
+Selon les informations collectées dans la phase de sourcing, le CCTP peut intégrer des spécifications environnementales au titre des spécifications techniques des matériels.
+
+Ces spécifications correspondent à des caractéristiques des matériels que l’acheteur peut inscrire au titre d’exigences (spécifications environnementales des matériels) ou au titre de critères d’attribution, ou en combinaison.
+
+Ces spécifications peuvent ainsi porter sur :
+-	le caractère écolabellisé des matériels : selon l’étendue de l’offre, la spécification environnementale peut :
+    - Porter sur tout ou partie des matériels achetés dans le cadre du marché ;
+    - Viser différents niveaux d’écolabels. Si l’offre est étendue en matériels écolabellisés présentant un niveau d’exigence relativement modeste (label A) et qu’a contrario l’offre en matériels présentant un écolabel plus exigeant (label B) est restreinte, l’acheteur peut exiger au titre des spécifications techniques le label A et inscrire en critère d’attribution l’offre des fournisseurs en matériels disposant du label B
+-	Le contenu recyclé des matériels : exemple, x% de plastique recyclé.
+
+### C. Règlement de la consultation (RC)
+
+**Pondération des critères**
+
+<table class="fr-table fr-table--bordered">
+  <caption>Les critères de choix de l'offre économiquement la plus avantageuse, sont classés et pondérés de la manière suivante</caption>
+  <thead>
+  <tr>
+    <th colspan="2">Critères</th>
+  </tr>
+  <tr>
+    <th scope="col">Intitulé</th>
+    <th scope="col">Pondération</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Prix</td><td>…%</td>
+    </tr>
+    <tr>
+      <td>Valeur technique</td><td>…%</td>
+    </tr>
+    <tr>
+      <td>Performance en matière de l’environnement</td><td><a href="#performance-environnementale">10% minimum *</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="fr-highlight" id="performance-environnementale">
+
+`*` Nota bene : dans l’hypothèse où l’acheteur fixe un critère de performance environnementale, il est recommandé de définir un critère environnemental détaché de la valeur technique et de le  fixer à 10% minimum de la note totale d’attribution du marché afin que le critère puisse effectivement différencier les offres entre elles et valoriser les plus performantes en la matière. Pondéré à moins de 10%, le critère n’a pas d’impact sur les fournisseurs. [En savoir plus sur les critères sociaux et environnementaux](https://www.economie.gouv.fr/cedef/marches-publics-criteres-sociaux-environnementaux) (en accès restreint).
+
+</div>
+
+La performance en matière de protection de l’environnement est définie précisément selon les résultats du sourcing (le niveau de maturité de l’offre).
+
+Elle est analysée au regard des réponses des candidats au questionnaire « Performance en matière de protection de l'environnement » (cadre de réponse du mémoire environnemental joint par l’acheteur)  et le cas échéant, aux documentations remises auxquelles il est fait référence expressément.
+
+Le cadre de réponse du mémoire environnemental du candidat peut comporter deux types d’informations recherchées par l’acheteur :
+
+<div class="fr-highlight">
+
+Les réponses des candidats au critère environnemental et qui feront l’objet d’une notation ; les allégations des candidats doivent impérativement être étayées par des moyens de preuve fournis dans l’offre.
+
+</div>
+
+Les pratiques du candidat qui ne seront pas notées mais pour lesquelles l’acheteur souhaite des précisions : en application de la réglementation (ex : gestion des déchets) ou pour exécuter le marché (exemple : modalités de livraison, emballages, etc.). L’absence d’information ne conduira pas à l’irrégularité de l’offre, sauf dans le cas où la fourniture de ces informations constituerait une obligation réglementaire. La performance sociale de l’offre du candidat est également définie selon les informations issues du sourcing.
+
+En cas d’inscription d’une clause sociale d’insertion en tant que condition d’exécution des prestations, un critère d’attribution peut être défini sur un engagement supérieur du candidat (volume horaire dédié à l’action d’insertion supérieur aux exigences du marché) ou encore sur la qualité de l’action d’insertion. Les candidats peuvent être interrogés via un questionnaire, à adapter avec l’appui d’un facilitateur de la clause sociale d’insertion.
+
+L’acheteur peut également prévoir un cadre de réponse destiné à connaître les conditions sociales de travail tout au long des chaînes d’approvisionnement mobilisées dans le cadre du marché.
+
+Le dossier de consultation peut ainsi prévoir une annexe à l’acte d’engagement « performance en matière de développement durable » qui comprend :
+-	Un cadre de réponse « performance en matière de protection de l’environnement »
+-	Un cadre de réponse « Mémoire social du candidat – traçabilité sociale des chaînes d’approvisionnement ».
+
+<table class="fr-table fr-table--bordered">
+  <caption>Exemple d’annexe de performance en matière de développement durable : performance en matière de protection de l’environnement à adapter selon vos besoins</caption>
+  <thead>
+    <tr>
+      <th colspan="4">Performance en matière de protection de l'environnement</th>
+    </tr>
+    <tr>
+      <th scope="col">Questions</th>
+      <th scope="col">Type de réponse attendue</th>
+      <th scope="col">Réponse du candidat</th>
+      <th scope="col">Moyen de preuve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4">Conception</th>
+    </tr>
+    <tr>
+      <td>Quelles démarches environnementales sont mises en œuvre pour réduire les impacts environnementaux des procédés d’extraction minière auxquels leurs fournisseurs ont recours pour les métaux qui entrent dans la composition des matériels acquis dans le cadre du présent marché ?</td>
+      <td>Décrire</td>
+      <td></td>
+      <td>Non noté<br />Réponse facultative pour les candidats mais obligatoire pour les titulaires</td>
+    </tr>
+    <tr>
+      <td>Taux de plastique recyclé (rapporté au poids total du plastique contenu dans l’équipement)</td>
+      <td>%</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Produit écolabellisé</td>
+      <td>Oui / Non<br />Ecolabel associé</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Proportion de composants monomatériaux composant l’équipement</td>
+      <td>%<br />Lister les composants</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Proportion de matériels issus du reconditionnement</td>
+      <td>%<br />Lister les types de matériels concernés</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Performance énergétique</td>
+      <td></td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Autres caractéristiques environnementales</td>
+      <td></td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <th colspan="4">Emballages</th>
+    </tr>
+    <tr>
+      <td>Quelle est la nature des emballages utilisés pour la fourniture des produits objets du marché : recyclés, recyclables, monomatériaux, issus de forêts gérées durablement, exempts de substances toxiques, etc.</td>
+      <td>en %, préciser la caractéristique environnementale concernée (attestations des fournisseurs d’emballages)
+Fournir les justificatifs (certificats)</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <td>Avez-vous mis en place une démarche d'optimisation des emballages lors de la livraison des produits objets du marché ?</td>
+      <td>oui (fournir le justificatif) / non</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <th colspan="4">Transport</th>
+    </tr>
+  </tbody>
+</table>
