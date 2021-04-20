@@ -21,7 +21,7 @@ L’ACV recense et quantifie, tout au long de la vie des produits, les flux phys
 
 Qu’il s’agisse d’un bien, d’un service, voire d’un procédé, toutes les étapes du cycle de vie d’un produit sont prises en compte pour l’inventaire des flux, du « berceau à la tombe » : extraction des matières premières énergétiques et non énergétiques nécessaires à la fabrication et à l’assemblage du produit, la fabrication et l’assemblage du produit lui-même, distribution, utilisation, collecte et élimination vers les filières de fin de vie ainsi que toutes les phases de transport.
 
-![Schéma d'un cycle de vie](/img/guide-achats/schema_acv.png)
+![](/img/guide-achats/schema_acv.png)
  
 ## Une approche « multicritère »
 
