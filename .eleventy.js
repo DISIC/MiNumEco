@@ -76,7 +76,8 @@ module.exports = function(eleventyConfig) {
     "node_modules/@gouvfr/dsfr/dist/js/dsfr.nomodule.min.js": "js/dsfr.nomodule.min.js",
     "node_modules/@gouvfr/dsfr/dist/fonts": "fonts",
     "node_modules/@gouvfr/dsfr/dist/favicons": "favicons",
-    "CNAME": "CNAME"
+    "CNAME": "CNAME",
+    ".well-known/pki-validation/01a55d39-ad7f-4bd3-badc-bbf5f725da7b.txt": ".well-known/pki-validation/01a55d39-ad7f-4bd3-badc-bbf5f725da7b.txt"
   });
 
   /* Markdown Overrides */
