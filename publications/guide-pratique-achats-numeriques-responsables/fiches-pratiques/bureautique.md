@@ -679,3 +679,13 @@ Si autre organisation, préciser</td>
     </tr>
   </tbody>
 </table>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/labels/interministeriel/">La mission interministérielle Label</a>
+  </div>
+  
+  <div class="fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/impression/">Solutions d’impression</a>
+  </div>
+</div>
