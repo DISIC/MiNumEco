@@ -67,7 +67,16 @@ Et bien sûr, vous pourrez consulter des fiches opérationnelles par familles d�
 
 Enfin, dans une démarche qui se veut itérative, ce guide est publié en version beta, la version 1 du guide étant prévue pour le printemps 2021. 
 
-Ce guide est fait pour vous, par des acteurs qui restent ouverts aux processus d’amélioration continue. N’hésitez surtout pas à nous signaler tous axes d’amélioration. Nous essaierons de vous répondre dans des délais courts. Pour cela n’hésitez pas à nous écrire : numerique-responsable.dinum@modernisation.gouv.fr
+Ce guide est fait pour vous, par des acteurs qui restent ouverts aux processus d’amélioration continue.
+
+<div class="fr-highlight">
+
+N’hésitez surtout pas à nous signaler tous axes d’amélioration.
+ 
+<span class="fr-fi-mail-line" aria-hidden="true"></span> Nous contacter : `numerique-responsable.dinum@modernisation.gouv.fr`
+
+</div>
+
 
 ## Quelles sont les parties prenantes de ce guide ?
 
