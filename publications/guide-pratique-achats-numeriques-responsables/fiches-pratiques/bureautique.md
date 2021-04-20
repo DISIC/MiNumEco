@@ -24,6 +24,12 @@ eleventyNavigation:
         <li>
             <a class="fr-summary__link" href="#exemples">Des exemples de clauses utilisées à adapter en fonction de chaque projet d’achat</a>
         </li>
+        <li>
+            <a class="fr-summary__link" href="#exemple-annexe-performance-environnementale">Exemple d’annexe de performance en matière de développement durable : performance en matière de protection de l’environnement à adapter selon vos besoins</a>
+        </li>
+        <li>
+            <a class="fr-summary__link" href="#exemple-annexe-memoire-social">Exemple d’annexe de performance en matière de développement durable : cadre de réponse mémoire social à adapter selon vos besoins</a>
+        </li>
     </ol>
 </nav>
 
@@ -419,12 +425,11 @@ Le dossier de consultation peut ainsi prévoir une annexe à l’acte d’engage
 -	Un cadre de réponse « performance en matière de protection de l’environnement »
 -	Un cadre de réponse « Mémoire social du candidat – traçabilité sociale des chaînes d’approvisionnement ».
 
-<table class="fr-table fr-table--bordered">
-  <caption>Exemple d’annexe de performance en matière de développement durable : performance en matière de protection de l’environnement à adapter selon vos besoins</caption>
+<h2 id="exemple-annexe-performance-environnementale" tabindex="-1">Exemple d’annexe de performance en matière de développement durable : performance en matière de protection de l’environnement à adapter selon vos besoins</h2>
+
+<table class="fr-table fr-table--bordered" id="">
+  <caption>Performance en matière de protection de l'environnement</caption>
   <thead>
-    <tr>
-      <th colspan="4">Performance en matière de protection de l'environnement</th>
-    </tr>
     <tr>
       <th scope="col">Questions</th>
       <th scope="col">Type de réponse attendue</th>
@@ -496,6 +501,181 @@ Fournir les justificatifs (certificats)</td>
     </tr>
     <tr>
       <th colspan="4">Transport</th>
+    </tr>
+    <tr>
+      <td>Dans le cadre du transport des équipements et pièces détachées utilisés dans le cadre de l'exécution du marché, quelles démarches ont été adoptées en vue de limiter les transports : regroupement de commandes, optimisation des circuits de livraison, optimisation des taux de remplissage des moyens de livraison ?</td>
+      <td>Décrire et fournir les justificatifs, le cas échéant notamment les bilans de gaz à effet de serre des prestations de transport</td>
+      <td></td>
+      <td>Non noté</td>
+    </tr>
+    <tr>
+      <td>Quels modes de transport sont utilisés (maritime, fluvial, ferroviaire, routier, aérien, combiné) depuis les sites de fabrication des composants jusqu’aux sites d’assemblage et des sites d’assemblage jusqu’aux sites de livraison dans le cadre du marché ?</td>
+      <td>Décrire et fournir les justificatifs, le cas échéant. Réponse facultative pour les candidats mais obligatoire pour les titulaires</td>
+      <td></td>
+      <td>Non noté</td>
+    </tr>
+    <tr>
+      <td>Quelles sont les performances environnementales des flottes de livraison utilisées dans le cadre de l’exécution du marché ?</td>
+      <td>Décrire et fournir les justificatifs, le cas échéant</td>
+      <td></td>
+      <td>Non noté. Réponse facultative pour les candidats mais obligatoire pour les titulaires.</td>
+    </tr>
+    <tr>
+      <td>Les chauffeurs assurant la livraison des produits objets du marché ont-ils suivi une formation à l’éco-conduite ?</td>
+      <td>Oui / Non. Fournir justificatifs (attestations de formations)</td>
+      <td></td>
+      <td>Noté</td>
+    </tr>
+    <tr>
+      <th colspan="4">Fin de vie des produits</th>
+    </tr>
+    <tr>
+      <td>Le producteur a-t-il adhéré à un éco-organisme agréé dans les conditions définies aux articles R.543-189 et R.543-190 du code de l’environnement ? Si oui le candidat précisera le nom de l’éco-organisme et décrira les conditions de collecte et de traitement des équipements envisagées ou déjà effectives au sein de l’éco-organisme.<br /><br />
+      Pour le cas où le candidat n’est pas producteur, en application de l'article R543-203 du code de l'environnement, les acquéreurs d'équipements électriques et électroniques professionnels peuvent demander à leurs fournisseurs de leur communiquer les documents établissant que les producteurs remplissent pour ces équipements l'ensemble des obligations qui leur incombent.</td>
+      <td>oui / non (si oui préciser et joindre un justificatif)</td>
+      <td></td>
+      <td>Non noté mais obligatoire en application de la réglementation</td>
+    </tr>
+    <tr>
+      <td>Le producteur a-t-il mis en place un système individuel approuvé dans les conditions définies aux articles R.543-191 et R.543-192 du code de l’environnement ? Si oui, le candidat en décrira les conditions et les modalités de mise en œuvre.<br /><br />
+      Pour le cas où le candidat n’est pas producteur, en application de l'article R543-203 du code de l'environnement, les acquéreurs d'équipements électriques et électroniques professionnels peuvent demander à leurs fournisseurs de leur communiquer les documents établissant que les producteurs remplissent pour ces équipements l'ensemble des obligations qui leur incombent.</td>
+      <td>oui / non (si oui préciser et joindre un justificatif)</td>
+      <td></td>
+      <td>Non noté mais obligatoire en application de la réglementation</td>
+    </tr>
+    <tr>
+      <th colspan="4">Autre</th>
+    </tr>
+    <tr>
+      <td>Quelle(s) autre(s) disposition(s) environnementale(s) est/sont adoptée(s) par le candidat ou ses fournisseurs, pour les produits et prestations objets du marché, supérieures aux exigences du cahier des charges et complémentaires à celles décrites ci-dessus ?</td>
+      <td>Préciser et joindre un justificatif, le cas échéant</td>
+      <td></td>
+      <td>Non noté ou noté si l’acheteur cible une performance en particulier</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="exemple-annexe-memoire-social" tabindex="-1">Exemple d’annexe de performance en matière de développement durable : cadre de réponse mémoire social à adapter selon vos besoins</h2>
+
+Les candidats sont invités à renseigner le questionnaire ci-dessous.
+
+Les éléments de réponse apportés doivent être clairs, fiables, transparents et documentés.
+
+L'attention des candidats est attirée sur le caractère informatif des réponses mentionnées dans ce document. En cas d’attribution du marché, ce document devient contractuel. 
+
+Les candidats dont les produits comportent un label de performance sociale (TCO certified, SA 8000 ou label équivalent)  doivent  préciser dans la rubrique "moyen  de preuve associé" le label correspondant.
+
+Hiérarchie des moyens de preuve:
+1. Labels (ex: TCO certified), certifications (ex: SA 8000), attestation d'organismes tierces et indépendants, initiatives multipartites,
+2. Plan de vigilance et rapport de suivi de sa mise en œuvre (pour les entreprises ciblées par la loi sur le devoir de vigilance), rapport d'audit interne, déclaration des fabricants, codes de conduite
+
+Ces moyens de preuve doivent pouvoir attester de la conformité des conditions sociales de travail, tout au long de la chaîne de production, avec les standards internationaux en matière de respect des droits de l’Homme au travail.
+
+<table class="fr-table fr-table--bordered" id="">
+  <caption>Mémoire social du candidat – traçabilite sociale des chaînes d’approvisionnement</caption>
+  <thead>
+    <tr>
+      <th scope="col">Thème</th>
+      <th scope="col">Type de réponse attendue</th>
+      <th scope="col">Réponse du candidat</th>
+      <th scope="col">Moyen de preuve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4">Description de la chaîne de production et d'approvisionnement</th>
+    </tr>
+    <tr>
+      <td>Lieux géographiques des sites d'extraction minière Si plusieurs sites, en préciser le nombre et les différentes implantations géographiques</td>
+      <td>Lister</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Le candidat peut-il garantir que les minerais ne sont pas issus de zones de conflit ? Si non, quelle solution le soumissionnaire prévoit-il d'adopter ?</td>
+      <td>oui (fournir le justificatif) / non<br />Décrire</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lieux géographiques de fabrication des composants informatiques. Si plusieurs lieux géographiques, les préciser</td>
+      <td>Lister</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <td>Lieux géographiques d'assemblage des matériels informatiques. Si plusieurs lieux géographiques, les préciser</td>
+      <td>Lister</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <td>Lieux géographiques des autres stades de la chaîne de production. Si plusieurs lieux géographiques, les préciser</td>
+      <td>Lister</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <td>Nombre de fournisseurs pour une même chaîne d'approvisionnement (depuis la fabrication jusqu'à la livraison au soumissionnaire)</td>
+      <td>Préciser</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <td>Qualité (nature des activités) et nombre des fournisseurs de rang 1 (fournisseurs directs)</td>
+      <td>Préciser</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <td>Qualité (nature des activités) et nombre des fournisseurs de rangs 2, 3 etc. (fournisseurs de fournisseurs)</td>
+      <td>Préciser</td>
+      <td></td>
+      <td>Pas de moyen de preuve à fournir</td>
+    </tr>
+    <tr>
+      <th colspan="4">Formalisation d'une démarche de responsabilité sociale du soumissionnaire</th>
+    </tr>
+    <tr>
+      <td>Le soumissionnaire est-il soumis aux obligations de la loi relative au devoir de vigilance des sociétés mères et des entreprises donneuses d'ordre (loi n°2017-399 du 27 mars 2017) ?</td>
+      <td>Oui / non</td>
+      <td></td>
+      <td>Si oui, communiquer le plan de vigilance adopté (ou indiquer le lien pour le télécharger) et le rapport de suivi de sa mise en œuvre</td>
+    </tr>
+    <tr>
+      <th colspan="4">Pour les opérateurs économiques non soumis à la loi sur le devoir de vigilance</th>
+    </tr>
+    <tr>
+      <td>Le soumissionnaire est-il membre d'une initiative multipartite ou d'une organisation engagée en faveur du respect des droits humains fondamentaux au travail ?</td>
+      <td>Oui / non</td>
+      <td></td>
+      <td>Si oui préciser la dénomination de l'initiative multipartites, son objet et fournir un justificatif.
+Si autre organisation, préciser</td>
+    </tr>
+    <tr>
+      <td>Le soumissionnaire a-t-il défini et formalisé sa propre stratégie en matière de responsabilité sociale  et sociétale en direction de ses fournisseurs ?<br /><br />Si oui, la décrire<br />
+      Préciser si un système de traçabilité et de contrôle de sa chaîne d'approvisionnement et/ou  de celle de ses fournisseurs est déployé ?<br />
+      Préciser  les actions éventuelles  en faveur de délais de livraison et de cadences de travail dans les usines de fabrication compatibles avec des conditions sociales de travail décentes<br /><br />
+      Si non, cette stratégie est-elle en cours de définition/validation ?</td>
+      <td>Oui (fournir le justificatif) / non. Si oui, décrire</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>En cas de constatation de cas de violations des conventions fondamentales relatives aux droits humains au travail, le soumissionnaire engage-t-il un plan d'actions correctives ?<br /><br />
+      Si oui, le soumissionnaire peut-il donner des illustrations ?<br />
+      Si non, cette démarche est-elle en cours de définition/validation ?</td>
+      <td>Décrire</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Le soumissionnaire a-t-il mis en place un système de vérification externe ou interne des conditions sociales de travail dans ses chaînes d'approvisionnement et dans celles de ses fournisseurs ?<br /><br />
+      Si oui, décrire le système de vérification : nature  de l'organisme qui conduit les vérifications ou l'audit, nature des sites ciblés par la vérification, nature des éléments vérifiés, fréquence des vérifications, nature des documents produits après les vérifications, etc…<br />
+      Le soumissionnaire précisera en quoi le système de traçabilité mis en place peut-il être considéré comme transparent et indépendant</td>
+      <td>Décrire</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
