@@ -52,7 +52,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
 ## Contribuer
 
-<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="#">Participer à la consultation publique</a>
+<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation">Participer à la consultation publique</a>
 
 ## Consulter
 

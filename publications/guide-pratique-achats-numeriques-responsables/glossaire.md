@@ -1,15 +1,37 @@
 ---
 layout: layouts/guide-achats.njk
-title: Glossaire
-description: Glossaire du Guide pour des achats numériques responsables
-date: 2021-05-15
+title: Webo-bibliographie et glossaire
+description: Webo-bibliographie et glossaire du Guide pour des achats numériques responsables
+date: 2021-04-29
 tags: guideachat
 eleventyNavigation:
   key: guideachat-glossaire
   parent: guideachat
-  title: Glossaire
+  title: Webo-bibliographie et glossaire
   order: 90
 ---
+
+## Webo-bibliographie
+
+-	[Guide de l’achat public  - Le sourcing opérationnel](https://www.economie.gouv.fr/files/files/directions_services/dae/doc/Guide_sourcing.pdf), DAE, mars 2009
+-	[iNUM : impacts environnementaux du numérique en France](https://www.greenit.fr/wp-content/uploads/2020/06/2020-06-iNum-etude-impacts-numerique-France-rapport.pdf), juin 2020 
+-	[Les huit conventions fondamentales de l’Organisation internationale du travail](https://libguides.ilo.org/c.php?g=662945&p=4687231)
+-	[Bibliographie Numérique Responsable de l’INR](https://institutnr.org/bibliographie-nr)
+-	[Qu'est-ce que l'ACV ?](https://www.ademe.fr/expertises/consommer-autrement/passer-a-laction/dossier/lanalyse-cycle-vie/quest-lacv), ADEME
+-	[Approche en coût du cycle de vie » du Groupe d'étude des marchés du développement durable et de l'environnement](https://www.economie.gouv.fr/daj/cout-cycle-vie-consultation), GEM-DD - OECP
+-	[Les labels environnementaux](https://www.ademe.fr/labels-environnementaux), ADEME
+-	[L’écolabel européen](https://www.ademe.fr/expertises/consommer-autrement/passer-a-laction/reconnaitre-produit-plus-respectueux-lenvironnement/dossier/lecolabel-europeen-logos-publics/lecolabel-europeen-ecolabel-connu-reconnu-france), ADEME
+-	[Ecoconso](https://www.ecoconso.be/)
+-	[Le réemploi et la réutilisation](https://www.ademe.fr/expertises/dechets/passer-a-laction/eviter-production-dechets/reemploi-reutilisation), ADEME
+-	[Déchets d’équipements électriques et électroniques](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques)
+- [ESAT, établissements ou services d’aide par le travail](https://travail-emploi.gouv.fr/droit-du-travail/handicap-et-travail/article/esat-etablissements-ou-services-d-aide-par-le-travail)
+- [Achats responsables, Textes de référence](https://dae.alize.finances.rie.gouv.fr/sites/sae/accueil/performance-des-achats/9tb9_asr_achats-responsables/9tb9_asr_textes-de-reference.html) (accès restreint aux agents publics)
+-	[Présentation de l’indice de réparabilité](https://www.ecologie.gouv.fr/indice-reparabilite), Ministère de la transition écologique
+-	[Décret no 2020-1757 du 29 décembre 2020 relatif à l’indice de réparabilité des équipements électriques et électroniques](https://www.legifrance.gouv.fr/download/pdf?id=3EW2asQgntsWrcVjAJncs9oSRuAdkFvSJtWKJebKU24)
+-	[Arrêté du 29 décembre 2020 relatif aux modalités d’affichage, à la signalétique et aux paramètres généraux de calcul de l’indice de réparabilité](https://www.legifrance.gouv.fr/download/pdf?id=3EW2asQgntsWrcVjAJncs3m5ifQeOmNVXdsTzHrVmHE)
+-	[Arrêté du 29 décembre 2020 relatif aux critères, aux sous-critères et au système de notation pour le calcul et l’affichage de l’indice de réparabilité des ordinateurs portables](https://www.legifrance.gouv.fr/download/pdf?id=3EW2asQgntsWrcVjAJncs70UFZ53yBqzAI9F_kpVCx8)
+
+## Glossaire
 
 - **Accessibilité numérique** : consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles, c'est à dire 100% conformes au RGAA, le Référentiel Général d’Amélioration de l’Accessibilité. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
 - **ACV** : L'analyse du cycle de vie (ACV) est une méthode d'évaluation normalisée (ISO 14040 et 14044) permettant de réaliser un bilan environnemental multi-critères et multi-étapes d'un système (produit, service, entreprise ou procédé) sur l'ensemble de son cycle de vie.
@@ -60,6 +82,6 @@ Sources : Wikipédia, Site de l’ADEME, Site du Ministère de la Transition Eco
   </div>
   
   <div class="fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/bibliographie/">Webo-bibliographie</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/equipe-projet/">Équipe projet</a>
   </div>
 </div>

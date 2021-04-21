@@ -1,7 +1,7 @@
 ---
 layout: layouts/guide-achats.njk
-title: La mission interministérielle Label
-date: 2021-05-15
+title: La mission interministérielle LABEL
+date: 2021-04-29
 eleventyNavigation:
   key: guideachat-labels-interministeriel
   parent: guideachat-labels
@@ -11,7 +11,7 @@ eleventyNavigation:
 
 La DINUM pilote le programme interministériel d’accélération de la transformation numérique du service public TECH.GOUV avec l’appui de tous les ministères. Ce programme est axé autour de 6 enjeux prioritaires : simplification – inclusion – attractivité – maîtrise – économies – alliances. Il se décline en un plan d’actions sur trois ans.
 
-Au sein de TECH.GOUV, la mission « LABEL » a pour but de :
+**Au sein de TECH.GOUV, la mission « LABEL » a pour but de :**
 -	favoriser la création de services publics numériques utilisant les meilleurs logiciels et services numériques disponibles, sous licence propriétaire ou libre, créés par des administrations, des collectivités territoriales ou des acteurs privés ;
 -	rapprocher le secteur public de l’écosystème numérique.
 
@@ -21,7 +21,7 @@ Les nombreux logiciels et services numériques achetés ou développés en inter
 
 Une progression de la qualité et de l’innovation des produits mis à disposition du secteur public est attendue à terme.
 
-Pour répondre à ces besoins, la mission « LABEL » :
+**Pour répondre à ces besoins, la mission « LABEL » :**
 -	met en place une dynamique d’évaluation (auto labellisation / labellisation) à l’attention des éditeurs et administrations centrales/territoriales qui le souhaitent ;
 -	établit le cadre d’évaluation technique des solutions, en liaison avec les experts des différents domaines (CNIL, INR, DAE, DAJ, CNLL…), les DNUM / DSI publics et les acteurs du numérique. Cette grille vise également à faciliter pour les porteurs de projets publics, l’identification des solutions de qualité pouvant répondre à leurs besoins ; 
 -	définit la méthode de labellisation en veillant à sa conformité réglementaire (procédure, contrôle…) et à son adéquation à l’offre du marché ;

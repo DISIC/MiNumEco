@@ -136,6 +136,7 @@ Pour plus d’information sur la méthode de conduite des entretiens de sourcing
 
 </div>
 
+
 Deux catégories de fournisseurs doivent a minima être sollicités : les constructeurs de matériels et les distributeurs.
 
 Ce paragraphe présente de manière synthétique les exemples de questions à poser lors de ces échanges préalables :
@@ -228,7 +229,7 @@ Nota bene : ce sourcing spécifique aux achats responsables doit être conduit d
 
 ## Acheter ou louer ?
 
-L’acheteur doit se poser la question du mode d’approvisionnement le plus adapté à son besoin et ses contraintes : l’achat ou la location. Le recours à la location peut permettre une optimisation financière dans un contexte de renouvellement rapide des matériels et de contrainte budgétaire. Les formules " tout en un " regroupant l’achat du matériel, les services et le financement sont privilégiés par les acteurs du secteur privé. En matière d’environnement, la location peut avoir un impact favorable en s’inscrivant dans une démarche d’économie de la fonctionnalité (achat de l’usage plutôt que du bien).
+L’acheteur doit se poser la question du mode d’approvisionnement le plus adapté à son besoin et ses contraintes : l’achat ou la location. Le recours à la location peut permettre une optimisation financière dans un contexte de renouvellement rapide des matériels et de contrainte budgétaire. Les formules "tout en un" regroupant l’achat du matériel, les services et le financement sont privilégiés par les acteurs du secteur privé. En matière d’environnement, la location peut avoir un impact favorable en s’inscrivant dans une démarche d’économie de la fonctionnalité (achat de l’usage plutôt que du bien).
 
 Le recours au modèle locatif n’est pertinent qu’en cas de politique de renouvellement des matériels relativement courte (3 ans maximum).
 

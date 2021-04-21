@@ -1,7 +1,7 @@
 ---
 layout: layouts/guide-achats.njk
 title: Équipe projet
-date: 2021-05-15
+date: 2021-04-29
 tags: guideachat
 eleventyNavigation:
   key: equipe
@@ -23,3 +23,5 @@ eleventyNavigation:
 <span class="fr-fi-mail-line" aria-hidden="true"></span> Nous contacter : `numerique-responsable.dinum@modernisation.gouv.fr`
 
 </div>
+
+<a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/glossaire/">Webo-bibliographie et glossaire</a>
