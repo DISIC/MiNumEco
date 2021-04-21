@@ -15,3 +15,7 @@
 .text-align--center {
   text-align: center !important;
 }
+
+h2 {
+  color: #000091;
+}

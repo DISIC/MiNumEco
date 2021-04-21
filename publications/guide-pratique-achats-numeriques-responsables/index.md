@@ -48,7 +48,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
 ## Télécharger
 
-<a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" target="_self" href="#">Télécharger le Guide pratique pour des achats numériques responsables (PDF, X Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="#">Télécharger le Guide pratique pour des achats numériques responsables (PDF, X Mo)</a>
 
 ## Contribuer
 
