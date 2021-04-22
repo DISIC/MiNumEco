@@ -1,14 +1,14 @@
 ---
 layout: layouts/post.njk
 title: Accessibilité
-date: 2021-04-25
+date: 2021-04-14
 link: /mentions-legales/
 linkTitle: Mentions légales
 ---
 
 ## Déclaration d’accessibilité
 
-Le site `ecoresponsable.numerique.gouv.fr` est développé selon les recommendations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
+Le site `ecoresponsable.numerique.gouv.fr` est développé selon les recommandations de la charte graphique de l'État, le système de design de l'État et du référentiel général d’amélioration de l’accessibilité (RGAA) pour être accessible à tous les usagers quel que soit le matériel ou le logiciel utilisé pour naviguer sur internet.
 
 ## État de conformité
 
