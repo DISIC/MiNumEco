@@ -11,7 +11,23 @@ eleventyNavigation:
   order: 1
 ---
 
-## Préface
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <p class="fr-summary__title" id="fr-summary-title">Sommaire</p>
+    <ol class="fr-summary__list">
+        <li>
+            <a class="fr-summary__link" href="#preface">Préface</a>
+        </li>
+        <li>
+            <a class="fr-summary__link" href="#a-qui-sadresse-ce-guide">À qui s’adresse ce guide ?</a>
+        </li>
+        <li>
+            <a class="fr-summary__link" href="#parties-prenantes">Quelles sont les parties prenantes de ce guide ?</a>
+        </li>
+    </ol>
+</nav>
+
+
+<h2 id="preface">Préface</h2>
 
 Le début du XXIe siècle a été marqué par l’explosion de l’utilisation des Technologies de l’Information et de la Communication (TIC), souvent résumées par « numérique ». Ces technologies occupent aujourd’hui une place prépondérante et incontournable dans notre vie quotidienne. Leur apport est également incontestable à l’égard de notre économie. Durant la pandémie Covid-19, le numérique a permis à une partie de la population de continuer à travailler et aux enfants de suivre l’école à distance.
 
@@ -47,7 +63,8 @@ Ces nombreuses constatations rendent indispensable d’agir en développant une 
 
 La commande publique est unanimement reconnue comme un moyen efficace pour soutenir les politiques publiques dans les domaines social et environnemental. Outre l’impact environnemental immédiat, c’est un levier significatif pour montrer l’exemple et dynamiser un secteur économique vertueux et durable.
 
-## À qui s’adresse ce guide ?
+
+<h2 id="a-qui-sadresse-ce-guide">À qui s’adresse ce guide ?</h2>
 
 Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’État. Il a été construit avec eux.
 
@@ -78,7 +95,7 @@ N’hésitez surtout pas à nous signaler tous axes d’amélioration.
 </div>
 
 
-## Quelles sont les parties prenantes de ce guide ?
+<h2 id="parties-prenantes">Quelles sont les parties prenantes de ce guide ?</h2>
 
 Les parties prenantes sont des acteurs et les contributeurs de la mission interministérielle « Green Tech » du programme - lui aussi - interministériel TECH.GOUV, porté par la Direction Interministérielle du Numérique.
 
@@ -144,7 +161,7 @@ Concernant les achats, Pôle Emploi, établissement public administratif, appliq
 
 Sa DSI est à l’origine de plusieurs initiatives engagées comme la généralisation du label environnemental EPEAT, l’inclusion de clauses sociales dans des marchés de prestations intellectuelles en informatique, l’exigence de clauses d’accessibilité dans les développements et tout récemment avec la publication d’un marché RSE.
 
-### HOP Halte à l’Obsolescence programmée
+### HOP! Halte à l’Obsolescence programmée
 
 Forte d’une communauté de plus de 40 000 personnes, l’association HOP Halte à l’obsolescence programmée, fondée en 2015, milite pour l’allongement de la durée de vie des produits. Elle a pour objectif de fédérer les citoyens pour influencer les décideurs publics et les industriels afin d’aller vers des produits durables et réparables, en France et en Europe. Ainsi, fin novembre 2020, HOP a notamment publié un livre blanc qui détaille 20 axes de travail et propositions pour améliorer la durabilité des produits au niveau européen. 
 

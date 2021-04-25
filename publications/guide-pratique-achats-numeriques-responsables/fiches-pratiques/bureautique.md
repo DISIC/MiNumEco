@@ -358,6 +358,7 @@ Les informations sur le dispositif : [La clause sociale de formation sous statut
 
 </div>
 
+
 ### B. Cahier des clauses techniques particulières (CCTP)
 
 Selon les informations collectées dans la phase de sourcing, le CCTP peut intégrer des spécifications environnementales au titre des spécifications techniques des matériels.
@@ -377,9 +378,6 @@ Ces spécifications peuvent ainsi porter sur :
 <table class="fr-table fr-table--bordered">
   <caption>Les critères de choix de l'offre économiquement la plus avantageuse, sont classés et pondérés de la manière suivante</caption>
   <thead>
-  <tr>
-    <th colspan="2">Critères</th>
-  </tr>
   <tr>
     <th scope="col">Intitulé</th>
     <th scope="col">Pondération</th>
