@@ -34,7 +34,7 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 
 ## Informations
 
-**Conception et rédaction** : Direction des Achats de l’État (DAE), Institut du Numérique Responsable (INR), Ministère de la Transition Ecologique (MTE), Direction interministérielle du numérique (DINUM), DSI de Pôle emploi, Informatique CDC, filiale de la Caisse des Dépôts.
+**Conception et rédaction** : Direction des Achats de l’État (DAE), Institut du Numérique Responsable (INR), Ministère de la Transition écologique (MTE), Direction interministérielle du numérique (DINUM), DSI de Pôle emploi, Informatique CDC, filiale de la Caisse des Dépôts.
 
 **Relecteurs** : Ministère de la Transition Ecologique (CGDD – DAF- SNUM), DITP, UGAP, ADEME, EcoInfo – CNRS, HOP Halte à l’Obsolescence Programmée, Banque de France, Crédit Agricole - GIP, Airbus, ADEO
 

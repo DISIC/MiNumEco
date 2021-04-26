@@ -53,7 +53,7 @@ Les administrations, les collectivités territoriales, les agents, tout un écos
 
 Cette vague porteuse de sens, de valeurs, et d’innovations participe à la cohésion des équipes qui se tournent vers des objectifs communs alliant aspirations professionnelles et citoyennes. Des dispositions réglementaires récentes, notamment la loi relative à la lutte contre le gaspillage et à l’économie circulaire, confortent cela. 
 
-En parallèle, est menée une mission interministérielle « Green Tech » co-pilotée par la Direction Interministérielle du Numérique (DINUM) et le Ministère de la Transition Ecologique. Elle s’inscrit dans la feuille de route gouvernementale « Numérique et Environnement ». Elle associe pour ces différents travaux les ministères et l’écosystème du numérique responsable.
+En parallèle, est menée une mission interministérielle « Green Tech » co-pilotée par la direction interministérielle du numérique (DINUM) et le Ministère de la Transition Ecologique. Elle s’inscrit dans la feuille de route gouvernementale « Numérique et Environnement ». Elle associe pour ces différents travaux les ministères et l’écosystème du numérique responsable.
 
 Un effort de prise en compte des décrets est opéré en continu, afin de vous partager un  guide sur l’achat numérique responsable qui soit le plus pragmatique, actuel et opérationnel possible. C’est pourquoi ce guide est développé et construit avec une volonté d’itérations continues et de nouvelles versions seront régulièrement mises à jour.
 
@@ -97,7 +97,7 @@ N’hésitez surtout pas à nous signaler tous axes d’amélioration.
 
 <h2 id="parties-prenantes">Quelles sont les parties prenantes de ce guide ?</h2>
 
-Les parties prenantes sont des acteurs et les contributeurs de la mission interministérielle « Green Tech » du programme - lui aussi - interministériel TECH.GOUV, porté par la Direction Interministérielle du Numérique.
+Les parties prenantes sont des acteurs et les contributeurs de la mission interministérielle « Green Tech » du programme - lui aussi - interministériel TECH.GOUV, porté par la direction interministérielle du numérique.
 
 Historiquement, le département Informatique Caisse Des Dépôts est à l’origine d’une première version proposée aux membres du Club Green IT. Ces membres créent en 2018  l’Institut du Numérique Responsable, et enrichissent ce guide de leurs expertises, dans l’objectif d’en faire un outil gratuit accessible à tous les acheteurs, avec des contributions plus spécifiques de la DSI de Pôle emploi et d’Airbus, allant jusqu’à en faire une traduction en anglais afin de couvrir les besoins du groupe à l’international. Une version a été ensuite proposée à la Direction des achats de l’État et la DINUM. C’est tout naturellement que les parties prenantes, alignées sur les mêmes valeurs de partage, se sont organisées pour produire un livrable en commun.
 
@@ -111,13 +111,17 @@ Association loi 1901 à but non lucratif créée en 2018, l’INR a pour objet d
 
 L’INR est un acteur qui fédère et rassemble entreprises et organisations autour de l’expérimentation et la promotion de bonnes pratiques pour un numérique plus régénérateur, inclusif et éthique. L’objectif étant de produire des communs avec le plus large consensus.
 
-### La Direction interministérielle du numérique (DINUM)
+### La direction interministérielle du numérique (DINUM)
 
-Elle oriente, anime, soutient et coordonne les actions des administrations de l’État visant à améliorer la qualité, l’efficacité, l’efficience et la fiabilité des services rendus par le système d’information et de communication de l’État. Elle conseille le Premier ministre et les ministres compétents sur la prise en compte du numérique dans les politiques publiques mises en œuvre par les ministères.
+La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent, sous tous ses aspects : modernisation du système d’information de l’État, qualité des services publics numériques, création de services innovants pour les citoyens, outils numériques de travail collaboratif pour les agents…
 
-Dans le cadre de la mission interministérielle « Green Tech », du programme TECH.GOUV, la DINUM est engagée auprès des ministères pour permettre aux administrations de s’inscrire durablement dans les démarches pour un numérique responsable notamment promouvoir un achat numérique responsable.
+Depuis 2019, elle pilote, avec l’appui des ministères, le programme TECH.GOUV d’accélération de la transformation numérique du service public.
 
-Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public. Cette stratégie répond à six enjeux — simplification, inclusion, attractivité, maîtrise, économies, alliances — qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs. 
+Ce programme répond à six enjeux — simplification, inclusion, attractivité, maîtrise, économies, alliances — qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
+
+Dans le cadre de ce programme, la DINUM a mis en place une mission interministérielle « Green Tech » : à travers elle, elle est engagée auprès des ministères pour permettre aux administrations de s’inscrire durablement dans les démarches pour un numérique responsable, notamment promouvoir un achat numérique responsable.
+
+La DINUM est un service du Premier ministre, placé sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
 
 ### La Direction des Achats de l’État
 
@@ -131,7 +135,7 @@ Ses principales missions sont les suivantes :
 * Animer la gouvernance interministérielle des achats de l’État et la décliner en région en s’appuyant sur le réseau des plateformes régionales des achats de l’État (PFRA) placées sous l’autorité des préfets de région ; 
 * Conduire les marchés publics interministériels ou en confier la gestion à un autre service de l’État ou une centrale d’achat publique et s’assurer de la bonne exécution de ces marchés ; Développer la professionnalisation de la fonction achat, conseiller les services de l’État et les EP pour leurs stratégies d’achat ainsi que pour l’organisation et l’efficience de leur fonction d’achat.
 
-### Le Ministère de la Transition Écologique
+### Le Ministère de la Transition écologique
 
 #### Commissariat général au développement durable (CGDD)
 

@@ -26,7 +26,7 @@ Le label NR a été conçu pour être accessible à tout type d’organisations 
 
 ## Un référentiel construit par des experts du Numérique Responsable
 
-Construit en 2019 par l’Institut du Numérique Responsable en partenariat avec le Ministère de la Transition Écologique, l’ADEME, la FING et WWF.
+Construit en 2019 par l’Institut du Numérique Responsable en partenariat avec le Ministère de la Transition écologique, l’ADEME, la FING et WWF.
 
 ## Le référentiel
 

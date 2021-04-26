@@ -7,7 +7,7 @@ linkTitle: À propos de la mission
 
 ## Éditeur
 
-Le site `ecoresponsable.numerique.gouv.fr` est édité par la mission Pi3 Green Tech au sein de la Direction interministérielle du numérique (DINUM).
+Le site `ecoresponsable.numerique.gouv.fr` est édité par la mission Pi3 Green Tech au sein de la direction interministérielle du numérique (DINUM).
 
 Coordonnées :
 Adresse : DINUM, 20 avenue de Ségur, 75007 Paris
