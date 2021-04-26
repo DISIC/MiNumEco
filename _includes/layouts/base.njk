@@ -165,6 +165,9 @@
                         <a class="fr-footer__bottom-link" href="/mentions-legales/">Mentions légales</a>
                     </li>
                     <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/données-personnelles/">Données personnelles et cookies</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
                         <a class="fr-footer__bottom-link" href="{{ metadata.feed.path | url }}">Flux XML</a>
                     </li>
                     <li class="fr-footer__bottom-item">
@@ -220,11 +223,10 @@
     <script src="/js/dsfr.module.min.js"></script>
     <script src="/js/smarttag.js"></script>
     <script>
-    var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
-    //tag.privacy.setVisitorOptout();
-    tag.privacy.setVisitorMode('cnil', 'exempt');
-    tag.page.set({ name: "{{ seoTitle or title or metadata.title }}" });
-    tag.dispatch();
+        var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
+        tag.privacy.setVisitorMode('cnil', 'exempt');
+        tag.page.set({ name: "{{ seoTitle or title or metadata.title }}" });
+        tag.dispatch();
     </script>
   </body>
 </html>
