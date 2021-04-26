@@ -9,34 +9,34 @@ eleventyNavigation:
   order: 20
 ---
 
-Le numérique représente aujourd'hui 4% des émissions de gaz à effets de serre mondiales. De plus, [le numérique est un secteur loin d’être dématérialisé car très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
+Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effets de serre. De plus, [le numérique est un secteur loin d’être dématérialisé. En effet, il est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
 
-## La mission « Green Tech », numérique écoresponsable
+## La mission « Green Tech » : numérique écoresponsable
 
-Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné ».
+Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
-La commande publique est unanimement reconnue comme un moyen efficace pour soutenir les politiques publiques dans les domaines social et environnemental. Outre l’impact environnemental immédiat, c’est un levier significatif pour montrer l’exemple et dynamiser un secteur économique vertueux et durable.
+La commande publique est reconnue comme un moyen efficace pour soutenir les politiques publiques dans les domaines social et environnemental. Outre l’impact environnemental immédiat, il s'agit d'un levier significatif pour montrer l’exemple et ainsi dynamiser un secteur économique plus vertueux et durable.
 
-C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environnemental du numérique de l'administration publique sont inscrits dans le [programme Tech.Gouv](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (Pi3 Green Tech), avec un pilotage par la direction interministérielle du numérique (DINUM) et le Ministère de la Transition écologique.
+C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environnemental du numérique de l'administration publique sont inscrits dans le [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (Pi3 Green Tech). Le pilotage de cette mission est confié au Ministère de la Transition écologique et à la direction interministérielle du numérique.
 
-Cette mission s’inscrit dans l'axe « Réduire l’empreinte environnementale du numérique » sur le périmètre de l'administration publique dans la [feuille de route gouvernementale « Numérique et environnement »](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route).
+Cette mission s’inscrit dans la [feuille de route gouvernementale « Numérique et environnement »](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route) publiée le 23 février 2021. Il s'agit de l'axe « Réduire l’empreinte environnementale du numérique » sur le périmètre de l'administration publique.
 
 <h3 class="fr-fi-arrow-right-line fr-link--icon-left">Les principaux objectifs</h3>
 
-Animée par les contribution des correspondants auprès de tous les ministères et des agences comme l'ADEME, la mission a pour objectifs :
+Animée par les contributions des correspondants ministériels sur le sujet, celles et ceux des agences comme l'ADEME, la mission a pour objectifs de :
 
 - Mesurer l'empreinte du numérique du service public.
 - Identifier les bonnes pratiques et les axes d'amélioration.
 - Identifier ou créer les méthodologies et outils à déployer au sein de l'administration centrale ou dans les collectivités territoriales.
-- Définir des objectifs et des engagments.
+- Définir des objectifs et des engagements.
 
 <h3 class="fr-fi-arrow-right-line fr-link--icon-left">Publications</h3>
 
 Deux publications de cette mission sont inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
-- [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
-- Référentiel de bonnes pratiques numériques responsables (prévu en version bêta en juin 2021).
+- Le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
+- Le Référentiel de bonnes pratiques numériques responsables (prévu en version bêta en juin 2021).
 
-La mission ne s'arrête pas à ces deux livrables. De nombreux chantiers sont en cours dans ces différentes thématiques : 
+Le périmètre de la mission ne s'arrête pas à ces deux livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes :
 - Mesure ;
 - Achats numériques responsables ;
 - Ecoconception de services numériques ;
@@ -44,7 +44,7 @@ La mission ne s'arrête pas à ces deux livrables. De nombreux chantiers sont en
 - Sensibilisation et réglementation ;
 - Outillage.
 
-Si vous êtes une administration, une direction ou une collectivité territoriale et souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
+Si vous êtes une administration, une direction ou une collectivité territoriale et que vous souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
 
 ## Les pilotes
 
