@@ -30,9 +30,6 @@ Nous sommes ainsi en conformité avec la [réglementation de la CNIL](https://ww
     <tr>
       <td>AT Internet</td><td>atauthority</td><td>Permet de garder en mémoire le mode privacy visiteur (si vous avez expressément refusé que votre navigation soit suivie)</td><td>13 mois</td>
     </tr>
-    <tr>
-      <td>AT Internet</td><td>atid</td><td>Permet de mesurer l’audience du site via AT Internet</td><td>13 mois</td>
-    </tr>
   </tbody>
 </table>
 
@@ -60,7 +57,7 @@ function submitOptout()
     
     tag.dispatch();
 
-    window.reload();
+    location.reload();
 
     return false;
 }
