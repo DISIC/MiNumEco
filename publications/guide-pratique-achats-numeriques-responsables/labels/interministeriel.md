@@ -22,15 +22,14 @@ Les nombreux logiciels et services numériques achetés ou développés en inter
 Une progression de la qualité et de l’innovation des produits mis à disposition du secteur public est attendue à terme.
 
 **Pour répondre à ces besoins, la mission « LABEL » :**
--	met en place une dynamique d’évaluation (auto labellisation / labellisation) à l’attention des éditeurs et administrations centrales/territoriales qui le souhaitent ;
+-	met en place une dynamique de référencement et d’auto-évaluation à l’attention des éditeurs et administrations centrales/territoriales qui le souhaitent ;
 -	établit le cadre d’évaluation technique des solutions, en liaison avec les experts des différents domaines (CNIL, INR, DAE, DAJ, CNLL…), les DNUM / DSI publics et les acteurs du numérique. Cette grille vise également à faciliter pour les porteurs de projets publics, l’identification des solutions de qualité pouvant répondre à leurs besoins ; 
--	définit la méthode de labellisation en veillant à sa conformité réglementaire (procédure, contrôle…) et à son adéquation à l’offre du marché ;
 -	anime une communauté de DNUM/DSI afin d’avoir une bonne vision des besoins et attentes du secteur public ;
--	accompagne les entreprises qui souhaitent labelliser leur produit/solution.
+- accompagne les entreprises qui souhaitent référencer et auto évaluer leur produit/solution.
 
 Les collaborateurs de la mission LABEL assurent l’intermédiation entre secteur public et acteurs privés (sourcing des solutions, adéquation avec les projets publics), et proposent si besoin, un premier niveau d’accompagnement technico-fonctionnel au démarrage des projets.
 
-Une plateforme, des webinaires, des événements mettant en avant la labellisation matérialiseront l’animation de l’écosystème et les mises en relation des clients avec les fournisseurs.
+Une plateforme, des webinaires, des événements matérialiseront l’animation de l’écosystème et les mises en relation des clients avec les fournisseurs.
 
 Fruit de la consultation d’experts et des utilisateurs, les critères ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques : 
 -	**Numérique Responsable** : niveau d'engagement affiché par l’entreprise pour sa solution, éco conception tout au long du cycle de vie de la solution, maitrise du stockage, inclusion au travers du RGAA, évaluation de l’empreinte réseau, etc.
