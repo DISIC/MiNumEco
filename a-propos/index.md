@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 20
 ---
 
-Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effets de serre. De plus, [le numérique est un secteur loin d’être dématérialisé. En effet, il est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
+Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effets de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
 
 ## La mission « Green Tech » : numérique écoresponsable
 
