@@ -753,7 +753,7 @@ Si autre organisation, préciser</td>
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/labels/bureautique/">Matériels bureautiques</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/bureautique/">Matériels bureautiques</a>
   </div>
   
   <div class="fr-col-md-6 text-align--right">
