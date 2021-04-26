@@ -224,9 +224,16 @@
     <script src="/js/smarttag.js"></script>
     <script>
         var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
-        tag.privacy.setVisitorMode('cnil', 'exempt');
-        tag.page.set({ name: "{{ seoTitle or title or metadata.title }}" });
-        tag.dispatch();
+        
+        if (!isOptout()) {
+            tag.privacy.setVisitorMode('cnil', 'exempt');
+            tag.page.set({ name: "{{ seoTitle or title or metadata.title }}" });
+            tag.dispatch();
+        }
+
+        function isOptout() {
+            return 'optout' === tag.privacy.getVisitorMode().name;
+        }
     </script>
   </body>
 </html>

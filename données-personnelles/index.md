@@ -50,18 +50,8 @@ Toutefois, si vous le souhaitez, vous pouvez vous opposer au dépôt de cookies 
 </form>
 
 <script>
-function isOptout()
-{
-    var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
-    var mode = tag.privacy.getVisitorMode();
-
-    return 'optout' === mode.name;
-}
-
 function submitOptout()
-{
-    var tag = new ATInternet.Tracker.Tag({ sendHitWhenOptOut: false });
-    
+{   
     if (isOptout()) {
       tag.privacy.setVisitorOptin();
     } else {
