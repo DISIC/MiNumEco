@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effets de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
 
-## La mission « Green Tech » : numérique écoresponsable
+## La mission interministérielle « Green Tech » : numérique écoresponsable
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
@@ -19,7 +19,51 @@ La commande publique est reconnue comme un moyen efficace pour soutenir les poli
 
 C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environnemental du numérique de l'administration publique sont inscrits dans le [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (Pi3 Green Tech). Le pilotage de cette mission est confié au Ministère de la Transition écologique et à la direction interministérielle du numérique.
 
-Cette mission s’inscrit dans la [feuille de route gouvernementale « Numérique et environnement »](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route) publiée le 23 février 2021. Il s'agit de l'axe « Réduire l’empreinte environnementale du numérique » sur le périmètre de l'administration publique.
+<table class="fr-table fr-table--bordered" id="">
+  <caption>Les feuilles de route Numérique et environnement</caption>
+  <thead>
+    <tr>
+      <th scope="col"><a href="https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route">Feuille de route gouvernementale Numérique et environnement</a></th>
+      <th scope="col">Feuille de route interministérielle – TECH.GOUV</th>
+      <th scope="col">Feuille de route du Ministère de la Transition écologique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" rowspan="2">Axe 1 : Développer la connaissance de l’empreinte environnementale numérique</th>
+      <td rowspan="2">Mesure</td>
+      <td>Mesure de l’empreinte écologique du numérique</td>
+    </tr>
+    <tr>
+      <td>Affermir le corpus de données servant de base aux évaluations de l’empreinte écologique du numérique</td>
+    </tr>
+    <tr>
+      <th scope="row" rowspan="5">Axe 2 : Réduire l’empreinte environnementale du numérique</th>
+      <td>Achats numériques responsables</td>
+      <td>Achats numériques responsables</td>
+    </tr>
+    <tr>
+      <td>Ecoconception de services numériques</td>
+      <td>Ecoconception</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Sensibilisation et suivi de la réglementation</td>
+      <td>Sensibilisation, accompagnement, formation aux gestes et usages du numérique responsable</td>
+    </tr>
+    <tr>
+      <td>Ancrer l’engagement du MTE : adapter et proposer une labellisation type « Numérique responsable »</td>
+    </tr>
+    <tr>
+      <td>Outillage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Axe 3 : Faire du numérique un levier de la transition écologique et solidaire</th>
+      <td>DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 class="fr-fi-arrow-right-line fr-link--icon-left">Les principaux objectifs</h3>
 
@@ -36,17 +80,16 @@ Deux publications de cette mission sont inscrites dans la feuille de route gouve
 - Le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
 - Le Référentiel de bonnes pratiques numériques responsables (prévu en version bêta en juin 2021).
 
-Le périmètre de la mission ne s'arrête pas à ces deux livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes :
-- Mesure ;
-- Achats numériques responsables ;
-- Ecoconception de services numériques ;
-- DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ;
-- Sensibilisation et réglementation ;
-- Outillage.
+Le périmètre de la mission ne s'arrête pas à ces deux livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
+
+<div class="fr-highlight">
 
 Si vous êtes une administration, une direction ou une collectivité territoriale et que vous souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
 
-## Les pilotes
+</div>
+
+
+## Les pilotes de la mission
 
 ### La direction interministérielle du numérique (DINUM)
 
@@ -62,12 +105,12 @@ La DINUM est un service du Premier ministre, placé sous l’autorité de la min
 
 ### Le Ministère de la Transition écologique
 
-#### Commissariat général au développement durable (CGDD)
-
-Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
-
 #### Le SNUM
 
 Le sein du secrétariat général, le service du numérique initie et accompagne la transformation numérique du ministère. Il favorise l'évolution des pratiques numériques et en assure la gouvernance. Il veille à la mise en œuvre de la stratégie définie. Il s'assure de la qualité des produits et des services et conduit l'évolution du schéma d'urbanisation, dont il est garant, selon la logique de l'État plateforme. Il accompagne les directions et services du ministère pour l'élaboration, le déploiement, le maintien et l'évolution de leurs produits numériques, ainsi que pour la transformation des politiques publiques liées au numérique. Il industrialise et sécurise le socle technique et les plateformes d'infrastructure. Il assure la veille et la prospective sur les technologies émergentes et conduit les actions d'innovation. En lien avec les responsables des actions correspondantes, il contribue à la valorisation du patrimoine des données du ministère et des établissements publics placés sous sa tutelle, à l’évaluation des effets de la transformation numérique sur l'organisation des services, à la promotion des méthodes innovantes et à l'accompagnement du changement liées au numérique, au développement et à la valorisation des compétences et il élabore et met en œuvre la politique de sécurité des systèmes d'information.
 
 Avec le commissariat général du développement durable, il a élaboré la feuille de route ministérielle « numérique et écologie », participé au pilotage de l’action interministérielle « Green Tech » du programme TECH.GOUV de la direction interministérielle du numérique et a contribué aux travaux du Conseil national du numérique en vue de l’élaboration d’une feuille de route gouvernementale « numérique & environnement ».
+
+#### Commissariat général au développement durable (CGDD)
+
+Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
