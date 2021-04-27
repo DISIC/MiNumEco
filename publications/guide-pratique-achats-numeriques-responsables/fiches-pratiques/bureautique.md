@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 10
 ---
 
-![](/img/guide-achats/picto-ordinateur.png)
+<p><img src="/img/guide-achats/picto-ordinateur.svg" alt="" style="max-width: 200px" /></p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Comment lire chaque fiche ?</div>

@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 60
 ---
 
-![](/img/guide-achats/picto-logiciels.png)
+<p><img src="/img/guide-achats/picto-logiciels.svg" alt="" style="max-width: 200px" /></p>
 
 En raison des spécificités du domaine logiciel (pur produit immatériel et préexistence à l’acte d’achat), la fiche pratique relative à l’achat responsable des logiciels sera traitée dans la version 1 de ce guide prévue en juin 2021. La fiche pratique logiciel traitera l’achat de logiciel dans le cas de l’acquisition d’un exécutable et dans le cas d’un service (Saas-Software as a service).
 

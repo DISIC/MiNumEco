@@ -2,6 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Réseaux et télécoms
 date: 2021-04-29
+image: /img/guide-achats/picto-reseau.svg
 eleventyNavigation:
   key: guideachat-fiches-pratiques-reseaux
   parent: guideachat-fiches-pratiques
@@ -9,7 +10,8 @@ eleventyNavigation:
   order: 30
 ---
 
-![](/img/guide-achats/picto-switch.png)
+<p><img src="/img/guide-achats/picto-reseau.svg" alt="" style="max-width: 200px" /></p>
+
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Comment lire chaque fiche ?</div>

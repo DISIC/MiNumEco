@@ -4,7 +4,7 @@ type: news
 date: 2021-04-29
 link: /publications/guide-pratique-achats-numeriques-responsables/
 linkTitle: Consulter le Guide pratique pour des achats numériques responsables
-image: /img/guide-achats.png
+image: /img/guide-achats/guide-achats.svg
 layout: layouts/post.njk
 ---
 

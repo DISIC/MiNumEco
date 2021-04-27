@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 20
 ---
 
-![](/img/guide-achats/picto-imprimante.png)
+<p><img src="/img/guide-achats/picto-imprimante.svg" alt="" style="max-width: 200px" /></p>
 
 **Périmètre :** Solutions d’impression multifonctions de proximité, systèmes d’impression haut-volume, imprimantes ultra-portables, consommables d’encrage, papiers professionnels
 

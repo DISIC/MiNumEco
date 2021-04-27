@@ -2,17 +2,15 @@
 layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
 date: 2021-04-29
-image: /img/guide-achats.png
+image: /img/guide-achats/guide-achats.svg
 eleventyNavigation:
   key: guideachat
   parent: publications
   title: Guide pratique pour des achats numériques responsables
   date: 2021-04-29
-  image: /img/guide-achats.png
+  image: /img/guide-achats/guide-achats.svg
   order: 30
 ---
-
-![](/img/guide-achats.png)
 
 Depuis la loi relative à la lutte contre le gaspillage et à l'économie circulaire, ainsi que la circulaire relative aux services publics écoresponsables, l’État s’engage davantage à réduire son empreinte environnementale liée au numérique. Les efforts d’adaptation pour s’engager dans la transition écologique et solidaire doivent, pour une raison d’exemplarité, s’appliquer au service public. 
 
@@ -33,7 +31,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-ordinateur.png" alt="">
+        <img src="/img/guide-achats/picto-ordinateur.svg" alt="">
       </div>
     </div> 
   </div>
@@ -45,7 +43,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-imprimante.png" alt="">
+        <img src="/img/guide-achats/picto-imprimante.svg" alt="">
       </div>
     </div> 
   </div>
@@ -57,7 +55,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-switch.png" alt="">
+        <img src="/img/guide-achats/picto-reseau.svg" alt="">
       </div>
     </div> 
   </div>
@@ -69,7 +67,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-serveur.png" alt="">
+        <img src="/img/guide-achats/picto-serveur.svg" alt="">
       </div>
     </div> 
   </div>
@@ -81,7 +79,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-prestations-intellectuelles.png" alt="">
+        <img src="/img/guide-achats/picto-prestations-intellectuelles.svg" alt="">
       </div>
     </div> 
   </div>
@@ -93,7 +91,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h2>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-logiciels.png" alt="">
+        <img src="/img/guide-achats/picto-logiciels.svg" alt="">
       </div>
     </div> 
   </div>
@@ -106,6 +104,9 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 
 ## Informations
 
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-md-6">
+
 **Conception et rédaction** : Direction des Achats de l’État (DAE), Institut du Numérique Responsable (INR), Ministère de la Transition écologique (MTE), Direction interministérielle du numérique (DINUM), DSI de Pôle emploi, Informatique CDC, filiale de la Caisse des Dépôts.
 
 **Relecteurs** : Ministère de la Transition Ecologique (CGDD – DAF- SNUM), DITP, UGAP, ADEME, EcoInfo – CNRS, HOP Halte à l’Obsolescence Programmée, Banque de France, Crédit Agricole - GIP, Airbus, ADEO
@@ -114,9 +115,15 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 
 **Version actuelle** : version Bêta
 
-**Version cible** : V1 – Mars 2021
+**Version cible** : V1 – juin 2021
 
 Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
+
+  </div>
+  <div class="fr-col-md-6">
+    <img src="/img/guide-achats/guide-achats.svg" class="fr-responsive-img" alt="">
+  </div>
+</div>
 
 ## Télécharger
 
