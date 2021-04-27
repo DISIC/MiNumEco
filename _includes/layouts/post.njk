@@ -15,7 +15,7 @@ layout: layouts/base.njk
     {{ content | safe }}
   </div>
 
-{%- if link or image %}
+{%- if link or image or linkImage %}
   <div class="fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
       {%- if link %}
@@ -26,9 +26,9 @@ layout: layouts/base.njk
         </div>
       {% endif %}
 
-      {%- if image %}
+      {%- if image or linkImage %}
         <div class="fr-card__img">
-            <img src="{{ image }}" alt="">
+            <img src="{{ image or linkImage }}" alt="">
         </div>
       {% endif %}
     </div> 
