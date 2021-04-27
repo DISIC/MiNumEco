@@ -3,9 +3,6 @@ layout: layouts/post.njk
 title: Contact
 link: /a-propos/
 linkTitle: À propos de la mission
-eleventyNavigation:
-  key: Contact
-  order: 100
 ---
 
 Olivier Joviado et Richard Hanna, chargés de mission Pi3 Green Tech à la direction interministérielle du numérique (DINUM).

@@ -30,3 +30,7 @@ Le [code source du site est disponible sur Github](https://github.com/DISIC/gree
 ## Accessibilité
 
 [Voir la déclaration d'accessibilité](/accessibilité/)
+
+## Données personnelles et cookies
+
+[Voir les informations concernant les cookies utilisées sur ce site](/données-personnelles/)
