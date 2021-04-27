@@ -228,7 +228,8 @@ Une recherche par catégorie de produits de l’offre labellisée est proposée 
 
 Cette certification provient d’une initiative lancée en 2004 par Ecos Consulting. Elle est attribuée aux alimentations ayant un rendement électrique (rapport entre la puissance consommée et la puissance fournie) tel que l'énergie reçue en entrée est effectivement transmise à la machine (au moins 80% de l’énergie reçue).
 
-<table class="fr-table fr-table--bordered">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Rendement minimum selon le % de  charge</caption>
   <thead>
   <tr>
@@ -248,6 +249,7 @@ Cette certification provient d’une initiative lancée en 2004 par Ecos Consult
     <tr><td>80 Plus Titanium</td><td>90%</td><td>94%</td><td>96%</td><td>94%</td></tr>
   </tbody>
 </table>
+</div>
 
 
 <div class="fr-highlight">
@@ -298,8 +300,8 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
 <h2 id="tableau-ecolabels">Tableau des écolabels et autres signes distinctifs par type d’équipement</h2>
 
 
-
-<table class="fr-table fr-table--bordered">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Les principaux « labels » selon le type d’équipement</caption>
   <thead>
   <tr>
@@ -387,8 +389,11 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
     </tr>
   </tbody>
 </table>
+</div>
+
 
 À noter que les équipements réseau n'ont pas pu être correctement considérés jusqu'ici mais qu'il y a une réelle intention de les prendre en compte et d'émettre des recommandations dans les prochaines versions. Or [selon l’étude iNum de 2020](https://www.greenit.fr/wp-content/uploads/2020/06/2020-06-iNum-etude-impacts-numerique-France-rapport.pdf), le réseau est un des grands responsables de l'augmentation de l'empreinte environnementale du numérique : de par l'augmentation du volume de données, le nombre d’équipements dans le dernier kilomètre,  notamment  chez  les  utilisateurs, particuliers  comme  professionnels, mais aussi de par une obsolescence plus rapide des équipements qui limite leur durée de vie.
+
 
 <div class="fr-highlight">
 

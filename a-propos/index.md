@@ -19,7 +19,8 @@ La commande publique est reconnue comme un moyen efficace pour soutenir les poli
 
 C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environnemental du numérique de l'administration publique sont inscrits dans le [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (Pi3 Green Tech). Le pilotage de cette mission est confié au Ministère de la Transition écologique et à la direction interministérielle du numérique.
 
-<table class="fr-table fr-table--bordered" id="">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Les feuilles de route Numérique et environnement</caption>
   <thead>
     <tr>
@@ -64,6 +65,7 @@ C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environ
     </tr>
   </tbody>
 </table>
+</div>
 
 <h3 class="fr-fi-arrow-right-line fr-link--icon-left">Les principaux objectifs</h3>
 

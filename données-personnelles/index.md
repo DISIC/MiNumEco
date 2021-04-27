@@ -13,7 +13,8 @@ Les _cookies_ déposées sur votre ordinateur lorsque vous le consultez nous per
 
 Nous sommes ainsi en conformité avec la [réglementation de la CNIL](https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience) et exemptés d’autorisation préalable.
 
-<table class="fr-table fr-table--bordered">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Cookies de mesure d’audience</caption>
   <thead>
   <tr>
@@ -32,6 +33,7 @@ Nous sommes ainsi en conformité avec la [réglementation de la CNIL](https://ww
     </tr>
   </tbody>
 </table>
+</div>
 
 Toutefois, si vous le souhaitez, vous pouvez vous opposer au dépôt de cookies de mesure d’audience :
 

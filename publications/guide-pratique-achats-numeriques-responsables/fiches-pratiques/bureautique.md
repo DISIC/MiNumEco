@@ -53,8 +53,9 @@ En matière de qualité environnementale des matériels IT, les principaux texte
 
 * définition du caractère « reconditionné » (article 37) – dès parution du décret
 * À partir du 1er janvier 2021 : obligation d’achat de produits reconditionnés ou incorporant des matières recyclées dans une proportion annuelle minimale de 20%. Décret n° 2021-254 du 9 mars 2021 relatif à [l’obligation d’acquisition par la commande publique de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043231546)). Les obligations de ce décret s’appliquent aux seuls marchés de fourniture.
-    
-<table class="fr-table fr-table--bordered">
+
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Obligation d’achat de produits reconditionnés ou incorporant des matières recyclées : les proportions minimales indiquées sont à respecter par ligne</caption>
   <thead>
   <tr>
@@ -119,6 +120,7 @@ En matière de qualité environnementale des matériels IT, les principaux texte
     </tr>
   </tbody>
 </table>
+</div>
     
 * À partir du 1er janvier 2022 : 
     * obligations d’affichage environnemental et d’information du consommateur, dont l’indice de réparabilité et part de matériaux recyclés le cas échéant (articles 13 et 16 ; parution du décret d’application et des arrêtés d’application de l’article 16 le 29 décembre 2020)
@@ -328,7 +330,8 @@ Ce dispositif est particulièrement adapté aux marchés dont les montants ne so
 
 Condition d’exécution du marché, la clause de formation engage le titulaire à réaliser une action de formation d’un ou plusieurs jeunes entre 16 et 25 ans, d’un niveau de qualification inférieur à celui mentionné à l'article L. 313-7 du code de l'éducation, tel que modifié par le décret n° 2010-1781 du 31 décembre 2010. Les jeunes sont stagiaires de l’entreprise sur une durée précisée à la clause et calibrée selon le montant du marché. Ils sont accompagnés par les Missions de Lutte contre le Décrochage Scolaire (MLDS) du ministère chargé de l’Education nationale.
 
-<table class="fr-table fr-table--bordered">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Les volumes horaires sont calibrés comme indiqué dans ce tableau. Ils constituent un minimum que le titulaire peut dépasser s’il le souhaite.</caption>
   <thead>
   <tr>
@@ -351,6 +354,7 @@ Condition d’exécution du marché, la clause de formation engage le titulaire 
     </tr>
   </tbody>
 </table>
+</div>
 	
 <div class="fr-highlight">
 
@@ -375,7 +379,8 @@ Ces spécifications peuvent ainsi porter sur :
 
 **Pondération des critères**
 
-<table class="fr-table fr-table--bordered">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Les critères de choix de l'offre économiquement la plus avantageuse, sont classés et pondérés de la manière suivante</caption>
   <thead>
   <tr>
@@ -395,6 +400,7 @@ Ces spécifications peuvent ainsi porter sur :
     </tr>
   </tbody>
 </table>
+</div>
 
 <div class="fr-highlight" id="performance-environnementale">
 
@@ -426,7 +432,8 @@ Le dossier de consultation peut ainsi prévoir une annexe à l’acte d’engage
 
 <h2 id="exemple-annexe-performance-environnementale" tabindex="-1">Exemple d’annexe de performance en matière de développement durable : performance en matière de protection de l’environnement à adapter selon vos besoins</h2>
 
-<table class="fr-table fr-table--bordered" id="">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Performance en matière de protection de l'environnement</caption>
   <thead>
     <tr>
@@ -553,6 +560,7 @@ Fournir les justificatifs (certificats)</td>
     </tr>
   </tbody>
 </table>
+</div>
 
 <h2 id="exemple-annexe-memoire-social" tabindex="-1">Exemple d’annexe de performance en matière de développement durable : cadre de réponse mémoire social à adapter selon vos besoins</h2>
 
@@ -570,7 +578,8 @@ Hiérarchie des moyens de preuve:
 
 Ces moyens de preuve doivent pouvoir attester de la conformité des conditions sociales de travail, tout au long de la chaîne de production, avec les standards internationaux en matière de respect des droits de l’Homme au travail.
 
-<table class="fr-table fr-table--bordered" id="">
+<div class="fr-table fr-table--bordered">
+<table>
   <caption>Mémoire social du candidat – traçabilite sociale des chaînes d’approvisionnement</caption>
   <thead>
     <tr>
@@ -678,6 +687,7 @@ Si autre organisation, préciser</td>
     </tr>
   </tbody>
 </table>
+</div>
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-md-6">
