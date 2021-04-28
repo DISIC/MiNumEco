@@ -29,11 +29,11 @@ Textes définissant l’**indice de réparabilité** sur les biens comportant de
 *	Arrêté du 29 décembre 2020 relatif aux critères, aux sous-critères et au système de notation pour [le calcul et l'affichage de l'indice de réparabilité des téléphones mobiles multifonctions](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042838138).
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/fin-de-vie/">La gestion de la fin de vie des équipements</a>
   </div>
   
-  <div class="fr-col-md-6 text-align--right">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/labels/produits/">Les labels au niveau des produits</a>
   </div>
 </div>

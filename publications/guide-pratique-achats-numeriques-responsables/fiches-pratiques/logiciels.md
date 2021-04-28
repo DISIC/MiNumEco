@@ -20,11 +20,11 @@ Si vous avez expérimenté des pratiques responsables sur l’achat de logiciels
 </div>
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/prestations-intellectuelles/">Prestations Intellectuelles (P2i)</a>
   </div>
   
-  <div class="fr-col-md-6 text-align--right">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/glossaire/">Webo-bibliographie et glossaire</a>
   </div>
 </div>

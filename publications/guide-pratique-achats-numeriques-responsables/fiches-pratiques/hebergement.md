@@ -179,10 +179,9 @@ En particulier :
 - Publiez-vous vos PUE ? Pour chacun de vos centres de données ? 
 - Utilisez-vous plusieurs niveaux de mesure des PUE ? Quels sont vos intervalles de mesure ? 
 - Intégrez-vous la consommation d’eau, l’empreinte carbone et la puissance de calcul générée sur une période donnée combinés au PUE ?
-- Intégrez-vous la typologie, l’âge et l’équipement (densité, armoires, confinement…) du centre de donnée ?  Le niveau de redondance ? Les niveaux de température et d’humidité ? Le type de refroidissement ? 
-
-- Vous faites-vous évaluer par des tiers indépendants sur ces aspects ? 
-- Taguez-vous vos services par rapport à leur efficacité énergétique ? 
+- Intégrez-vous la typologie, l’âge et l’équipement (densité, armoires, confinement…) du centre de donnée ?  Le niveau de redondance ? Les niveaux de température et d’humidité ? Le type de refroidissement ?
+- Vous faites-vous évaluer par des tiers indépendants sur ces aspects ?
+- Taguez-vous vos services par rapport à leur efficacité énergétique ?
 
 #### Préoccupations sociales ; Accessibilité des services et solutions
 
@@ -213,6 +212,7 @@ L’acheteur doit se poser la question du mode d’approvisionnement le plus ada
 - L’obsolescence logicielle avec les thématiques comme la place du système d’exploitation, l’écoconception des applications et des mises à jour doivent être abordées. Les matériels fournis dans le cadre du présent marché doivent offrir la possibilité de réactualiser la version fournie des systèmes d’exploitation et les logiciels sans nécessité de faire évoluer ou de remplacer les équipements.
 
 </div>
+
 
 
 <div class="fr-highlight">
@@ -996,11 +996,11 @@ Si autre organisation, préciser</td>
 
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/">Réseaux et télécoms</a>
   </div>
   
-  <div class="fr-col-md-6 text-align--right">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/prestations-intellectuelles/">Prestations Intellectuelles (P2i)</a>
   </div>
 </div>

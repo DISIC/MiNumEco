@@ -58,11 +58,11 @@ Le Numérique Responsable est souvent demandé dans une logique « _bottom-up_ �
 Une démarche Numérique Responsable ne règlera certainement pas l’ensemble du problème mais elle en limitera au moins les effets, pour un avenir dans un monde plus soutenable et résilient.
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/introduction/">Introduction</a>
   </div>
   
-  <div class="fr-col-md-6 text-align--right">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/">L’analyse de cycle de vie (ACV)</a>
   </div>
 </div>

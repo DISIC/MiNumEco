@@ -134,11 +134,11 @@ Pour en savoir plus, [consultez le site de l'Agence LUCIE](https://agence-lucie.
 
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/labels/produits/">Les labels au niveau des produits</a>
   </div>
   
-  <div class="fr-col-md-6 text-align--right">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/labels/interministeriel/">La mission interministérielle Label</a>
   </div>
 </div>

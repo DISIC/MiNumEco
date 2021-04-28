@@ -105,7 +105,7 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 ## Informations
 
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-6">
 
 **Conception et rédaction** : Direction des Achats de l’État (DAE), Institut du Numérique Responsable (INR), Ministère de la Transition écologique (MTE), Direction interministérielle du numérique (DINUM), DSI de Pôle emploi, Informatique CDC, filiale de la Caisse des Dépôts.
 
@@ -120,7 +120,7 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
 
   </div>
-  <div class="fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-6">
     <img src="/img/guide-achats/guide-achats.svg" class="fr-responsive-img" alt="">
   </div>
 </div>

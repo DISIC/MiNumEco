@@ -32,9 +32,8 @@ layout: layouts/base.njk
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
 
-    <div class="fr-col-md-8">
-        
-        
+    <div class="fr-col-12 fr-col-md-8">
+
         {% if date %}
             <p>
                 <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
@@ -44,7 +43,7 @@ layout: layouts/base.njk
         {{ content | safe }}
     </div>
     
-    <div class="fr-col-md-4">
+    <div class="fr-col-12 fr-col-md-4">
         <nav class="fr-sidemenu fr-sidemenu--right" role="navigation" aria-label="Menu latéral">
             <div class="fr-sidemenu__inner">
                 <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>

@@ -1,7 +1,7 @@
 <div class="fr-grid-row fr-grid-row--gutters">
    
 {% for post in postslist | reverse %}
-  <div class="fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
         <div class="fr-card__body">
             <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
