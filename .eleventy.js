@@ -69,6 +69,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy("docs");
 
   eleventyConfig.addPassthroughCopy({
     "node_modules/@gouvfr/dsfr/dist/css/dsfr.min.css": "css/dsfr.min.css",
