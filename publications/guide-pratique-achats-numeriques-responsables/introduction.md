@@ -53,7 +53,7 @@ Les administrations, les collectivités territoriales, les agents, tout un écos
 
 Cette vague porteuse de sens, de valeurs, et d’innovations participe à la cohésion des équipes qui se tournent vers des objectifs communs alliant aspirations professionnelles et citoyennes. Des dispositions réglementaires récentes, notamment la loi relative à la lutte contre le gaspillage et à l’économie circulaire, confortent cela. 
 
-En parallèle, est menée une mission interministérielle « Green Tech » co-pilotée par la direction interministérielle du numérique (DINUM) et le Ministère de la Transition Ecologique. Elle s’inscrit dans la feuille de route gouvernementale « Numérique et Environnement ». Elle associe pour ces différents travaux les ministères et l’écosystème du numérique responsable.
+En parallèle, est menée une mission interministérielle « Green Tech » co-pilotée par la direction interministérielle du numérique (DINUM) et le Ministère de la Transition . Elle s’inscrit dans la feuille de route gouvernementale « Numérique et Environnement ». Elle associe pour ces différents travaux les ministères et l’écosystème du numérique responsable.
 
 Un effort de prise en compte des décrets est opéré en continu, afin de vous partager un  guide sur l’achat numérique responsable qui soit le plus pragmatique, actuel et opérationnel possible. C’est pourquoi ce guide est développé et construit avec une volonté d’itérations continues et de nouvelles versions seront régulièrement mises à jour.
 

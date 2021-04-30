@@ -1,19 +1,38 @@
 ---
 title: Publication du Guide pratique pour des achats numériques responsables en version bêta
 type: news
-date: 2021-04-29
-link: /publications/guide-pratique-achats-numeriques-responsables/
-linkTitle: Consulter le Guide pratique pour des achats numériques responsables
-image: /img/guide-achats/guide-achats.svg
+date: 2021-04-30
+link: https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.0/playback.html?meetingId=6a42dba1ce5f3be1330d9a211e7789aba4978511-1619707374388&t=0s
+linkTitle: Voir ou revoir le webinaire et les supports de la présentation de ce guide
+image: /img/guide-achats/guide-achats-numerique-responsable.png
 layout: layouts/post.njk
 ---
 
-La fabrication des équipements informatiques concentre la grande majorité des impacts environnementaux et sociaux. Il est donc essentiel de s’emparer du sujet de l’achat numérique pour le rendre plus responsable.
+La Direction interministérielle du Numérique (DINUM), le Ministère de la Transition écologique / CGDD, la Direction des achats de l'État (DAE) et l'Institut du Numérique Responsable (INR) ont présenté [lors d'un webinaire]({{ link }}) ce jeudi 29 avril le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) en version bêta.
 
-Ce guide, contenant des fiches pratiques d’achat responsable et s’adressant en priorité aux acheteurs de l’État, mais également à tout agent public, acheteur du secteur privé ou citoyen, permet de trouver des ressources pour être acteur de ce changement.
+Ce guide consigne de nombreuses recommandations à l’adresse des acteurs publics, recommandations également ouvertes aux acteurs du secteur privé qui peuvent se les approprier dans leur propre démarche d’achat.
 
-Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommandations déclinées en fiches pratiques : Matériels bureautiques, Solutions d’impressions, Réseaux et télécoms, Infrastructures et cloud, Prestations intellectuelles (P2I) et Logiciels.
+Publié sous format dématérialisé, [le guide est l’objet durant un mois d’une consultation publique](https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation) principalement à l'intention des professionnels de l'achat de biens et services du numérique. Une nouvelle version enrichie des contributions sera actualisée à l’issue de cette consultation.
 
-Ce guide s’adresse à toute personne impliquée, à un stade ou à un autre dans les achats numériques. D’abord et en priorité à l’écosystème des acheteurs de l’État. Il a été construit avec eux.
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-12 fr-col-md-6">
+    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+  </div>
+  <div class="fr-col-12 fr-col-md-6">
 
-Cependant ce guide a une portée plus large. Tout acheteur public ou privé doit pouvoir y trouver des ressources pour être acteur de ce changement. C’est une volonté forte des parties prenantes de ce projet. 
+## Consulter en ligne
+
+<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/">Accueil du guide</a>
+
+## Télécharger
+
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
+
+## Contribuer
+
+<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation">Participer à la consultation publique</a>
+
+**Version actuelle** : version Bêta, publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
+
+  </div>
+</div>

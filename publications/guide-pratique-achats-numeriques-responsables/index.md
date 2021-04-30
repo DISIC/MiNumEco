@@ -2,13 +2,13 @@
 layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
 date: 2021-04-29
-image: /img/guide-achats/guide-achats.svg
+image: /img/guide-achats/guide-achats-numerique-responsable.png
 eleventyNavigation:
   key: guideachat
   parent: publications
   title: Guide pratique pour des achats numériques responsables
   date: 2021-04-29
-  image: /img/guide-achats/guide-achats.svg
+  image: /img/guide-achats/guide-achats-numerique-responsable.png
   order: 30
 ---
 
@@ -121,7 +121,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
   </div>
   <div class="fr-col-12 fr-col-md-6">
-    <img src="/img/guide-achats/guide-achats.svg" class="fr-responsive-img" alt="">
+    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 

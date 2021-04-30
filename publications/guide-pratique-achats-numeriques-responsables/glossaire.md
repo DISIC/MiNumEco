@@ -74,7 +74,7 @@ eleventyNavigation:
 - **TIC** : Technologies de l’Information et de la Communication.
 - **Terres rares ou métaux rares** : de « terre » dans le sens « minerai », et rare parce que lors de leur découverte la séparation des terres rares des minerais était difficile. Ces métaux sont, contrairement à ce que suggère leur appellation, assez répandus dans la croûte terrestre, à l'égal de certains métaux usuels. Tantale, Indium, Cadmium : ces métaux sont indispensables dans des composants de nos smartphones, écrans ou ordinateurs tels que l’écran tactile, les micros ou les transistors.
 
-Sources : Wikipédia, Site de l’ADEME, Site du Ministère de la Transition Ecologique.
+Sources : Wikipédia, Site de l’ADEME, Site du Ministère de la Transition écologique.
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
