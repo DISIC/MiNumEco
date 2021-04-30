@@ -8,7 +8,7 @@ image: /img/guide-achats/guide-achats-numerique-responsable.png
 layout: layouts/post.njk
 ---
 
-La Direction interministérielle du Numérique (DINUM), le Ministère de la Transition écologique / CGDD, la Direction des achats de l'État (DAE) et l'Institut du Numérique Responsable (INR) ont présenté [lors d'un webinaire]({{ link }}) ce jeudi 29 avril le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) en version bêta.
+La direction interministérielle du numérique (DINUM), le Ministère de la Transition écologique / CGDD, la Direction des achats de l'État (DAE) et l'Institut du Numérique Responsable (INR) ont présenté [lors d'un webinaire]({{ link }}) ce jeudi 29 avril le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) en version bêta.
 
 Ce guide consigne de nombreuses recommandations à l’adresse des acteurs publics, recommandations également ouvertes aux acteurs du secteur privé qui peuvent se les approprier dans leur propre démarche d’achat.
 
