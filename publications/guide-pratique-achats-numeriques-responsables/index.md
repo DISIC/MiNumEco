@@ -121,13 +121,13 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
   </div>
   <div class="fr-col-12 fr-col-md-6">
-    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
 
 ## Contribuer
 

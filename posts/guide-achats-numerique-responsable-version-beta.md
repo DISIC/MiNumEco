@@ -16,7 +16,7 @@ Publié sous format dématérialisé, [le guide est l’objet durant un mois d�
 
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-12 fr-col-md-6">
-    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});"></a>
   </div>
   <div class="fr-col-12 fr-col-md-6">
 
@@ -26,7 +26,7 @@ Publié sous format dématérialisé, [le guide est l’objet durant un mois d�
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
 
 ## Contribuer
 
