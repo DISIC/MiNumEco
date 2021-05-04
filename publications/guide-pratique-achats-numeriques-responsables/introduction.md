@@ -177,4 +177,4 @@ Depuis janvier 2019, la direction informatique de l'entité du groupe Airbus dé
 
 Ce guide des achats NR est fondamental car il permet de donner un cadre validé par un panel large d'experts, en termes de bonnes pratiques, mais surtout en termes d'écolabels pertinents pour chaque famille d'équipements informatiques achetés. Cet outil permet à chaque organisation d'aborder de manière pragmatique et efficace l'approche "cycle de vie" sans devoir réaliser des comparaisons laborieuses.
 
-<p class="text-align--right"><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/">Qu’est-ce que le numérique responsable ?</a></p>
+<p class="text-align--right fr-py-3w"><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/">Qu’est-ce que le numérique responsable ?</a></p>

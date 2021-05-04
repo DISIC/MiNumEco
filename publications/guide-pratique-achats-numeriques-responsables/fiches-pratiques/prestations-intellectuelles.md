@@ -348,7 +348,7 @@ La performance en matière de protection de l’environnement est analysée au r
     - Exemple 2 de rubriques : Conception fonctionnelle, Ergonomie, Conception technique, Conception graphique, Développement, Hébergement, Contenu 
 
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/hebergement/">Infrastructures et cloud</a>
   </div>

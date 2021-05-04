@@ -31,7 +31,7 @@ La collecte des informations relatives aux flux est une étape importante de l�
 
 Source : [Qu'est-ce que l'ACV ? ADEME, 2018](https://www.ademe.fr/expertises/consommer-autrement/passer-a-laction/dossier/lanalyse-cycle-vie/quest-lacv)
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/">Qu’est-ce que le numérique responsable ?</a>
   </div>

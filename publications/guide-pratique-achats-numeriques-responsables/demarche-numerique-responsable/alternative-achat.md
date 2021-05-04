@@ -39,7 +39,7 @@ Attention tout de même à porter une attention particulière au devenir des éq
 
 Cette démarche encourage les loueurs et les constructeurs à proposer des matériels de meilleure qualité (réduction de la maintenance), plus pérennes (voire évolutifs), plus solides, éco labellisés. Elle ralentit ainsi l’obsolescence des matériels. Cette approche doit être analysée en amont de tout projet achat ; elle s’avèrera pertinente en fonction de la politique d’achat de la structure et des caractéristiques du besoin : quelle est la politique de renouvellement du parc informatique par exemple (quelle est la durée d’amortissement pratiquée ?), quelle est la politique de gestion de la fin de vie des équipements (revente ou pas ?), quel est le besoin des utilisateurs (besoins bureautiques simples ou besoin en équipements plus performants), etc.
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/">L’analyse de cycle de vie (ACV)</a>
   </div>

@@ -24,4 +24,4 @@ eleventyNavigation:
 
 </div>
 
-<a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/glossaire/">Webo-bibliographie et glossaire</a>
+<a class="fr-link fr-fi-arrow-left-line fr-link--icon-left fr-py-3w" href="/publications/guide-pratique-achats-numeriques-responsables/glossaire/">Webo-bibliographie et glossaire</a>

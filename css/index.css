@@ -15,3 +15,12 @@
 .text-align--center {
   text-align: center !important;
 }
+
+main h2, main h3, main h4, main h5, main h6 {
+  margin-top: 3rem;
+}
+
+.fr-highlight {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}

@@ -56,7 +56,7 @@ Dans le cadre des activités de réemploi et réutilisation, les structures de l
 
 Le réemploi peut également être mis à profit au sein même de la structure propriétaire du bien. Cette dernière peut en effet opérer un redéploiement des équipements, selon les besoins des usagers et les caractéristiques du parc informatique concerné (âge, adaptation des fonctionnalités des équipements aux besoins des utilisateurs, coût d’entretien, etc.).
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/alternative-achat/">Les alternatives à l’achat du neuf</a>
   </div>
