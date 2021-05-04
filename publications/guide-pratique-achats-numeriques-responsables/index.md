@@ -26,9 +26,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/bureautique/" class="fr-card__link">Matériels bureautiques</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-ordinateur.svg" alt="">
@@ -38,9 +38,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/impression/" class="fr-card__link">Solutions d’impressions</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-imprimante.svg" alt="">
@@ -50,9 +50,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/" class="fr-card__link">Réseaux et télécoms</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-reseau.svg" alt="">
@@ -62,9 +62,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/hebergement/" class="fr-card__link">Infrastructures et cloud</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-serveur.svg" alt="">
@@ -74,9 +74,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/prestations-intellectuelles/" class="fr-card__link">Prestations intellectuelles (P2I)</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-prestations-intellectuelles.svg" alt="">
@@ -86,9 +86,9 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
   <div class="fr-col-md-4 fr-col-12">
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
-        <h2 class="fr-card__title">
+        <h3 class="fr-card__title">
           <a href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/logiciels/" class="fr-card__link">Logiciels</a>
-        </h2>
+        </h3>
       </div>
       <div class="fr-card__img">
         <img src="/img/guide-achats/picto-logiciels.svg" alt="">

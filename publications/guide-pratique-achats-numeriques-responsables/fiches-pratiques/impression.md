@@ -62,7 +62,7 @@ En matière de qualité environnementale des matériels IT, les principaux texte
   <caption>Obligation d’achat de produits reconditionnés ou incorporant des matières recyclées : les proportions minimales indiquées sont à respecter par ligne</caption>
   <thead>
   <tr>
-    <th scope="col">Code CPV<br />Règlement (CE)<br />213/2008</th>
+    <th scope="col">Code <abbr title="Common Procurement Vocabulary, vocabulaire commun pour les marchés publics de l'Union Européenne">CPV</abbr><br />Règlement (<abbr title="Communauté européenne">CE</abbr>)<br />213/2008</th>
     <th scope="col">Produits ou catégories de produits</th>
     <th scope="col">% issu du réemploi ou de la réutilisation ou intégrant des matières recyclées</th>
     <th scope="col">dont % issu du réemploi ou de la réutilisation</th>

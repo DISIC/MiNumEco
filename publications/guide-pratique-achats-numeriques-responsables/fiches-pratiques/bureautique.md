@@ -40,12 +40,12 @@ En matière de qualité environnementale des matériels IT, les principaux texte
 ### Gestion des DEEE (déchets d’équipements électriques et électroniques)
 
 * Décret n°2005-829 du 20 juillet 2005 et articles du code de l’environnement R 543-172 et suivants ;
-* Décret 2020-1455 portant réforme de la responsabilité élargie des producteurs, publié le 27 novembre 2020 en application de l’article 62 de la loi AGEC (Loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire)
+* Décret 2020-1455 portant réforme de la responsabilité élargie des producteurs, publié le 27 novembre 2020 en application de l’article 62 de la loi <abbr title="Anti-gaspillage et économie circulaire">AGEC</abbr> (Loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire)
 
 ### Limitation des substances dangereuses pour la santé humaine et l’environnement
 
-* **Réglementation européenne REACH** : règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH).
-* **Directive européenne RoHS** : directive européenne 2011/65/UE dite RoHS II (Restriction of the Use of Certain Hazardous Substances) modifiant la directive 2002/95/CE, dite RoHS I, du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques.
+* **Réglementation européenne REACH** : règlement (<abbr title="Communauté européenne">CE</abbr>) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH).
+* **Directive européenne RoHS** : directive européenne 2011/65/UE dite RoHS II (<span lang="en">Restriction of the Use of Certain Hazardous Substances</span>) modifiant la directive 2002/95/CE, dite <span lang="en">RoHS I</span>, du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques.
 
 ### Qualité écologique des produits
 
@@ -59,7 +59,7 @@ En matière de qualité environnementale des matériels IT, les principaux texte
   <caption>Obligation d’achat de produits reconditionnés ou incorporant des matières recyclées : les proportions minimales indiquées sont à respecter par ligne</caption>
   <thead>
   <tr>
-    <th scope="col">Code CPV<br />Règlement (CE)<br />213/2008</th>
+    <th scope="col">Code <abbr title="Common Procurement Vocabulary, vocabulaire commun pour les marchés publics de l'Union Européenne">CPV</abbr><br />Règlement (<abbr title="Communauté européenne">CE</abbr>)<br />213/2008</th>
     <th scope="col">Produits ou catégories de produits</th>
     <th scope="col">% issu du réemploi ou de la réutilisation ou intégrant des matières recyclées</th>
     <th scope="col">dont % issu du réemploi ou de la réutilisation</th>
@@ -171,11 +171,11 @@ Nota bene : la garantie est en général délivrée par le distributeur, mais il
     * Avez-vous déjà mis en œuvre une collaboration avec les acteurs du handicap (EA/ESAT), notamment au travers de l'exécution de marchés publics ? Si oui, quel est votre retour d’expérience ?
 3. Autre collaboration avec les acteurs de l'ESS
 4. Maîtrise des chaînes d'approvisionnement
-    * 4.1. Pouvez-vous décrire vos chaînes d'approvisionnement (décomposition : nb de fournisseurs et sous-traitants, nature des activités, lieux d'implantation géographiques) ?
-    * 4.2. Avez-vous engagé, ou prévoyez-vous de le faire, une démarche de maîtrise des risques relatifs aux violations des droits humains fondamentaux dans toute la chaîne d'approvisionnement (filiales, fournisseurs, sous-traitants) ? Si oui, pouvez-vous la décrire ?
-    * 4.3. Disposez-vous d'informations sur l'origine des minerais utilisés dans la fabrication de vos matériels ? Quelles précautions prenez-vous pour garantir le caractère licite des exploitations minières et le non-approvisionnement en « minerais de guerre » ? 
-    * 4.4. Etes-vous concerné par la loi sur le devoir de vigilance des sociétés mères et des entreprises donneuses d'ordre de mars 2017 ? Si oui avez-vous publié votre plan de vigilance et le rapport annuel de suivi (le cas échéant merci de nous le communiquer)
-    * 4.5. Êtes-vous, d'une manière générale, engagé dans des initiatives sectorielles relatives au management de votre démarche RSE ? Si oui, les citer. Votre entreprise a-t-elle adhéré aux principes directeurs de l'OCDE relatifs au respect des droits de l'Homme au travail ?
+    1. Pouvez-vous décrire vos chaînes d'approvisionnement (décomposition : nb de fournisseurs et sous-traitants, nature des activités, lieux d'implantation géographiques) ?
+    2. Avez-vous engagé, ou prévoyez-vous de le faire, une démarche de maîtrise des risques relatifs aux violations des droits humains fondamentaux dans toute la chaîne d'approvisionnement (filiales, fournisseurs, sous-traitants) ? Si oui, pouvez-vous la décrire ?
+    3. Disposez-vous d'informations sur l'origine des minerais utilisés dans la fabrication de vos matériels ? Quelles précautions prenez-vous pour garantir le caractère licite des exploitations minières et le non-approvisionnement en « minerais de guerre » ? 
+    4. Etes-vous concerné par la loi sur le devoir de vigilance des sociétés mères et des entreprises donneuses d'ordre de mars 2017 ? Si oui avez-vous publié votre plan de vigilance et le rapport annuel de suivi (le cas échéant merci de nous le communiquer)
+    5. Êtes-vous, d'une manière générale, engagé dans des initiatives sectorielles relatives au management de votre démarche RSE ? Si oui, les citer. Votre entreprise a-t-elle adhéré aux principes directeurs de l'OCDE relatifs au respect des droits de l'Homme au travail ?
 
 #### Prise en compte RSE par l’entreprise
 
@@ -220,8 +220,8 @@ L’acheteur peut consulter les sites des principaux écolabels pour évaluer l�
 Si oui préciser les types d’activités des sites de production en question et préciser le type de certifications concernées
 Si non, des règles de maîtrise de l’impact environnemental des sites de productions sont-elles appliquées ? Le cas échéant, les décrire et préciser les types d’activité des sites de production concernés
 2. **Pratiques environnementales autres**
-    * 2.1. Votre entreprise prend-elle en considération les impacts environnementaux de ses activités périphériques à la construction des matériels ? emballages, transport ? Si oui les décrire.
-    * 2.2. Quelle est votre politique en matière de gestion des DEEE ? Adhésion à un éco-organisme ou système individuel ?
+    1. Votre entreprise prend-elle en considération les impacts environnementaux de ses activités périphériques à la construction des matériels ? emballages, transport ? Si oui les décrire.
+    2. Quelle est votre politique en matière de gestion des DEEE ? Adhésion à un éco-organisme ou système individuel ?
 3. **Expérience en matière de marchés publics responsables**
 Avez-vous répondu à des marchés publics avec une clause d'exécution environnementale et si oui quels types de clauses ?
 
