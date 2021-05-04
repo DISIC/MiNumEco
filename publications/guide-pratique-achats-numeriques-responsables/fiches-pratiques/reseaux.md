@@ -745,12 +745,12 @@ Si autre organisation, préciser</td>
 </div>
 
 
-<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/impression/">Solutions d’impression</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/impression/">Page précédente :<br />Solutions d’impression</a>
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/hebergement/">Infrastructures et cloud</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/hebergement/">Page suivante :<br />Infrastructures et cloud</a>
   </div>
-</div>
+</nav>

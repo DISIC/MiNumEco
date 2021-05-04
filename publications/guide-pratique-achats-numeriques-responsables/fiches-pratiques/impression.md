@@ -759,12 +759,12 @@ Si autre organisation, préciser</td>
 </table>
 </div>
 
-<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/bureautique/">Matériels bureautiques</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/bureautique/">Page précédente :<br />Matériels bureautiques</a>
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/">Réseaux et télécoms</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/">Page suivante :<br />Réseaux et télécoms</a>
   </div>
-</div>
+</nav>

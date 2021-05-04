@@ -995,12 +995,12 @@ Si autre organisation, préciser</td>
 </div>
 
 
-<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/">Réseaux et télécoms</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/reseaux/">Page précédente :<br />Réseaux et télécoms</a>
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/prestations-intellectuelles/">Prestations Intellectuelles (P2i)</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/prestations-intellectuelles/">Page suivante :<br />Prestations Intellectuelles (P2i)</a>
   </div>
-</div>
+</nav>

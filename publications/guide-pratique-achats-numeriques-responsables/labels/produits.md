@@ -146,7 +146,7 @@ Tout savoir sur les labels et les écolabels : [la page de l’ADEME sur les lab
 
 <h2 id="ecolabels-type-1">Ecolabels de type I les plus courants pour les équipements informatiques et de télécommunication</h2>
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> L’écolabel européen
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> L’écolabel européen
 
 Ecolabel de type I, fiable et officiel, créé en 1992 par la Commission Européenne, l’écolabel européen vise au développement et à la valorisation de produits, biens et services plus respectueux de l'environnement et de la santé.
 Il vise à : « promouvoir la conception, la production, la commercialisation et l’utilisation de produits ayant une incidence moindre sur l’environnement pendant tout leur cycle de vie » et à « mieux informer les consommateurs des incidences qu’ont les produits sur l’environnement, sans pour autant compromettre la sécurité du produit ou des travailleurs, ou influer de manière significative sur les qualités qui rendent le produit propre à l’utilisation ».
@@ -159,7 +159,7 @@ Il est basé sur une « approche globale », systémique, qui passe par une anal
 </div>
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> Blue Angel
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> Blue Angel
 
 Créé en Allemagne en 1978, cet écolabel officiel, de type I, créé par le gouvernement fédéral allemand, porte sur des critères de recyclabilité, de réduction des pollutions et de consommation énergétique des ordinateurs, imprimantes (dont consommables type toners) et téléphones mobiles. Ici, nous mettons en avant la partie destinée aux toners et papiers utilisés par les imprimantes.
 
@@ -170,7 +170,7 @@ Créé en Allemagne en 1978, cet écolabel officiel, de type I, créé par le go
 </div>
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> TCO 
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> TCO 
 
 Créé en Suède en 1990 par des acheteurs publics, l’association TCO développe une certification tripartite conformément à la norme ISO 14024 ce qui en fait une certification de type I au même titre que les écolabels délivrés par les pouvoirs publics.
 
@@ -188,7 +188,7 @@ Les informations sont communiquées par marque et précisent les dates d’éch�
 </div>
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> Energy Star
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> Energy Star
 
 Programme créé en 1992 aux Etats-Unis par l’EPA (Environmental Protection Agency) en collaboration avec le département de l’énergie (Department of Energy). Il fait l’objet d’un accord entre le gouvernement des Etats unis et l’Union européenne. Il peut être assimilée à un écolabel de type I. 
 
@@ -203,7 +203,7 @@ Ce « label » vise uniquement l’efficacité énergétique des matériels info
 
 <h2 id="declarations-environnementales">Déclarations environnementales les plus courantes pour les équipements informatiques et de télécommunication</h2>
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> EPEAT	  
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> EPEAT	  
 
 Créé aux USA en 1992, cette mention privée délivrée par l’association « Green Electronic Council » n’est pas soumise à certification. C’est donc un label de type II mais qui présente des critères environnementaux sur l’ensemble du cycle de vie des produits : ordinateurs, écrans, tablettes, téléphones mobiles, imprimantes et serveurs.
 
@@ -224,7 +224,7 @@ Une recherche par catégorie de produits de l’offre labellisée est proposée 
 
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> 80 PLUS 	 
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> 80 PLUS 	 
 
 Cette certification provient d’une initiative lancée en 2004 par Ecos Consulting. Elle est attribuée aux alimentations ayant un rendement électrique (rapport entre la puissance consommée et la puissance fournie) tel que l'énergie reçue en entrée est effectivement transmise à la machine (au moins 80% de l’énergie reçue).
 
@@ -261,7 +261,7 @@ Cette certification provient d’une initiative lancée en 2004 par Ecos Consult
 
 <h2 id="autres-labels">Autres labels</h2>
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> FSC (Forest Stewardship Council) 
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> FSC (Forest Stewardship Council) 
 
 FSC est une organisation internationale indépendante, non gouvernementale et à but non lucratif. Les membres du FSC sont des organisations écologistes et humanitaires (WWF, etc.), des communautés indigènes, des propriétaires forestiers, des industriels qui transforment et commercialisent le bois, des entreprises de la grande distribution, des chercheurs et des techniciens, des organismes de certification, des citoyens et quiconque partage les objectifs de l'organisation.
 
@@ -281,7 +281,7 @@ Champ d’application : bois et fibres provenant de forêts certifiées, papier/
 </div>
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> Nordic Swan (ou Le Cygne Blanc)  
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> Nordic Swan (ou Le Cygne Blanc)  
 
 Label environnemental d'origine scandinave de type I, délivré pour une durée de 3 ans, il encourage une conception durable des produits.
 Ce programme environnemental a été créé en 1989 par la Norvège et la Suède par le Conseil nordique. La Finlande a rejoint le dispositif en 1990, l’Islande en 1991 et le Danemark en avril 1997. C’est un label de type I mais encore insuffisamment répandu pour les matériels et équipements IT.
@@ -293,12 +293,12 @@ Ce programme environnemental a été créé en 1989 par la Norvège et la Suède
 </div>
 
 
-### <span class="fr-fi-arrow-right-s-line" aria-hidden="true"></span> NF Environnement – Cartouches d’impression laser (NF335)  
+### <span class="fr-fi-arrow-right-line" aria-hidden="true"></span> NF Environnement – Cartouches d’impression laser (NF335)  
 
 L’objectif de cet écolabel de type I : réduction de l’utilisation de substances dangereuses pour l’environnement et la santé, collecte et remanufacturation des cartouches usagées, performances environnementales des procédés de remanufacturation, gestion des déchets, emballages, informations pour les distributeurs / vendeurs / utilisateurs, performance et durabilité. 
 
-<h2 id="tableau-ecolabels">Tableau des écolabels et autres signes distinctifs par type d’équipement</h2>
 
+<h2 id="tableau-ecolabels">Tableau des écolabels et autres signes distinctifs par type d’équipement</h2>
 
 <div class="fr-table fr-table--bordered">
 <table>
@@ -316,8 +316,8 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
   </thead>
   <tbody>
     <tr>
-      <th>Ecolabel européen</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
+      <th scope="row">Ecolabel européen</th>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
       <td></td>
@@ -325,63 +325,63 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
       <td></td>
     </tr>
     <tr>
-      <th>Ange bleu</th>
+      <th scope="row">Ange bleu</th>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>NF Environnement – Cartouches d’impression laser (NF335)</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
       <td></td>
     </tr>
     <tr>
-      <th>Le Cygne Blanc</th>
+      <th scope="row">NF Environnement – Cartouches d’impression laser (NF335)</th>
       <td></td>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>TCO</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-    </tr>
-    <tr>
-      <th>EPEAT</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
+      <th scope="row">Le Cygne Blanc</th>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-    </tr>
-    <tr>
-      <th>Energy Star</th>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>80 Plus</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-hidden="true"></span></td>
+      <th scope="row">TCO</th>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+    </tr>
+    <tr>
+      <th scope="row">EPEAT</th>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td></td>
+      <td></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+    </tr>
+    <tr>
+      <th scope="row">Energy Star</th>
+      <td></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">80 Plus</th>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
       <td></td>
@@ -408,12 +408,12 @@ En cas de démarche « équivalente » à l’écolabel, les moyens de preuve à
 </div>
 
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/que-prevoit-la-loi/">Que prévoit la loi ?</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/que-prevoit-la-loi/">Page précédente :<br />Que prévoit la loi ?</a>
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/labels/organisation/">Label pour les organisations</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/labels/organisation/">Page suivante :<br />Label pour les organisations</a>
   </div>
-</div>
+</nav>

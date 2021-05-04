@@ -76,12 +76,12 @@ eleventyNavigation:
 
 Sources : Wikipédia, Site de l’ADEME, Site du Ministère de la Transition écologique.
 
-<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
-    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/logiciels/">Fiche Logiciels</a>
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/logiciels/">Page précédente :<br />Fiche Logiciels</a>
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
-    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/equipe-projet/">Équipe projet</a>
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-pratique-achats-numeriques-responsables/equipe-projet/">Page suivante :<br />Équipe projet</a>
   </div>
-</div>
+</nav>
