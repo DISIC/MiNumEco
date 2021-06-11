@@ -3,7 +3,7 @@ title: Rapport sur l’impact environnemental du numérique en santé
 type: news
 date: 2021-06-11
 link: https://esante.gouv.fr/sites/default/files/media_entity/documents/rapport_gt6_210517-2.pdf
-linkTitle: Voir le rapport sur l’impact environnemental du numérique en santé
+linkTitle: Voir le rapport sur l’impact environnemental du numérique en santé (pdf)
 image: /img/rapport-numerique-sante.png
 layout: layouts/post.njk
 ---
