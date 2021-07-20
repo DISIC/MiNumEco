@@ -74,7 +74,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "node_modules/@gouvfr/dsfr/dist/css/dsfr.min.css": "css/dsfr.min.css",
     "node_modules/@gouvfr/dsfr/dist/js/dsfr.module.min.js": "js/dsfr.module.min.js",
-    "node_modules/@gouvfr/dsfr/dist/js/dsfr.nomodule.min.js": "js/dsfr.nomodule.min.js",
     "node_modules/@gouvfr/dsfr/dist/fonts": "fonts",
     "node_modules/@gouvfr/dsfr/dist/favicons": "favicons",
     "CNAME": "CNAME",
