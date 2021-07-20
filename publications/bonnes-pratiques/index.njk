@@ -1,0 +1,48 @@
+---
+layout: layouts/base.njk
+title: Référentiel de bonnes pratiques numérique responsable
+date: 2021-07-15
+image: /img/guide-achats/guide-achats-numerique-responsable.png
+type: publication
+eleventyNavigation:
+  key: refbpnr
+  parent: publications
+  title: Référentiel de bonnes pratiques numérique responsable
+  date: 2021-07-15
+  image: /img/guide-achats/guide-achats-numerique-responsable.png
+  order: 100
+---
+
+{% include "breadcrumb.njk" %}
+
+<h1>{{ title }}</h1>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+    <div class="fr-col-12 fr-col-md-8">
+        <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
+
+        {% for category in collections.all | eleventyNavigation("refbpnr") %}
+            {% set subItems = collections.all | eleventyNavigation(category.key) %}
+
+            <h2>{{ category.title }}</h2>
+
+            <ul>
+            {% for subItem in subItems %}
+                <li>
+                    <a href="{{ subItem.url | url }}">{{ subItem.title }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+    </div>
+
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-card fr-enlarge-link">
+            <div class="fr-card__body">
+                <h2 class="fr-card__title">
+                    <a href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv" class="fr-card__link">Exporter au format CSV</a>
+                </h2>
+            </div>
+        </div>
+    </div>
+</div>

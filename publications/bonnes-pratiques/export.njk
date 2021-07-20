@@ -1,0 +1,7 @@
+---
+permalink: /publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv
+eleventyExcludeFromCollections: true
+---
+Titre;Catégorie;Url;
+{% for category in collections.all | eleventyNavigation("refbpnr") %}{% set subItems = collections.all | eleventyNavigation(category.key) %}{% for subItem in subItems %}{{ subItem.title }};{{ category.title }};{{ subItem.url | url | absoluteUrl(metadata.url) }};
+{% endfor %}{% endfor %}
