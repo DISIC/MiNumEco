@@ -21,16 +21,14 @@ eleventyNavigation:
     <div class="fr-col-12 fr-col-md-8">
         <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
 
-        {% for category in collections.all | eleventyNavigation("refbpnr") %}
-            {% set subItems = collections.all | eleventyNavigation(category.key) %}
+        {% for category in collections.all | eleventyNavigationExtended("refbpnr") %}
+            {% set items = category.children %}
 
             <h2>{{ category.title }}</h2>
 
             <ul>
-            {% for subItem in subItems %}
-                <li>
-                    <a href="{{ subItem.url | url }}">{{ subItem.title }}</a>
-                </li>
+            {% for item in items %}
+                <li><a href="{{ item.url }}"><small>{{ item.data.idbp }}.</small> {{ item.title }}</a> <span class="fr-tag">{{ item.data.priority }}</span></li>
             {% endfor %}
             </ul>
         {% endfor %}

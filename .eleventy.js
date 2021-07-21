@@ -24,47 +24,35 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'Europe/Paris'}).setLocale("fr").toFormat('yyyy-LL-dd');
   });
 
-  // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
-      return array.slice(n);
-    }
-
-    return array.slice(0, n);
-  });
-
-  eleventyConfig.addFilter("min", (...numbers) => {
-    return Math.min.apply(null, numbers);
-  });
-
-  eleventyConfig.addCollection("tagList", function(collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(function(item) {
-      if( "tags" in item.data ) {
-        let tags = item.data.tags;
-
-        tags = tags.filter(function(item) {
-          switch(item) {
-            // this list should match the `filter` list in tags.njk
-            case "all":
-            case "nav":
-            case "post":
-            case "posts":
-              return false;
-          }
-
-          return true;
-        });
-
-        for (const tag of tags) {
-          tagSet.add(tag);
+  function findNavigationEntriesExtended(nodes = [], key = '') {
+    let pages = [];
+    for(let entry of nodes) {
+      if(entry.data && entry.data.eleventyNavigation) {
+        let nav = entry.data.eleventyNavigation;
+        if(!key && !nav.parent || nav.parent === key) {
+          pages.push(Object.assign({}, nav, {
+            url: nav.url || entry.data.page.url,
+            data: entry.data,
+            pluginType: 'eleventy-navigation'
+          }, key ? { parentKey: key } : {}));
         }
       }
+    }
+  
+    return pages.sort(function(a, b) {
+      return (a.order || 0) - (b.order || 0);
+    }).map(function(entry) {
+      if(!entry.title) {
+        entry.title = entry.key;
+      }
+      if(entry.key) {
+        entry.children = findNavigationEntriesExtended(nodes, entry.key);
+      }
+      return entry;
     });
+  }
 
-    // returning an array in addCollection works in Eleventy 0.5.3
-    return [...tagSet];
-  });
+  eleventyConfig.addNunjucksFilter('eleventyNavigationExtended', findNavigationEntriesExtended);
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
