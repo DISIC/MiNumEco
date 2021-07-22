@@ -1,9 +1,10 @@
 ---
 layout: layouts/bonne-pratique.njk
 title: Dédier un budget spécifique au Numérique Responsable
+type: bpnr
 date: 2021-07-15
 idbp: 2
-priority: Prioritaire
+priority: Recommandé
 who: Décideur
 indicators:
   - "% du budget de la DSI dédié au numérique responsable"

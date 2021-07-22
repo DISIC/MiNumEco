@@ -202,5 +202,9 @@
     <script src="/js/dsfr.module.min.js"></script>
     <script src="/js/smarttag.js"></script>
     <script src="/js/mesure-audience.js"></script>
+
+{% if extrajs %}
+    <script src="{{ extrajs }}"></script>
+{% endif %}
   </body>
 </html>

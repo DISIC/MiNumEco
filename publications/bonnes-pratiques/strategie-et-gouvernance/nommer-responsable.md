@@ -1,6 +1,7 @@
 ---
 layout: layouts/bonne-pratique.njk
 title: Nommer une personne responsable « Numérique Responsable »
+type: bpnr
 date: 2021-07-15
 idbp: 1
 priority: Prioritaire
