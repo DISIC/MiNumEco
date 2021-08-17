@@ -1,9 +1,9 @@
 {
   "title": "Numérique écoresponsable",
   "url": "https://ecoresponsable.numerique.gouv.fr/",
-  "description": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique",
+  "description": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
   "feed": {
-    "subtitle": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique",
+    "subtitle": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://ecoresponsable.numerique.gouv.fr/"
