@@ -33,4 +33,7 @@ Déploiement des fichiers statiques de la branche `prod` automatiquement avec le
 
 ## Licence
 
-Ce dépôt est sous [licence Ouverte 2.0](LICENCE.md).
+
+Les codes sources de ce dépôt sont placés sous licence MIT.
+
+Les contenus humainement lisibles sont placés sous [licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
