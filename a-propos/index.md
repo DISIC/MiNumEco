@@ -80,11 +80,11 @@ Animée par les contributions des correspondants ministériels sur le sujet, cel
 
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
 - Le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
-- Le Référentiel de bonnes pratiques numériques responsables (prévu en version bêta en juin 2021).
-- Un référentiel pour l’écoconception ou la conception responsable de services numériques (prévu en 2021).
+- Le Référentiel de bonnes pratiques numériques responsables (prévu fin 2021).
+- Un référentiel pour l’écoconception ou la conception responsable de services numériques (prévu à l'automne 2021).
 - Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable".
 - Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique.
-- Produire et participer à la mise en œuvre de boîte à outils à destinations des agents.
+- Produire et participer à la mise en œuvre de boîte à outils à destinations des agents (prévu à l'automne 2021).
 
 Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
 
