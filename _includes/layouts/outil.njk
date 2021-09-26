@@ -1,0 +1,74 @@
+---
+layout: layouts/base.njk
+---
+
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/boite-outils">Boite à outils</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+            </li>
+        </ol>
+    </div>
+</nav>
+
+<h1>{{ title }}</h1>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+
+    <div class="fr-col-12 fr-col-md-8">
+
+        {% if date %}
+            <p class="fr-py-2w">
+                <time class="fr-tag" datetime="{{ date | htmlDateString }}">Dernière mise à jour le {{ date | readableDate }}</time>
+            </p>
+        {% endif %}
+
+        <p><img src="{{ image }}" alt=""></p>
+
+        {{ content | safe }}
+
+        <p><b>Auteur</b> : {{ author }}</p>
+        <p><b>Technologie principale</b> : {{ mainTechnology }}</p>
+        <p><b>Licence</b> : {{ licence }}</p>
+        <p><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ link }}">Voir le site</a></p>
+        <p><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ codeRepository }}">Voir le code source</a></p>
+    </div>
+    
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+                <h2 class="fr-tile__title">Périmètre</h2>
+                <p class="fr-tile__desc">{{ category }} / {{ scope }}</p>
+            </div>
+        </div>
+        <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+                <h2 class="fr-tile__title">Type</h2>
+                <p class="fr-tile__desc">{{ toolType }}</p>
+            </div>
+        </div>
+        <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+                <h2 class="fr-tile__title">Indicateurs mesurés</h2>
+                <p class="fr-tile__desc">{{ measuredIndicators }}</p>
+            </div>
+        </div>
+        <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+                <h2 class="fr-tile__title">Indicateurs environnementaux</h2>
+                <p class="fr-tile__desc">{{ environnementalIndicators }}</p>
+            </div>
+        </div>
+    </div>
+</div>

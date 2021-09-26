@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+title: Boite à outils
+date: 2021-07-15
+image: /img/outils/scaphandre.png
+type: publication
+eleventyExcludeFromCollections: true
+eleventyNavigation:
+  key: boiteoutils
+  parent: publications
+  title: Boite à outils
+  date: 2021-07-15
+  image: /img/outils/scaphandre.png
+  order: 50
+---
+
+{% include "breadcrumb.njk" %}
+
+<h1>{{ title }}</h1>
+
+<p>Sélection non-exhaustive d'outils open source</p>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+   
+{% for tool in collections.tool %}
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <p class="fr-card__detail">{{ tool.data.category }} / {{ tool.data.scope }}</p>
+            <h2 class="fr-card__title">
+                <a href="{{ tool.url | url }}" class="fr-card__link">{{ tool.data.title }}</a>
+            </h2>
+            {% if tool.data.description %}
+            <p class="fr-card__desc">
+              {{ tool.data.description }}
+            </p>
+            {% endif %}
+        </div>
+    </div> 
+  </div>
+{% endfor %}
+
+</div>
+

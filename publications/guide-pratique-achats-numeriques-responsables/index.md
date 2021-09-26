@@ -3,6 +3,7 @@ layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
 date: 2021-04-29
 image: /img/guide-achats/guide-achats-numerique-responsable.png
+type: publication
 eleventyNavigation:
   key: guideachat
   parent: publications
