@@ -1,0 +1,77 @@
+---
+layout: layouts/base.njk
+title: Référentiel de bonnes pratiques numérique responsable
+date: 2021-07-15
+image: /img/guide-achats/guide-achats-numerique-responsable.png
+type: publication
+extrajs: /js/filtre-referentiel-bp.js
+eleventyExcludeFromCollections: true
+eleventyNavigation:
+  key: refbpnr
+  parent: publications
+  title: Référentiel de bonnes pratiques numérique responsable
+  date: 2021-07-15
+  image: /img/guide-achats/guide-achats-numerique-responsable.png
+  order: 100
+---
+{% set categories = collections.all | eleventyNavigationExtended("refbpnr") %}
+{% include "breadcrumb.njk" %}
+
+<h1>{{ title }}</h1>
+
+<p>
+    <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
+    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter au format CSV</a>
+</p>
+
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
+    <ol class="fr-summary__list">
+    {% for category in categories %}
+        <li>
+            <a class="fr-summary__link" href="#{{ category.key }}">{{ category.title }}</a>
+        </li>
+    {% endfor %}
+    </ol>
+</nav>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+    <div class="fr-col-12 fr-col-md-8">
+        {% for category in categories %}
+            <h2 id="{{ category.key }}">{{ category.title }}</h2>
+
+            <ul>
+            {% for item in category.children %}
+                <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><a href="{{ item.url }}"><small>{{ item.data.idbp }}.</small> {{ item.title }}</a> <span class="fr-tag">{{ item.data.priority }}</span></li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+    </div>
+
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="">
+            <h2>Filtrer</h2>
+
+            <form>
+                <div class="fr-form-group">
+                    <label class="fr-label" for="form-priority">Priorité</label>
+                    <select class="fr-select" id="form-priority" name="priority">
+                        <option value="" selected>Toutes</option>
+                        <option>Prioritaire</option>
+                        <option>Recommandé</option>
+                        <option>Aller plus loin</option>
+                    </select>
+                </div>
+
+                <div class="fr-form-group">
+                    <label class="fr-label" for="form-who">Pilote</label>
+                    <select class="fr-select" id="form-who" name="who">
+                        <option value="" selected>Tous</option>
+                        <option>Décideur</option>
+                        <option>Opérationnel</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

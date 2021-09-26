@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+---
+
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-189">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Référentiel des bonnes pratiques</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+            </li>
+        </ol>
+    </div>
+</nav>
+
+<h1><small>{{ idbp }}.</small> {{ title }}</h1>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+  <div class="fr-col-12 fr-col-md-8">
+    {%- if date %}
+      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
+    {% endif %}
+
+    {{ content | safe }}
+  </div>
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+        <div class="fr-tile__body">
+            <h2 class="fr-tile__title">Priorité :</h2>
+            <p class="fr-tile__desc">{{ priority }}</p>
+        </div>
+    </div>
+
+    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+        <div class="fr-tile__body">
+            <h2 class="fr-tile__title">Pilote :</h2>
+            <p class="fr-tile__desc">{{ who }}</p>
+        </div>
+    </div>
+
+    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+        <div class="fr-tile__body">
+            <h2 class="fr-tile__title">Indicateurs de pilotage :</h2>
+            <p class="fr-tile__desc">
+                <ul>
+                {% for indicator in indicators %}
+                    <li>{{ indicator }}</li>
+                {% endfor %}
+                </ul>
+            </p>
+        </div>
+    </div>
+  </div>
+</div>
