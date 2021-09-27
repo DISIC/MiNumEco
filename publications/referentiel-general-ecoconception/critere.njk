@@ -1,0 +1,28 @@
+---
+layout: layouts/referentiel-ecoconception.njk
+type: publication
+eleventyExcludeFromCollections: true
+pagination:
+    data: referentiel-ecoconception
+    size: 1
+    alias: critere
+permalink: "/publications/referentiel-general-ecoconception/{{ critere.numero | slug }}/"
+renderData:
+    title: "{{ critere.critere }}"
+---
+
+<h1>{{ critere.critere }}</h1>
+
+<span class="fr-tag">{{ critere.thematique }}</span>
+
+<h2>Objectif</h2>
+
+<p>{{ critere.objectif }}</p>
+
+<h2>Mise en oeuvre</h2>
+
+<p>{{ critere.miseEnOeuvre }}</p>
+
+<h2>Moyen de test ou de contrôle</h2>
+
+<p>{{ critere.controle }}</p>

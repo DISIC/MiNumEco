@@ -1,0 +1,70 @@
+---
+layout: layouts/referentiel-ecoconception.njk
+title: Référentiel général d'écoconception de services numériques (RGESN)
+type: publication
+date: 2021-10-12
+version: bêta
+eleventyExcludeFromCollections: true
+pagination:
+    data: referentiel-ecoconception
+    size: 1000
+    alias: critere
+---
+
+<p class="fr-py-2w">
+    <span class="fr-tag">Version : {{ version }}</span>
+    <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time>
+    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="#">Format CSV</a>
+    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="#">Format JSON</a>
+</p>
+
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
+    <ol class="fr-summary__list">
+    {% set thematique = null %}
+    {%- for item in pagination.items %}
+      {% if item.thematique != thematique %}
+        {% set thematique = item.thematique %}
+        <li>
+          <a class="fr-summary__link" href="#{{ thematique | slug }}">{{ thematique }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ol>
+</nav>
+
+{% set thematique = null %}
+
+{%- for item in pagination.items %}
+  {% if item.thematique != thematique %}
+    {% if null != thematique %}</ul>{% endif %}
+    {% set thematique = item.thematique %}
+    <h2 id="{{ thematique | slug }}">{{ thematique }}</h2>
+    <ul class="fr-accordions-group">
+  {% endif %}
+
+  <li>
+    <section class="fr-accordion">
+      <h3 class="fr-accordion__title">
+        <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ item.numero }}">{{ item.numero }} - {{ item.critere }}</button>
+      </h3>
+      <div class="fr-collapse" id="accordion-{{ item.numero }}">
+        <p><b>Objectif</b></p>
+
+        <p>{{ item.objectif }}</p>
+
+        <p><b>Mise en oeuvre</b></p>
+
+        <p>{{ item.miseEnOeuvre }}</p>
+
+        <p><b>Moyen de test ou de contrôle</b></p>
+
+        <p>{{ item.controle }}</p>
+
+        <p><a href="/publications/referentiel-general-ecoconception/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
+      </div>
+    </section>
+  </li>
+{% endfor -%}
+</ul>
+

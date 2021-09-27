@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+---
+
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+        {% if page.url == '/publications/referentiel-general-ecoconception/' %}
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page" href="/publications/referentiel-general-ecoconception/">Référentiel général d'écoconception de services numériques</a>
+            </li>
+        {% else %}
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/referentiel-general-ecoconception/">Référentiel général d'écoconception de services numériques</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ critere.numero }}</a>
+            </li>
+        {% endif %}
+        </ol>
+    </div>
+</nav>
+
+<h1>{{ title }}</h1>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+
+    <div class="fr-col-12 fr-col-md-8">
+        {{ content | safe }}
+    </div>
+    
+    <div class="fr-col-12 fr-col-md-4">
+        <nav class="fr-sidemenu fr-sidemenu--right" role="navigation" aria-label="Menu latéral">
+            <div class="fr-sidemenu__inner">
+                <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+                <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                    <p class="fr-sidemenu__title">Référentiel général d'écoconception de services numériques</p>
+                        <ul class="fr-sidemenu__list">
+                            <li class="fr-sidemenu__item">
+                                <a class="fr-sidemenu__link" href="#">Le référentiel</a>
+                            </li>
+                            <li class="fr-sidemenu__item">
+                                <a class="fr-sidemenu__link" href="#">À propos</a>
+                            </li>
+                            <li class="fr-sidemenu__item">
+                                <a class="fr-sidemenu__link" href="#">Journal des modifications</a>
+                            </li>
+                            <li class="fr-sidemenu__item">
+                                <a class="fr-sidemenu__link" href="#">Consultation publique (ou contribuer ?)</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
