@@ -116,7 +116,7 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 
 **Version actuelle** : version Bêta
 
-**Version cible** : V1 – juin 2021
+**Version cible** : V1 – fin 2021
 
 Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
 
