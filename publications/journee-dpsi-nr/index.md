@@ -29,7 +29,7 @@ Intervenants (dans l'ordre) :
   width="480"
   height="269"
   src="https://www.dailymotion.com/embed/video/x81ez8a"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81ez8a?autoplay=1><img src=/img/journee-dpsi/video-1.jpg alt='Présentation du numérique responsable : enjeux, réalisations'><span>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81ez8a?autoplay=1><img src=/img/journee-dpsi/video-1.jpg alt='Présentation du numérique responsable : enjeux, réalisations'><span aria-hidden='true'>▶</span></a>"
   frameborder="0"
   allowfullscreen
   title="Présentation du numérique responsable : enjeux, réalisations"
@@ -47,7 +47,7 @@ Intervenants (dans l'ordre) :
   width="480"
   height="269"
   src="https://www.dailymotion.com/embed/video/x81dlxv"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81dlxv?autoplay=1><img src=/img/journee-dpsi/video-2.jpg alt='Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet'><span>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81dlxv?autoplay=1><img src=/img/journee-dpsi/video-2.jpg alt='Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet'><span aria-hidden='true'>▶</span></a>"
   frameborder="0"
   allowfullscreen
   title="Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet"
