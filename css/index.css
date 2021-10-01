@@ -1,4 +1,4 @@
-#contenu img {
+#contenu img, #contenu iframe {
   max-width: 100%;
   display: block;
   margin: 0 auto;
