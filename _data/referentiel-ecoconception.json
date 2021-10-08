@@ -396,7 +396,7 @@
     "thematique": "FRONTEND",
     "critere": "Le service numérique se limite-t-il au chargement des composants utilisés au sein des bibliothèques lorsque cela est possible ?",
     "objectif": "N'utiliser que ce dont il est nécessaire pour le fonctionnement du service et économiser ainsi de la ressource informatique.",
-    "miseEnOeuvre": "Charger uniquement les composants nécessaires. Certaines bibliothèques rendent disponibles les composants pour une utilisation unitaire (par exemple https://getbootstrap.com/).\nPar exemple, le système de design de l'Etat (https://www.systeme-de-design.gouv.fr/) est disponible sous forme packagée (feuilles de style et scripts) avec tous les composants. Il est rarement nécessaire d'utiliser tous les composants. Il est possible de ne charger que les fichiers CSS et javascript des composants nécessaires.",
+    "miseEnOeuvre": "Charger uniquement les composants nécessaires.\n* Certaines bibliothèques rendent disponibles les composants pour une utilisation unitaire (par exemple [Boostrap](https://getbootstrap.com/)).\n* Autre exemple, le [système de design de l'Etat](https://www.systeme-de-design.gouv.fr/) est disponible sous forme packagée (feuilles de style et scripts) avec tous les composants. Il est rarement nécessaire d'utiliser tous les composants. Il est possible de ne charger que les fichiers CSS et javascript des composants nécessaires.",
     "controle": "Vérifier le contenu des bibliothèques chargées et leur utilisation effective."
   },
   {

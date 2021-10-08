@@ -16,5 +16,10 @@
     "name": "Mission Green Tech",
     "email": "numerique-responsable.dinum@modernisation.gouv.fr",
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
+  },
+  "referentielEcoconception": {
+    "version": "beta",
+    "title": "Référentiel général d'écoconception de services numériques",
+    "updatedAt": "2021-10-19"
   }
 }

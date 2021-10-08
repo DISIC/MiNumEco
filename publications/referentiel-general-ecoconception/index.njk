@@ -2,8 +2,7 @@
 layout: layouts/referentiel-ecoconception.njk
 title: Référentiel général d'écoconception de services numériques (RGESN)
 type: publication
-date: 2021-10-12
-version: bêta
+date: 2021-10-19
 eleventyExcludeFromCollections: true
 pagination:
     data: referentiel-ecoconception
@@ -12,10 +11,10 @@ pagination:
 ---
 
 <p class="fr-py-2w">
-    <span class="fr-tag">Version : {{ version }}</span>
+    <span class="fr-tag">Version : {{ metadata.referentielEcoconception.version }}</span>
     <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time>
-    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="#">Format CSV</a>
-    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="#">Format JSON</a>
+    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv">Format CSV</a>
+    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json">Format JSON</a>
 </p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
@@ -51,17 +50,17 @@ pagination:
       <div class="fr-collapse" id="accordion-{{ item.numero }}">
         <p><b>Objectif</b></p>
 
-        <p>{{ item.objectif }}</p>
+        <p>{{ item.objectif | markdown | safe }}</p>
 
         <p><b>Mise en oeuvre</b></p>
 
-        <p>{{ item.miseEnOeuvre }}</p>
+        <p>{{ item.miseEnOeuvre | markdown | safe }}</p>
 
         <p><b>Moyen de test ou de contrôle</b></p>
 
-        <p>{{ item.controle }}</p>
+        <p>{{ item.controle | markdown | safe }}</p>
 
-        <p><a href="/publications/referentiel-general-ecoconception/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
+        <p><a href="/publications/referentiel-general-ecoconception/critere/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
       </div>
     </section>
   </li>

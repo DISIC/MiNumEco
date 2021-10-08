@@ -1,0 +1,13 @@
+---
+permalink: "/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv"
+eleventyExcludeFromCollections: true
+pagination:
+    data: referentiel-ecoconception
+    size: 1000
+    alias: critere
+---
+"id";"thematique";"critere";"objectif";"miseEnOeuvre";"controle";"url"
+{% for item in pagination.items %}
+{%- set absolutePostUrl %}{{ metadata.url ~ 'publications/referentiel-general-ecoconception/critere/' ~ (item.numero | slug) ~ '/' }}{% endset -%}
+{{ item.numero | dump | safe }};{{ item.thematique | dump | safe }};{{ item.critere | dump | safe }};{{ item.objectif | dump | safe }};{{ item.miseEnOeuvre | dump | safe }};{{ item.controle | dump | safe }};"{{ absolutePostUrl }}"
+{% endfor %}

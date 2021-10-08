@@ -6,7 +6,7 @@ pagination:
     data: referentiel-ecoconception
     size: 1
     alias: critere
-permalink: "/publications/referentiel-general-ecoconception/{{ critere.numero | slug }}/"
+permalink: "/publications/referentiel-general-ecoconception/critere/{{ critere.numero | slug }}/"
 renderData:
     title: "{{ critere.critere }}"
 ---
@@ -17,12 +17,12 @@ renderData:
 
 <h2>Objectif</h2>
 
-<p>{{ critere.objectif }}</p>
+<p>{{ critere.objectif | markdown | safe }}</p>
 
 <h2>Mise en oeuvre</h2>
 
-<p>{{ critere.miseEnOeuvre }}</p>
+<p>{{ critere.miseEnOeuvre | markdown | safe }}</p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p>{{ critere.controle }}</p>
+<p>{{ critere.controle | markdown | safe }}</p>
