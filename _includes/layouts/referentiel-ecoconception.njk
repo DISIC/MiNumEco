@@ -20,8 +20,13 @@ layout: layouts/base.njk
             <li>
                 <a class="fr-breadcrumb__link" href="/publications/referentiel-general-ecoconception/">Référentiel général d'écoconception de services numériques</a>
             </li>
+            {% if critere %}
+                <li>
+                    <a class="fr-breadcrumb__link" href="/publications/referentiel-general-ecoconception/#{{ critere.thematique | slug }}">{{ critere.thematique }}</a>
+                </li>
+            {% endif %}
             <li>
-                <a class="fr-breadcrumb__link" aria-current="page">{{ critere.numero }}</a>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ 'Critère ' ~ critere.numero if critere.numero else title }}</a>
             </li>
         {% endif %}
         </ol>
@@ -44,16 +49,16 @@ layout: layouts/base.njk
                     <p class="fr-sidemenu__title">Référentiel général d'écoconception de services numériques</p>
                         <ul class="fr-sidemenu__list">
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#">Le référentiel</a>
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/">Le référentiel</a>
                             </li>
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#">À propos</a>
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/">À propos</a>
                             </li>
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#">Journal des modifications</a>
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/">Journal des modifications</a>
                             </li>
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#">Consultation publique (ou contribuer ?)</a>
+                                <a class="fr-sidemenu__link" href="#">Consultation publique</a>
                             </li>
                         </ul>
                     </div>

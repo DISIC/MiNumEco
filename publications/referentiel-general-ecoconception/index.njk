@@ -11,7 +11,7 @@ pagination:
 ---
 
 <p class="fr-py-2w">
-    <span class="fr-tag">Version : {{ metadata.referentielEcoconception.version }}</span>
+    <span class="fr-tag">Version : {{ metadata.referentielEcoconception.versionTitle }}</span>
     <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time>
     <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv">Format CSV</a>
     <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json">Format JSON</a>

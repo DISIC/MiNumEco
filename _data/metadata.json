@@ -19,7 +19,9 @@
   },
   "referentielEcoconception": {
     "version": "beta",
+    "versionTitle": "bêta",
     "title": "Référentiel général d'écoconception de services numériques",
+    "description": "Référentiel piloté par la Dinum, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
     "updatedAt": "2021-10-19"
   }
 }
