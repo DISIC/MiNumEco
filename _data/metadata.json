@@ -22,6 +22,32 @@
     "versionTitle": "bêta",
     "title": "Référentiel général d'écoconception de services numériques",
     "description": "Référentiel piloté par la Dinum, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
-    "updatedAt": "2021-10-19"
+    "updatedAt": "2021-10-19",
+    "thematique": {
+      "strategie": {
+        "description": "Elle permet de déterminer et de suivre la pertinence, les enjeux et le pilotage de la conception du service numérique."
+      },
+      "specifications": {
+        "description": "Indépendamment du type de gestion projet, cette thématique regroupe les éléments de cadrage projet, les moyens mis en œuvre, les objectifs et contraintes du projet sur toute la durée de vie du service numérique."
+      },
+      "uxui": {
+        "description": "Les étapes et méthodes de conception des services numériques pour définir les meilleures solutions d'interactions destinées aux utilisateurs."
+      },
+      "contenus": {
+        "description": "Tous les documents et médias informatifs ajoutés au service numérique par des personnes contributrices et disponibles pour l'utilisateur final."
+      },
+      "architecture": {
+        "description": "La stratégie de conception et l'articulation des composants applicatifs entre le frontend et le backend."
+      },
+      "frontend": {
+        "description": "Ensemble des composants en opération sur un terminal utilisateur pour permettre l'utilisation d'un service numérique."
+      },
+      "backend": {
+        "description": "Ensemble des composants en opération côté serveur pour permettre le fonctionnement d'un service numérique."
+      },
+      "hebergement": {
+        "description": "Moyens mis en œuvre côté serveur pour permettre l'utilisation d'un service numérique."
+      }
+    }
   }
 }

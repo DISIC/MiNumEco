@@ -39,6 +39,7 @@ pagination:
     {% if null != thematique %}</ul>{% endif %}
     {% set thematique = item.thematique %}
     <h2 id="{{ thematique | slug }}">{{ thematique }}</h2>
+    <p class="fr-text--sm">{{ metadata.referentielEcoconception.thematique[thematique | slug].description }}</p>
     <ul class="fr-accordions-group">
   {% endif %}
 
