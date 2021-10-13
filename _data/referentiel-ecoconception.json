@@ -141,7 +141,7 @@
     "critere": "Le service numérique utilise-t-il des ressources ou des composants existants minimisant leurs impacts environnementaux ?",
     "objectif": "Le service numérique peut dépendre de composants qui ne sont pas développés par la même équipe ou qui sont fournis par des frameworks de production. Il s'agit alors de s'assurer que ces dépendances soient également conçues de manière à réduire leurs propres impacts environnementaux.",
     "miseEnOeuvre": "Évaluer la façon dont ont été conçus les composants existants. Sont-ils eux-mêmes soumis à ce référentiel ?",
-    "controle": "Vérification de la mise en oeuvre"
+    "controle": "Vérification de la mise en œuvre"
   },
   {
     "numero": "3.2",
@@ -181,7 +181,7 @@
     "critere": "Le service numérique propose-t-il d'installer des mises à jours correctives indépendamment des mises à jours évolutives ?",
     "objectif": "Limiter la contribution à l'obsolescence des équipements utilisateurs.\nPromouvoir les politiques support longues (\"Long term support\").",
     "miseEnOeuvre": "Ce critère est applicable surtout pour un service numérique de type api / composants / bibliothèque / framework / outils open source et beaucoup plus rarement un produit destiné à des utilisateurs finaux.\nPar exemple, une stratégie de gestion de version avec des versions \"Long term support\" est mise en place et un changelog (journal des modifications) indique-t-il correctement les changements effectués par les mises à jour ?",
-    "controle": "Vérification de la mise en oeuvre"
+    "controle": "Vérification de la mise en œuvre"
   },
   {
     "numero": "4.1",
@@ -405,7 +405,7 @@
     "critere": "Le service numérique a-t-il une stratégie de suppression, automatique ou manuelle, des contenus obsolètes ou périmés ?",
     "objectif": "Alléger les bases de données et les serveurs physiques de données non utiles.",
     "miseEnOeuvre": "Définir une stratégie de suppression des contenus obsolètes, périmés, dépassés ou inutiles à conserver. Cette stratégie peut être automatique en définissant une date ou une durée d'expiration et un processus de purge automatique.",
-    "controle": "Contrôler la mise en oeuvre"
+    "controle": "Contrôler la mise en œuvre"
   },
   {
     "numero": "6.1",
@@ -493,7 +493,7 @@
     "critere": "Le service numérique héberge-t-il les ressources statiques transférées dont il est l'émetteur sur un même domaine ?",
     "objectif": "Limiter le nombre de domaines différents et donc de serveurs sollicités.",
     "miseEnOeuvre": "Limiter le nombre de domaines différents pour les ressources utilisées afin notamment de profiter du multiplexing proposé par HTTP/2",
-    "controle": "Contrôler la mise en oeuvre"
+    "controle": "Contrôler la mise en œuvre"
   },
   {
     "numero": "7.1",

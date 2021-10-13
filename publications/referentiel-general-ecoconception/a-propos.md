@@ -41,7 +41,7 @@ Ce référentiel ne s’applique pas au périmètre d’une organisation ni dans
 
 ## Public cible
 
-Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à Maîtrise d'Ouvrage (AMOA), assistant(e) à maitrise d'oeuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se)...
+Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à maîtrise d'ouvrage (AMOA), assistant(e) à maitrise d'œuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se)...
 
 ## Réalisation
 

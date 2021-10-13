@@ -51,15 +51,15 @@ pagination:
       <div class="fr-collapse" id="accordion-{{ item.numero }}">
         <p><b>Objectif</b></p>
 
-        <p>{{ item.objectif | markdown | safe }}</p>
+        <div class="fr-highlight">{{ item.objectif | markdown | safe }}</div>
 
-        <p><b>Mise en oeuvre</b></p>
+        <p><b>Mise en œuvre</b></p>
 
-        <p>{{ item.miseEnOeuvre | markdown | safe }}</p>
+        <div class="fr-highlight">{{ item.miseEnOeuvre | markdown | safe }}</div>
 
         <p><b>Moyen de test ou de contrôle</b></p>
 
-        <p>{{ item.controle | markdown | safe }}</p>
+        <div class="fr-highlight">{{ item.controle | markdown | safe }}</div>
 
         <p><a href="/publications/referentiel-general-ecoconception/critere/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
       </div>
