@@ -48,14 +48,14 @@ layout: layouts/base.njk
                 <div class="fr-collapse" id="fr-sidemenu-wrapper">
                     <p class="fr-sidemenu__title">Référentiel général d'écoconception de services numériques</p>
                         <ul class="fr-sidemenu__list">
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/">Le référentiel</a>
+                            <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/' == page.url }}">
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/' == page.url }}>Le référentiel</a>
                             </li>
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/">À propos</a>
+                            <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/a-propos/' == page.url }}">
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/a-propos/' == page.url }}>À propos</a>
                             </li>
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/">Journal des modifications</a>
+                            <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/journal-des-modifications/' == page.url }}">
+                                <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/journal-des-modifications/' == page.url }}>Journal des modifications</a>
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#">Consultation publique</a>

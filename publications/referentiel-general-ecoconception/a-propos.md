@@ -3,9 +3,9 @@ layout: layouts/referentiel-ecoconception.njk
 title: À propos
 ---
 
-Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de services numériques est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
+Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
 
-**L'écoconception de services numériques n'est pas uniquement une recherche d’optimisation, d’efficience ou de performance** mais une réflexion plus globale sur l'usage des technologies. Il est important d’intégrer les impacts environnementaux du numérique dans la conception de services numériques en visant directement ou indirectement à allonger la durée des vies des équipements numériques, à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données.
+**L'écoconception des services numériques n'est pas uniquement une recherche d’optimisation, d’efficience ou de performance** mais une réflexion plus globale sur l'usage des technologies. Il est important d’intégrer les impacts environnementaux du numérique dans la conception des services numériques en visant directement ou indirectement à allonger la durée des vies des équipements numériques, à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données.
 
 Avant même la mise en application des critères de ce référentiel, il est indispensable de se poser la question de la raison d’être du service numérique et de sa pertinence pour répondre à un besoin. L’existence de ce service numérique est-elle nécessaire ? Aurait-on pu faire autrement que développer une solution numérique ? Après mesures comparatives, une alternative non numérique du service est-elle envisageable et préférable ?
 
@@ -23,7 +23,7 @@ __Ce référentiel contient des critères qui sont tous vérifiables, génériqu
 
 </div>
 
-Aucun label, ni certificat  se basant sur ce référentiel n’est pour l’instant prévu. Il s’agit d’abord de promouvoir une démarche volontaire d’écoconception de services numériques.
+Aucun label, ni certificat  se basant sur ce référentiel n’est pour l’instant prévu. Il s’agit d’abord de promouvoir une démarche volontaire d’écoconception des services numériques.
 
 La démarche de conformité au référentiel peut être incrémentale et progressive, dans une approche d’amélioration continue. Il n’est pas nécessaire d’attendre d’être en situation de répondre favorablement à toutes les questions pour démarrer la prise en compte du référentiel.
 
@@ -41,7 +41,7 @@ Ce référentiel ne s’applique pas au périmètre d’une organisation ni dans
 
 ## Public cible
 
-Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, product owner, UX researcher, designer, développeur(se), devops...
+Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à Maîtrise d'Ouvrage (AMOA), assistant(e) à maitrise d'oeuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se)...
 
 ## Réalisation
 
@@ -61,4 +61,4 @@ Version bêta publié sous [licence ouverte Etalab v2](https://www.etalab.gouv.f
 
 ## Consultation publique
 
-Une consultation publique, en ligne pendant un mois, à destination de tous les acteurs et actrices impliqués sur la conception de services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1.
+Une consultation publique, en ligne pendant un mois, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1.
