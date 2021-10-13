@@ -1,0 +1,36 @@
+---
+permalink: "/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json"
+eleventyExcludeFromCollections: true
+pagination:
+    data: referentiel-ecoconception
+    size: 1000
+    alias: critere
+---
+{
+  "title": "{{ metadata.referentielEcoconception.title }}",
+  "url": "{{ metadata.url }}",
+  "description": {{ metadata.referentielEcoconception.description | dump | safe }},
+  "version": "{{ metadata.referentielEcoconception.version }}",
+  "updated_at": "{{ metadata.referentielEcoconception.updatedAt }}",
+  "author": {
+    "name": "{{ metadata.author.name }}",
+    "url": "{{ metadata.author.url }}"
+  },
+  "criteres": [
+    {%- for item in pagination.items %}
+    {%- set absolutePostUrl %}{{ metadata.url ~ 'publications/referentiel-general-ecoconception/critere/' ~ (item.numero | slug) ~ '/' }}{% endset -%}
+    {
+      "id": {{ item.numero | dump | safe }},
+      "url": "{{ absolutePostUrl }}",
+      "critere": {{ item.critere | dump | safe }},
+      "thematique": {{ item.thematique | dump | safe }},
+      "objectif": {{ item.objectif | dump | safe }},
+      "miseEnOeuvre": {{ item.miseEnOeuvre | dump | safe }},
+      "controle": {{ item.controle | dump | safe }}
+    }
+    {%- if not loop.last -%}
+    ,
+    {%- endif -%}
+    {%- endfor %}
+  ]
+}
