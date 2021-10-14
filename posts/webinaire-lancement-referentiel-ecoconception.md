@@ -8,7 +8,7 @@ link: https://webinaire.numerique.gouv.fr//meeting/signin/2174/creator/10/hash/a
 layout: layouts/post.njk
 ---
 
-Nous vous annonçons la publication en version bêta et la consultation publique d'un Référentiel général d'écoconception de service numérique. Ce document est piloté par la Dinum, le Ministère de la Transition Écologique (MTE), l'Ademe et l'Institut du Numérique Responsable (INR) dans le cadre de la mission interministérielle Green Tech / Numérique écoresponsable.
+Nous vous annonçons la publication en version bêta sous licence ouverte Etalab v2 et la consultation publique d'un Référentiel général d'écoconception de service numérique. Ce document est piloté par la Dinum, le Ministère de la Transition Écologique (MTE), l'Ademe et l'Institut du Numérique Responsable (INR) dans le cadre de la mission interministérielle Green Tech / Numérique écoresponsable.
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, le référentiel général d’écoconception de service numérique est aussi un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
 
