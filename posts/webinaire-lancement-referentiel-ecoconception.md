@@ -28,5 +28,6 @@ __Sommaire du webinaire :__
 __Public cible__ : tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, maîtrise d'ouvrage, maîtrise d'oeuvre, product owner, UX researcher, designer, développeur(se), devops...
 __Où__ : <a href="{{ link }}">lien du webinaire</a>
 Pas d'inscription préalable et accès limité aux 300 premiers connectés.
+__Enregistrement__ : oui, il sera disponible ici après le webinaire.
 
 </div>
