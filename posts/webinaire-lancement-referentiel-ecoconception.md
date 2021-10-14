@@ -3,7 +3,7 @@ title: Webinaire de lancement du Référentiel général d’écoconception de s
 type: news
 date: 2021-10-11
 image: /img/ecoconception/ecoconception.png
-linkTitle: Webinaire le 19 octobre 2021 de 17h à 18h
+linkTitle: Se connecter au webinaire le 19 octobre 2021 à 17h (pas d'inscription préalable)
 link: https://webinaire.numerique.gouv.fr//meeting/signin/2174/creator/10/hash/aa7589efad49945ef5f3357b1dedf0401ef6e40f
 layout: layouts/post.njk
 ---
