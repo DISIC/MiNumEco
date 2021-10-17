@@ -51,7 +51,7 @@ Ce référentiel est piloté par la Dinum, le Ministère de la Transition Écolo
 
 Nous remercions également les nombreuses institutions qui ont fait part de leur intérêt pour ce référentiel et qui ont participé aux travaux : il s’agit principalement de la DAE (Direction des Achats de l’Etat), la DGE (Direction Générale des Entreprises), le CGDD (Commissariat Général au Développement Durable), l’ARCEP (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse) ou l’INRIA (Institut national de recherche en informatique et en automatique)… Nous remercions aussi les sociétés Tasmane et Temesis pour l’accompagnement et les nombreux contributeurs, agents publics, salariés du secteur privé ou du monde associatif et de la recherche qui ont permis à ce référentiel d’être enrichi.
 
-Ce référentiel est issu d’un travail de tamisage des plus de 500 recommandations du groupe de travail écoconception  piloté par l’Institut du Numérique Responsable et produit par des contributeurs bénévoles du monde privé, public ou associatif. Les recommandations conservées et transformées en critères sont celles qui sont :
+Ce référentiel est issu d’un travail de tamisage du [Guide de Référence de Conception Responsable de Services Numériques](https://gr491.isit-europe.org/) piloté par l’Institut du Numérique Responsable et produit par des contributeurs bénévoles du monde privé, public ou associatif. Les recommandations conservées et transformées en critères sont celles qui sont :
 * __prioritaires__ : car elles réduisent de manière significative les impacts environnementaux,
 * __les plus génériques possibles__ : car elles sont intemporelles et agnostiques d’une technologie en particulier.
 
