@@ -20,7 +20,7 @@
     "thematique": "Stratégie",
     "critere": "Le service numérique a-t-il défini les besoins métiers et les attentes réelles des utilisateurs-cibles ?",
     "objectif": "Les incertitudes poussent à extrapoler les besoins souvent au delà des attentes réelles.\nOn peut également ne pas répondre aux \"bons besoins\" parce qu'on connait mal ses utilisateurs ou on répond juste à ce que demande le commanditaire. Tout cela finit par être un mauvais investissement de ressources, de temps passés et des impacts environnementaux générés.",
-    "miseEnOeuvre": "* Entretiens avec les différentes parties prenantes et les métiers concernés.\n* Recherche UX auprès des utilisateurs-cibles.\n* Définir les utilisateurs primaires et secondaires\n* Pratique alliée : les approches agiles",
+    "miseEnOeuvre": "* Entretiens avec les différentes parties prenantes et les métiers concernés,\n* Recherche UX auprès des utilisateurs-cibles,\n* Définir les utilisateurs primaires et secondaires,\n* Pratique alliée : les approches agiles.",
     "controle": "Avoir accès à un document de référence : entretiens, recherches, observations, sondages ou autres permettant précisément de définir l'expression de besoin métier ou les attentes rélles des utilisateurs-cibles."
   },
   {
@@ -36,7 +36,7 @@
     "thematique": "Stratégie",
     "critere": "Le service numérique est-il utilisable sur des terminaux datant de 5 ans minimum ?",
     "objectif": "Le service numérique doit limiter sa contribution à l'obsolescence des terminaux en fonctionnant sur des équipements les plus anciens possibles.",
-    "miseEnOeuvre": "S'assurer pour chaque fonctionnalité, que le service numérique est compatible avec des équipements anciens. Par exemple, ce critère peut être ajouté dans les tests ou QA (Quality assurance).\nDéfinition de \"Utilisable\" ici : mode dégradé accepté mais sans perte de fonctionnalité incontournable ni de contenu pour le service",
+    "miseEnOeuvre": "S'assurer pour chaque fonctionnalité, que le service numérique est compatible avec des équipements anciens. Par exemple, ce critère peut être ajouté dans les tests ou QA (Quality assurance).\nDéfinition de \"Utilisable\" ici : mode dégradé accepté mais sans perte de fonctionnalité incontournable ni de contenu pour le service.",
     "controle": "Tester les fonctionnalités critiques du service numérique sur un équipement ancien."
   },
   {
@@ -45,7 +45,7 @@
     "critere": "Le service numérique s'adapte-t-il à différents types de terminaux d'affichage ?",
     "objectif": "Le service numérique doit participer à limiter l'achat de nouveaux terminaux en fonctionnant sur des équipements aux tailles d'écrans variés dont les plus petits (smartphones anciens par exemple).",
     "miseEnOeuvre": "Uniquement si applicable, rendre l'interface du service numérique adaptable à la taille de l'écran sans perte d'utilisabilité (\"Responsive design\"). De plus, il vaut mieux éviter de dupliquer le service numérique avec une version spécifique pour chaque terminal.",
-    "controle": "Tester les fonctionnalités critiques du service numérique sur différentes tailles d'affichage (ordinateur de bureau, tablette et mobile)"
+    "controle": "Tester les fonctionnalités critiques du service numérique sur différentes tailles d'affichage (ordinateur de bureau, tablette et mobile)."
   },
   {
     "numero": "1.7",
@@ -68,14 +68,14 @@
     "thematique": "Stratégie",
     "critere": "Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ?",
     "objectif": "Connaître les impacts environnementaux du service numérique. Avoir une vision globale des conséquences du service numérique, à chaque phase (début, usage, fin) et en intégrant les impacts environnementaux des équipements matériels utilisés, dans la production et dans l'usage de ce service numérique.",
-    "miseEnOeuvre": "Faire un diagnostic basé sur une méthodologie ACV, une analyse de cycle de vie (screening, simplifiée ou ISO) multicritère. Les indicateurs d'impacts environnementaux à considérer à minima la consommation d'énergie primaire, les émissions GES, la consommation d'eau bleue et l'épuisement des ressources abiotiques.\nLe périmètre de l'analyse de cycle de vie peut être élargi par exemple en tenant compte des moyens de productions : impacts environnementaux des équipements de conception, les services en ligne mobilisés (environnement de test, de QA...), les déplacements des équipes...",
-    "controle": "Un document de référence (Analyse de cycle de vie - ACV - par exemple) des actions à entreprendre ou déjà entreprises, classées par phase projet. Quels sont les indicateurs définis ? Comment sont suivis ces indicateurs ? Sont-ils publiés / ouverts et si oui, où ? Quel est le rythme de mesure ?"
+    "miseEnOeuvre": "Faire un diagnostic basé sur une méthodologie ACV, une analyse de cycle de vie (screening, simplifiée ou ISO) multicritère. Les indicateurs d'impacts environnementaux à considérer à minima la consommation d'énergie primaire, les émissions GES, la consommation d'eau bleue et l'épuisement des ressources abiotiques.\nLe périmètre de l'analyse de cycle de vie peut être élargi par exemple en tenant compte des moyens de productions : impacts environnementaux des équipements de conception, les services en ligne mobilisés (environnement de test, de QA...), les déplacements des équipes, etc.",
+    "controle": "Un document de référence (Analyse de cycle de vie - ACV - par exemple) des actions à entreprendre ou déjà entreprises, classées par phase projet.\n* Quels sont les indicateurs définis ?\n* Comment sont suivis ces indicateurs ?\n* Sont-ils publiés / ouverts et si oui, où ?\n* Quel est le rythme de mesure ?"
   },
   {
     "numero": "1.10",
     "thematique": "Stratégie",
     "critere": "Le service numérique s'est-il fixé des objectifs en matière de réduction ou de limitation des impacts environnementaux ?",
-    "objectif": "Minimiser l'empreinte environnementale du service numérique",
+    "objectif": "Minimiser l'empreinte environnementale du service numérique.",
     "miseEnOeuvre": "Fixer les objectifs en matière d'empreinte environnementale du service numérique en regard du nombre d'utilisateurs escompté. Les indicateurs suivies doivent à minima être la consommation d'énergie primaire, les émissions GES, la consommation d'eau bleue et l'épuisement des ressources abiotiques.",
     "controle": "Quels sont les objectifs fixés ?"
   },
@@ -83,7 +83,7 @@
     "numero": "1.11",
     "thematique": "Stratégie",
     "critere": "Le service numérique réalise-t-il régulièrement des revues pour s'assurer du respect de la réduction ou de la limitation de ses impacts environnementaux ?",
-    "objectif": "Selon le contexte, un service numérique peut évoluer : équipe qui change, ajout de contenu par les utilisateurs, traitements de plus en plus gourmands...\nPour veiller que la démarche d'écoconception dure dans le temps, il est important de réaliser régulièrement une revue.",
+    "objectif": "Selon le contexte, un service numérique peut évoluer : équipe qui change, ajout de contenu par les utilisateurs, traitements de plus en plus gourmands, ...\nPour veiller que la démarche d'écoconception dure dans le temps, il est important de réaliser régulièrement une revue.",
     "miseEnOeuvre": "Revue, audit ou auto-audit régulier, tous les mois ou tous les ans selon le contexte et la taille du projet, en appliquant ce référentiel.\nDe plus, réaliser des audit de performances et tests de charge au sein de l'application/composant/microservice avec identification des bottleneck, ressources utilisées, …",
     "controle": "Résultat de la revue, résultat des audits de performance et de charges, résultat de l'audit en se basant sur ce référentiel..."
   },
@@ -92,7 +92,7 @@
     "thematique": "Stratégie",
     "critere": "Le service numérique publie-t-il une déclaration ou une politique d'écoconception ?",
     "objectif": "Communiquer la stratégie mise en place afin de réduire les impacts environnementaux du service numérique notamment la réduction de la contribution à l'obsolescence induite sur les terminaux.",
-    "miseEnOeuvre": "Cette déclaration d'une démarche volontaire, à afficher par exemple dans les mentions légales, aux côtés de la déclaration d'accessibilité ou bien sur une page dédiée, contiendra par exemple :\n* Objectifs de Développement Durable dans lequel s'inscrit ce service numérique\n* Versions logicielles du terminal utilisateur supporté (navigateur, système d'exploitation...). Exemple : \"iOS 11 minimum, Android année 2015 minimum...\"\n* Type, année de construction ou versions cibles des équipements utilisateurs supportés (type de smartphone, taille écran...). Exemple : \"iPhone 5 / Samsung Galaxy S3 minimum\" ou bien \"Tout équipement mobile datant de 2014 minimum\".\n* Connexion minimum pour accéder au service. Exemple : \"2G en mobile / 512 kbs en connexion fixe\".\n* Adaptation aux plus petits écrans : oui / non. Si oui, indiquer la taille minimum de l'écran.\n* Stratégie mise en œuvre et objectifs en matière de réduction ou de limitation des impacts environnementaux : indiquer les actions mises en œuvre pour réduire la consommation de ressources, par exemple le nombre de requêtes serveurs maximum, le poids des ressources par écran ou pour un parcours utilisateur donné.\n* Date de publication ou de mise à jour de cette déclaration",
+    "miseEnOeuvre": "Cette déclaration d'une démarche volontaire, à afficher par exemple dans les mentions légales, aux côtés de la déclaration d'accessibilité ou bien sur une page dédiée, contiendra par exemple :\n* Objectifs de Développement Durable dans lequel s'inscrit ce service numérique.\n* Versions logicielles du terminal utilisateur supporté (navigateur, système d'exploitation, etc.). Exemple : \"iOS 11 minimum, Android année 2015 minimum...\"\n* Type, année de construction ou versions cibles des équipements utilisateurs supportés (type de smartphone, taille écran, etc.). Exemple : \"iPhone 5 / Samsung Galaxy S3 minimum\" ou bien \"Tout équipement mobile datant de 2014 minimum\".\n* Connexion minimum pour accéder au service. Exemple : \"2G en mobile / 512 Kbs en connexion fixe\".\n* Adaptation aux plus petits écrans : oui / non. Si oui, indiquer la taille minimum de l'écran.\n* Stratégie mise en œuvre et objectifs en matière de réduction ou de limitation des impacts environnementaux : indiquer les actions mises en œuvre pour réduire la consommation de ressources, par exemple le nombre de requêtes serveurs maximum, le poids des ressources par écran ou pour un parcours utilisateur donné.\n* Date de publication ou de mise à jour de cette déclaration.",
     "controle": "Présence détaillée d'une déclaration ou d'une politique d'écoconception"
   },
   {
@@ -116,7 +116,7 @@
     "thematique": "Spécifications",
     "critere": "Le service numérique impose-t-il à ses fournisseurs de garantir une démarche de réduction de leurs impacts environnementaux ?",
     "objectif": "Un projet est rarement réalisé avec un périmètre couvert totalement au sein de l'organisation. De nombreuses ressources externes sont mobilisées au cours du projet et se doivent d'être alignées avec la démarche.",
-    "miseEnOeuvre": "Identifier les ressources nécessaires et leur associer des exigences environnementales. Le périmètre de la démarche porte sur la conception du service numérique (non sur le fournisseur lui-même). Se référer au [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)",
+    "miseEnOeuvre": "Identifier les ressources nécessaires et leur associer des exigences environnementales. Le périmètre de la démarche porte sur la conception du service numérique (non sur le fournisseur lui-même). Se référer au [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/).",
     "controle": "Quelles sont les spécifications intégrant des clauses environnementales qui ont été imposées aux fournisseurs pour la conception du service numérique ?"
   },
   {
@@ -132,7 +132,7 @@
     "thematique": "Spécifications",
     "critere": "Le service numérique a-t-il pris en compte les impacts environnementaux pour la sélection des services tiers utilisés ?",
     "objectif": "Réduire les impacts environnementaux des services tiers, donc non issus de développement interne.",
-    "miseEnOeuvre": "Les services de tiers sont des services proposés par des fournisseurs externes (développeurs, organismes ou entreprises) apportant des fonctionnalités prêtes à l'emploi (par exemple suivi d'audience, lecteur vidéo, fil d'actualités des réseaux sociaux...) et évitant ainsi de les re-développer en interne.\nUne mesure d'outils analytics A/B test permet de connaitre les impacts environnementaux de celui-ci afin d'aider à la prise de décision sur le facteur environnemental",
+    "miseEnOeuvre": "Les services de tiers sont des services proposés par des fournisseurs externes (développeurs, organismes ou entreprises) apportant des fonctionnalités prêtes à l'emploi (par exemple suivi d'audience, lecteur vidéo, fil d'actualités des réseaux sociaux...) et évitant ainsi de les re-développer en interne.\nUne mesure d'outils analytics A/B test permet de connaitre les impacts environnementaux de celui-ci afin d'aider à la prise de décision sur le facteur environnemental.",
     "controle": "Mesures fournies par le service tiers.\nJustificatifs ou comparatifs validant le choix effectué."
   },
   {
@@ -149,23 +149,23 @@
     "critere": "Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ?",
     "objectif": "L'objectif est d'éviter une architecture surdimensionnée et de privilégier une architecture capable de passer à l'échelle.",
     "miseEnOeuvre": "Évaluer finement le besoin, le nombre d'utilisateurs pour adapter les besoins en ressources informatiques.",
-    "controle": "Obtenir par exemple un indicateur consommation de ressources vs les ressources allouées sur une période de temps"
+    "controle": "Obtenir par exemple un indicateur consommation de ressources vs les ressources allouées sur une période de temps."
   },
   {
     "numero": "3.3",
     "thematique": "Architecture",
     "critere": "Le service numérique a-t-il pris en compte l'évolutivité technique des protocoles ?",
     "objectif": "Limiter l’obsolescence du service induite par l'obsolescence du protocole utilisé, par exemple :\n* face à la pénurie d'IPv4 et la généralisation d'IPv6 (à moyen terme, certains accès internet ne proposeront plus de connectivité IPv4) en garantissant son interopérabilité et sa pérennité,\n* les navigateurs tendent vers le blocage du protocole HTTP et l'obligation d'utiliser HTTPS.",
-    "miseEnOeuvre": "Par exemple :\n* Définir une stratégie de test IPv6 qui inclue des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif: déceler du code ou des fonctions qui ne fonctionnent qu'en IPv4 only, qui seront inutilisables à moyen terme, avec le retrait d'IPv4.\n* Dans un contexte où l'utilisateur accède au service numérique par son navigateur, il est obligatoire d'utiliser HTTPS au lieu de HTTP.",
-    "controle": "Vérifier que les différents composants du service numerique fonctionnent bien :\n* en IPv6 et ne font appel à aucun service IPv4 only.\n* en HTTPS et non en HTTP."
+    "miseEnOeuvre": "Par exemple :\n* Définir une stratégie de test IPv6 qui inclue des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif: déceler du code ou des fonctions qui ne fonctionnent qu'en IPv4 only, qui seront inutilisables à moyen terme, avec le retrait d'IPv4,\n* Dans un contexte où l'utilisateur accède au service numérique par son navigateur, il est obligatoire d'utiliser HTTPS au lieu de HTTP.",
+    "controle": "Vérifier que les différents composants du service numerique fonctionnent bien :\n* en IPv6 et ne font appel à aucun service IPv4 only,\n* en HTTPS et non en HTTP."
   },
   {
     "numero": "3.4",
     "thematique": "Architecture",
     "critere": "Le service numérique utilise-t-il un protocole d'échange adapté aux contenus transférés ?",
-    "objectif": "Limiter ou réduire le transfert de données",
+    "objectif": "Limiter ou réduire le transfert de données.",
     "miseEnOeuvre": "Il existe de nombreux protocoles, chacun ayant ses avantages et ses inconvénients. Par exemple, pour le streaming vidéo, HTTP Live Streaming (HLS), Real-Time Messaging Protocol (RTMP), Web Real-Time Communications (WebRTC)...\nAutre exemple, pour les API : REST, SOAP, REST, GraphQL, Protocol Buffers...",
-    "controle": "Evaluer l'adéquation du protocole utilisé par rapport au contenu transféré"
+    "controle": "Évaluer l'adéquation du protocole utilisé par rapport au contenu transféré."
   },
   {
     "numero": "3.5",
@@ -189,13 +189,13 @@
     "critere": "Le service numérique est-il utilisable via une connexion bas débit ?",
     "objectif": "Si le service numérique s'adresse à un large public, vous ne maitrisez donc pas le niveau de connectivité. Il est nécessaire de veiller à ne pas exclure certains publics qui n'ont pas accès à des hauts débits.\nTout en permettant de réduire la fracture numérique, il s'agit aussi d'une bonne pratique pour l'environnement. En effet, les utilisateurs n'ont pas toujours conscience de ce qui ralentit un service numérique : la connexion réseau, le service numérique ou le terminal utilisé ?\nUn service numérique plus léger a, par conséquent, beaucoup moins besoin de ressources réseaux pour fonctionner.",
     "miseEnOeuvre": "Tester l'utilisabilité du service avec des connexions bas débit, mesurer et améliorer le temps de réponse. Les contenus peuvent être servis en qualité dégradées lorsque cela s'avère nécessaire.",
-    "controle": "Tester l'utilisabilité du service avec des connexions bas débit (3G en mobilité et 512Kbs en fixe)."
+    "controle": "Tester l'utilisabilité du service avec des connexions bas débit (3G en mobilité et 512 Kbs en fixe)."
   },
   {
     "numero": "4.2",
     "thematique": "UX/UI",
     "critere": "Le service numérique comporte-t-il uniquement des éléments animations, vidéos et sons dont la lecture automatique est désactivée ?",
-    "objectif": "Eviter de pré-charger des contenus et de les lancer sans consentement de l'utilisateur",
+    "objectif": "Éviter de pré-charger des contenus et de les lancer sans consentement de l'utilisateur.",
     "miseEnOeuvre": "Par exemple, éviter de précharger et de lire automatiquement vidéos, sons, animations, carrousel, etc.",
     "controle": "Contrôler la mise en œuvre"
   },
@@ -203,7 +203,7 @@
     "numero": "4.3",
     "thematique": "UX/UI",
     "critere": "Le service numérique affiche-t-il uniquement des contenus sans défilement de page infini ?",
-    "objectif": "Eviter le mur de contenus, liste infinie, enchaînement infini de contenus.",
+    "objectif": "Éviter le mur de contenus, liste infinie, enchaînement infini de contenus.",
     "miseEnOeuvre": "Mettre en place une pagination claire dont le chargement du contenu est à la demande de l\"utilisateur et non au défilement du contenu.",
     "controle": "Contrôler la mise en œuvre"
   },
@@ -211,9 +211,9 @@
     "numero": "4.4",
     "thematique": "UX/UI",
     "critere": "Le service numérique optimise-t-il le parcours de navigation pour chaque fonctionnalité principale ?",
-    "objectif": "Minimiser le temps passé par l'utilisateur sur le service numérique.\nOptimiser durant la phase de conception le ou les parcours de navigation pour chaque unité fonctionnelle principale du service numérique. Puis, observer les statistiques de fréquentation et d'usage, couplé aux moyens d'observation UX (expérience utilisateur), afin d'améliorer cette optimisation de parcours\nPar exemple, une unité fonctionnelle principale du service peut être \"réserver un billet\", \"rechercher un terme\", \"trouver une adresse\", \"contacter le support\", etc.",
+    "objectif": "Minimiser le temps passé par l'utilisateur sur le service numérique.\nOptimiser durant la phase de conception le ou les parcours de navigation pour chaque unité fonctionnelle principale du service numérique. Puis, observer les statistiques de fréquentation et d'usage, couplé aux moyens d'observation UX (expérience utilisateur), afin d'améliorer cette optimisation de parcours\nPar exemple, une unité fonctionnelle principale du service peut être \"réserver un billet\", \"rechercher un terme\", \"trouver une adresse\", \"contacter le support\", \"discuter\", etc.",
     "miseEnOeuvre": "Il s'agit d'abord d'une analyse qualitative à mettre en place et pouvant être complétée par une analyse quantitative :\n* Bien définir les unités fonctionnelles principales du service (au sens de l'Analyse de Cycle de Vie).\n* Exploiter toutes les ressources et les outils disponibles en UX afin de comprendre au mieux les usages des utilisateurs, notamment en ce qui concerne leurs parcours de navigation de chaque unité fonctionnelle principale.\n* Mettre en place un système d'analyse non intrusif et respectueux de la vie privée afin d'identifier les parcours-type sur le service numérique. Analyser de temps en temps ces statistiques pour pouvoir améliorer l'expérience utilisateur et les impacts environnementaux de ces \"chemins-critiques\".\n* Mesurer également les indicateurs techniques des parcours identifiés : nombre de requêtes, poids des ressources téléchargées et les traduire en indicateurs d'impacts environnementaux.",
-    "controle": "Outils UX de conception, d'optimisation et de controle continu : tri de carte, sondage, interviews, enquêtes utilisateurs, tests-U, etc.\nContrôle de la mise en place des statistiques d'usage.\nAnalyse de cycle de vie."
+    "controle": "* Outils UX de conception, d'optimisation et de controle continu : tri de carte, sondage, interviews, enquêtes utilisateurs, tests-U, etc.\n* Contrôle de la mise en place des statistiques d'usage.\n* Analyse de cycle de vie."
   },
   {
     "numero": "4.5",
@@ -237,7 +237,7 @@
     "critere": "Le service numérique comporte-t-il des vidéos, animations ou audios utilisées uniquement pour apporter ou restituer une information ?",
     "objectif": "Supprimer le poids des ressources vidéos téléchargées et utilisées pour l'esthétisme du service.",
     "miseEnOeuvre": "S'interroger sur la pertinence d'utiliser des animations et vidéos décoratives.",
-    "controle": "Evaluer la pertinence du choix d'afficher une animation ou une vidéo décorative."
+    "controle": "Évaluer la pertinence du choix d'afficher une animation ou une vidéo décorative."
   },
   {
     "numero": "4.8",
@@ -253,7 +253,7 @@
     "critere": "Le service numérique privilégie-t-il l'utilisation de contenu texte ou image au lieu de contenu vidéo ou audio lorsque cela est possible ?",
     "objectif": "Réduire le poids des ressources utilisées, sachant qu'une vidéo pèse généralement beaucoup plus lourd qu'un texte contenant des images.",
     "miseEnOeuvre": "Questionner le besoin d'afficher une vidéo, très en amont et choisir la solution la plus sobre possible tout en répondant au besoin utilisateur.",
-    "controle": "Evaluer la pertinence du choix d'affichage d'une vidéo."
+    "controle": "Évaluer la pertinence du choix d'affichage d'une vidéo."
   },
   {
     "numero": "4.10",
@@ -261,13 +261,13 @@
     "critere": "Le service numérique utilise-t-il majoritairement des polices de caractères du système d'exploitation ?",
     "objectif": "Réduire la quantité et le poids des polices personnalisées utilisées. Privilégier l'utilisation des polices systèmes lorsque la personnalisation n'est pas nécessaire.",
     "miseEnOeuvre": "Par exemple, se fixer comme objectif de n'utiliser qu'au maximum, deux polices différentes et au maximum quatre variantes par police. Vérifier par exemple la compression des polices ou l'usage des glyphes nécessaires.\nDans un contexte de site web, faire attention aussi sur le mode de chargement : bloquant, non bloquant...",
-    "controle": "Evaluer le nombre et poids des polices de catactères utilisées."
+    "controle": "Évaluer le nombre et poids des polices de catactères utilisées."
   },
   {
     "numero": "4.11",
     "thematique": "UX/UI",
     "critere": "Le service numérique limite-t-il les requètes serveur lors de la saisie utilisateur ?",
-    "objectif": "Eviter de réaliser des requêtes client - serveur inutiles. Par exemple dans un contexte de formulaire, de suggestion de résultats, etc.",
+    "objectif": "Éviter de réaliser des requêtes client - serveur inutiles. Par exemple dans un contexte de formulaire, de suggestion de résultats, etc.",
     "miseEnOeuvre": "Pour une aide à la saisie (\"autocompletion\"), attendre par exemple d'avoir 3 caractères et 200 ms après saisie avant de lancer une requête réseau.",
     "controle": "Contrôler la mise en œuvre"
   },
@@ -283,7 +283,7 @@
     "numero": "4.13",
     "thematique": "UX/UI",
     "critere": "Le service numérique vérifie-t-il les saisies et les formats de données obligatoires à la soumission d'un formulaire sans requête serveur lorsque c'est possible ?",
-    "objectif": "L'objectif est d'éviter les requêtes serveur inutiles. Dans certains cas il n'est pas possible de vérifier côté client en fin de formulaire, dans ce cas la vérification sera côté serveur",
+    "objectif": "L'objectif est d'éviter les requêtes serveur inutiles. Dans certains cas il n'est pas possible de vérifier côté client en fin de formulaire, dans ce cas la vérification sera côté serveur.",
     "miseEnOeuvre": "Valider les saisies et les formats de données obligatoires à la soumission d'un formulaire sans requête serveur lorsque cela est possible. Attention : pré-valider les données côté frontend n'exempt pas la validation côté backend.",
     "controle": "Contrôler la mise en œuvre"
   },
@@ -316,7 +316,7 @@
     "thematique": "UX/UI",
     "critere": "Le service numérique propose t-il des notifications uniquement lorsque c'est nécessaire ?",
     "objectif": "Réduire l'usage de ressources informatiques en évitant d'attirer inutilement l'attention de l'utilisateur.",
-    "miseEnOeuvre": "Les notifications envisagées par le service numérique sont dans l'intérêt de l'utilisateur en terme de besoin. Les notifications évitent également la multiplications sur différents canaux redondants (SMS, mails, notification d'application, notification d'interface, pop-in, etc.)",
+    "miseEnOeuvre": "Les notifications envisagées par le service numérique sont dans l'intérêt de l'utilisateur en terme de besoin. Les notifications évitent également la multiplications sur différents canaux redondants (SMS, mails, notification d'application, notification d'interface, pop-in, etc.).",
     "controle": "Contrôler la mise en œuvre"
   },
   {
@@ -341,15 +341,15 @@
     "critere": "Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation de chaque contenu image ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
     "miseEnOeuvre": "Choisir le format image adapté à la typologie d'image et au contexte d'affichage : utiliser le format vectoriel comme le svg lorsque cela est possible (illustrations, icones, logos, graphes...), le format jpg pour des photos et le format png pour des illustrations avec aplats de couleurs.",
-    "controle": "Evaluer la pertinence du format de l'image affichée."
+    "controle": "Évaluer la pertinence du format de l'image affichée."
   },
   {
     "numero": "5.2",
     "thematique": "Contenus",
     "critere": "Le service numérique propose-t-il des contenus image dont le niveau de compression est adapté au contenu et au contexte de visualisation ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
-    "miseEnOeuvre": "Ex. Lors de la génération d'une image JPEG depuis un logiciel de retouche, la compression à 60% peut être visuellement acceptable. En PNG la réduction de la palette des couleurs est conseillée.\n\nAplatir les calques pour générer un format vectoriel SVG. Minifier et optimiser encore plus la compression en utilisant des outils dédiés.",
-    "controle": "Evaluer la qualité et le poids de l'image affichée."
+    "miseEnOeuvre": "Ex. Lors de la génération d'une image JPEG depuis un logiciel de retouche, la compression à 60 % peut être visuellement acceptable. En PNG la réduction de la palette des couleurs est conseillée.\n\nAplatir les calques pour générer un format vectoriel SVG. Minifier et optimiser encore plus la compression en utilisant des outils dédiés.",
+    "controle": "Évaluer la qualité et le poids de l'image affichée."
   },
   {
     "numero": "5.3",
@@ -364,8 +364,8 @@
     "thematique": "Contenus",
     "critere": "Le service numérique propose-t-il des contenus vidéo dont le niveau de compression est adapté au contenu et au contexte de visualisation ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
-    "miseEnOeuvre": "Ex. Optimisation du Bitrate (débit) au sein du format",
-    "controle": "Evaluer la qualité et le poids de la vidéo proposée."
+    "miseEnOeuvre": "Par exemple, optimisation du Bitrate (débit) au sein du format.",
+    "controle": "Évaluer la qualité et le poids de la vidéo proposée."
   },
   {
     "numero": "5.5",
@@ -373,7 +373,7 @@
     "critere": "Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d'écoute de chaque contenu audio ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
     "miseEnOeuvre": "Utiliser par exemple le MP3, OGG ou AAC au lieu du FLAC, AIFF ou WAV.",
-    "controle": "Evaluer la pertinence du format de fichier audio par rapport au contenu proposé : musique, parlé, etc."
+    "controle": "Évaluer la pertinence du format de fichier audio par rapport au contenu proposé : musique, parlé, etc."
   },
   {
     "numero": "5.6",
@@ -381,7 +381,7 @@
     "critere": "Le service numérique propose-t-il des contenus audio dont le niveau de compression est adapté au contenu et au contexte d'écoute ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
     "miseEnOeuvre": "Exemple : optimisation du Bitrate (débit), du Ratio (Taux de compression) et de la Fréquence au sein du format\nChoix adapté Stéréo pour de la musique ou Mono pour des dialogues\nÉviter le ratio poids en mega-octet/durée en minute supérieur à 1.",
-    "controle": "Evaluer la pertinence du poids de fichier audio par rapport au contenu proposé."
+    "controle": "Évaluer la pertinence du poids de fichier audio par rapport au contenu proposé."
   },
   {
     "numero": "5.7",
@@ -389,7 +389,7 @@
     "critere": "Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d'utilisation pour chaque contenu document ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
     "miseEnOeuvre": "Ex : réserver un PDF optimisé web (donc comportant des visuels en 72 dpi) pour une visualisation en ligne et un PDF optimisé impression HD (donc comportant des visuels en 150 ou 300 dpi) pour une utilisation destinée à l'impression HD.",
-    "controle": "Evaluer la pertinence du format du document proposé."
+    "controle": "Évaluer la pertinence du format du document proposé."
   },
   {
     "numero": "5.8",
@@ -397,7 +397,7 @@
     "critere": "Le service numérique propose-t-il des contenus document dont le niveau de compression est adapté au contenu et au contexte d'utilisation ?",
     "objectif": "Réduire le poids des fichiers téléchargés par les utilisateurs.",
     "miseEnOeuvre": "Exemple : les paramètres de compression depuis pour générer un PDF en résolution 72 dpi pour tous les médias du document.",
-    "controle": "Evaluer le poids du document par rapport à son contenu."
+    "controle": "Évaluer le poids du document par rapport à son contenu."
   },
   {
     "numero": "5.9",
@@ -405,7 +405,7 @@
     "critere": "Le service numérique a-t-il une stratégie de suppression, automatique ou manuelle, des contenus obsolètes ou périmés ?",
     "objectif": "Alléger les bases de données et les serveurs physiques de données non utiles.",
     "miseEnOeuvre": "Définir une stratégie de suppression des contenus obsolètes, périmés, dépassés ou inutiles à conserver. Cette stratégie peut être automatique en définissant une date ou une durée d'expiration et un processus de purge automatique.",
-    "controle": "Contrôler la mise en œuvre"
+    "controle": "Contrôler la mise en oeuvre"
   },
   {
     "numero": "6.1",
@@ -429,13 +429,13 @@
     "critere": "Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ?",
     "objectif": "Réduire le poids des données échangés.",
     "miseEnOeuvre": "La stratégie de cache doit être adapté au contexte d'application et au scénario d'usage. La gestion du mode déconnecté (offline) est parfois très pertinent, parfois non. Mettre en place un mécanisme de cache côté utilisateur, en frontend (cache HTTP par exemple).",
-    "controle": "Vérifier la mise en œuvre."
+    "controle": "Vérifier la mise en œuvre"
   },
   {
     "numero": "6.4",
     "thematique": "Frontend",
     "critere": "Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ?",
-    "objectif": "Réduire ou limiter les données téléchargées",
+    "objectif": "Réduire ou limiter les données téléchargées.",
     "miseEnOeuvre": "Compression, minification des fichiers de scripts par exemple. Attention toutefois à ne pas générer de la consommation de ressource si il y a besoin de puissance de calcul pour \"décompresser\" les fichiers : la compression systématique de type .tgz par exemple pour des petits fichiers peut être contre-productif.",
     "controle": "Vérifier que les fichiers téléchargés sont compressés."
   },
@@ -443,7 +443,7 @@
     "numero": "6.5",
     "thematique": "Frontend",
     "critere": "Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d'origine correspondent aux dimensions du contexte d'affichage ?",
-    "objectif": "Réduire ou limiter les données téléchargées",
+    "objectif": "Réduire ou limiter les données téléchargées.",
     "miseEnOeuvre": "Par exemple, lors de l'ajout des médias ou des éléments graphiques au service numérique, les dimensions d'affichages sont requises. Autre possibilité, vraie surtout pour les images, un redimensionnement est réalisée coté serveur lors de l'ajout du fichier par un contributeur.\nException à cette règle : le cas des images pour écran Retina (image affichée dont la taille d'origine est deux fois supérieure à son contexte d'affichage).",
     "controle": "Contrôler que les images ou les médias sont affichés dans leur taille d'origine."
   },
@@ -451,7 +451,7 @@
     "numero": "6.6",
     "thematique": "Frontend",
     "critere": "Le service numérique propose-t-il un mécanisme de chargement progressif pour les éléments graphiques et les médias le nécessitant ?",
-    "objectif": "Réduire ou limiter les données téléchargées",
+    "objectif": "Réduire ou limiter les données téléchargées.",
     "miseEnOeuvre": "Exemples : streaming pour la vidéo, chargement uniquement des images ou ressources affichées à l'écran (\"lazy loading\")...",
     "controle": "Contrôler la mise en œuvre"
   },
@@ -477,7 +477,7 @@
     "critere": "Le service numerique utilise-t-il un stockage côté client de certaines ressources afin d'éviter des échanges réseaux inutiles ?",
     "objectif": "Réduire ou limiter les échanges client - serveur.",
     "miseEnOeuvre": "Par exemple, il est possible de stocker des données souvent utilisées dans le navigateur web afin de limiter les échanges avec le serveur.",
-    "controle": "Vérifier qu'aucune fonctionnalité ne fait des requêtes identiques et redondantes"
+    "controle": "Vérifier qu'aucune fonctionnalité ne fait des requêtes identiques et redondantes."
   },
   {
     "numero": "6.10",
@@ -516,7 +516,7 @@
     "thematique": "Backend",
     "critere": "Le service numérique définit il des dates d'expiration sur les données qui le nécessitent ?",
     "objectif": "Alléger les bases de données et les serveurs physiques de données non utiles.",
-    "miseEnOeuvre": "Définir des dates d'expiration sur les données (fichiers, entrées en base de données...) permettant par la suite de supprimer cette donnée (Cf critère suivant)",
+    "miseEnOeuvre": "Définir des dates d'expiration sur les données (fichiers, entrées en base de données...) permettant par la suite de supprimer cette donnée. (Cf critère suivant)",
     "controle": "Demande déclarative à l'équipe de développement. Ceci peut être tracé dans un document sur la politique/stratégie de la gestion des données."
   },
   {
@@ -540,7 +540,7 @@
     "thematique": "Hébergement",
     "critere": "Le service numérique utilise-t-il un hébergement signataire du Code de Conduite européen sur les Datacentres ?",
     "objectif": "Favoriser un hébergement qui a des engagements en faveur de l'environnement.",
-    "miseEnOeuvre": "Sélectionner un hébergeur engagé dans cette démarche\nOu demander des engagements à l'hébergeur en ce sens.\nEn savoir plus sur le [Code de conduite européen](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/).",
+    "miseEnOeuvre": "Sélectionner un hébergeur engagé dans cette démarche.\nOu demander des engagements à l'hébergeur en ce sens.\nEn savoir plus sur le [Code de conduite européen](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/).",
     "controle": "Justificatif de l'hébergeur de sa ratification du Code de Conduite et des actions associées"
   },
   {
@@ -565,7 +565,7 @@
     "critere": "Le service numérique utilise-t-il un hébergement qui fournit des indicateurs d'impacts environnementaux liés à son activité ?",
     "objectif": "Favoriser un hébergement qui mesure et qui rend disponibles les impacts environnementaux liés à son usage.",
     "miseEnOeuvre": "Sélectionner un hébergeur ou demander des engagements à un hébergeur proposant des métriques environnementales.",
-    "controle": "Indicateurs environnementaux et / ou à défaut, mais non suffisant, de consommation énergétique indiqués par l'hébergeur"
+    "controle": "Indicateurs environnementaux et / ou à défaut, mais non suffisant, de consommation énergétique indiqués par l'hébergeur."
   },
   {
     "numero": "8.5",
@@ -620,7 +620,7 @@
     "thematique": "Hébergement",
     "critere": "Le service numérique utilise-t-il une redondance uniquement lorsque cela est nécessaire ?",
     "objectif": "Réduire les ressources informatiques et les ressources de stockage utilisées.",
-    "miseEnOeuvre": "Se questionner sur la pertinence de la redondance du service. Est-ce critique si le service numérique n'est pas disponible pendant un certain temps ?\n* Le Backup & Restore est ce qu’il y a de moins cher, parfaitement adapté aux applications qui ont un RTO/RPO de quelques heures\n* Le Pilot Light, c’est par exemple une base de données \"mirorée\" mais avec des VMs éteintes, un peu plus cher qu’un Backup & Restore cela fonctionne pour la plupart des applications qui n’ont pas des exigences SLA extrêmes (inférieures à 1h)\n* Le Warm Standby, c’est lorsque les VMs tournent déjà mais dans une scalabilité limitée, quasiment en temps réel mais potentiellement en qualité légèrement dégradée si incident.\n* Le Hot Standby Multi-Site : total résilience pour des SLAs temps réel. Aucune perte de service n’est tolérée, mais forcément cela a un coût.",
+    "miseEnOeuvre": "Se questionner sur la pertinence de la redondance du service. Est-ce critique si le service numérique n'est pas disponible pendant un certain temps ?\n* Le Backup & Restore est ce qu’il y a de moins cher, parfaitement adapté aux applications qui ont un RTO/RPO de quelques heures.\n* Le Pilot Light, c’est par exemple une base de données \"mirrorée\" mais avec des VMs éteintes, un peu plus cher qu’un Backup & Restore cela fonctionne pour la plupart des applications qui n’ont pas des exigences SLA extrêmes (inférieures à 1 heure).\n* Le Warm Standby, c’est lorsque les VMs tournent déjà mais dans une scalabilité limitée, quasiment en temps réel mais potentiellement en qualité légèrement dégradée si incident.\n* Le Hot Standby Multi-Site : total résilience pour des SLAs temps réel. Aucune perte de service n’est tolérée, mais forcément cela a un coût.",
     "controle": "Vérification de la présence d'un SLA (Service Level Agreement) par exemple"
   },
   {
