@@ -58,7 +58,7 @@ layout: layouts/base.njk
                                 <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/journal-des-modifications/' == page.url }}>Journal des modifications</a>
                             </li>
                             <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="#">Consultation publique</a>
+                                <a class="fr-sidemenu__link" href="{{ metadata.referentielEcoconception.consultationUrl }}">Consultation publique</a>
                             </li>
                         </ul>
                     </div>
