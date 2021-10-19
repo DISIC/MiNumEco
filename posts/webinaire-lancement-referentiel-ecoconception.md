@@ -31,3 +31,5 @@ Pas d'inscription préalable et accès limité aux 300 premiers connectés.
 __Enregistrement__ : oui, il sera disponible ici après le webinaire.
 
 </div>
+
+<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/referentiel-general-ecoconception/">Voir le référentiel général d'écoconception de service numérique</a>
