@@ -19,9 +19,13 @@ eleventyNavigation:
 <p class="fr-py-2w">
     <span class="fr-tag">Version : {{ metadata.referentielEcoconception.versionTitle }}</span>
     <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time>
-    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv">Format CSV</a>
-    <a class="fr-link fr-fi-arrow-down-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json">Format JSON</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv">Format CSV</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json">Format JSON</a>
 </p>
+
+<p>Ce référentiel est mené dans le cadre de la mission interministérielle « Green Tech » et co-pilotée par la Direction interministérielle du numérique (DINUM),
+le Ministère de la Transition Écologique, mais également l’ADEME et l’Institut du Numérique Responsable. Les objectifs sont de réduire la consommation de ressources informatiques et énergétiques et la contribution
+à l’obsolescence des équipements, qu’il s’agisse des équipements utilisateurs ou des équipements réseau ou serveur. <a href="/publications/referentiel-general-ecoconception/a-propos/">En savoir plus</a>.</p>
 
 <div class="fr-callout fr-fi-information-line fr-mb-4w">
     <p class="fr-callout__title">Consultation publique</p>
