@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: EcoDiag
 description: Bilan carbone des équipements informatiques d'une organisation
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/ecodiag.png
 category: Mesure
 scope: Organisation
+target: Auditeur ou auditrice
 toolType: Outil en ligne
 environnementalIndicators: Gaz à effet de serre
 measuredIndicators: Type, quantité et durée de vie des équipements

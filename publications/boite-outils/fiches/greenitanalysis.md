@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: Green IT Analysis
 description: Mesure des impacts environnementaux d'une page web
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/greenit-analysis.png
 category: Mesure
 scope: Web
+target: Développeur(se)
 toolType: Extension de navigateur
 environnementalIndicators: Gaz à effet de serre, consommation d'eau
 measuredIndicators: Taille du DOM HTML, nombre de requêtes, poids des pages

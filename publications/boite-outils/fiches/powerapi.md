@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: PowerAPI
 description: Mesurer la consommation énergétique des logiciels
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/powerapi.png
 category: Mesure
 scope: Logiciel
+target: Développeur(se)
 toolType: Package
 environnementalIndicators: Aucun
 measuredIndicators: Consommation électrique

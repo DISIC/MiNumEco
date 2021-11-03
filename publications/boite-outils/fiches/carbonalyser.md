@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: Carbonalyser
 description: Mesure des impacts environnementaux d'une navigation web
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/carbonalyser.png
 category: Mesure
 scope: Web
+target: Sensibilisation pour tous profils
 toolType: Extension de navigateur
 environnementalIndicators: Gaz à effet de serre
 measuredIndicators: Poids des pages

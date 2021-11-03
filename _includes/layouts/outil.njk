@@ -28,21 +28,27 @@ layout: layouts/base.njk
 
     <div class="fr-col-12 fr-col-md-8">
 
-        {% if date %}
-            <p class="fr-py-2w">
+        <p class="fr-py-2w">
+            {% if date %}
                 <time class="fr-tag" datetime="{{ date | htmlDateString }}">Dernière mise à jour le {{ date | readableDate }}</time>
-            </p>
-        {% endif %}
+            {% endif %}
+                
+            <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ link }}">Voir le site</a>
+        
+            {% if codeRepository %}
+                <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ codeRepository }}">Voir le code source</a>
+            {% endif %}
+        </p>
 
-        <p><img src="{{ image }}" alt=""></p>
+        {% if image %}
+            <p><img src="{{ image }}" alt="" style="border: 1px solid grey"></p>
+        {% endif %}
 
         {{ content | safe }}
 
         <p><b>Auteur</b> : {{ author }}</p>
         <p><b>Technologie principale</b> : {{ mainTechnology }}</p>
         <p><b>Licence</b> : {{ licence }}</p>
-        <p><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ link }}">Voir le site</a></p>
-        <p><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ codeRepository }}">Voir le code source</a></p>
     </div>
     
     <div class="fr-col-12 fr-col-md-4">
@@ -56,6 +62,12 @@ layout: layouts/base.njk
             <div class="fr-tile__body">
                 <h2 class="fr-tile__title">Type</h2>
                 <p class="fr-tile__desc">{{ toolType }}</p>
+            </div>
+        </div>
+        <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+                <h2 class="fr-tile__title">Utilisateurs cibles</h2>
+                <p class="fr-tile__desc">{{ target }}</p>
             </div>
         </div>
         <div class="fr-tile fr-mb-2w">

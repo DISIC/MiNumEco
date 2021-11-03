@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: Scaphandre
 description: Agent de monitoring dédié aux mesures de consommation d'énergie finale
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/scaphandre.png
 category: Mesure
 scope: Serveur
+target: Ops
 toolType: Supervisation
 environnementalIndicators: Aucun
 measuredIndicators: Consommation électrique

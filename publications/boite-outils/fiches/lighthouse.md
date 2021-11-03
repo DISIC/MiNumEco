@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: Lighthouse
 description: Mesure des performances d'une page web
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/lighthouse.png
 category: Mesure
 scope: Web
+target: Développeur(se)
 toolType: Extension de navigateur, CLI
 environnementalIndicators: Aucun
 measuredIndicators: Performance, accessibilité, SEO

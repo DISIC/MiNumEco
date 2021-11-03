@@ -3,10 +3,11 @@ layout: layouts/outil.njk
 title: Cloud Carbon Footprint
 description: Fournit une visibilité des émissions de carbone induites par les usages du Cloud.
 tags: tool
-date: 2021-07-15
+date: 2021-11-09
 image: /img/outils/cloudcarbonfootprint.png
 category: Mesure
 scope: Cloud
+target: Ops, Finops
 toolType: App web à installer
 environnementalIndicators: Gaz à effet de serre
 measuredIndicators: Consommation électrique
