@@ -5,7 +5,6 @@ description: Sélection non-exhaustive de formations libres d’accès dédiés 
 date: 2021-11-09
 image: /img/formations.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: formations
   parent: publications
