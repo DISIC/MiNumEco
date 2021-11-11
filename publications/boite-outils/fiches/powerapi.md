@@ -12,7 +12,7 @@ toolType: Package
 environnementalIndicators: Aucun
 measuredIndicators: Consommation électrique
 mainTechnology: Python
-author: INRIA, University of Lille
+author: INRIA, Université de Lille
 link: https://powerapi-ng.github.io/
 codeRepository: https://github.com/powerapi-ng/powerapi
 licence: BSD 3-Clause License
