@@ -34,6 +34,10 @@ L’audit mené en avril 2021 par nos soins a porté sur l’échantillon suivan
 * [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
 * [Fiche pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/analyse-cycle-de-vie/)
 
+## Schéma pluriannuel et plan annuel de la DINUM
+
+[Consulter le schéma pluriannuel d’accessibilité sur la page de déclaration d'accessibilité de la DINUM](https://www.numerique.gouv.fr/accessibilite/).
+
 ## Retour d’information et contact
 
 La DINUM s’engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l’objet d’une dérogation ou non.
