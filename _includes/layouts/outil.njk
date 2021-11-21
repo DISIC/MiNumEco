@@ -30,7 +30,7 @@ layout: layouts/base.njk
 
         <p class="fr-py-2w">
             {% if date %}
-                <time class="fr-tag" datetime="{{ date | htmlDateString }}">Dernière mise à jour le {{ date | readableDate }}</time>
+                <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time>
             {% endif %}
                 
             <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ link }}">Voir le site</a>
