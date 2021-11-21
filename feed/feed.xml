@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Numérique écoresponsable</title>
+	<subtitle>Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique</subtitle>
+	
+	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
+	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
+	<updated>2021-11-19T00:00:00Z</updated>
+	<id>https://ecoresponsable.numerique.gouv.fr/</id>
+	<author>
+		<name>Mission Green Tech</name>
+		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
+	</author>
+	
+	<entry>
+		<title>Formation initiale à l’écoconception</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/"/>
+		<updated>2021-11-19T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/</id>
+		<content type="html">&lt;p&gt;La mission interministérielle numérique écoresponsable et le pôle Design des services numériques de la Dinum vous propose une  formation initiale à l’écoconception d&#39;une durée de 2 heures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prochaine session&lt;/strong&gt; : le jeudi 16 décembre 2021 de 10h à 12h, gratuit, niveau débutant.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public concerné&lt;/strong&gt; : agents de la fonction publique ou prestataires impliqués dans la conception des services numériques publics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://design.numerique.gouv.fr/formations/ecoconception/&quot;&gt;En savoir plus sur la formation initiale à l’écoconception&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://design.numerique.gouv.fr/formations/&quot;&gt;Autres formations disponibles : Accessibilité, Design et Recherche utilisateur&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mois de l&#39;innovation publique - Webinaire Numérique écoresponsable</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/mois-innovation-publique-numerique-ecoresponsable/"/>
+		<updated>2021-11-16T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/mois-innovation-publique-numerique-ecoresponsable/</id>
+		<content type="html">&lt;p&gt;Le numérique s’est imposé massivement dans toutes nos activités quotidiennes et fait tourner l&#39;économie mondiale. Cependant, le numérique est responsable aujourd&#39;hui directement de 4% des émissions de gaz à effet de serre. Le numérique repose aussi sur une extraction intense de ressources naturelles pour produire toute l&#39;infrastructure sur laquelle il repose et nos terminaux utilisateurs. Nous présenterons les travaux entamés au sein de l’administration publique en vue de réduire son empreinte environnementale du numérique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sommaire du webinaire :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dinum : point sur les travaux en cours, achats, écoconception, bonnes pratiques, plan d’action interministériel…&lt;/li&gt;
+&lt;li&gt;CGDD : la réglementation et la feuille de route Numérique et Environnement&lt;/li&gt;
+&lt;li&gt;Ministère de la Transition écologique : Retour d’expérience écoconception de service numérique&lt;/li&gt;
+&lt;li&gt;Ecologic : Bonne gestion des DEEE, réemploi et économie circulaire&lt;/li&gt;
+&lt;li&gt;Questions / réponses&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Webinaire le 25 octobre de 17h à 18h&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Public cible&lt;/strong&gt; : agents publics&lt;br /&gt;
+&lt;strong&gt;Lien de connexion&lt;/strong&gt; (pas d&#39;inscription préalable) : &lt;a href=&quot;https://webinaire.numerique.gouv.fr//meeting/signin/2658/creator/10/hash/2c310a1237685800d1a94df09760c17054925d97&quot;&gt;sur webinaire.numerique.gouv.fr&lt;/a&gt;&lt;br /&gt;
+Un enregistrement sera disponible après la conférence.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Webinaire de lancement du Référentiel général d’écoconception de service numérique</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/webinaire-lancement-referentiel-ecoconception/"/>
+		<updated>2021-10-11T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/webinaire-lancement-referentiel-ecoconception/</id>
+		<content type="html">&lt;p&gt;Nous vous annonçons la publication en version bêta sous licence ouverte Etalab v2 et la consultation publique d&#39;un &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/&quot;&gt;Référentiel général d&#39;écoconception de service numérique&lt;/a&gt;. Ce document est piloté par la Dinum, le Ministère de la Transition Écologique (MTE), l&#39;Ademe et l&#39;Institut du Numérique Responsable (INR) dans le cadre de la mission interministérielle Green Tech / Numérique écoresponsable.&lt;/p&gt;
+&lt;p&gt;Recommandé dans le &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/&quot;&gt;rapport sur l’obsolescence logicielle&lt;/a&gt; que le Gouvernement a remis au Parlement en juin 2021, le référentiel général d’écoconception de service numérique est aussi un engagement de la &lt;a href=&quot;https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement&quot;&gt;feuille de route gouvernementale «  Numérique et Environnement »&lt;/a&gt; publiée en février 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sommaire du webinaire :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;La mission interministérielle « Green Tech » Numérique écoresponsable, par Olivier Joviado, mission interministérielle Green Tech, Dinum&lt;/li&gt;
+&lt;li&gt;État des lieux de la réglementation sur l&#39;écoconception logicielle, par Viviane Valla du Commissariat général au développement durable (CGDD)&lt;/li&gt;
+&lt;li&gt;Complémentarité entre accessibilité et écoconception, par Marine Boudeau, pôle Design, Dinum&lt;/li&gt;
+&lt;li&gt;Écoconception et mesure, par Raphaël Guastavi, service écoconception et recyclage, Ademe&lt;/li&gt;
+&lt;li&gt;Valorisation du référentiel dans les achats publics, par Mounir Ould Ghouil, Bureau achats informatiques et de télécommunications, Direction des Achats de l&#39;État&lt;/li&gt;
+&lt;li&gt;Retour d&#39;expérience écoconception de service numérique, par Geoffrey Arthaud, architecture et méthodes, SNUM, Ministère de la Transition écologique&lt;/li&gt;
+&lt;li&gt;Les travaux préliminaires du groupe de travail écoconception, par Denis Didier, Institut du Numérique Responsable&lt;/li&gt;
+&lt;li&gt;Le référentiel en consultation publique, par Richard Hanna, mission interministérielle Green Tech, Dinum&lt;/li&gt;
+&lt;li&gt;Questions / réponses&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Webinaire le 19 octobre de 17h à 18h&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Public cible&lt;/strong&gt; : tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, maîtrise d&#39;ouvrage, maîtrise d&#39;oeuvre, product owner, UX researcher, designer, développeur(se), devops...&lt;br /&gt;
+&lt;strong&gt;Enregistrement&lt;/strong&gt; : &lt;a href=&quot;https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/746707ced243a34296dc84e318d478c23c337948-1634653879677&quot;&gt;voir ou revoir le webinaire&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;fr-link fr-fi-arrow-right-line fr-link--icon-right&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/&quot;&gt;Voir le référentiel général d&#39;écoconception de service numérique&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rapport sur l’impact environnemental du numérique en santé</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/"/>
+		<updated>2021-06-11T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Le ministère des Solidarités et de la Santé et l’Agence du Numérique en Santé publient le premier rapport sur l’impact environnemental du numérique en santé et invitent toutes les parties prenantes de cet écosystème à s’engager dans des démarches éco-responsables.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ce rapport s’inscrit dans le cadre des travaux de la cellule éthique du Numérique en Santé de la Délégation ministérielle au Numérique en Santé, du ministère des Solidarités et de la Santé.&lt;/p&gt;
+&lt;p&gt;Il vise à sensibiliser l’ensemble des acteurs de l’écosystème de la santé numérique (qu’ils soient usagers du système de santé, patients, professionnels, éditeurs de logiciel, industriels) sur les impacts environnementaux des systèmes numériques et à proposer des éléments de réflexion sur la sobriété numérique appliquée aux secteurs de la santé, du social et du médico-social, dans la perspective d’actions concrètes. Il s’articule autour de six parties et comporte deux zooms et trois chapitres « Pour approfondir » visant à détailler certains points en vue d’une mise en application de la sobriété numérique.&lt;/p&gt;
+&lt;p&gt;La mission Green Tech a participé à la rédaction de ce rapport aux côtés de la Délégation ministérielle au numérique en santé.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Publication du rapport sur l’obsolescence logicielle</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/"/>
+		<updated>2021-06-10T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/</id>
+		<content type="html">&lt;p&gt;Le Gouvernement a remis au Parlement le rapport sur l’obsolescence logicielle prévu à l’article 27 de la loi du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire (AGEC).&lt;/p&gt;
+&lt;p&gt;A l’heure où le secteur du numérique est un des secteurs dont l’empreinte environnementale croît le plus, lutter contre un renouvellement trop rapide des appareils numériques est crucial. En effet, leur fabrication concentre plus de 75% des impacts environnementaux du numérique.&lt;/p&gt;
+&lt;p&gt;L’obsolescence logicielle, c’est-à-dire la diminution des possibilités d’usage d’un bien en raison de l’indisponibilité ou du dysfonctionnement d’un logiciel, contribue au renouvellement trop rapide de ces terminaux.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Publication du Guide pratique pour des achats numériques responsables en version bêta</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/guide-achats-numerique-responsable-version-beta/"/>
+		<updated>2021-04-30T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/guide-achats-numerique-responsable-version-beta/</id>
+		<content type="html">&lt;p&gt;La direction interministérielle du numérique (DINUM), le Ministère de la Transition écologique / CGDD, la Direction des achats de l&#39;État (DAE) et l&#39;Institut du Numérique Responsable (INR) ont présenté &lt;a href=&quot;https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.0/playback.html?meetingId=6a42dba1ce5f3be1330d9a211e7789aba4978511-1619707374388&amp;amp;t=0s&quot;&gt;lors d&#39;un webinaire&lt;/a&gt; ce jeudi 29 avril le &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/&quot;&gt;Guide pratique pour des achats numériques responsables&lt;/a&gt; en version bêta.&lt;/p&gt;
+&lt;p&gt;Ce guide consigne de nombreuses recommandations à l’adresse des acteurs publics, recommandations également ouvertes aux acteurs du secteur privé qui peuvent se les approprier dans leur propre démarche d’achat.&lt;/p&gt;
+&lt;p&gt;Publié sous format dématérialisé, &lt;a href=&quot;https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation&quot;&gt;le guide est l’objet durant un mois d’une consultation publique&lt;/a&gt; principalement à l&#39;intention des professionnels de l&#39;achat de biens et services du numérique. Une nouvelle version enrichie des contributions sera actualisée à l’issue de cette consultation.&lt;/p&gt;
+&lt;div class=&quot;fr-grid-row fr-grid-row--gutters&quot;&gt;
+  &lt;div class=&quot;fr-col-12 fr-col-md-6&quot;&gt;
+    &lt;a target=&quot;_self&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf&quot; title=&quot;Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)&quot;&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/guide-achats/couverture-guide-achats-numerique-responsable.png&quot; class=&quot;fr-responsive-img&quot; alt=&quot;&quot; style=&quot;border: 1px solid #ccc&quot; onclick=&quot;return tag.click.send({elem:this, name:&#39;guide-achats-numeriques-responsables-version-beta-avril-2021.pdf&#39;, type:&#39;download&#39;});&quot; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fr-col-12 fr-col-md-6&quot;&gt;
+&lt;h2&gt;Consulter en ligne&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;fr-link fr-fi-arrow-right-line fr-link--icon-right&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/&quot;&gt;Accueil du guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Télécharger&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;fr-link fr-fi-download-line fr-link--icon-left&quot; target=&quot;_self&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf&quot; onclick=&quot;return tag.click.send({elem:this, name:&#39;guide-achats-numeriques-responsables-version-beta-avril-2021.pdf&#39;, type:&#39;download&#39;});&quot;&gt;Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Contribuer&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;fr-link fr-fi-arrow-right-line fr-link--icon-right&quot; href=&quot;https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation&quot;&gt;Participer à la consultation publique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Version actuelle&lt;/strong&gt; : version Bêta, publié sous &lt;a href=&quot;https://github.com/etalab/licence-ouverte/blob/master/LO.md&quot;&gt;licence ouverte Etalab version 2.0&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+	</entry>
+</feed>
