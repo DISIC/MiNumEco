@@ -1,6 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
+date: 2021-10-19
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
@@ -41,7 +42,7 @@ Ce référentiel ne s’applique pas au périmètre d’une organisation ni dans
 
 ## Public cible
 
-Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à maîtrise d'ouvrage (AMOA), assistant(e) à maitrise d'œuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se)...
+Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à maîtrise d'ouvrage (AMOA), assistant(e) à maitrise d'œuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se), rédacteur ou rédactrice web, contributeur ou contributrice à un outil de gestion de contenu...
 
 ## Réalisation
 
