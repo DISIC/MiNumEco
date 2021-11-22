@@ -64,6 +64,8 @@ module.exports = function(eleventyConfig) {
     'css': 'css',
     'js': 'js',
     'docs': 'docs',
+    'fonts': 'fonts',
+    'favicon': 'favicon',
     'CNAME': 'CNAME',
     '.well-known/pki-validation/01a55d39-ad7f-4bd3-badc-bbf5f725da7b.txt': '.well-known/pki-validation/01a55d39-ad7f-4bd3-badc-bbf5f725da7b.txt'
   });
