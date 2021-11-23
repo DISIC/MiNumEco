@@ -54,7 +54,8 @@ eleventyNavigation:
     <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-sources">Sources</button>
   </h2>
   <div class="fr-collapse" id="accordion-sources">
-    Sources : ADEME
+        
+Sources : ADEME
     * [Centre de ressources sur les bilans de gaz à effet de serre](https://www.bilans-ges.ademe.fr/forum/viewtopic.php?f=21&t=4213)
     * [Le guide de la communication responsable](https://librairie.ademe.fr/consommer-autrement/1757-guide-de-la-communicationresponsable-9791029709661.html)
     
