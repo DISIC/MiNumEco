@@ -257,51 +257,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/journal-des-modifications/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
-    <lastmod>2021-11-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-1-allonger-duree-vie-materiel/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
@@ -312,7 +267,57 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-4-limiter-les-flux-de-donn%C3%A9es/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/equipe-projet/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/journal-des-modifications/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
 </urlset>
