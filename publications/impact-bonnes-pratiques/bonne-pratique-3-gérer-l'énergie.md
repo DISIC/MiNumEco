@@ -32,19 +32,30 @@ eleventyNavigation:
 **Impacts pour une consommation moyenne annuelle :**
 
   * Ordinateur portable : 48 kWh/an
-  * Ordinateur fixe : 151 kWh/an
+  * PC fixe : 151 kWh/an
   
 **Gains :**
     
 -40% de consommation énergétique 
   * Ordinateur portable : -1,2 kg eq CO2
-  * Ordinateur fixe : -3,6 kg eq CO2
+  * PC fixe : -3,6 kg eq CO2
 
 **Bénéfices :**
 
   * Diminuer la consommation d'énergie
   * Diminuer les émissions de gaz à effet de serre
   * Augmenter la durée de vie des équipements
+    
+</div>
+
+  <h2 class="fr-accordion__title">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-sources">Sources</button>
+  </h2>
+  <div class="fr-collapse" id="accordion-sources">
+
+Impact de la fabrication d’un ordinateur portable et d’un smartphone :
+
+  * [ADN Ouest, Consommation énergétique des équipements informatiques en milieu professionnel (https://librairie.ademe.fr/urbanisme-et-batiment/2431-livre-blanc-consommation-energetiquedes-equipements-informatiques-en-milieu-professionnel.html)
 
   </div>
 </section>
