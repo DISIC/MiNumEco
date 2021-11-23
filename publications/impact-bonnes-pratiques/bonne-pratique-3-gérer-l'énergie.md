@@ -55,7 +55,7 @@ eleventyNavigation:
 
 Impact de la fabrication d’un ordinateur portable et d’un smartphone :
 
-  * [ADN Ouest, Consommation énergétique des équipements informatiques en milieu professionnel (https://librairie.ademe.fr/urbanisme-et-batiment/2431-livre-blanc-consommation-energetiquedes-equipements-informatiques-en-milieu-professionnel.html)
+[ADN Ouest, Consommation énergétique des équipements informatiques en milieu professionnel] (https://librairie.ademe.fr/urbanisme-et-batiment/2431-livre-blanc-consommation-energetiquedes-equipements-informatiques-en-milieu-professionnel.html)
 
   </div>
 </section>
