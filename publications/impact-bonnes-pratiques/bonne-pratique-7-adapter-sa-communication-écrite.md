@@ -44,6 +44,20 @@ eleventyNavigation:
 
   * Diminuer le temps d'usage des équipements
   * Diminuer les émissions de gaz à effet de serre 
+    
+  </div>
+
+  <h2 class="fr-accordion__title">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-sources">Sources</button>
+  </h2>
+  <div class="fr-collapse" id="accordion-sources">
+
+Commentaire : l’hypothèse suivante a été retenue : « si le poids environnemental d’un ordinateur est de 300 kg eq CO2 sur l’ensemble de son cycle de vie et si 10 % de son usage concerne l’usage de la messagerie, ce dernier pendant toute la durée de vie de cet ordinateur a pour ordre de grandeur environ 30 kg eq CO2
+côté terminal utilisateur ».
+L’hypothèse retenue pour les gains est une réduction de moitié des échanges de mails.
+    
+NegaOctet est un projet de recherche qui a pour but le développement et l’expérimentation d’un référentiel d’évaluation des impacts environnementaux des services numériques basé sur une approche d’analyse du cycle de vie (ACV) en vue de leur écoconception.
+
 
   </div>
 </section>
