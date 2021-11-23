@@ -49,7 +49,6 @@ eleventyNavigation:
   * Diminuer les émissions de gaz à effet de serre 
   * Dinimuer la consommation d'énergie primaire 
 
-
   </div>
 
   <h2 class="fr-accordion__title">
@@ -59,10 +58,11 @@ eleventyNavigation:
 
 Impact d’un événement en visio-conférence/participant
 
-
 Source : Pilote NégaOctet 2021 (impacts p 26 et gains p 42)
-Évaluation des impacts environnementaux des Assises de l’Économie Circulaire 2020 et comparaison avec une édition présentielle (2017) https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impactsenvironnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html
+Évaluation des impacts environnementaux des Assises de l’Économie Circulaire 2020 et comparaison avec une édition présentielle (2017)
+https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impactsenvironnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html
 
-Commentaire : Le pilote a permis d’évaluer et de comparer les impacts de l’édition d’un événement 100 % numérique avec ceux des éditions précédentes. La fabrication des équipements servant au visionnage de l’événement des participants aux assises est incluse dans ces calculs.
+Commentaire : Le pilote a permis d’évaluer et de comparer les impacts de l’édition d’un événement 100 % numérique avec ceux des éditions précédentes. 
+La fabrication des équipements servant au visionnage de l’événement des participants aux assises est incluse dans ces calculs.
   </div>
 </section>
