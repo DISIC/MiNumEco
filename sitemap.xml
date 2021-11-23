@@ -107,11 +107,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/labels/interministeriel/</loc>
-    <lastmod>2021-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/labels/organisation/</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
@@ -257,6 +252,11 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/labels/interministeriel/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-1-allonger-duree-vie-materiel/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
@@ -267,12 +267,12 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-3-g%C3%A9rer-l&amp;#39;%C3%A9nergie/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-3-gerer-energie/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-4-limiter-les-flux-de-donn%C3%A9es/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-4-limiter-les-flux-de-donnees/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
   
@@ -282,7 +282,22 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-6-Organiser-Environnement-De-Travail/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/bonne-pratique-7-adapter-sa-communication-ecrite/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/equipe-projet/</loc>
+    <lastmod>2021-11-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
   
