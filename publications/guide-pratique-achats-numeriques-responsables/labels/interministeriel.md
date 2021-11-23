@@ -1,7 +1,7 @@
 ---
 layout: layouts/guide-achats.njk
 title: La mission interministérielle LABEL
-date: 2021-04-29
+date: 2021-11-23
 eleventyNavigation:
   key: guideachat-labels-interministeriel
   parent: guideachat-labels
@@ -12,7 +12,7 @@ eleventyNavigation:
 La DINUM pilote le programme interministériel d’accélération de la transformation numérique du service public TECH.GOUV avec l’appui de tous les ministères. Ce programme est axé autour de 6 enjeux prioritaires : simplification – inclusion – attractivité – maîtrise – économies – alliances. Il se décline en un plan d’actions sur trois ans.
 
 **Au sein de TECH.GOUV, la mission « LABEL » a pour but de :**
--	favoriser la création de services publics numériques utilisant les meilleurs logiciels et services numériques disponibles, sous licence propriétaire ou libre, créés par des administrations, des collectivités territoriales ou des acteurs privés ;
+-	favoriser la création de services publics numériques utilisant les meilleurs logiciels et services numériques disponibles, sous licence propriétaire ou libre, créés par des acteurs privés ou des associations ;
 -	rapprocher le secteur public de l’écosystème numérique.
 
 Les nombreux logiciels et services numériques achetés ou développés en interne par les établissements publics doivent : 
