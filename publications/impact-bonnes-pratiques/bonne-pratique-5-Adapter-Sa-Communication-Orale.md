@@ -24,24 +24,22 @@ eleventyNavigation:
 
 **Bonnes pratiques :**
 
-  * Se téléphoner ou organiser des conférences téléphoniques :
-    * pour des échanges sans partage de supports écrits
-  * Choisir la télé-conférence :
-    * en cas de nécessité de se voir et/ou de partager des documents à l'écran
+  * Se téléphoner ou organiser des conférences téléphoniques : pour des échanges sans partage de supports écrits.
+  * Choisir la télé-conférence : en cas de nécessité de se voir et/ou de partager des documents à l'écran.
 
-**Impacts pour un événement visio-conférence/participant :**
+**Impacts pour un événement en visio-conférence par participant :**
 
   * 1,02 kg eq. CO2
   * 0,01 m3 d'eau consommé
-  * 19,5 Mj d'énergie primaire consommée
-  * 0,021 g eq. Sb de ressources abiotiques 
+  * 19,5 <abbr title="Méga joule">Mj</abbr> d'énergie primaire consommée
+  * 0,021 g <abbr title="équivalent antimoine">eq. Sb</abbr> de ressources abiotiques 
   
 **Gains :**
 
-  * -69% des émissions de gaz à effet de serre
-  * -69% de consommation d'eau
-  * -69% de consommation d'énergie primaire
-  * +129% de ressources naturelles
+Dématérialisation d'un évènement
+
+  * -69% des impacts environnementaux (émissions de gaz à effet de serre, consommation d'eau, énergie primaire)
+  * Attention : +129% de consommation de ressources naturelles
 
 **Bénéfices :**
 
@@ -56,13 +54,22 @@ eleventyNavigation:
   </h2>
   <div class="fr-collapse" id="accordion-sources">
 
-Impact d’un événement en visio-conférence/participant
+Impact d’un événement en visio-conférence par participant
 
 Source : Pilote NégaOctet 2021 (impacts p 26 et gains p 42)
-Évaluation des impacts environnementaux des Assises de l’Économie Circulaire 2020 et comparaison avec une édition présentielle (2017)
-https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impactsenvironnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html
+[Évaluation des impacts environnementaux des Assises de l’Économie Circulaire 2020 et comparaison avec une édition présentielle](https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impactsenvironnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html) (2017)
 
-Commentaire : Le pilote a permis d’évaluer et de comparer les impacts de l’édition d’un événement 100 % numérique avec ceux des éditions précédentes. 
+Commentaire : Le pilote a permis d’évaluer et de comparer les impacts de l’édition d’un événement 100% numérique avec ceux des éditions précédentes.
 La fabrication des équipements servant au visionnage de l’événement des participants aux assises est incluse dans ces calculs.
   </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-6-organiser-environnement-de-travail/">Étape précédente :<br />6. Organiser son environnement de travail</a>
+  </div>
+  
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-4-limiter-les-flux-de-donnees/">Étape suivante :<br />4. Limiter les flux de données</a>
+  </div>
+</nav>

@@ -53,9 +53,19 @@ eleventyNavigation:
   </h2>
   <div class="fr-collapse" id="accordion-sources">
 
-Consommation moyenne annuelle d’un ordinateur portable et d’un PC fixe :
+Consommation moyenne annuelle d’un ordinateur portable et d’un PC fixe.
 
-ADN Ouest, Consommation énergétique des équipements informatiques en milieu professionnel: https://librairie.ademe.fr/urbanisme-et-batiment/2431-livre-blanc-consommation-energetiquedes-equipements-informatiques-en-milieu-professionnel.html
+Source : [ADN Ouest, Consommation énergétique des équipements informatiques en milieu professionnel](https://librairie.ademe.fr/urbanisme-et-batiment/2431-livre-blanc-consommation-energetiquedes-equipements-informatiques-en-milieu-professionnel.html).
 
   </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-4-limiter-les-flux-de-donnees/">Étape précédente :<br />4. Limiter les flux de données</a>
+  </div>
+  
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-2-ecoconcevoir-service-numerique/">Étape suivante :<br />2. Éco-concevoir les services numériques</a>
+  </div>
+</nav>

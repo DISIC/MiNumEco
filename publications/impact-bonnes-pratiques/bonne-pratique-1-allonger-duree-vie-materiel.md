@@ -67,3 +67,9 @@ Impact de la fabrication d’un ordinateur portable et d’un smartphone :
 
   </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-2-ecoconcevoir-service-numerique/">Étape précédente :<br />2. Éco-concevoir les services numériques</a>
+  </div>
+</nav>

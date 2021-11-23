@@ -63,3 +63,13 @@ Commentaire : l’hypothèse retenue pour les gains est une réduction de moiti�
 
    </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-7-adapter-sa-communication-ecrite/">Étape précédente :<br />7. Adapter sa communication écrite</a>
+  </div>
+  
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-5-adapter-sa-communication-orale/">Étape suivante :<br />5. Adapter sa communication orale</a>
+  </div>
+</nav>

@@ -64,3 +64,13 @@ L’hypothèse des gains est issue de l’analyse comparative à l’aide de l�
 
   </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-3-gerer-energie/">Étape précédente :<br />3. Gérer l'énergie</a>
+  </div>
+  
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-1-allonger-duree-vie-materiel/">Étape suivante :<br />1. Allonger la durée de vie du matériel</a>
+  </div>
+</nav>

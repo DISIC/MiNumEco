@@ -34,11 +34,11 @@ eleventyNavigation:
 
 **Impacts :**
 
-  * 1 Teraoctet stocké en ligne / an = 105 à 153 kg eq CO2
+  * 1 teraoctet stocké en ligne / an = 105 à 153 kg eq. CO2
   
 **Gains :**
 
-  * Si 1/3 du stockage : économie de 35 à 51 kg eq CO2
+  * Si diminution d'un tiers du stockage : économie de 35 à 51 kg eq. CO2
 
 **Bénéfices :**
 
@@ -53,12 +53,22 @@ eleventyNavigation:
     <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-sources">Sources</button>
   </h2>
   <div class="fr-collapse" id="accordion-sources">
- Stockage d’un teraoctet stocké en ligne / an : 
 
+Stockage d’un teraoctet stocké en ligne / an.
 
-  Federal Environment Agency, Germany, 2020 : Background information Climate impact of video streaming & co. 1, Calculating carbon emissions of data centres and data       transmission https://www.umweltbundesamt.de
-    
-  Commentaire : Seule l'énergie nécessaire au stockage et à la transmission des données est calculée ; l'énergie utilisée par les appareils des utilisateurs finaux tels que les routeurs, les appareils mobiles ou les téléviseurs n'est pas considérée. De plus, ces données prennent en compte le mix énergétique allemand. Le mix énergétique français permet de parier sur une hypothèse plus favorable. Les futurs résultats du projet de recherche NegaOctet* ajusteront cet ordre de grandeur. 
+Source : [Federal Environment Agency, Germany, 2020 : Background information Climate impact of video streaming & co. 1, Calculating carbon emissions of data centres and data transmission](https://www.umweltbundesamt.de)
+  
+Commentaire : Seule l'énergie nécessaire au stockage et à la transmission des données est calculée ; l'énergie utilisée par les appareils des utilisateurs finaux tels que les routeurs, les appareils mobiles ou les téléviseurs n'est pas considérée. De plus, ces données prennent en compte le mix énergétique allemand. Le mix énergétique français permet de parier sur une hypothèse plus favorable. Les futurs résultats du projet de recherche NegaOctet ajusteront cet ordre de grandeur. 
     
   </div>
 </section>
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/impact-bonnes-pratiques/bonne-pratique-5-adapter-sa-communication-orale/">Étape précédente :<br />5. Adapter sa communication orale</a>
+  </div>
+  
+  <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-3-gerer-energie/">Étape suivante :<br />3. Gérer l'énergie</a>
+  </div>
+</nav>

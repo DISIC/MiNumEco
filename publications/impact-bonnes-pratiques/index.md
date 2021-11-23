@@ -4,7 +4,6 @@ title: L'impact des bonnes pratiques numériques écoresponsables au sein de vot
 date: 2021-11-23
 image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: impact-bonnes-pratiques
   parent: publications
@@ -24,7 +23,11 @@ Sensibiliser les individus en promouvant les éco-gestes est une première étap
 
 Nous tentons de répondre à ces questions à travers cette série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
 
-<img src="/img/impact-bonnes-pratiques/sd/impact-bonnes-pratiques.png" class="fr-responsive-img" alt="" />
+<p><img src="/img/impact-bonnes-pratiques/sd/impact-bonnes-pratiques.png" class="fr-responsive-img" alt="" /></p>
+
+<nav>
+  <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-7-adapter-sa-communication-ecrite/">Commencer le parcours :<br />7. Adapter sa communication écrite</a>
+</nav>
 
 ## Téléchargements
 
@@ -35,6 +38,10 @@ Nous tentons de répondre à ces questions à travers cette série d’infograph
 ## Licence
 
 Cette publication est sous [licence ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+
+## Donnez votre avis
+
+[Contactez-nous](/contact).
 
 <hr>
 
