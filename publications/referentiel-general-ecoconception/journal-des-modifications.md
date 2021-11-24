@@ -1,6 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: Journal des modifications
+date: 2021-10-19
 ---
 
 ## Version bêta

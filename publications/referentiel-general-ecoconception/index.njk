@@ -1,6 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: Référentiel général d'écoconception de services numériques (RGESN)
+image: /img/referentiel-ecoconception.png
 description: Référentiel mené dans le cadre de la mission interministérielle « Green Tech » et co-pilotée par la Direction interministérielle du numérique (DINUM), le Ministère de la Transition Écologique, mais également l’ADEME et l’Institut du Numérique Responsable.
 type: publication
 date: 2021-10-19
@@ -13,13 +14,14 @@ eleventyNavigation:
   parent: publications
   title: Référentiel général d'écoconception de services numériques
   date: 2021-10-19
-  image: /img/ecoconception/ecoconception.png
+  image: /img/referentiel-ecoconception.png
   order: 60
 ---
 
+<img src="/img/referentiel-ecoconception.png" class="fr-responsive-img" alt="" />
+
 <p class="fr-py-2w">
     <span class="fr-tag">Version : {{ metadata.referentielEcoconception.versionTitle }}</span>
-    <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.csv">Format CSV</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-{{ metadata.referentielEcoconception.version }}.json">Format JSON</a>
 </p>
@@ -31,7 +33,7 @@ le Ministère de la Transition Écologique, mais également l’ADEME et l’Ins
 <div class="fr-callout fr-fi-information-line fr-mb-4w">
     <p class="fr-callout__title">Consultation publique</p>
     <p class="fr-callout__text">
-        Une consultation publique, en ligne jusqu'au 26 novembre 18h, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1.
+        Une consultation publique, en ligne jusqu'au vendredi 3 décembre 18h, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1.
     </p>
     <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.referentielEcoconception.consultationUrl }}">Contribuer en ligne</a>
     <a class="fr-link fr-fi-mail-line fr-link--icon-right" href="/contact">Contribuer par courriel</a>
@@ -87,4 +89,3 @@ le Ministère de la Transition Écologique, mais également l’ADEME et l’Ins
   </li>
 {% endfor -%}
 </ul>
-

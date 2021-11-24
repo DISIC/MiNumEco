@@ -39,7 +39,7 @@ layout: layouts/base.njk
 
     <div class="fr-col-12 fr-col-md-8">
         {%- if date %}
-            <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time></p>
+            <p class="fr-py-2w"><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time></p>
         {% endif %}
 
         {{ content | safe }}
