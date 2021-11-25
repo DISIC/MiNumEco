@@ -1,8 +1,8 @@
 ---
-title: Webinaire de lancement du Référentiel général d’écoconception de service numérique
+title: Webinaire de lancement du Référentiel général d’écoconception de service numérique le 19 octobre 2021
 type: news
 date: 2021-10-11
-image: /img/ecoconception/ecoconception.png
+image: /img/referentiel-ecoconception.png
 linkTitle: Voir ou revoir le webinaire et le support de la présentation
 link: https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/746707ced243a34296dc84e318d478c23c337948-1634653879677
 layout: layouts/post.njk

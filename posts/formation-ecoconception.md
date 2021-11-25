@@ -1,5 +1,5 @@
 ---
-title: Formation initiale à l’écoconception
+title: Formation initiale à l’écoconception le 16 décembre 2021
 type: news
 date: 2021-11-19
 image: /img/ecoconception/ecoconception.png
