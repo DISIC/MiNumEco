@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: À propos de la mission
-date: 2021-04-25
+date: 2021-11-25
 linkTitle: Qu’est-ce que le numérique responsable ?
 link: /publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/
 eleventyNavigation:
@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 20
 ---
 
-Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effets de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
+Le numérique représente aujourd'hui environ 4% des émissions mondiales de gaz à effets de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
 
 ## La mission interministérielle « Green Tech » : numérique écoresponsable
 
@@ -79,12 +79,14 @@ Animée par les contributions des correspondants ministériels sur le sujet, cel
 <h3 class="fr-fi-arrow-right-line fr-link--icon-left">Publications</h3>
 
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
-- Le [Guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/)
-- Le Référentiel de bonnes pratiques numériques responsables (prévu fin 2021).
-- Un référentiel pour l’écoconception ou la conception responsable de services numériques (prévu à l'automne 2021).
-- Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable".
-- Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique.
-- Produire et participer à la mise en œuvre de boîte à outils à destinations des agents (prévu à l'automne 2021).
+- Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) (publié en version bêta en avril 2021).
+- Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/)  (publié en version bêta en octobre 2021).
+- Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents (publié en octobre 2021).
+- Un guide de bonnes pratiques numériques responsables (prévu début 2022).
+- Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable" (en cours).
+- Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique (en cours).
+
+Les publications sont toutes en licence ouverte. Les publications majeures sont soumises à une consultation publique.
 
 Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
 
