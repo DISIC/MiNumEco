@@ -5,7 +5,7 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2021-11-19T00:00:00Z</updated>
+	<updated>2021-11-25T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>Mission Green Tech</name>
@@ -13,7 +13,37 @@
 	</author>
 	
 	<entry>
-		<title>Formation initiale à l’écoconception</title>
+		<title>Journée mondiale du climat : l’impact des bonnes pratiques numériques écoresponsables au sein des organisations, webinaire le 8 décembre 2021</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/impact-bonnes-pratiques/"/>
+		<updated>2021-11-25T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/impact-bonnes-pratiques/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;À l’occasion de la journée mondiale du climat, la mission interministérielle Numérique écoresponsable vous propose un moment d’échange suite à la publication de « &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/&quot;&gt;L’impact des bonnes pratiques numériques écoresponsables au sein des organisations&lt;/a&gt; », une proposition de quantification et de priorisation des bonnes pratiques numériques au travail.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le numérique s’est imposé massivement dans toutes nos activités quotidiennes et fait tourner l’économie mondiale. Cependant, le numérique est responsable aujourd’hui directement de 4% des émissions de gaz à effet de serre. Le numérique repose aussi sur une extraction intense de ressources naturelles pour produire toute l’infrastructure sur laquelle il repose ainsi que nos terminaux utilisateurs.&lt;/p&gt;
+&lt;p&gt;Quelles actions au travail ont le plus d’impact pour réduire les effets négatifs du numérique ? Sensibiliser les individus en promouvant les éco-gestes est une première étape. Cependant, quel est l’impact réel de ces éco-gestes individuels dans un cadre professionnel ? Quelles sont les bonnes pratiques à mettre en œuvre à l’échelle de l’organisation ? Comment prioriser les bonnes pratiques ?&lt;/p&gt;
+&lt;p&gt;Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’ADEME, accompagnés par MIR, Maison de l’Informatique Responsable, à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Programme :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La mission interministérielle Numérique écoresponsable&lt;/li&gt;
+&lt;li&gt;La publication « L&#39;impact des bonnes pratiques numériques écoresponsables au sein des organisations »&lt;/li&gt;
+&lt;li&gt;Questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Intervenants :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bela Loto, MIR Conseil et Formation,&lt;/li&gt;
+&lt;li&gt;Julia Meyer, Service Écoconception et Recyclage, Direction Économie Circulaire et Déchets, ADEME.&lt;/li&gt;
+&lt;li&gt;Christophe Boutonnet, Ministère de la Transition écologique&lt;/li&gt;
+&lt;li&gt;Richard Hanna et Olivier Joviado, Direction interministérielle du numérique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Webinaire le mercredi 8 décembre de 9h à 10h&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Lien de connexion&lt;/strong&gt; : &lt;a href=&quot;https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c&quot;&gt;Se connecter le jour J&lt;/a&gt;. Accès libre sans inscription, dans la limite des places disponibles (300).&lt;br /&gt;
+&lt;strong&gt;Enregistrement&lt;/strong&gt; : oui, il sera disponible quelques heures après le webinaire.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Formation initiale à l’écoconception le 16 décembre 2021</title>
 		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/"/>
 		<updated>2021-11-19T00:00:00Z</updated>
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/</id>
@@ -49,7 +79,7 @@ Un enregistrement sera disponible après la conférence.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Webinaire de lancement du Référentiel général d’écoconception de service numérique</title>
+		<title>Webinaire de lancement du Référentiel général d’écoconception de service numérique le 19 octobre 2021</title>
 		<link href="https://ecoresponsable.numerique.gouv.fr/posts/webinaire-lancement-referentiel-ecoconception/"/>
 		<updated>2021-10-11T00:00:00Z</updated>
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/webinaire-lancement-referentiel-ecoconception/</id>
