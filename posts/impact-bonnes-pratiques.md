@@ -30,7 +30,7 @@ Nous tentons de répondre à ces questions, dans le cadre de la mission intermin
 <div class="fr-highlight">
 
 **Webinaire le mercredi 8 décembre de 9h à 10h**
-__Lien de connexion__ : accès libre, sans inscription, dans la limite des places disponibles. Se connecter le jour J à [webinaire.numerique.gouv.fr](https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c)
+__Lien de connexion__ : [Se connecter le jour J](https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c). Accès libre sans inscription, dans la limite des places disponibles (300).
 __Enregistrement__ : oui, il sera disponible quelques heures après le webinaire.
 
 </div>
