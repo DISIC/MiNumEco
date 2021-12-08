@@ -18,6 +18,9 @@ Nous tentons de répondre à ces questions, dans le cadre de la mission intermin
 
 **Programme :**
 * La mission interministérielle Numérique écoresponsable
+* Retours d'expérience Ministère de la transition écologique
+* Les travaux de l'Ademe
+* Les activités de Point de MIR
 * La publication « L'impact des bonnes pratiques numériques écoresponsables au sein des organisations »
 * Questions
 
@@ -25,12 +28,15 @@ Nous tentons de répondre à ces questions, dans le cadre de la mission intermin
 * Bela Loto, MIR Conseil et Formation,
 * Julia Meyer, Service Écoconception et Recyclage, Direction Économie Circulaire et Déchets, ADEME.
 * Christophe Boutonnet, Ministère de la Transition écologique
-* Richard Hanna et Olivier Joviado, Direction interministérielle du numérique
+* Virginie Rozière, Richard Hanna et Olivier Joviado, Direction interministérielle du numérique
 
 <div class="fr-highlight">
 
 **Webinaire le mercredi 8 décembre de 9h à 10h**
-__Lien de connexion__ : [Se connecter le jour J](https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c). Accès libre sans inscription, dans la limite des places disponibles (300).
-__Enregistrement__ : oui, il sera disponible quelques heures après le webinaire.
+__Enregistrement__ : [Revoir le webinaire](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/2db0885cf6f986087cc04b5aabec25bb5949cdef-1638949570786).
 
 </div>
+
+## Télécharger
+
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/Webinaire-Impact-bonnes-pratiques-organisations-08-12-2021.pdf" onclick="return tag.click.send({elem:this, name:'Webinaire-Impact-bonnes-pratiques-organisations-08-12-2021.pdf', type:'download'});">Télécharger le support de la présentation l’impact des bonnes pratiques numériques écoresponsables au sein des organisations (pdf 3,1 Mo)</a>
