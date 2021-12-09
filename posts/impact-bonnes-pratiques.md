@@ -1,7 +1,7 @@
 ---
 title: "Journée mondiale du climat : l’impact des bonnes pratiques numériques écoresponsables au sein des organisations, webinaire le 8 décembre 2021"
 type: news
-date: 2021-11-25
+date: 2021-12-08
 image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
 linkTitle: Voir L’impact des bonnes pratiques numériques écoresponsables au sein des organisations
 link: /publications/impact-bonnes-pratiques/
