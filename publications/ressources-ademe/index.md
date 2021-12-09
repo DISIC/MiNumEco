@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Liste des ressources ADEME sur le numérique responsable
-date: 2021-04-29
+date: 2021-12-09
 image: /img/ressources-ademe/face-cachee-numerique.png
 link: https://www.ademe.fr/face-cachee-numerique
 linkTitle: Voir le guide ADEME « La face cachée du numérique »
@@ -19,6 +19,7 @@ eleventyNavigation:
 
 ### Guides
 
+- [« En route vers la sobriété numérique »](https://librairie.ademe.fr/consommer-autrement/5086-en-route-vers-la-sobriete-numerique-9791029718755.html), novembre 2021
 -	[« Guide écoresponsable au bureau »](https://www.ademe.fr/eco-responsable-bureau)
 -	[« Guide La face cachée du numérique »](https://www.ademe.fr/face-cachee-numerique)
 -	[« Guide Les impacts du smartphone »](https://www.ademe.fr/impacts-smartphone)
