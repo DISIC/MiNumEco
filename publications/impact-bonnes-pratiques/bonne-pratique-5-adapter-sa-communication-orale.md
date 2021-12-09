@@ -36,7 +36,7 @@ eleventyNavigation:
   
 **Gains :**
 
-Dématérialisation d'un évènement
+Dématérialisation d'un évènement physique :
 
   * -69% des impacts environnementaux (émissions de gaz à effet de serre, consommation d'eau, énergie primaire)
   * Attention : +129% de consommation de ressources naturelles
