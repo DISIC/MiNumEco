@@ -1,7 +1,7 @@
 ---
 title: Mois de l'innovation publique - Webinaire Numérique écoresponsable
 type: news
-date: 2021-11-16
+date: 2021-11-25
 image: /img/invitation.png
 layout: layouts/post.njk
 ---
