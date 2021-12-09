@@ -2,7 +2,7 @@
 title: Formation initiale à l’écoconception le 16 décembre 2021
 type: news
 date: 2021-11-19
-image: /img/ecoconception/ecoconception.png
+image: /img/formation-ecoconception.png
 linkTitle: S'inscrire gratuitement à la formation initiale à l’écoconception
 link: https://design.numerique.gouv.fr/formations/ecoconception/
 layout: layouts/post.njk
