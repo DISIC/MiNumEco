@@ -112,11 +112,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/</loc>
-    <lastmod>2021-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/guide-achats-numerique-responsable-version-beta/</loc>
     <lastmod>2021-04-30</lastmod>
   </url>
@@ -237,11 +232,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/mois-innovation-publique-numerique-ecoresponsable/</loc>
-    <lastmod>2021-11-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/formations/</loc>
     <lastmod>2021-11-19</lastmod>
   </url>
@@ -307,47 +297,57 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/impact-bonnes-pratiques/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/posts/mois-innovation-publique-numerique-ecoresponsable/</loc>
     <lastmod>2021-11-25</lastmod>
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/posts/impact-bonnes-pratiques/</loc>
     <lastmod>2021-12-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/</loc>
+    <lastmod>2021-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
-    <lastmod>2021-12-08</lastmod>
+    <lastmod>2021-12-09</lastmod>
   </url>
 </urlset>
