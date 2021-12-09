@@ -5,12 +5,36 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2021-12-08T00:00:00Z</updated>
+	<updated>2021-12-09T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>Mission Green Tech</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Open Source Experience 2021 - L’Open Source, contributeur essentiel à un numérique plus responsable</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/open-source-experience-2021/"/>
+		<updated>2021-12-09T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/open-source-experience-2021/</id>
+		<content type="html">&lt;p&gt;La mission interministérielle numérique écoresponsable était invitée à l&#39;évènement &lt;a href=&quot;https://www.opensource-experience.com/&quot;&gt;Open Source Expérience&lt;/a&gt; les 9 et 10 novembre 2021. Voici les enregistrements de la table ronde et de la conférence avec la communauté BlueHats durant cet évènement.&lt;/p&gt;
+&lt;h2&gt;Table ronde « L’Open Source, contributeur essentiel au GreenIT »&lt;/h2&gt;
+&lt;p&gt;Intervenants :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agnès Crépet - directrice Software Longevity &amp;amp; IT - Fairphone&lt;/li&gt;
+&lt;li&gt;Richard Hanna - chargé de mission interministérielle Green Tech - Dinum&lt;/li&gt;
+&lt;li&gt;Tristan Nitot - Fondateur - Octet Vert&lt;/li&gt;
+&lt;li&gt;Véronique Torner - Co-fondatrice et Co-Présidente - Alter way&lt;/li&gt;
+&lt;li&gt;Cyrille Chausson - Rédacteur en chef - IT for Business&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vidéo hébergée par Youtube&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;269&quot; src=&quot;https://www.youtube-nocookie.com/embed/x5P3uM43MnY&quot; srcdoc=&quot;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube-nocookie.com/embed/x5P3uM43MnY?autoplay=1&gt;&lt;img src=/img/open-source-experience/open-source-experience-table-ronde.jpg alt=&#39;Voir la table ronde « L’Open Source, contributeur essentiel au GreenIT »&#39;&gt;&lt;span aria-hidden=&#39;true&#39;&gt;▶&lt;/span&gt;&lt;/a&gt;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot; title=&quot;Voir la table ronde « L’Open Source, contributeur essentiel au GreenIT »&quot;&gt;&lt;/iframe&gt;
+&lt;h2&gt;Open source, numérique et environnement&lt;/h2&gt;
+&lt;p&gt;Présentation de &amp;quot;Open source, numérique et environnement&amp;quot; par Richard Hanna dans le cadre de la mission interministérielle numérique écoresponsable. Cette intervention s&#39;est tenue dans le cadre de la journée de la &lt;a href=&quot;https://communs.numerique.gouv.fr/bluehats/&quot;&gt;communauté BlueHats&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vidéo hébergée par Dailymotion&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;269&quot; src=&quot;https://www.dailymotion.com/embed/video/x85y2zz&quot; srcdoc=&quot;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.dailymotion.com/embed/video/x85y2zz?autoplay=1&gt;&lt;img src=/img/open-source-experience/open-source-ecoconception.png alt=&#39;Voir la conférence Open source, numérique et environnement&#39;&gt;&lt;span aria-hidden=&#39;true&#39;&gt;▶&lt;/span&gt;&lt;/a&gt;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot; title=&quot;Voir la conférence Open source, numérique et environnement&quot;&gt;&lt;/iframe&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Journée mondiale du climat : l’impact des bonnes pratiques numériques écoresponsables au sein des organisations, webinaire le 8 décembre 2021</title>
