@@ -5,12 +5,40 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2021-12-09T00:00:00Z</updated>
+	<updated>2021-12-17T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>Mission Green Tech</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Formation initiale à l’écoconception le 16 décembre 2021</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/"/>
+		<updated>2021-12-17T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/</id>
+		<content type="html">&lt;p&gt;La mission interministérielle numérique écoresponsable et le pôle Design des services numériques de la Dinum vous propose une  formation initiale à l’écoconception d&#39;une durée de 2 heures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session&lt;/strong&gt; : le jeudi 16 décembre 2021 de 10h à 12h, gratuit, niveau débutant. &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/formations/&quot;&gt;Revoir la formation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public concerné&lt;/strong&gt; : agents de la fonction publique ou prestataires impliqués dans la conception des services numériques publics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectifs&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Connaître et mesurer les impacts environnementaux du numérique&lt;/li&gt;
+&lt;li&gt;Mettre en œuvre le référentiel général d’écoconception de services numériques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Programme&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les impacts environnementaux du numérique&lt;/li&gt;
+&lt;li&gt;La mission Green Tech – numérique écoresponsable&lt;/li&gt;
+&lt;li&gt;L’analyse du cycle de vie&lt;/li&gt;
+&lt;li&gt;Pourquoi l’écoconception de services numériques ? Pour qui ?&lt;/li&gt;
+&lt;li&gt;La mise en œuvre du référentiel d’écoconception de service numérique&lt;/li&gt;
+&lt;li&gt;Les outils libres et open source dédiés à la mesure&lt;/li&gt;
+&lt;li&gt;Le système de design de l’État&lt;/li&gt;
+&lt;li&gt;Les clés à retenir&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://design.numerique.gouv.fr/formations/&quot;&gt;Voir les autres formations disponibles : Accessibilité, Design et Recherche utilisateur&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Open Source Experience 2021 - L’Open Source, contributeur essentiel à un numérique plus responsable</title>
@@ -90,19 +118,6 @@
 &lt;/div&gt;
 &lt;h2&gt;Télécharger&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&quot;fr-link fr-fi-download-line fr-link--icon-left&quot; target=&quot;_self&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/docs/2021/mois-innovation-publique-numerique-ecoresponsable-2021-11-25.pdf&quot; onclick=&quot;return tag.click.send({elem:this, name:&#39;mois-innovation-publique-numerique-ecoresponsable-2021-11-25.pdf&#39;, type:&#39;download&#39;});&quot;&gt;Télécharger le support de la présentation Mois de l&#39;innovation publique - Numérique écoresponsable (pdf 2,9 Mo)&lt;/a&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Formation initiale à l’écoconception le 16 décembre 2021</title>
-		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/"/>
-		<updated>2021-11-19T00:00:00Z</updated>
-		<id>https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/</id>
-		<content type="html">&lt;p&gt;La mission interministérielle numérique écoresponsable et le pôle Design des services numériques de la Dinum vous propose une  formation initiale à l’écoconception d&#39;une durée de 2 heures.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Prochaine session&lt;/strong&gt; : le jeudi 16 décembre 2021 de 10h à 12h, gratuit, niveau débutant.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Public concerné&lt;/strong&gt; : agents de la fonction publique ou prestataires impliqués dans la conception des services numériques publics.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://design.numerique.gouv.fr/formations/ecoconception/&quot;&gt;En savoir plus sur la formation initiale à l’écoconception&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://design.numerique.gouv.fr/formations/&quot;&gt;Autres formations disponibles : Accessibilité, Design et Recherche utilisateur&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
