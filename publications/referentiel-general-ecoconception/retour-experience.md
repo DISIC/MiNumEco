@@ -19,6 +19,15 @@ L'accompagnement lié à l'écoconception a été effectué selon 3 étapes : se
 
 En savoir plus : [Bilan sur l'écoconception du module recherche du SNE (pdf, 223 Ko)](/docs/2021/Bilan_ecoconception_SNE_recherche_2021_10.pdf)
 
-## Autres retours d'expérience
 
-à venir.
+## Territoires en Transition
+
+La start-up d'État [Territoires en Transition](https://territoiresentransitions.fr/), portée par l'ADEME et Beta.gouv, a intégré dès son démarrage en septembre 2020 une approche d'écoconception numérique. Il a été important d'identifier d'emblée les pratiques "alliées" à l'écoconception. Par exemple, l'équipe projet a suivi une démarche agile qui a permis d'être très sobre sur les fonctionnalités à développer au départ, ce qui est en adéquation avec les principes d'écoconception. Le fait d'avoir une designer formée à l'accessibilité s'est révélé être un atout pour avoir une approche efficace et cohérente avec l'écoconception. Il est important de souligner que l'écoconception ne doit pas être une couche supplémentaire dans le cahier des charges mais une force supplémentaire pour faire entrer de nombreuses bonnes pratiques dans le produit.
+
+L'équipe a mis en place un outil de suivi sur des indicateurs importants en écoconception mais aussi pour d'autres pratiques (poids page, nombre de requêtes, nombre d'élements dans le DOM HTML - _Document Object Model_, temps de chargement de la _First Meaninful Paint_ et du _Time to Interactive_, etc.). Toutes les pages sont testées à la fin de chaque sprint (toutes les 2 semaines) pour suivre l'évolution du produit sur le temps long et orienter les choix si nécessaire.
+
+![Outil de suivi du projet sur des indicateurs en écoconception](/img/ecoconception/outil-monitoring.png)
+
+L'équipe du projet a pu comparé son cheminement avec celui proposé par le référentiel général d'écoconception de services numériques. Elle considère qu'elle applique "nativement" la moitié des critères et un quart des critères sont en cours de traitement. Certains critères n'ont pas pu être appliqués car des choix techniques différents ont été réalisés. Par exemple, en fonction des librairies utilisées, il n'est pas possible de s'assurer des critères environnementaux. Les critères du RGESN ne sont parfois pas applicables parce que le projet hérite de choix des institutions qui encadrent le projet (authentification keycloak, système de design de l'État, etc.). Le point positif du référentiel est qu'il aide concrètement à structurer la mission du chargé d'écoconception. Ce dernier doit généralement naviguer de la stratégie, à l'UI, à l'hébergement. Il est facile d'oublier des éléments en route. Reprendre le référentiel a permis de rappeler des tâches ou les questions qui avaient été laissées de côté.
+
+La démarche d'écoconception de ce service numérique a été présentée durant ce webinaire : [L’éco-conception numérique, enjeux et cas pratiques](https://vimeo.com/644463125), avec Gauthier Roussilhe pour les Designers Transverses de Beta (sur Vimeo).
