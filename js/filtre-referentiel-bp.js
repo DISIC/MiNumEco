@@ -20,7 +20,7 @@ function updateSheetsList()
     
     sheets.forEach(function (sheet) {
         for (const filterName in filters) {
-            if (filters[filterName] && filters[filterName] !== sheet.getAttribute('data-' + filterName)) {
+            if (filters[filterName] && !sheet.getAttribute('data-' + filterName).includes(filters[filterName])) {
                 sheet.hidden = true;
             }
         }
