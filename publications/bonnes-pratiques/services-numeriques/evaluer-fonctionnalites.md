@@ -5,7 +5,8 @@ type: bpnr
 date: 2021-07-15
 idbp: 67
 priority: Prioritaire
-who: Opérationnel
+who:
+  - Opérationnel
 indicators:
   - "% de fonctionnalités développées avec revue de conception en amont impliquant tous les métiers concernés"
 eleventyNavigation:

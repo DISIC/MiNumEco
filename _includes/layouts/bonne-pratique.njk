@@ -13,7 +13,7 @@ layout: layouts/base.njk
                 <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
             </li>
             <li>
-                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Référentiel des bonnes pratiques</a>
+                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Guide des bonnes pratiques</a>
             </li>
             <li>
                 <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
@@ -43,14 +43,18 @@ layout: layouts/base.njk
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Pilote :</h2>
-            <p class="fr-tile__desc">{{ who }}</p>
+            <h2 class="fr-tile__title">Exemple(s) de pilote(s) :</h2>
+            <ul class="fr-tile__desc">
+                {%- for item in who -%}
+                <li>{{ item }}</li>
+                {%- endfor -%}
+            </ul>
         </div>
     </div>
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Indicateurs de pilotage :</h2>
+            <h2 class="fr-tile__title">Exemple(s) d'indicateur(s) de pilotage :</h2>
             <p class="fr-tile__desc">
                 <ul>
                 {% for indicator in indicators %}

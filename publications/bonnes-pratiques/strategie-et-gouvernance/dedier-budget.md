@@ -5,7 +5,9 @@ type: bpnr
 date: 2021-07-15
 idbp: 2
 priority: Recommandé
-who: Décideur
+who:
+  - Décideur
+  - Opérationnel
 indicators:
   - "% du budget de la DSI dédié au numérique responsable"
 eleventyNavigation:

@@ -5,7 +5,8 @@ type: bpnr
 date: 2021-07-15
 idbp: 1
 priority: Prioritaire
-who: Décideur
+who:
+  - Décideur
 indicators:
   - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
   - "Place dans l'organigramme de cette personne"
