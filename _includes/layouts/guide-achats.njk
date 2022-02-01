@@ -32,6 +32,54 @@ layout: layouts/base.njk
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
 
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
+        <div class="fr-sidemenu__inner">
+            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+            <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                <ul class="fr-sidemenu__list">
+
+                    <li class="fr-sidemenu__item {% if '/publications/guide-pratique-achats-numeriques-responsables/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/guide-pratique-achats-numeriques-responsables/" {% if '/publications/guide-pratique-achats-numeriques-responsables/' == page.url %}aria-current="page"{% endif %}>Accueil du guide</a>
+                    </li>
+
+                    {% for item in collections.all | eleventyNavigation("guideachat") %}
+                        {% set subItems = collections.all | eleventyNavigation(item.key) %}
+                        {% set expanded = false %}
+
+                        {% if subItems.length === 0 %}
+                            <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                            </li>
+                        {% else %}
+                            {% for subItem in subItems %}
+                                {% if subItem.url == page.url %}
+                                    {% set expanded = true %}
+                                {% endif %}
+                            {% endfor %}
+
+                            <li class="fr-sidemenu__item">
+                                <button class="fr-sidemenu__btn" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-{{ item.key }}">{{ item.title }}</button>
+                                <div class="fr-collapse" id="fr-sidemenu-item-{{ item.key }}">
+                                    <ul class="fr-sidemenu__list">
+                                    {% for subItem in subItems %}
+                                        <li class="fr-sidemenu__item {% if subItem.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                                            <a class="fr-sidemenu__link" href="{{ subItem.url | url }}" {% if subItem.url == page.url %}aria-current="page"{% endif %}>{{ subItem.title }}</a>
+                                        </li>
+                                    {% endfor %}
+                                    </ul>
+                                </div>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+
+                    <li class="fr-sidemenu__item">
+                        <a class="fr-sidemenu__link" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});"><span class="fr-fi-download-line fr-link--icon-left" aria-hidden="true"></span> Télécharger le guide (pdf 1,8 Mo)</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <div class="fr-col-12 fr-col-md-8">
 
         {% if date %}
@@ -41,57 +89,5 @@ layout: layouts/base.njk
         {% endif %}
 
         {{ content | safe }}
-    </div>
-    
-    <div class="fr-col-12 fr-col-md-4">
-        <nav class="fr-sidemenu fr-sidemenu--right" role="navigation" aria-label="Menu latéral">
-            <div class="fr-sidemenu__inner">
-                <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
-                <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                    <p class="fr-sidemenu__title">Guide pratique pour des achats numériques responsables</p>
-                        <ul class="fr-sidemenu__list">
-
-                            <li class="fr-sidemenu__item {% if '/publications/guide-pratique-achats-numeriques-responsables/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                <a class="fr-sidemenu__link" href="/publications/guide-pratique-achats-numeriques-responsables/" {% if '/publications/guide-pratique-achats-numeriques-responsables/' == page.url %}aria-current="page"{% endif %}>Accueil du guide</a>
-                            </li>
-
-                            {% for item in collections.all | eleventyNavigation("guideachat") %}
-                                {% set subItems = collections.all | eleventyNavigation(item.key) %}
-                                {% set expanded = false %}
-
-                                {% if subItems.length === 0 %}
-                                    <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
-                                        <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
-                                    </li>
-                                {% else %}
-                                    {% for subItem in subItems %}
-                                        {% if subItem.url == page.url %}
-                                            {% set expanded = true %}
-                                        {% endif %}
-                                    {% endfor %}
-
-                                    <li class="fr-sidemenu__item">
-                                        <button class="fr-sidemenu__btn" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-{{ item.key }}">{{ item.title }}</button>
-                                        <div class="fr-collapse" id="fr-sidemenu-item-{{ item.key }}">
-                                            <ul class="fr-sidemenu__list">
-                                            {% for subItem in subItems %}
-                                                <li class="fr-sidemenu__item {% if subItem.url == page.url %}fr-sidemenu__item--active{% endif %}">
-                                                    <a class="fr-sidemenu__link" href="{{ subItem.url | url }}" {% if subItem.url == page.url %}aria-current="page"{% endif %}>{{ subItem.title }}</a>
-                                                </li>
-                                            {% endfor %}
-                                            </ul>
-                                        </div>
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
-
-                            <li class="fr-sidemenu__item">
-                                <a class="fr-sidemenu__link" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});"><span class="fr-fi-download-line fr-link--icon-left" aria-hidden="true"></span> Télécharger le guide (pdf 1,8 Mo)</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
     </div>
 </div>

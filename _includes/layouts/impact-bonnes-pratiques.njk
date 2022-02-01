@@ -32,34 +32,30 @@ layout: layouts/base.njk
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
 
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
+        <div class="fr-sidemenu__inner">
+            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+            <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                <ul class="fr-sidemenu__list">
+                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/impact-bonnes-pratiques/' == page.url }}">
+                        <a class="fr-sidemenu__link" href="/publications/impact-bonnes-pratiques/" {{ 'aria-current="page"' if '/publications/impact-bonnes-pratiques/' == page.url }}>Introduction</a>
+                    </li>
+
+                    {% for item in collections.all | eleventyNavigation("impact-bonnes-pratiques") %}
+                        <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                            <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
     <div class="fr-col-12 fr-col-md-8">
+        {{ content | safe }}
+
         {%- if date %}
             <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time></p>
         {% endif %}
-
-        {{ content | safe }}
-    </div>
-    
-    <div class="fr-col-12 fr-col-md-4">
-        <nav class="fr-sidemenu fr-sidemenu--right" role="navigation" aria-label="Menu latéral">
-            <div class="fr-sidemenu__inner">
-                <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
-                <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                    <p class="fr-sidemenu__title">L'impact des bonnes pratiques numériques écoresponsables au sein de votre organisation</p>
-                        <ul class="fr-sidemenu__list">
-                            <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/impact-bonnes-pratiques/' == page.url }}">
-                                <a class="fr-sidemenu__link" href="/publications/impact-bonnes-pratiques/" {{ 'aria-current="page"' if '/publications/impact-bonnes-pratiques/' == page.url }}>Introduction</a>
-                            </li>
-
-                            {% for item in collections.all | eleventyNavigation("impact-bonnes-pratiques") %}
-                                <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
-                                </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
     </div>
 </div>
