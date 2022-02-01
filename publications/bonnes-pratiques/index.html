@@ -138,16 +138,21 @@
 
 <p>
     <time class="fr-tag" datetime="2022-01-01">Publié le 01/01/2022</time>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter au format CSV</a>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Exporter au format JSON</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Télécharger en PDF</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter en CSV</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Exporter en JSON</a>
 </p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
-    <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
+    <div class="fr-summary__title" id="fr-summary-title">Thématiques</div>
     <ol class="fr-summary__list">
     
         <li>
             <a class="fr-summary__link" href="#refbpnr-strategie-et-gourvenance">Stratégie et gouvernance</a>
+        </li>
+    
+        <li>
+            <a class="fr-summary__link" href="#refbpnr-sensibilisation-et-formation">Sensibilisation et formation</a>
         </li>
     
         <li>
@@ -159,52 +164,141 @@
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <div class="fr-col-12 fr-col-md-4">
-        <div class="fr-tile fr-mt-4w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Filtrer</h2>
-                <div class="fr-tile__desc">
-                    <form>
-                        <div class="fr-form-group">
-                            <label class="fr-label" for="form-priority">Priorité</label>
-                            <select class="fr-select" id="form-priority" name="priority">
-                                <option value="" selected>Toutes</option>
-                                <option>Prioritaire</option>
-                                <option>Recommandé</option>
-                                <option>Aller plus loin</option>
-                            </select>
-                        </div>
-
-                        <div class="fr-form-group">
-                            <label class="fr-label" for="form-who">Pilote</label>
-                            <select class="fr-select" id="form-who" name="who">
-                                <option value="" selected>Tous</option>
-                                <option>Décideur</option>
-                                <option>Opérationnel</option>
-                            </select>
-                        </div>
-                    </form>
+        <nav class="fr-sidemenu fr-mt-6w" role="navigation" aria-label="Menu latéral">    
+            <div class="fr-sidemenu__inner">
+                <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+                <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                    <p class="fr-sidemenu__title">Guide des bonnes pratiques numérique responsable</p>
+                    <ul class="fr-sidemenu__list">
+                        <li class="fr-sidemenu__item fr-sidemenu__item--active">
+                            <a class="fr-sidemenu__link" href="#" aria-current="page">Le guide</a>
+                        </li>
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="#">À propos</a>
+                        </li>
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="#">Glossaire</a>
+                        </li>
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="#">Biblio et webographie</a>
+                        </li>
+                        <li class="fr-sidemenu__item">
+                            <a class="fr-sidemenu__link" href="#">Revoir le webinaire de lancement du guide</a>
+                        </li>
+                        <li class="fr-sidemenu__item">
+                            <a class="fr-sidemenu__link" href="#">Consultation publique</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-        </div>
+        </nav>
     </div>
 
     <div class="fr-col-12 fr-col-md-8">
+        <h6>Filtrer</h6>
+        <form>
+        <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+            <div class="fr-col-12 fr-col-md-4">
+                <div class="fr-form-group">
+                    <label class="fr-label" for="form-priority">Priorité</label>
+                    <select class="fr-select" id="form-priority" name="priority">
+                        <option value="" selected>Toutes</option>
+                        <option>Prioritaire</option>
+                        <option>Recommandé</option>
+                        <option>Aller plus loin</option>
+                    </select>
+                </div>
+            </div>
+            <div class="fr-col-12 fr-col-md-4">
+                <div class="fr-form-group">
+                    <label class="fr-label" for="form-difficult">Difficulté de mise en oeuvre</label>
+                    <select class="fr-select" id="form-difficult" name="difficult">
+                        <option value="" selected>Tous</option>
+                    </select>
+                </div>
+            </div>
+            <div class="fr-col-12 fr-col-md-4">
+                <div class="fr-form-group">
+                    <label class="fr-label" for="form-who">Qui est pilote</label>
+                    <select class="fr-select" id="form-who" name="who">
+                        <option value="" selected>Tous</option>
+                        <option>Décideur</option>
+                        <option>Opérationnel</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        </form>
+
+
         
             <h2 id="refbpnr-strategie-et-gourvenance">Stratégie et gouvernance</h2>
 
+            <section class="fr-accordion fr-mb-1w">
+                <h3 class="fr-accordion__title">
+                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-refbpnr-strategie-et-gourvenance">Introduction</button>
+                </h3>
+                <div class="fr-collapse" id="introduction-refbpnr-strategie-et-gourvenance">
+                    <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+                    <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+                    <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+                </div>
+            </section>
+
             <ul>
+                <li><a href="/publications/bonnes-pratiques/strategie-et-gouvernance/">Introduction</a></li>
             
-                <li data-type="sheet" data-priority="Prioritaire" data-who="Décideur"><a href="/publications/bonnes-pratiques/strategie-et-gouvernance/nommer-responsable/"><small>1.</small> Nommer une personne responsable « Numérique Responsable »</a> <span class="fr-tag">Prioritaire</span></li>
+                <li data-type="sheet" data-priority="Prioritaire" data-who="Décideur"><a href="/publications/bonnes-pratiques/strategie-et-gouvernance/nommer-responsable/"><small>a.1.</small> Nommer une personne responsable « Numérique Responsable »</a> <span class="fr-tag">Prioritaire</span></li>
             
-                <li data-type="sheet" data-priority="Recommandé" data-who="Décideur,Opérationnel"><a href="/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/"><small>2.</small> Dédier un budget spécifique au Numérique Responsable</a> <span class="fr-tag">Recommandé</span></li>
+                <li data-type="sheet" data-priority="Recommandé" data-who="Décideur,Opérationnel"><a href="/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/"><small>a.2.</small> Dédier un budget spécifique au Numérique Responsable</a> <span class="fr-tag">Recommandé</span></li>
+            
+            </ul>
+        
+            <h2 id="refbpnr-sensibilisation-et-formation">Sensibilisation et formation</h2>
+
+            <section class="fr-accordion fr-mb-1w">
+                <h3 class="fr-accordion__title">
+                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-refbpnr-sensibilisation-et-formation">Introduction</button>
+                </h3>
+                <div class="fr-collapse" id="introduction-refbpnr-sensibilisation-et-formation">
+                    <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+                    <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+                    <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+                </div>
+            </section>
+
+            <ul>
+                <li><a href="/publications/bonnes-pratiques/sensibilisation-et-formation/">Introduction</a></li>
+            
+                <li data-type="sheet" data-priority="Prioritaire" data-who="Décideur"><a href="/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/"><small>b.1.</small> Intégrer les compétences dans le plan de formation</a> <span class="fr-tag">Prioritaire</span></li>
+            
+                <li data-type="sheet" data-priority="Recommandé" data-who="Décideur,Opérationnel"><a href="/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/"><small>b.2.</small> Sensibiliser les collaborateurs</a> <span class="fr-tag">Recommandé</span></li>
             
             </ul>
         
             <h2 id="refbpnr-services-numeriques">Services numériques</h2>
 
+            <section class="fr-accordion fr-mb-1w">
+                <h3 class="fr-accordion__title">
+                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-refbpnr-services-numeriques">Introduction</button>
+                </h3>
+                <div class="fr-collapse" id="introduction-refbpnr-services-numeriques">
+                    <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+                    <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+                    <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+                </div>
+            </section>
+
             <ul>
+                <li><a href="/publications/bonnes-pratiques/services-numeriques/">Introduction</a></li>
             
-                <li data-type="sheet" data-priority="Prioritaire" data-who="Opérationnel"><a href="/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/"><small>67.</small> Évaluer collectivement la pertinence des fonctionnalités à concevoir</a> <span class="fr-tag">Prioritaire</span></li>
+                <li data-type="sheet" data-priority="Prioritaire" data-who="Opérationnel"><a href="/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/"><small>g.1.</small> Évaluer collectivement la pertinence des fonctionnalités à concevoir</a> <span class="fr-tag">Prioritaire</span></li>
             
             </ul>
         
