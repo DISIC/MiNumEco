@@ -3,8 +3,8 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Sensibilisation et formation
 date: 2021-07-15
 eleventyNavigation:
-  key: refbpnr-sensibilisation-et-formation
-  parent: refbpnr
+  key: guideBpNr-sensibilisation-et-formation
+  parent: guideBpNr
   title: Sensibilisation et formation
   order: 20
 ---

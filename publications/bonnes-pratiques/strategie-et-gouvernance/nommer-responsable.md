@@ -11,7 +11,7 @@ indicators:
   - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
   - "Place dans l'organigramme de cette personne"
 eleventyNavigation:
-  parent: refbpnr-strategie-et-gourvenance
+  parent: guideBpNr-strategie-et-gourvenance
   title: Nommer une personne responsable « Numérique Responsable »
   order: 10
 ---

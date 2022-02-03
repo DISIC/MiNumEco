@@ -10,7 +10,7 @@ who:
 indicators:
   - "% agents..."
 eleventyNavigation:
-  parent: refbpnr-sensibilisation-et-formation
+  parent: guideBpNr-sensibilisation-et-formation
   title: Intégrer les compétences dans le plan de formation
   order: 10
 ---

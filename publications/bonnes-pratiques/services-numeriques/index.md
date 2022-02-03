@@ -3,8 +3,8 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Services numériques
 date: 2021-07-15
 eleventyNavigation:
-  key: refbpnr-services-numeriques
-  parent: refbpnr
+  key: guideBpNr-services-numeriques
+  parent: guideBpNr
   title: Services numériques
   order: 50
 ---

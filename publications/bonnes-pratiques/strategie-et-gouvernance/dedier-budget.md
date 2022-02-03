@@ -11,7 +11,7 @@ who:
 indicators:
   - "% du budget de la DSI dédié au numérique responsable"
 eleventyNavigation:
-  parent: refbpnr-strategie-et-gourvenance
+  parent: guideBpNr-strategie-et-gourvenance
   title: Dédier un budget spécifique au Numérique Responsable
   order: 20
 ---

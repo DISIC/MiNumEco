@@ -11,7 +11,7 @@ who:
 indicators:
   - "% agents..."
 eleventyNavigation:
-  parent: refbpnr-sensibilisation-et-formation
+  parent: guideBpNr-sensibilisation-et-formation
   title: Sensibiliser les collaborateurs
   order: 20
 ---

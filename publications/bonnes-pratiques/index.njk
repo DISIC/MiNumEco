@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/bonne-pratique/default.njk
 title: Guide des bonnes pratiques numérique responsable
 date: 2022-01-01
 image: /img/guide-achats/guide-achats-numerique-responsable.png
@@ -7,17 +7,14 @@ type: publication
 extrajs: /js/filtre-referentiel-bp.js
 eleventyExcludeFromCollections: true
 eleventyNavigation:
-  key: refbpnr
+  key: guideBpNr
   parent: publications
   title: Guide des bonnes pratiques numérique responsable
   date: 2022-01-01
   image: /img/guide-achats/guide-achats-numerique-responsable.png
   order: 100
 ---
-{% set categories = collections.all | eleventyNavigationExtended("refbpnr") %}
-{% include "breadcrumb.njk" %}
-
-<h1>{{ title }}</h1>
+{% set categories = collections.all | eleventyNavigationExtended("guideBpNr") %}
 
 <p>
     <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
@@ -26,105 +23,72 @@ eleventyNavigation:
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Exporter en JSON</a>
 </p>
 
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <h6 class="fr-summary__title" id="fr-summary-title">Thématiques</h6>
+    <ol class="fr-summary__list">
+    {% for category in categories %}
+        <li>
+            <a class="fr-summary__link" href="#{{ category.key }}">{{ category.title }}</a>
+        </li>
+    {% endfor %}
+    </ol>
+</nav>
+
+<h6>Filtrer les exemples de bonnes pratiques</h6>
+<form>
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">    
-        <div class="fr-sidemenu__inner">
-            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
-            <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                <ul class="fr-sidemenu__list">
-                    <li class="fr-sidemenu__item fr-sidemenu__item--active">
-                        <a class="fr-sidemenu__link" href="#" aria-current="page">Le guide</a>
-                    </li>
-                    <li class="fr-sidemenu__item ">
-                        <a class="fr-sidemenu__link" href="#">À propos</a>
-                    </li>
-                    <li class="fr-sidemenu__item ">
-                        <a class="fr-sidemenu__link" href="#">Glossaire</a>
-                    </li>
-                    <li class="fr-sidemenu__item ">
-                        <a class="fr-sidemenu__link" href="#">Biblio et webographie</a>
-                    </li>
-                    <li class="fr-sidemenu__item">
-                        <a class="fr-sidemenu__link" href="#">Revoir le webinaire de lancement du guide</a>
-                    </li>
-                    <li class="fr-sidemenu__item">
-                        <a class="fr-sidemenu__link" href="#">Consultation publique</a>
-                    </li>
-                </ul>
-            </div>
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-form-group">
+            <label class="fr-label" for="form-priority">Priorité</label>
+            <select class="fr-select" id="form-priority" name="priority">
+                <option value="" selected>Toutes</option>
+                <option>Prioritaire</option>
+                <option>Recommandée</option>
+                <option>Aller plus loin</option>
+            </select>
         </div>
-    </nav>
-
-    <div class="fr-col-12 fr-col-md-8">
-        <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
-            <h6 class="fr-summary__title" id="fr-summary-title">Thématiques</h6>
-            <ol class="fr-summary__list">
-            {% for category in categories %}
-                <li>
-                    <a class="fr-summary__link" href="#{{ category.key }}">{{ category.title }}</a>
-                </li>
-            {% endfor %}
-            </ol>
-        </nav>
-
-        <h6>Filtrer</h6>
-        <form>
-        <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-            <div class="fr-col-12 fr-col-md-4">
-                <div class="fr-form-group">
-                    <label class="fr-label" for="form-priority">Priorité</label>
-                    <select class="fr-select" id="form-priority" name="priority">
-                        <option value="" selected>Toutes</option>
-                        <option>Prioritaire</option>
-                        <option>Recommandé</option>
-                        <option>Aller plus loin</option>
-                    </select>
-                </div>
-            </div>
-            <div class="fr-col-12 fr-col-md-4">
-                <div class="fr-form-group">
-                    <label class="fr-label" for="form-difficult">Difficulté de mise en oeuvre</label>
-                    <select class="fr-select" id="form-difficult" name="difficult">
-                        <option value="" selected>Tous</option>
-                    </select>
-                </div>
-            </div>
-            <div class="fr-col-12 fr-col-md-4">
-                <div class="fr-form-group">
-                    <label class="fr-label" for="form-who">Qui est pilote</label>
-                    <select class="fr-select" id="form-who" name="who">
-                        <option value="" selected>Tous</option>
-                        <option>Décideur</option>
-                        <option>Opérationnel</option>
-                    </select>
-                </div>
-            </div>
+    </div>
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-form-group">
+            <label class="fr-label" for="form-difficult">Difficulté de mise en oeuvre</label>
+            <select class="fr-select" id="form-difficult" name="difficult">
+                <option value="" selected>Tous</option>
+            </select>
         </div>
-        </form>
-
-
-        {% for category in categories %}
-            <h2 id="{{ category.key }}">{{ category.title }}</h2>
-
-            <section class="fr-accordion fr-mb-1w">
-                <h3 class="fr-accordion__title">
-                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-{{ category.key }}">Introduction</button>
-                </h3>
-                <div class="fr-collapse" id="introduction-{{ category.key }}">
-                    <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
-
-                    <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
-
-                    <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
-                </div>
-            </section>
-
-            <ul>
-                <li><a href="{{ category.url }}">Introduction</a></li>
-            {% for item in category.children %}
-                <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><a href="{{ item.url }}"><small>{{ item.data.idbp }}.</small> {{ item.title }}</a> <span class="fr-tag">{{ item.data.priority }}</span></li>
-            {% endfor %}
-            </ul>
-        {% endfor %}
+    </div>
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-form-group">
+            <label class="fr-label" for="form-who">Qui est pilote</label>
+            <select class="fr-select" id="form-who" name="who">
+                <option value="" selected>Tous</option>
+                <option>Décideur</option>
+                <option>Opérationnel</option>
+            </select>
+        </div>
     </div>
 </div>
+</form>
+
+
+{% for category in categories %}
+    <h2 id="{{ category.key }}">{{ category.title }}</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-{{ category.key }}">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-{{ category.key }}">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    {% for item in category.children %}
+        <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><small>{{ item.data.idbp }}</small> – <a href="{{ item.url }}">{{ item.data.title }}</a> <span class="fr-tag">{{ item.data.priority }}</span></li>
+    {% endfor %}
+    </ul>
+{% endfor %}

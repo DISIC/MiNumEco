@@ -3,8 +3,8 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Stratégie et gouvernance
 date: 2021-07-15
 eleventyNavigation:
-  key: refbpnr-strategie-et-gourvenance
-  parent: refbpnr
+  key: guideBpNr-strategie-et-gourvenance
+  parent: guideBpNr
   title: Stratégie et gouvernance
   order: 10
 ---

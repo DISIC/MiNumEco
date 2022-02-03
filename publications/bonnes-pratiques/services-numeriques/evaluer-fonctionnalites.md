@@ -10,8 +10,7 @@ who:
 indicators:
   - "% de fonctionnalités développées avec revue de conception en amont impliquant tous les métiers concernés"
 eleventyNavigation:
-  parent: refbpnr-services-numeriques
-  title: Évaluer collectivement la pertinence des fonctionnalités à concevoir
+  parent: guideBpNr-services-numeriques
   order: 10
 ---
 
