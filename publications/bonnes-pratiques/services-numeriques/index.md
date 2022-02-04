@@ -6,7 +6,7 @@ eleventyNavigation:
   key: guideBpNr-services-numeriques
   parent: guideBpNr
   title: Services numériques
-  order: 50
+  order: 70
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium, mi sit amet porttitor venenatis, urna tortor efficitur neque, ut scelerisque sem tortor ac ante. Mauris ipsum augue, venenatis id massa et, ullamcorper imperdiet dolor. Integer imperdiet in erat in convallis. Sed sapien nulla, euismod sit amet metus vel, pretium lobortis est. Aenean eget metus sit amet mauris tincidunt egestas ac sed neque. Suspendisse eget egestas orci. Sed vestibulum gravida leo vitae semper. Morbi faucibus tincidunt tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi ac sapien condimentum odio lobortis tristique. Vestibulum ullamcorper, magna eu dignissim sollicitudin, nibh velit placerat est, id molestie mi ante malesuada ligula.
