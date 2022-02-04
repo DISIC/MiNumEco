@@ -6,7 +6,7 @@ date: 2021-07-15
 idbp: a.1
 priority: Prioritaire
 who:
-  - Décideur
+  - Décideurs
 indicators:
   - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
   - "Place dans l'organigramme de cette personne"

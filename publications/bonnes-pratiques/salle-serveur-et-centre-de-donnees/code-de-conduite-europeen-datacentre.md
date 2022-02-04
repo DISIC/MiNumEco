@@ -8,7 +8,7 @@ priority: Prioritaire
 difficulty: Facile
 who:
   - Direction du numérique
-  - Achat
+  - Achats
 indicators:
   - "% de centre de données ou m² de datacentre ou kWh (facture d’électricité par exemple) gérés par des fournisseurs ayant signé le Code de Conduite européen des centres de données."
 eleventyNavigation:

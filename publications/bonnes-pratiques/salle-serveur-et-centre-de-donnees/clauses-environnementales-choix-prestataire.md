@@ -8,7 +8,7 @@ priority: Prioritaire
 difficulty: Moyenne
 who:
   - Direction du numérique
-  - Achat
+  - Achats
 indicators:
   - "Voir les critères environnementaux dans le texte de la bonne pratique"
 eleventyNavigation:

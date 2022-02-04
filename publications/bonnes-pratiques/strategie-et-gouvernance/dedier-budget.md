@@ -6,8 +6,7 @@ date: 2021-07-15
 idbp: a.2
 priority: Recommandé
 who:
-  - Décideur
-  - Opérationnel
+  - Décideurs
 indicators:
   - "% du budget de la DSI dédié au numérique responsable"
 eleventyNavigation:

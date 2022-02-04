@@ -3,7 +3,7 @@ layout: layouts/bonne-pratique.njk
 title: Évaluer collectivement la pertinence des fonctionnalités à concevoir
 type: bpnr
 date: 2021-07-15
-idbp: g.1
+idbp: e.1
 priority: Prioritaire
 who:
   - Opérationnel

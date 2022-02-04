@@ -20,7 +20,7 @@ eleventyNavigation:
     <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Télécharger en PDF</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter en CSV</a>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Exporter en JSON</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Flux JSON</a>
 </p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
@@ -50,9 +50,12 @@ eleventyNavigation:
     </div>
     <div class="fr-col-12 fr-col-md-4">
         <div class="fr-form-group">
-            <label class="fr-label" for="form-difficult">Difficulté de mise en oeuvre</label>
-            <select class="fr-select" id="form-difficult" name="difficult">
+            <label class="fr-label" for="form-difficulty">Difficulté de mise en oeuvre</label>
+            <select class="fr-select" id="form-difficulty" name="difficulty">
                 <option value="" selected>Tous</option>
+                <option>Facile</option>
+                <option>Moyenne</option>
+                <option>Difficile</option>
             </select>
         </div>
     </div>
@@ -61,8 +64,15 @@ eleventyNavigation:
             <label class="fr-label" for="form-who">Qui est pilote</label>
             <select class="fr-select" id="form-who" name="who">
                 <option value="" selected>Tous</option>
-                <option>Décideur</option>
-                <option>Opérationnel</option>
+                <option>Achats</option>
+                <option>Chef de projet</option>
+                <option>Décideurs</option>
+                <option>Délégué à la protection des données</option>
+                <option>Délégué au numérique responsable</option>
+                <option>Direction du numérique</option>
+                <option>Logistique</option>
+                <option>Responsable produit</option>
+                <option>Ressources Humaines</option>
             </select>
         </div>
     </div>
@@ -88,7 +98,7 @@ eleventyNavigation:
 
     <ul>
     {% for item in category.children %}
-        <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><small>{{ item.data.idbp }}</small> – <a href="{{ item.url }}">{{ item.data.title }}</a></li>
+        <li data-type="sheet" data-priority="{{ item.data.priority }}" data-difficulty="{{ item.data.difficulty }}" data-who="{{ item.data.who }}"><small>{{ item.data.idbp }}</small> – <a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
