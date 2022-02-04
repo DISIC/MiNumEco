@@ -88,7 +88,7 @@ eleventyNavigation:
 
     <ul>
     {% for item in category.children %}
-        <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><small>{{ item.data.idbp }}</small> – <a href="{{ item.url }}">{{ item.data.title }}</a> <span class="fr-tag">{{ item.data.priority }}</span></li>
+        <li data-type="sheet" data-priority="{{ item.data.priority }}" data-who="{{ item.data.who }}"><small>{{ item.data.idbp }}</small> – <a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}

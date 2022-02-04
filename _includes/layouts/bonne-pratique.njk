@@ -27,28 +27,33 @@ layout: layouts/base.njk
     </div>
 </nav>
 
-<h1>{{ title }}</h1>
-
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
   <div class="fr-col-12 fr-col-md-8">
-    {%- if date %}
-      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
-    {% endif %}
-
     {{ content | safe }}
+
+    {%- if date %}
+      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time></p>
+    {% endif %}
   </div>
 
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Priorité :</h2>
+            <h2 class="fr-tile__title">Priorité :</h2>
             <p class="fr-tile__desc">{{ priority }}</p>
         </div>
     </div>
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemple(s) de pilote(s) :</h2>
+            <h2 class="fr-tile__title">Difficulté de mise en oeuvre :</h2>
+            <p class="fr-tile__desc">{{ difficulty }}</p>
+        </div>
+    </div>
+
+    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+        <div class="fr-tile__body">
+            <h2 class="fr-tile__title">Exemple(s) de pilote(s) :</h2>
             <ul class="fr-tile__desc">
                 {%- for item in who -%}
                 <li>{{ item }}</li>
@@ -59,7 +64,7 @@ layout: layouts/base.njk
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemple(s) d'indicateur(s) de pilotage :</h2>
+            <h2 class="fr-tile__title">Exemple(s) d'indicateur(s) de pilotage :</h2>
             <p class="fr-tile__desc">
                 <ul>
                 {% for indicator in indicators %}

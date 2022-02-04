@@ -21,7 +21,7 @@ Les différentes études scientifiques actuelles estiment que [le numérique est
 
 Un numérique plus responsable est une démarche qui vise à réduire significativement l’empreinte environnementale, économique et sociale du système d’information, de l’organisation et du métier. Un numérique plus responsable doit se focaliser en priorité sur les actions d’évitement et de réduction afin de parer à de possibles effets rebonds. 
 
-Ce guide rassemble des exemples de bonnes pratiques pour un numérique plus responsable sous neuf chapitres : 
+Ce guide rassemble des exemples de bonnes pratiques pour un numérique plus responsable sous neuf thématiques : 
 
 1. Stratégie et gouvernance
 2. Sensibilisation et formation
