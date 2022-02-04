@@ -201,7 +201,7 @@
     <time class="fr-tag" datetime="2022-01-01">Publié le 01/01/2022</time>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Télécharger en PDF</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter en CSV</a>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Exporter en JSON</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Flux JSON</a>
 </p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
@@ -217,7 +217,27 @@
         </li>
     
         <li>
+            <a class="fr-summary__link" href="#guideBpNr-mesure-evaluation">Mesure et évaluation</a>
+        </li>
+    
+        <li>
+            <a class="fr-summary__link" href="#guideBpNr-reduction-achat">Réduction des achats</a>
+        </li>
+    
+        <li>
             <a class="fr-summary__link" href="#guideBpNr-services-numeriques">Services numériques</a>
+        </li>
+    
+        <li>
+            <a class="fr-summary__link" href="#guideBpNr-achat-durable">Achat durable</a>
+        </li>
+    
+        <li>
+            <a class="fr-summary__link" href="#guideBpNr-achat-durable">Phase usage, administration et paramétrages</a>
+        </li>
+    
+        <li>
+            <a class="fr-summary__link" href="#guideBpNr-salle-serveur-et-centre-de-donnees">Salle serveur et centre de données</a>
         </li>
     
         <li>
@@ -243,9 +263,12 @@
     </div>
     <div class="fr-col-12 fr-col-md-4">
         <div class="fr-form-group">
-            <label class="fr-label" for="form-difficult">Difficulté de mise en oeuvre</label>
-            <select class="fr-select" id="form-difficult" name="difficult">
+            <label class="fr-label" for="form-difficulty">Difficulté de mise en oeuvre</label>
+            <select class="fr-select" id="form-difficulty" name="difficulty">
                 <option value="" selected>Tous</option>
+                <option>Facile</option>
+                <option>Moyenne</option>
+                <option>Difficile</option>
             </select>
         </div>
     </div>
@@ -254,8 +277,15 @@
             <label class="fr-label" for="form-who">Qui est pilote</label>
             <select class="fr-select" id="form-who" name="who">
                 <option value="" selected>Tous</option>
-                <option>Décideur</option>
-                <option>Opérationnel</option>
+                <option>Achats</option>
+                <option>Chef de projet</option>
+                <option>Décideurs</option>
+                <option>Délégué à la protection des données</option>
+                <option>Délégué au numérique responsable</option>
+                <option>Direction du numérique</option>
+                <option>Logistique</option>
+                <option>Responsable produit</option>
+                <option>Ressources Humaines</option>
             </select>
         </div>
     </div>
@@ -281,9 +311,9 @@
 
     <ul>
     
-        <li data-type="sheet" data-priority="Prioritaire" data-who="Décideur"><small>a.1</small> – <a href="/publications/bonnes-pratiques/strategie-et-gouvernance/nommer-responsable/">Nommer une personne responsable « Numérique Responsable »</a> <span class="fr-tag">Prioritaire</span></li>
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="" data-who="Décideurs"><small>a.1</small> – <a href="/publications/bonnes-pratiques/strategie-et-gouvernance/nommer-responsable/">Nommer une personne responsable « Numérique Responsable »</a></li>
     
-        <li data-type="sheet" data-priority="Recommandé" data-who="Décideur,Opérationnel"><small>a.2</small> – <a href="/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/">Dédier un budget spécifique au Numérique Responsable</a> <span class="fr-tag">Recommandé</span></li>
+        <li data-type="sheet" data-priority="Recommandé" data-difficulty="" data-who="Décideurs"><small>a.2</small> – <a href="/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/">Dédier un budget spécifique au Numérique Responsable</a></li>
     
     </ul>
 
@@ -304,9 +334,49 @@
 
     <ul>
     
-        <li data-type="sheet" data-priority="Prioritaire" data-who="Décideur"><small>b.1</small> – <a href="/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/">Intégrer les compétences dans le plan de formation</a> <span class="fr-tag">Prioritaire</span></li>
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="" data-who="Décideur"><small>b.1</small> – <a href="/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/">Intégrer les compétences dans le plan de formation</a></li>
     
-        <li data-type="sheet" data-priority="Recommandé" data-who="Décideur,Opérationnel"><small>b.2</small> – <a href="/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/">Sensibiliser les collaborateurs</a> <span class="fr-tag">Recommandé</span></li>
+        <li data-type="sheet" data-priority="Recommandé" data-difficulty="" data-who="Décideur,Opérationnel"><small>b.2</small> – <a href="/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/">Sensibiliser les collaborateurs</a></li>
+    
+    </ul>
+
+    <h2 id="guideBpNr-mesure-evaluation">Mesure et évaluation</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-guideBpNr-mesure-evaluation">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-guideBpNr-mesure-evaluation">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    
+    </ul>
+
+    <h2 id="guideBpNr-reduction-achat">Réduction des achats</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-guideBpNr-reduction-achat">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-guideBpNr-reduction-achat">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="Moyenne" data-who="Opérationnel"><small>d.1</small> – <a href="/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/">Réduire le nombre d’équipements</a></li>
     
     </ul>
 
@@ -327,7 +397,68 @@
 
     <ul>
     
-        <li data-type="sheet" data-priority="Prioritaire" data-who="Opérationnel"><small>g.1</small> – <a href="/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/">Évaluer collectivement la pertinence des fonctionnalités à concevoir</a> <span class="fr-tag">Prioritaire</span></li>
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="" data-who="Opérationnel"><small>e.1</small> – <a href="/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/">Évaluer collectivement la pertinence des fonctionnalités à concevoir</a></li>
+    
+    </ul>
+
+    <h2 id="guideBpNr-achat-durable">Achat durable</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-guideBpNr-achat-durable">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-guideBpNr-achat-durable">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    
+    </ul>
+
+    <h2 id="guideBpNr-achat-durable">Phase usage, administration et paramétrages</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-guideBpNr-achat-durable">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-guideBpNr-achat-durable">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    
+    </ul>
+
+    <h2 id="guideBpNr-salle-serveur-et-centre-de-donnees">Salle serveur et centre de données</h2>
+
+    <section class="fr-accordion fr-mb-1w">
+        <h3 class="fr-accordion__title">
+            <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-guideBpNr-salle-serveur-et-centre-de-donnees">Introduction</button>
+        </h3>
+        <div class="fr-collapse" id="introduction-guideBpNr-salle-serveur-et-centre-de-donnees">
+            <p>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</p>
+
+            <p>Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. <b>Proin hendrerit nisi</b> nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.</p>
+
+            <ul><li>Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris.</li><li>Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum.</li><li>Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa.</li></ul>
+        </div>
+    </section>
+
+    <ul>
+    
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="Moyenne" data-who="Direction du numérique,Achats"><small>h.1</small> – <a href="/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/clauses-environnementales-choix-prestataire/">Intégrer des clauses environnementales lors du choix d’un prestataire d’hébergement</a></li>
+    
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="Facile" data-who="Direction du numérique,Achats"><small>h.2</small> – <a href="/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/">Utiliser un hébergement signataire du Code de Conduite européen des centres de données</a></li>
     
     </ul>
 
@@ -348,7 +479,7 @@
 
     <ul>
     
-        <li data-type="sheet" data-priority="Prioritaire" data-who="Opérationnel"><small>i.1</small> – <a href="/publications/bonnes-pratiques/fin-usage/evaluer-fonctionnalites/">Prioriser la remise en état ou la remise à niveau pour réemploi plutôt que le recyclage</a> <span class="fr-tag">Prioritaire</span></li>
+        <li data-type="sheet" data-priority="Prioritaire" data-difficulty="" data-who="Opérationnel"><small>i.1</small> – <a href="/publications/bonnes-pratiques/fin-usage/remise-en-etat-ou-remise-a-niveau-pour-reemploi/">Prioriser la remise en état ou la remise à niveau pour réemploi plutôt que le recyclage</a></li>
     
     </ul>
 

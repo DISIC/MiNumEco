@@ -1,5 +1,6 @@
 document.querySelector('#form-priority').addEventListener('change', changeFilterValue);
 document.querySelector('#form-who').addEventListener('change', changeFilterValue);
+document.querySelector('#form-difficulty').addEventListener('change', changeFilterValue);
 
 const sheets = document.querySelectorAll('[data-type="sheet"]');
 let filters = {};

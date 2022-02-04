@@ -122,12 +122,37 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/evaluer-fonctionnalites/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/remise-en-etat-ou-remise-a-niveau-pour-reemploi/</loc>
+    <lastmod>2021-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/</loc>
+    <lastmod>2021-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/</loc>
+    <lastmod>2021-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/clauses-environnementales-choix-prestataire/</loc>
+    <lastmod>2021-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/</loc>
+    <lastmod>2021-07-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
   
@@ -348,41 +373,56 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/</loc>
+    <lastmod>2022-02-17</lastmod>
   </url>
 </urlset>
