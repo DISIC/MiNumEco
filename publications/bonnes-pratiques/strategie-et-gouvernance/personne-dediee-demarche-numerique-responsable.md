@@ -1,11 +1,11 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Nommer une personne responsable « Numérique Responsable »
+title: Affecter une personne dédiée à la mise en œuvre d’une démarche « Numérique Responsable »
 type: bpnr
-date: 2021-07-15
+date: 2022-02-17
 idbp: a.1
 priority: Prioritaire
-difficulty : Moyenne
+difficulty: Moyenne
 who:
   - Décideurs
 indicators:
