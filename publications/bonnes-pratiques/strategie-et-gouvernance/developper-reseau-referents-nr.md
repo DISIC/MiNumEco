@@ -5,7 +5,7 @@ type: bpnr
 date: 2022-02-17
 idbp: a.4
 priority: Recommandé
-difficulty : Moyenne
+difficulty: Moyenne
 who:
   - Délégué au numérique responsable 
   - Ressources humaines 
@@ -23,5 +23,3 @@ Il est donc indispensable de ? pour créer un réseau de référents « numériq
 Un tel réseau permet d’avoir des early adopters sensibilisés qui seront les meilleurs ambassadeurs. Ils ont une connaissance plus fine de leurs organisations surtout si ces dernières sont réparties sur plusieurs sites. Ces premiers membres sont formés, montent en compétences et savent mobiliser les ressources mises à leur disposition afin de circulariser l’information en interne. Il est fondamental que ces personnes maîtrisent les connaissances et compétences essentielles sur le sujet. Autre point majeur, ils se doivent d’être alignés avec la stratégie déployée. Décidée de manière décentralisée, cela assure une appropriation plus sûre, moins descendante et permet de pouvoir faire remonter les actions ou initiatives locales pour un passage à l’échelle.
 
 Les référents diffuseront les messages car ils seront des relais connus et de confiance. Il faut veiller à ce qu’ils soient représentatifs des collaborateurs et ne soient pas circonscrits aux missions techniques, ce qui serait contre-productif. Une stratégie pour un numérique plus responsable n’est pertinente que si elle se diffuse dans tous les métiers et rôles de la structure.
-
-
