@@ -1,0 +1,25 @@
+---
+layout: layouts/bonne-pratique.njk
+title: Mettre en place les bonnes pratiques d'impression
+type: bpnr
+date: 2022-02-17
+idbp: f.7
+priority: Recommandé
+difficulty: Facile
+who:
+  - Direction du numérique
+  - Délégué au numérique responsable
+eleventyNavigation:
+  parent: guideBpNr-usage
+  order: 70
+---
+
+Les impacts environnementaux liés à l’impression et les moyens de les réduire sont maintenant largement intégrées au sein des organisations. On peut citer ces quelques bonnes pratiques :
+* Remplacer le parc d’imprimantes par des équipements multifonctions installés en réseau avec système d’identification
+* Privilégier des prestataires qui proposent des copieurs reconditionnés
+* Acheter ou louer des imprimantes ayant les écolabels Blue Angel ou EPEAT
+* Acheter du papier neuf ou recyclé certifié Blue Angel ou FSC
+* Reconditionner les toners usagés via un acteur de l’ESS
+* Paramétrer les imprimantes par défaut en mode éco
+* Sensibiliser les usagers à l'impression écoresponsable : imprimer en recto-verso, éviter d’imprimer des aplats…
+* Concevoir des chartes graphiques responsables utilisant des polices de caractères économes ou des illustrations économes en encre et papier mais sans impacter l’accessibilité du document.
