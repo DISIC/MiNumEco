@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique.njk
 title: Développer un réseau de référents pour faire vivre et inscrire la démarche dans la durée 
 type: bpnr
-date: 2021-07-15
+date: 2022-02-17
 idbp: a.4
 priority: Recommandé
 difficulty : Moyenne
