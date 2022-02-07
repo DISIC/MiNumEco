@@ -2,12 +2,12 @@
 layout: layouts/bonne-pratique.njk
 title: Réduire le nombre d’équipements
 type: bpnr
-date: 2021-07-15
+date: 2022-02-17
 idbp: d.1
 priority: Prioritaire
 difficulty: Moyenne
 who:
-  - Opérationnel
+  - Direction du numérique
 indicators:
   - "Nombre d’écrans par utilisateur"
   - "% d’agents équipés d’un smartphone professionnel"
@@ -23,11 +23,11 @@ La fabrication des équipements est la phase du cycle de vie d’un produit num�
 
 Il existe plusieurs moyens pour réduire le nombre d’équipements, qui peuvent être complémentaires les uns des autres. Nous pouvons citer par exemple :
 
-- Acquérir les équipements vraiment essentiels. On peut se poser la question de l’utilité d’un écran dynamique dans les halls d’accueils et dans les couloirs des bâtiments allumé 24h/24h qui n’est regardé que par très peu de personnes. Ou bien de l’attribution systématique d’un smartphone professionnel ou d’un écran supplémentaire pour des employés dont la fonction ne le nécessite pas.
-- Mutualiser les équipements professionnels, comme les imprimantes ou les serveurs. En complément de la mutualisation des imprimantes, la mise en place des impressions sécurisées participe à diminuer le nombre d’impressions inutiles. Qui n’a jamais retrouvé des impressions non récupérées sur un copieur de son organisation ?
-- Mutualiser les équipements professionnels et personnels. Il existe deux démarches possibles. Soit autoriser les salariés ou agents à utiliser leurs équipements personnels dans le cadre du travail (démarche AVEC – Apportez votre équipement de communication – en anglais BYOD Bring your own device), soit les autoriser à utiliser les équipements de l’entreprise pour leur usage personnel (démarche «  COPE » en anglais, « Corporate Owned, Personally Enabled »). Chacune des solutions présente des avantages et inconvénients d’un point de vue de la gestion (sécurité, assurance, coûts, etc.)
-- Privilégier une solution logicielle lorsqu’elle est disponible. Par exemple, dans le domaine de la téléphonie, il est possible d’opter pour un téléphone logiciel (softphone) à la place du combiné téléphonique. Pour l’utilisateur, cela présente également l’avantage de n’avoir qu’un seul micro-casque pour l’ordinateur et le téléphone.
-- Etc.
+* Acquérir les équipements vraiment essentiels. On peut se poser la question de l’utilité d’un écran dynamique dans les halls d’accueils et dans les couloirs des bâtiments allumé 24h/24h qui n’est regardé que par très peu de personnes. Ou bien de l’attribution systématique d’un smartphone professionnel ou d’un écran supplémentaire pour des employés dont la fonction ne le nécessite pas.
+* Mutualiser les équipements professionnels, comme les imprimantes ou les serveurs. En complément de la mutualisation des imprimantes, la mise en place des impressions sécurisées participe à diminuer le nombre d’impressions inutiles. Qui n’a jamais retrouvé des impressions non récupérées sur un copieur de son organisation ?
+* Mutualiser les équipements professionnels et personnels. Il existe deux démarches possibles. Soit autoriser les salariés ou agents à utiliser leurs équipements personnels dans le cadre du travail (démarche AVEC – Apportez votre équipement de communication – en anglais BYOD Bring your own device), soit les autoriser à utiliser les équipements de l’entreprise pour leur usage personnel (démarche «  COPE » en anglais, « Corporate Owned, Personally Enabled »). Chacune des solutions présente des avantages et inconvénients d’un point de vue de la gestion (sécurité, assurance, coûts, etc.)
+* Privilégier une solution logicielle lorsqu’elle est disponible. Par exemple, dans le domaine de la téléphonie, il est possible d’opter pour un téléphone logiciel (softphone) à la place du combiné téléphonique. Pour l’utilisateur, cela présente également l’avantage de n’avoir qu’un seul micro-casque pour l’ordinateur et le téléphone.
+* Etc.
 
 ## Retour d’expérience
 
