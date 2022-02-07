@@ -10,7 +10,7 @@ who:
   - Décideurs
 indicators:
   - "% des données localisées en France"
-  - "Temps moyen passé par les utilisateurs devant leur écran (logiciel de time tracking)"
+  - "Temps moyen passé par les utilisateurs devant leur écran"
   - "% d’équipements ergonomiques"
   - "% d’arrêts de travail liés à des pathologies dues au numérique ?"
   - "Présence d’un comité d’éthique dans l’organisation"
