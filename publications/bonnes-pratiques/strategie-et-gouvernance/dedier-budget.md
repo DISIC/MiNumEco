@@ -3,7 +3,7 @@ layout: layouts/bonne-pratique.njk
 title: Dédier un budget spécifique au Numérique Responsable
 type: bpnr
 date: 2021-07-15
-idbp: a.2
+idbp: a.5
 priority: Recommandé
 difficulty : Moyenne
 who:
