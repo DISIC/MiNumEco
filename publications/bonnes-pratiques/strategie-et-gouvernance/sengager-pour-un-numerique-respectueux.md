@@ -9,11 +9,11 @@ difficulty: Moyenne
 who:
   - Décideurs
 indicators:
-  - % des données localisées en France
-  - Temps moyen passé par les utilisateurs devant leur écran (logiciel de time tracking) ??
-  - % d’équipements ergonomiques
-  - % d’arrêts de travail liés à des pathologies dues au numérique ?
-  - Présence d’un comité d’éthique dans l’organisation
+  - "% des données localisées en France"
+  - "Temps moyen passé par les utilisateurs devant leur écran (logiciel de time tracking)"
+  - "% d’équipements ergonomiques"
+  - "% d’arrêts de travail liés à des pathologies dues au numérique ?"
+  - "Présence d’un comité d’éthique dans l’organisation"
 eleventyNavigation:
   parent: guideBpNr-strategie-et-gourvenance
   order: 70

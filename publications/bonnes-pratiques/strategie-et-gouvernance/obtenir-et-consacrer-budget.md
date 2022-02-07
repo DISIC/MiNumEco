@@ -9,7 +9,7 @@ difficulty: Moyenne
 who:
   - Décideurs
 indicators:
-  - "% du budget de la direction du numérique." Préciser l’allocation de ce budget
+  - "% du budget de la direction du numérique. Préciser l’allocation de ce budget"
 eleventyNavigation:
   parent: guideBpNr-strategie-et-gourvenance
   order: 50
