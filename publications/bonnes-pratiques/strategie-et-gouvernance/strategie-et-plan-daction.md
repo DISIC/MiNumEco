@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique.njk
 title: Définir et mettre en place un plan d'action 
 type: bpnr
-date: 2021-02-17
+date: 2022-02-17
 idbp: a.2
 priority: Prioritaire
 difficulty: Difficile
