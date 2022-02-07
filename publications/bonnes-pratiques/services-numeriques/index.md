@@ -4,7 +4,7 @@ title: Services numériques
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-services-numeriques
+  key: bonnes-pratiques-services-numeriques
   parent: guideBpNr
   title: Services numériques
   order: 70

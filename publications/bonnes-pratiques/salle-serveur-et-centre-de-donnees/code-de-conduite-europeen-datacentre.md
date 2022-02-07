@@ -12,7 +12,7 @@ who:
 indicators:
   - "% de centre de données ou m² de datacentre ou kWh (facture d’électricité par exemple) gérés par des fournisseurs ayant signé le Code de Conduite européen des centres de données."
 eleventyNavigation:
-  parent: guideBpNr-salle-serveur-et-centre-de-donnees
+  parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 20
 ---
 

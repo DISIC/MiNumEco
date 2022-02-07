@@ -14,7 +14,7 @@ indicators:
   - "Nombre de matériels réparés / mois"
   - "Equivalent CO2 économisé par les réparations (attention : difficile à évaluer)"
 eleventyNavigation:
-  parent: guideBpNr-achat-durable
+  parent: bonnes-pratiques-achat-durable
   order: 20
 ---
 

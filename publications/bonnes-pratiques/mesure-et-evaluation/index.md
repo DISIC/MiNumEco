@@ -4,7 +4,7 @@ title: Mesure et évaluation
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-mesure-evaluation
+  key: bonnes-pratiques-mesure-evaluation
   parent: guideBpNr
   title: Mesure et évaluation
   order: 30

@@ -13,7 +13,7 @@ who:
 indicators:
   - "% applications reposant sur des technologies standards / total gérées par l'organisation"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 70
 ---
 

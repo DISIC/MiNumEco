@@ -13,7 +13,7 @@ indicators:
   - "Nombre et type d’équipements en location fonctionnelle"
   - "% des achats en location fonctionnelle"
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 50
 ---
 

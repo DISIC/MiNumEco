@@ -12,7 +12,7 @@ who:
 indicators:
   - "% d'équipements reconditionnés ou contenant des matériaux recyclés achetés"
 eleventyNavigation:
-  parent: guideBpNr-achat-durable
+  parent: bonnes-pratiques-achat-durable
   order: 10
 ---
 

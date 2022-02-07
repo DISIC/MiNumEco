@@ -12,7 +12,7 @@ indicators:
   - "% du parc de poste informatique mis à jour plutôt que renouvelés"
   - "allongement moyen de la durée de vie (en année)"
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 20
 ---
 

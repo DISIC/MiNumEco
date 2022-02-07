@@ -11,7 +11,7 @@ who:
 indicators:
   - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
 eleventyNavigation:
-  parent: guideBpNr-sensibilisation-et-formation
+  parent: bonnes-pratiques-sensibilisation-et-formation
   order: 20
 ---
 

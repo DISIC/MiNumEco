@@ -14,7 +14,7 @@ indicators:
   - "temps moyen de parcours utilisateur pour des fonctionnalités-clés"
   - "taux d'utilisation des fonctionnalités des applications existantes"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 80
 ---
 

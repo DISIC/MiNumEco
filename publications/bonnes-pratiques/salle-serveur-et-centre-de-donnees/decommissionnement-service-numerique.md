@@ -11,7 +11,7 @@ who:
 indicators:
   - "Présence d'une stratégie de décommissionnement des matériels et services numériques : oui / non"
 eleventyNavigation:
-  parent: guideBpNr-salle-serveur-et-centre-de-donnees
+  parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 60
 ---
 

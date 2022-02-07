@@ -13,7 +13,7 @@ indicators:
   - "Trafic par mois par les serveurs web des applications internes en Go ou To"
 
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 30
 ---
 

@@ -12,7 +12,7 @@ who:
 indicators:
   - "Nombre d'ambassadeurs Numérique Responsable / nombre salariés"
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 40
 ---
 

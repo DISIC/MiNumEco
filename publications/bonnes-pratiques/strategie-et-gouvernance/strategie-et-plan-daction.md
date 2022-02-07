@@ -10,7 +10,7 @@ who:
   - Décideurs
   - Délégué au numérique responsable 
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 20
 ---
 

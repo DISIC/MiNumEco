@@ -12,7 +12,7 @@ who:
 indicators:
   - "Définition des types, années de construction ou versions cibles des équipements utilisateurs supportés (type de smartphone, taille écran...)"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 40
 ---
 

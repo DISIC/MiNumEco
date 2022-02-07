@@ -13,7 +13,7 @@ indicators:
   - "% des salariés / agents du support formés aux réparations"
   - "% du matériel réparé en interne / total matériel défectueux"
 eleventyNavigation:
-  parent: guideBpNr-sensibilisation-et-formation
+  parent: bonnes-pratiques-sensibilisation-et-formation
   order: 30
 ---
 

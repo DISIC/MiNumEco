@@ -17,7 +17,7 @@ indicators:
   - "température de consigne"
   - "% des centres de données de l’organisation utilisant un refroidissement naturel"
 eleventyNavigation:
-  parent: guideBpNr-salle-serveur-et-centre-de-donnees
+  parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 30
 ---
 

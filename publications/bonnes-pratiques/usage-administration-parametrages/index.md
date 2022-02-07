@@ -4,7 +4,7 @@ title: Phase usage, administration et paramétrages
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-usage
+  key: bonnes-pratiques-usage
   parent: guideBpNr
   title: Phase usage, administration et paramétrages
   order: 60

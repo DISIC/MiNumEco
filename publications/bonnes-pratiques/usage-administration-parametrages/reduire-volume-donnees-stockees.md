@@ -13,7 +13,7 @@ indicators:
   - "Volume total de données stockées (en To)"
   - "Volume total de données par nombre d’utilisateurs"
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 50
 ---
 

@@ -11,7 +11,7 @@ who:
 indicators:
   - "% des postes managés (par GPO, SCCM ou autre)"
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 20
 ---
 

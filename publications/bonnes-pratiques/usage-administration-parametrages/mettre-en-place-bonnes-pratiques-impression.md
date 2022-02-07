@@ -10,7 +10,7 @@ who:
   - Direction du numérique
   - Délégué au numérique responsable
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 70
 ---
 

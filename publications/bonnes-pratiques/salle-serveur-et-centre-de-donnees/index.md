@@ -4,7 +4,7 @@ title: Salle serveur et centre de données
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-salle-serveur-et-centre-de-donnees
+  key: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   parent: guideBpNr
   title: Salle serveur et centre de données
   order: 80

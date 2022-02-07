@@ -13,7 +13,7 @@ indicators:
   - "Durée de maintenance d'une version LTS (Long-Term Support) de l'application > x années (à déterminer selon le contexte)"
   - "% d'applications dont les mises à jour de sécurité et de confort sont dissociées"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 100
 ---
 

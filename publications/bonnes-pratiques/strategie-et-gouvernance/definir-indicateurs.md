@@ -17,7 +17,7 @@ indicators:
   - "Durée de vie moyenne et évolution du montant d’achat par type de matériel"
   - "L'empreinte environnementale (tonne équivalent CO2 / an / utilisateur)"
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 30
 ---
 

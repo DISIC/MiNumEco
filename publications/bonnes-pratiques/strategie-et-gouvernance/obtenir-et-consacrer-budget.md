@@ -11,7 +11,7 @@ who:
 indicators:
   - "% du budget de la direction du numérique. Préciser l’allocation de ce budget"
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 50
 ---
 

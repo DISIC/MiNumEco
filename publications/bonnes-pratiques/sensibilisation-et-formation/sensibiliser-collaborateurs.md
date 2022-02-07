@@ -12,7 +12,7 @@ indicators:
   - "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC pour un numérique plus responsable."
   - "sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
 eleventyNavigation:
-  parent: guideBpNr-sensibilisation-et-formation
+  parent: bonnes-pratiques-sensibilisation-et-formation
   order: 10
 ---
 Afin d'embarquer toute l'organisation vers un numérique plus soutenable, il est primordial de sensibiliser tous les collaborateurs, les décideurs et les dirigeants sur les impacts environnementaux du numérique et les enjeux d'un numérique plus responsable.

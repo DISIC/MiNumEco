@@ -12,7 +12,7 @@ who:
 indicators:
   - "Utilisation d'un référentiel d'écoconception pendant les phases de conception d'un service numérique ? oui / non"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 30
 ---
 

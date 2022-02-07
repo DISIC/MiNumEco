@@ -12,7 +12,7 @@ indicators:
   - "Quelles sont les obligations précisées dans les cahiers de clauses administratives entre l'acheteur et le titulaire du marché ?"
   - "Quelles sont les clauses sociales intégrées aux marchés ?"
 eleventyNavigation:
-  parent: guideBpNr-achat-durable
+  parent: bonnes-pratiques-achat-durable
   order: 50
 ---
 

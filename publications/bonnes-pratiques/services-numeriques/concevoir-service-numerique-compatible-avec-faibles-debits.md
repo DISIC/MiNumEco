@@ -13,7 +13,7 @@ indicators:
   - "Test du service numérique en connexion bas débit intégré à la phase de recette des fonctionnalités : oui / non"
   - "Service numérique utilisable en bas débit (3G en contexte mobile, connexion 512 Kb en contexte fixe) : oui / non"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 60
 ---
 

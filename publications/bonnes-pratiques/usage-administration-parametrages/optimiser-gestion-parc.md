@@ -18,7 +18,7 @@ indicators:
   - "Nombre de matériels par utilisateur de l’organisation"
 
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 10
 ---
 

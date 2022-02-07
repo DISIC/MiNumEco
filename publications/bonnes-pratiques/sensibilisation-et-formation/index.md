@@ -4,7 +4,7 @@ title: Sensibilisation et formation
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-sensibilisation-et-formation
+  key: bonnes-pratiques-sensibilisation-et-formation
   parent: guideBpNr
   title: Sensibilisation et formation
   order: 20

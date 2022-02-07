@@ -4,7 +4,7 @@ title: Achat durable
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-achat-durable
+  key: bonnes-pratiques-achat-durable
   parent: guideBpNr
   title: Achat durable
   order: 50

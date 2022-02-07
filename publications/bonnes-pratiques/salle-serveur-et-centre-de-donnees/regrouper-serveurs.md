@@ -11,7 +11,7 @@ who:
 indicators:
   - "% des serveurs virtualisés"
 eleventyNavigation:
-  parent: guideBpNr-salle-serveur-et-centre-de-donnees
+  parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 40
 ---
 

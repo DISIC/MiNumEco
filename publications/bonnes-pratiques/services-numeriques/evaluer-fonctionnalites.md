@@ -12,7 +12,7 @@ who:
 indicators:
   - "% de fonctionnalités développées avec revue de conception en amont impliquant tous les métiers concernés"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 10
 ---
 

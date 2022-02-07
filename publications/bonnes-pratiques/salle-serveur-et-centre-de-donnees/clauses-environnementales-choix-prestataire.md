@@ -12,7 +12,7 @@ who:
 indicators:
   - "Voir les critères environnementaux dans le texte de la bonne pratique"
 eleventyNavigation:
-  parent: guideBpNr-salle-serveur-et-centre-de-donnees
+  parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 10
 ---
 

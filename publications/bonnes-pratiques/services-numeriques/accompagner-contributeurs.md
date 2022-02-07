@@ -13,7 +13,7 @@ who:
 indicators:
   - "Contenu (page web par exemple) total en incluant l’interface (html, css, js pour une page web) et toutes les ressources (images, vidéos, pdf) affiché à l’utilisateur : poids < x Ko (à définir selon votre contexte)"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 90
 ---
 

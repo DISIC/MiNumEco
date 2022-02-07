@@ -12,7 +12,7 @@ who:
 indicators:
   - "Le service numérique s’adapte à différents types de terminaux d’affichage : oui / non"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 50
 ---
 

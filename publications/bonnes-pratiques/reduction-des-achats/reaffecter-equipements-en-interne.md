@@ -12,7 +12,7 @@ indicators:
   - "Durée de vie moyenne des équipements au sein de l’organisation"
   - "Nombre et / ou % de matériels réemployés en interne."
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 30
 ---
 

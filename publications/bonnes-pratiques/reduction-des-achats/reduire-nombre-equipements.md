@@ -15,7 +15,7 @@ indicators:
   - "% d’imprimantes mutualisées avec identification"
   - "% d’équipements en stock"
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 10
 ---
 

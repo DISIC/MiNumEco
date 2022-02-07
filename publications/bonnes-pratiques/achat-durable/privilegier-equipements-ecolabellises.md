@@ -12,7 +12,7 @@ who:
 indicators:
   - "% d'équipements éco-labellisés achetés"
 eleventyNavigation:
-  parent: guideBpNr-achat-durable
+  parent: bonnes-pratiques-achat-durable
   order: 30
 ---
 

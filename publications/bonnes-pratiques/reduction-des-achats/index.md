@@ -4,7 +4,7 @@ title: Réduction des achats
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-reduction-achat
+  key: bonnes-pratiques-reduction-achat
   parent: guideBpNr
   title: Réduction des achats
   order: 40

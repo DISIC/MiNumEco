@@ -11,7 +11,7 @@ who:
 indicators:
   - "Nombre d’indicateurs monitorés"
 eleventyNavigation:
-  parent: guideBpNr-mesure-evaluation
+  parent: bonnes-pratiques-mesure-evaluation
   order: 30
 ---
 

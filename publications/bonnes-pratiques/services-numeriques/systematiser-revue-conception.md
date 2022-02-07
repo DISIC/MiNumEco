@@ -14,7 +14,7 @@ indicators:
   - "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité : oui / non"
   - "Vérification de la conformité au Référentiel général d’écoconception de service numérique"
 eleventyNavigation:
-  parent: guideBpNr-services-numeriques
+  parent: bonnes-pratiques-services-numeriques
   order: 20
 ---
 

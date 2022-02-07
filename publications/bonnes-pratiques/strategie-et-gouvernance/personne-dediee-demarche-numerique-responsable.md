@@ -13,7 +13,7 @@ indicators:
   - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
   - "Place dans l'organigramme de cette personne"
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 10
 ---
 

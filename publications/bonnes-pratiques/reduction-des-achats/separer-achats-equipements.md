@@ -12,7 +12,7 @@ who:
 indicators:
   - "% des équipements informatiques principaux renouvelés seuls, par critères : écrans, souris, téléphones portables, unités centrales…"
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 40
 ---
 

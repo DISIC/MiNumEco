@@ -15,7 +15,7 @@ indicators:
   - "% d’arrêts de travail liés à des pathologies dues au numérique ?"
   - "Présence d’un comité d’éthique dans l’organisation"
 eleventyNavigation:
-  parent: guideBpNr-strategie-et-gourvenance
+  parent: bonnes-pratiques-strategie-et-gouvernance
   order: 70
 ---
 

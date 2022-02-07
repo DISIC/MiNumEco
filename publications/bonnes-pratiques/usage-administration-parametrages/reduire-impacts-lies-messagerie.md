@@ -15,7 +15,7 @@ indicators:
   - "Poids moyen des courriels"
   - "Volume moyen utilisé de la boîte mail, dimensionnement maximal de la boîte mail"
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 60
 ---
 

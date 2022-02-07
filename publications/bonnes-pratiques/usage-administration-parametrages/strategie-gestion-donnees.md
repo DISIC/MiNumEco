@@ -14,7 +14,7 @@ indicators:
   - "% de données archivées par an"
   - "% de données supprimées par an"
 eleventyNavigation:
-  parent: guideBpNr-usage
+  parent: bonnes-pratiques-usage
   order: 40
 ---
 

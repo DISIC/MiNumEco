@@ -11,7 +11,7 @@ who:
 indicators:
   - "Nombre de fournisseurs identifiés proposant des produits reconditionnés"
 eleventyNavigation:
-  parent: guideBpNr-achat-durable
+  parent: bonnes-pratiques-achat-durable
   order: 40
 ---
 

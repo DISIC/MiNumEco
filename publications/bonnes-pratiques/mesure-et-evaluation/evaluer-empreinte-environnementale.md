@@ -9,7 +9,7 @@ difficulty: Difficile
 who:
   - Délégué au numérique responsable
 eleventyNavigation:
-  parent: guideBpNr-mesure-evaluation
+  parent: bonnes-pratiques-mesure-evaluation
   order: 20
 ---
 

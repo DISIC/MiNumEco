@@ -4,7 +4,7 @@ title: Fin d'usage
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-fin-usage
+  key: bonnes-pratiques-fin-usage
   parent: guideBpNr
   title: Fin d'usage
   order: 90

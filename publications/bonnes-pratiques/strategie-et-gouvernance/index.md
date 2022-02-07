@@ -4,7 +4,7 @@ title: Stratégie et gouvernance
 tags: guideBpNrThematique
 date: 2022-02-17
 eleventyNavigation:
-  key: guideBpNr-strategie-et-gourvenance
+  key: bonnes-pratiques-strategie-et-gouvernance
   parent: guideBpNr
   title: Stratégie et gouvernance
   order: 10

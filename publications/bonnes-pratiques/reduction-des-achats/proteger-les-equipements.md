@@ -14,7 +14,7 @@ indicators:
   - "Taux de casse par an"
   - "% de SAV retours internes"
 eleventyNavigation:
-  parent: guideBpNr-reduction-achat
+  parent: bonnes-pratiques-reduction-achat
   order: 60
 ---
 

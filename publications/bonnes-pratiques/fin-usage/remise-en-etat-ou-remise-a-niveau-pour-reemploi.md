@@ -12,7 +12,7 @@ indicators:
   - "Poids des DEEE évités : poids des équipements remis en état ou à niveau"
   - "% des DEEE évités par les remises en état / à niveau par rapport au poids total des DEEE générés"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 10
 ---
 
