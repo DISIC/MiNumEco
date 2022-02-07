@@ -3,7 +3,7 @@ layout: layouts/bonne-pratique.njk
 title: Évaluer collectivement la pertinence des fonctionnalités à concevoir
 type: bpnr
 date: 2022-02-17
-idbp: e.1
+idbp: g.1
 priority: Prioritaire
 difficulty: Moyenne
 who:
