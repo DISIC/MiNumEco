@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Intégrer les compétences Numérique Responsable dans le plan de formation
+title: Évaluer régulièrement l’empreinte environnementale du système d’information
 type: bpnr
 date: 2022-02-17
 idbp: c.2
