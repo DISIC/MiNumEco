@@ -5,26 +5,28 @@ type: bpnr
 date: 2021-07-15
 idbp: a.1
 priority: Prioritaire
+difficulty : Moyenne
 who:
   - Décideurs
 indicators:
+  - "Certificat de formation ou de connaissances de la personne chargée de la démarche numérique responsable"
   - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
   - "Place dans l'organigramme de cette personne"
 eleventyNavigation:
   parent: guideBpNr-strategie-et-gourvenance
-  title: Nommer une personne responsable « Numérique Responsable »
+  title: 1.	Affecter une personne dédiée à la mise en œuvre d’une démarche « Numérique Responsable »
   order: 10
 ---
 
-La personne responsable Numérique Responsable pilote et anime la stratégie Numérique Responsable de l’organisation. Elle coordonne les actions Numérique Responsable avec la DSI (Direction des Systèmes d’Information) et la conception responsable de service numérique avec les directions métier. 
+Recruter, nommer ou affecter une personne dédiée à la mise en place et à la coordination des actions pour un numérique plus responsable au sein de l’organisation. Cette personne devra travailler non seulement avec la direction du numérique mais aussi de façon transverse dans l’organisation.
 
-Cette personne doit appréhender le numérique sous l’angle des enjeux environnementaux, sociaux et économiques pour construire un système d’information éco-responsable et aider l'organisation à évoluer vers des modèles plus soutenables grâce au numérique.
+Elle doit construire en concertation avec les différents métiers et les différents services, la stratégie et le plan d’action « numérique responsable » en tenant compte des impacts environnementaux, sociaux et économiques.
 
-Elle doit également élaborer, appliquer et faire évoluer la stratégie Développement Durable de l’organisation au niveau du système d’information, en relation avec le Directeur des Systèmes d’Information, le Directeur du Développement Durable et le comité exécutif de l’entreprise.
+Son positionnement dans l’organisation peut être analogue à celui de la personne en charge de la responsabilité sociétale de l’organisation ou du Responsable Sécurité des Systèmes d’Informations (RSSI), en dehors de la direction du numérique pour éviter tout conflit d’intérêt.
 
-Elle doit également être en charge d'accompagner les directions métier pour les aider à tirer le meilleur parti du numérique dans le cadre de la conception responsable des produits et services numériques de l’entreprise, tout en étant transverse à tous les services.
+Cette personne représente également la structure dans les cercles d’expertises « Numérique et environnement » et auprès des autres établissements, menant des actions de veille et de partage des bonnes pratiques.
 
-Dans les petites structures, un référent Numérique Responsable en plus de ses autres tâches, peut être nommé au sein de l'entité. Une possibilité supplémentaire est de partager cette responsabilité au sein des équipes. 
+Dans les petites structures, un référent Numérique Responsable en plus de ses autres tâches, peut être nommé au sein de l'entité. Une possibilité supplémentaire est de partager cette responsabilité au sein des équipes.
 
 Un ensemble de compétences est requis pour ce poste : 
 
@@ -35,3 +37,8 @@ Un ensemble de compétences est requis pour ce poste :
 * Identification des impacts directs et indirects d'une technologie
 * Maîtrise des enjeux et bonnes pratiques liés à l'achat des équipements, à la gestion des Déchets d'équipements électriques et électroniques (DEEE) et au réemploi
 * Capacité de mener une campagne de sensibilisation en interne ou vis à vis des fournisseurs et des prestataires, etc.
+
+## En savoir plus 
+ 
+Voir l’intitulé « Responsable Green IT » [dans la nomenclature des métiers du système d’information du CIGREF (2018)](/https://www.cigref.fr/wp/wp-content/uploads/2020/11/Cigref-Nomenclature-RH-Metiers-Competences-2018_v2.pdf/).
+
