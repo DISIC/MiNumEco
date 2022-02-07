@@ -24,6 +24,6 @@ Les données redondantes consomment des ressources matérielles (les disques de 
 
 Une stratégie d'archivage pérenne peut être mise en place afin de limiter le plus possible les impacts écologiques. Cette pratique permettra de libérer de l'espace sur le stockage primaire, relativement limité, et d'intégrer de nouvelles données. Il est donc important de définir clairement les conditions d'archivage : mécanismes d'archivage, type de support pour le stockage des données archivées, durée de conservation des données, règles d'administration définissant qui peut accéder aux archives et les critères d'archivage. Il est à noter que cette démarche implique forcément la mise en place d'une stratégie de suppression.
 
-**En savoir plus**
+## En savoir plus
 
 Le principe [FAIR](https://fr.wikipedia.org/wiki/Fair_data) recouvre des principes de gestion des données de façon à ce qu’elles soient «**F**acile à trouver, **A**ccessible, **I**nteropérable et **R**éutilisable ». Suivre cette méthode permet de réduire l'impact par la mise en place d'une meilleure interopérabilité et réutilisation des données.

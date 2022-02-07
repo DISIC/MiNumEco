@@ -12,7 +12,7 @@ who:
 indicators:
   - "% de fonctionnalités livrées avec revue de conception en amont et une revue de code en aval."
   - "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité : oui / non"
-  - "Vérification de la conformité au [Référentiel général d’écoconception de service numérique](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)"
+  - "Vérification de la conformité au Référentiel général d’écoconception de service numérique"
 eleventyNavigation:
   parent: guideBpNr-services-numeriques
   order: 20
@@ -25,3 +25,7 @@ En sortie de développement, la revue de code est déjà une bonne pratique lié
 S’il existe une liste de critères en fin de développement, une « Définition de fini » (*definition of done*), y intégrer des critères environnementaux, par exemple le nombre et poids des médias à respecter, le temps de réponse, bibliothèques ou dépendances ajoutées.
 
 Une attention à l'obsolescence des équipements est à étudier : la solution choisie et son implémentation doivent pouvoir fonctionner sur des équipements anciens ou dans des conditions dégradées (connectivité par exemple).
+
+## En savoir plus
+
+Vérifier la conformité du service numérique au [Référentiel général d’écoconception de service numérique (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
