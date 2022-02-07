@@ -1,0 +1,32 @@
+---
+layout: layouts/bonne-pratique.njk
+title: Accompagner les contributeurs pour alléger les contenus multimédia
+type: bpnr
+date: 2022-02-17
+idbp: g.9
+priority: Prioritaire
+difficulty: Moyenne
+who:
+  - Délégué au numérique responsable
+  - Direction du numérique
+  - Chef de projet
+indicators:
+  - "Contenu (page web par exemple) total en incluant l’interface (html, css, js pour une page web) et toutes les ressources (images, vidéos, pdf) affiché à l’utilisateur : poids < x Ko (à définir selon votre contexte)"
+eleventyNavigation:
+  parent: guideBpNr-services-numeriques
+  order: 90
+---
+
+Les services numériques sont très souvent alimentés par des contenus multimédia (texte, images, vidéos, documents à télécharger) soumis par des contributeurs. Même si son interface a été « éco-conçue », le service numérique peut être alourdi par les contenus présentés. Il faut donc mieux maîtriser les intrants. Cela passe par la sensibilisation des contributeurs mais aussi par la mise en place de tâches automatiques qui vont aider ces contributeurs.
+
+Pour les images, les questions que le contributeur doit se poser par exemple : la taille suffisante pour être lisible et le bon format d’image : jpg pour une photographie, png pour les illustrations, graphiques… tout ce qui n’est pas une photographie.
+
+Pour les vidéos, les premières questions à se poser sont « a-t-on vraiment besoin de les publier ? La vidéo publiée ne démarre pas automatiquement mais à la demande ? Y a-t-il une alternative à la vidéo, par exemple un texte de retranscription ou un résumé ? »
+
+Quant aux documents à télécharger, il faut également bien choisir le format de fichier. Un pdf par exemple peut parfois être plus léger que des documents word ou powerpoint. Les logiciels de traitement de texte ou de présentations proposent généralement des options d’export pour réduire le poids des fichiers : « compresser les images » ou « publication en ligne » par exemple. Il serait par exemple intéressant d’indiquer au contributeur le poids du fichier mis à disposition (en Ko ou Mo) ainsi qu’un score (léger, lourd, très lourd…).
+
+Si c’est possible, il est recommandé de publier le document au format web (c’est-à-dire en texte et en incluant les illustrations), ce qui souvent est moins lourd qu’un fichier à télécharger. Cela peut être également favorable pour l’accessibilité du contenu.
+
+Des tâches automatiques intégrées au système de gestion de contenu permettront d’accompagner le contributeur : par exemple réduire automatiquement le poids et la taille des images.
+
+Dans l’interface de contribution, il pourrait être envisagé d’indiquer le poids total du contenu qui sera visible par les utilisateurs et un score (par exemple un [ecoindex](http://www.ecoindex.fr/apropos/)).
