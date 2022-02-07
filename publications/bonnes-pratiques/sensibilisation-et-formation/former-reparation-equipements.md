@@ -8,7 +8,7 @@ priority: Aller plus loin
 difficulty: Difficile
 who:
   - Direction du numérique 
-  - Ressources humaines
+  - Ressources Humaines
 indicators:
   - "% des salariés / agents du support formés aux réparations"
   - "% du matériel réparé en interne / total matériel défectueux"

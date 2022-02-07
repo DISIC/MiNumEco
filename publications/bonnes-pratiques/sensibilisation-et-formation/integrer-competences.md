@@ -7,7 +7,7 @@ idbp: b.2
 priority: Recommandé
 difficulty: Moyenne 
 who:
-  - Ressources humaines
+  - Ressources Humaines
 indicators:
   - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
 eleventyNavigation:

@@ -8,7 +8,7 @@ priority: Recommandé
 difficulty: Moyenne
 who:
   - Délégué au numérique responsable 
-  - Ressources humaines 
+  - Ressources Humaines 
 indicators:
   - "Nombre d'ambassadeurs Numérique Responsable / nombre salariés"
 eleventyNavigation:
