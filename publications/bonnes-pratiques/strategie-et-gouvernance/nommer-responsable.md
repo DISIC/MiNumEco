@@ -14,7 +14,7 @@ indicators:
   - "Place dans l'organigramme de cette personne"
 eleventyNavigation:
   parent: guideBpNr-strategie-et-gourvenance
-  title: 1.	Affecter une personne dédiée à la mise en œuvre d’une démarche « Numérique Responsable »
+  title: Nommer une personne chargée de la démarche « Numérique Responsable »
   order: 10
 ---
 
