@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Connaître son système d'information pour mieux l’exploiter
+title: Coordonner, piloter et suivre
 type: bpnr
 date: 2022-02-17
 idbp: c.3
