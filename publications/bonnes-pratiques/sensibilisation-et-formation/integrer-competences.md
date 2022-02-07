@@ -1,28 +1,36 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Intégrer les compétences dans le plan de formation
+title: Intégrer les compétences Numérique Responsable dans le plan de formation
 type: bpnr
-date: 2021-07-15
-idbp: b.1
-priority: Prioritaire
+date: 2022-02-17
+idbp: b.2
+priority: Recommandé
+difficulty: Moyenne 
 who:
-  - Décideur
+  - Ressources humaines
 indicators:
-  - "% agents..."
+  - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
 eleventyNavigation:
   parent: guideBpNr-sensibilisation-et-formation
-  title: Intégrer les compétences dans le plan de formation
-  order: 10
+  order: 20
 ---
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+Afin d’acculturer les équipes sur le sujet, le mieux est de les former ! Quelques exemples de compétences à acquérir en formation : 
 
-Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. **Proin hendrerit nisi** nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.
+- Compréhension des enjeux environnementaux globaux
+- Compréhension des impacts du numérique 
+- Notion de cycle de vie d'un appareil
+- Compréhension du cycle de vie d'un service numérique
+- Identification des facteurs de consommation sur une page web, dans un logiciel, etc.
+- Identification des impacts directs et indirects d'une technologie
+- Maîtrise des enjeux et bonnes pratiques liés à l'achat des équipements, à la gestion des Déchets d'équipements électriques et électroniques (DEEE) et au réemploi
+- Capacité à mener une campagne de sensibilisation en interne ou vis à vis des fournisseurs et des prestataires, etc.
+- Accessibilité et écoconception des services numériques
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+Selon le public ou le service ciblé (achat, conception, opérationnel…), il vaut mieux adapter la formation pour appuyer davantage sur certains points (l’écoconception pour les équipes de conception par exemple).
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+De plus, ces compétences à acquérir peuvent être intégrées dans la gestion prévisionnelle de l’emploi, des effectifs et des compétences (GPEEC) de l’organisation.
 
-Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. **Proin hendrerit nisi** nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.
+## En savoir plus
+Lors de l’audit numérique responsable des ministères réalisé par la mission interministérielle Numérique écoresponsable, une grande majorité de répondants souhaite une formation courte (1 journée) sur ce sujet.
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
