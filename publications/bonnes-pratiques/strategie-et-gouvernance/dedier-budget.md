@@ -12,7 +12,7 @@ indicators:
   - "% du budget de la DSI dédié au numérique responsable"
 eleventyNavigation:
   parent: guideBpNr-strategie-et-gourvenance
-  order: 20
+  order: 50
 ---
 
 Mettre en œuvre un plan d’action à l’échelle d’une organisation est une étape importante afin de prioriser les actions qui ont de l’impact et de mobiliser les différents acteurs autour d’objectifs communs. Il est nécessaire alors de définir des bonnes pratiques couvrant l’ensemble des activités numériques de l’organisation : la stratégie et la gouvernance, la sensibilisation et la formation, les achats, la conception de services numériques, les usages, éventuellement les salles serveurs et les centres de données et la fin d’usage.
