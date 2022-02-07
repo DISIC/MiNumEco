@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique.njk
 title: Sensibiliser les collaborateurs au numérique responsable
 type: bpnr
-date: 2021-02-17
+date: 2022-02-17
 idbp: b.1
 priority: Prioritaire
 difficulty: Facile
