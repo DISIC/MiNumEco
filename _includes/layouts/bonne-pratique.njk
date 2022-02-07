@@ -51,7 +51,7 @@ layout: layouts/bonne-pratique/default.njk
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemple(s) de pilote(s) :</h2>
+            <h2 class="fr-tile__title">{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h2>
             <ul class="fr-tile__desc">
                 {%- for item in who -%}
                 <li>{{ item }}</li>
@@ -60,9 +60,10 @@ layout: layouts/bonne-pratique/default.njk
         </div>
     </div>
 
+{% if indicators.length %}
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemple(s) d'indicateur(s) de pilotage :</h2>
+            <h2 class="fr-tile__title">{% if indicators.length > 1 %}Exemples d'indicateurs de pilotage{% else %}Exemple d'indicateur de pilotage{% endif %}</h2>
             <p class="fr-tile__desc">
                 <ul>
                 {% for indicator in indicators %}
@@ -72,5 +73,6 @@ layout: layouts/bonne-pratique/default.njk
             </p>
         </div>
     </div>
+{% endif %}
   </div>
 </div>
