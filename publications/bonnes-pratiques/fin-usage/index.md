@@ -1,7 +1,8 @@
 ---
 layout: layouts/bonne-pratique-categorie.njk
 title: Fin d'usage
-date: 2021-07-15
+tags: guideBpNrThematique
+date: 2022-02-17
 eleventyNavigation:
   key: guideBpNr-fin-usage
   parent: guideBpNr
@@ -23,6 +24,6 @@ Pour ces opérations, le détenteur peut confier ses déchets à un éco-organis
 
 Le détenteur peut aussi confier ses déchets à un gestionnaire de déchets ou un opérateur de traitement en vérifiant qu’il est autorisé à les prendre en charge, notamment qu’il est bien en contrat avec un éco-organisme ou que l’entreprise à qui il les confie pour traitement est elle-même en contrat. Mais Il demeure responsable du déchet jusqu’à son élimination ou sa valorisation finale.
 
-Réemploi et recyclage ne s’opposent pas, ils ne concernent tout simplement pas la même étape du cycle de vie du produit. En fin d’un usage, il est toujours utile d’allonger la durée de vie d’un équipement par une opération de réemploi quand elle est possible. Cela a pour effet de retarder la fin de vie. Une fois en fin de vie, le recyclage s’impose.
+Réemploi et recyclage ne s’opposent pas, ils ne concernent tout simplement pas la même étape du cycle de vie du produit. En fin d’usage, il est toujours utile d’allonger la durée de vie d’un équipement par une opération de réemploi quand elle est possible. Cela a pour effet de retarder la fin de vie. Une fois en fin de vie, le recyclage s’impose.
 
-Les bonnes pratiques peuvent se résumer en respectant la hiérarchie de la règle des 3R : Réduire, Réemployer et Recycler. Ci-après, quelques exemples de bonnes pratiques.
+Les bonnes pratiques peuvent se résumer en respectant la hiérarchie de la règle des 3R : Réduire, Réemployer et Recycler.

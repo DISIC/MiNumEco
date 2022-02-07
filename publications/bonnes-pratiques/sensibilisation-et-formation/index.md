@@ -1,7 +1,8 @@
 ---
 layout: layouts/bonne-pratique-categorie.njk
 title: Sensibilisation et formation
-date: 2021-07-15
+tags: guideBpNrThematique
+date: 2022-02-17
 eleventyNavigation:
   key: guideBpNr-sensibilisation-et-formation
   parent: guideBpNr
@@ -9,8 +10,14 @@ eleventyNavigation:
   order: 20
 ---
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+Le préalable à tout changement volontaire et engagé est la connaissance. C’est pourquoi, il est indispensable de sensibiliser, de former, d’acculturer l’ensemble des collaborateurs aux enjeux de la transition numérique et écologique (changement climatique, limites planétaires et perte de biodiversité principalement).
 
-Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. **Proin hendrerit nisi** nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.
+S’engager vers un changement profond de fonctionnement nécessite d’y intégrer les dimensions sociales, sociétales et les outils et techniques d’animation pour impliquer réellement tous les acteurs.
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+Développer une vision et une pensée systémiques sont à la base du développement de la pensée critique permettant d’identifier les croyances, les « allant de soi », les tabous etc. C’est une nécessité pour aller plus loin, ailleurs, imaginer des solutions radicalement différentes, sortir de la pensée en « silo », ouvrir des possibles et éviter définitivement les effets rebond ou autres effets indirects négatifs.
+
+Enfin, sur un plan plus opérationnel, il y a une multitude de bonnes pratiques à mettre en œuvre, de compétences de développement ou de réparation à acquérir pour que la durabilité et la sobriété ne soient pas des mots creux. 
+
+Les actions de sensibilisation devraient idéalement concerner tous les acteurs de l’organisation et les actions de formation les plus volontaires, les décideurs, les participants aux processus participatifs.
+
+Idéalement toute organisation devrait être en mesure d’assurer au moins de la sensibilisation en interne.

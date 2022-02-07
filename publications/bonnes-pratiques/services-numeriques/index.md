@@ -1,7 +1,8 @@
 ---
 layout: layouts/bonne-pratique-categorie.njk
 title: Services numériques
-date: 2021-07-15
+tags: guideBpNrThematique
+date: 2022-02-17
 eleventyNavigation:
   key: guideBpNr-services-numeriques
   parent: guideBpNr
@@ -9,11 +10,27 @@ eleventyNavigation:
   order: 70
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium, mi sit amet porttitor venenatis, urna tortor efficitur neque, ut scelerisque sem tortor ac ante. Mauris ipsum augue, venenatis id massa et, ullamcorper imperdiet dolor. Integer imperdiet in erat in convallis. Sed sapien nulla, euismod sit amet metus vel, pretium lobortis est. Aenean eget metus sit amet mauris tincidunt egestas ac sed neque. Suspendisse eget egestas orci. Sed vestibulum gravida leo vitae semper. Morbi faucibus tincidunt tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi ac sapien condimentum odio lobortis tristique. Vestibulum ullamcorper, magna eu dignissim sollicitudin, nibh velit placerat est, id molestie mi ante malesuada ligula.
+La [loi de Wirth](https://fr.wikipedia.org/wiki/Loi_de_Wirth) est une loi empirique formulée par Niklaus Wirth en 1995, selon laquelle « les programmes ralentissent plus vite que le matériel n'accélère ».En effet, l'une des causes de l'obsolescence des équipements est due aux logiciels, qui en consommant de plus en plus de ressources informatiques, accélèrent l'obsolescence des équipements.
 
-* Mauris lacinia sagittis metus, eu mattis enim gravida at.
-* Proin non venenatis leo, nec pulvinar lectus.
+De plus, sur certains équipements ou sur certains systèmes d'exploitation, des logiciels préinstallés ne peuvent pas être supprimés ([bloatware](https://fr.wikipedia.org/wiki/Bloatware\))), occupant à la fois les ressources disques et parfois les ressources CPU lorsqu'ils fonctionnent en tâche de fond.
 
-Praesent a augue mi. Sed ligula sem, rutrum nec vestibulum non, accumsan vitae purus. Ut pulvinar et dui vitae consectetur. Proin hendrerit nisi nec metus venenatis, quis dignissim diam pharetra. Suspendisse potenti. Pellentesque imperdiet lorem a dignissim porta. Curabitur convallis, sapien sed consectetur sagittis, diam diam sodales erat, nec sagittis augue sem quis mi. Pellentesque neque nisi, maximus et sem ut, congue feugiat quam.
+Quelques questions à se poser 
 
-Maecenas ultricies a quam vitae bibendum. Vestibulum et felis volutpat, feugiat elit blandit, tincidunt urna. Nullam a erat mauris. Curabitur malesuada ipsum molestie velit mollis tincidunt. Suspendisse ut justo at magna mollis condimentum. Maecenas massa erat, vulputate non pharetra vel, pellentesque at purus. Etiam eu tempus orci, sit amet egestas felis. Maecenas sit amet nisl nec erat rhoncus volutpat. Duis at tellus massa. 
+À l’achat de logiciels ou d'équipements contenant un logiciel :
+
+- Quelles sont les versions des systèmes d’exploitation, navigateurs et types d’équipements supportés par le logiciel acheté ?
+- Peut-on contractualiser sur des durées longues de maintenance du logiciel acheté ?
+- Les acheteurs sont-ils formés sur les sujets de l’écoconception de service numérique, de l’obsolescence des logiciels eux-mêmes mais aussi l’obsolescence induite par le logiciel sur les équipements ?
+
+À la conception d'un service numérique :
+
+- Une stratégie de compatibilité avec les terminaux et versions logicielles obsolètes est-elle définie ? Dans la définition des personae, les versions cibles de devices, OS et browsers ont-ils été pris en compte ?
+- S'assurer d'une compatibilité descendante sur les équipements
+- Conception d'abord web ou technologies standard au lieu d’applications propriétaires (web app vs applications natives par exemple)
+- Limiter les dépendances externes (librairies / packages tierces)
+- Privilégier les versions LTS (Long-term support) des outils ou briques logicielles notamment open source
+- Privilégier des solutions open source mais vérifier les durées d’engagement de maintenance ou s’engager dans la maintenance de l’outil.
+- Amélioration progressive selon les possibilités du terminal (_Progressive Web App_)
+- Séparer les mises à jour évolutives des mises à jours correctives (vrai surtout pour les applications propriétaires / les OS)
+- Découpler le code métier des frameworks pour faciliter les mises à jour et les évolutions
+- Conception sobre : limiter les fonctionnalités, limiter la consommation de ressources informatiques (nombre de requêtes, poids, process, RAM…) et utiliser des composants natifs du système.
