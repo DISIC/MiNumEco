@@ -2,29 +2,6 @@
 layout: layouts/bonne-pratique/default.njk
 ---
 
-<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
-    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
-    <div class="fr-collapse" id="breadcrumb-189">
-        <ol class="fr-breadcrumb__list">
-            <li>
-                <a class="fr-breadcrumb__link" href="/">Accueil</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Guide des bonnes pratiques</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/#{{ eleventyNavigation.parent }}">[{{ eleventyNavigation.parent }}]</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" aria-current="page">{{ idbp }} – {{ title }}</a>
-            </li>
-        </ol>
-    </div>
-</nav>
-
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
   <div class="fr-col-12 fr-col-md-8">
     {{ content | safe }}

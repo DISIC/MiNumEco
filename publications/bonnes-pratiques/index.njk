@@ -79,11 +79,11 @@ eleventyNavigation:
 </div>
 </form>
 
+{% set thematiquesContent = collections.guideBpNrThematique %}
 
 {% for thematique in thematiques %}
     <h2 id="{{ thematique.key }}">{{ thematique.title }}</h2>
 
-    {% set thematiquesContent = collections.guideBpNrThematique %}
     {% for thematiqueContent in thematiquesContent %}
         {% if thematiqueContent.url == thematique.url %}
             <section class="fr-accordion fr-mb-1w">

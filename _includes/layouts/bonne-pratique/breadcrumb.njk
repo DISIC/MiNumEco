@@ -1,0 +1,35 @@
+
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-189">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+        {% if page.url == '/publications/bonnes-pratiques/' %}
+            <li>
+                <a class="fr-breadcrumb__link"  aria-current="page">Guide des bonnes pratiques numérique responsable</a>
+            </li>
+        {% else %}
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Guide des bonnes pratiques numérique responsable</a>
+            </li>
+
+            {% for thematique in collections.guideBpNrThematique %}
+                {% if thematique.data.eleventyNavigation.key == eleventyNavigation.parent %}
+                    <li>
+                        <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/#{{ eleventyNavigation.parent }}">{{ thematique.data.title }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{% if idbp %}{{ idbp }} – {% endif %}{{ title }}</a>
+            </li>
+        {% endif %}
+        </ol>
+    </div>
+</nav>

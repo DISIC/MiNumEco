@@ -1,39 +1,17 @@
 ---
-layout: layouts/base.njk
+layout: layouts/bonne-pratique/default.njk
 ---
 
-<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
-    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
-    <div class="fr-collapse" id="breadcrumb-189">
-        <ol class="fr-breadcrumb__list">
-            <li>
-                <a class="fr-breadcrumb__link" href="/">Accueil</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/">Guide des bonnes pratiques</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
-            </li>
-        </ol>
-    </div>
-</nav>
+{{ content | safe }}
 
-<h1>{{ title }}</h1>
+<h2>Exemples de bonnes pratiques</h2>
 
-<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-  <div class="fr-col-12 fr-col-md-8">
-    {%- if date %}
-      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time></p>
-    {% endif %}
+<ul>
+{% for bonnePratique in collections.all | eleventyNavigationExtended(eleventyNavigation.key) %}
+    <li><small>{{ bonnePratique.data.idbp }}</small> – <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
+{% endfor %}
+</ul>
 
-    {{ content | safe }}
-  </div>
-
-  <div class="fr-col-12 fr-col-md-4">
-    
-  </div>
-</div>
+{%- if date %}
+    <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time></p>
+{% endif %}
