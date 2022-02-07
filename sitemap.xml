@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/obtenir-et-consacrer-budget/</loc>
+    <lastmod>2021-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/accessibilit%C3%A9/</loc>
     <lastmod>2021-04-14</lastmod>
   </url>
@@ -127,37 +132,7 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/clauses-environnementales-choix-prestataire/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/optimiser-architecture-centre-de-donnees/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
   
@@ -332,6 +307,11 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/a-propos/</loc>
+    <lastmod>2022-01-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/synthese/</loc>
     <lastmod>2022-01-01</lastmod>
   </url>
@@ -377,7 +357,32 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/anticiper-sourcing/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-achats-durables-et-reparables/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-equipements-ecolabellises/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-equipements-reemploi/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/sassurer-tracabilite-produits/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
   
@@ -387,7 +392,17 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/evaluer-empreinte-env-si/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/connaitre-son-si-pour-mieux-lexploiter/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/coordonner-piloter-et-suivre/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/evaluer-empreinte-environnementale/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
   
@@ -402,7 +417,67 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/mettre-a-jour-equipements/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/opter-location-fonctionnelle-equipements/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/proteger-les-equipements/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reaffecter-equipements-en-interne/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/separer-achats-equipements/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/clauses-environnementales-choix-prestataire/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/decommissionnement-service-numerique/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/refroidir-centre-de-donnees/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/regrouper-serveurs/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/former-reparation-equipements/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
   
@@ -412,7 +487,82 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/accompagner-contributeurs/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-a-laide-de-technologies-standards/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-service-numerique-compatible-avec-faibles-debits/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-un-service-numerique-compatible-avec-equipements-anciens/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/differents-types-terminaux-affichage/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/dissocier-mises-a-jour-evolutives-correctives/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/envisager-solutions-non-numeriques/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/mettre-en-place-bonnes-pratiques/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/reduire-le-temps-pass%C3%A9-par-usager/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/systematiser-revue-conception/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/definir-indicateurs/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/developper-reseau-referents/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
   
@@ -427,7 +577,52 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/sengager-pour-un-numerique-respectueux/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/strategie-et-plan-daction/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/agir-parametrages-par-defaut/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/limiter-flux-donnees/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/mettre-en-place-bonnes-pratiques-impression/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/optimiser-gestion-parc/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/reduire-impacts-lies-messagerie/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/reduire-volume-donnees-stockees/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/strategie-gestion-donnees/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
 </urlset>
