@@ -122,17 +122,7 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/remise-en-etat-ou-remise-a-niveau-pour-reemploi/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
   
@@ -152,16 +142,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
@@ -177,17 +157,7 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/dedier-budget/</loc>
-    <lastmod>2021-07-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/</loc>
     <lastmod>2021-07-15</lastmod>
   </url>
   
@@ -373,42 +343,42 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
@@ -417,7 +387,37 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
   
