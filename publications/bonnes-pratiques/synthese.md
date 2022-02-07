@@ -5,8 +5,6 @@ date: 2022-01-01
 image: /img/guide-achats/guide-achats-numerique-responsable.png
 ---
 
-Ce qu'il faut retenir de ce guide.
-
 ## Principaux impacts environnementaux du numérique
 
 La prise en compte de l’empreinte environnementale du numérique s’inscrit dans un contexte planétaire de lutte contre le changement climatique, de déclin de la biodiversité et de raréfaction des ressources, avec pour objectif principal l’atteinte de la neutralité carbone au plus tard en 2050.

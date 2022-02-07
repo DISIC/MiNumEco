@@ -4,8 +4,6 @@ layout: layouts/base.njk
 
 {% include "layouts/bonne-pratique/breadcrumb.njk" %}
 
-<h1>{{ title }}</h1>
-
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">    
         <div class="fr-sidemenu__inner">
@@ -18,24 +16,8 @@ layout: layouts/base.njk
                     <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif %}">
                         <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %}aria-current="page"{% endif %}>Synthèse</a>
                     </li>
-                    <li class="fr-sidemenu__item">
-                        <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-a-propos">À propos</button>
-                        <div class="fr-collapse" id="fr-sidemenu-item-a-propos">
-                            <ul class="fr-sidemenu__list">
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Introduction</a>
-                                </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Pourquoi ce guide et à qui s’adresse-t-il ?</a>
-                                </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Que prévoit la loi</a>
-                                </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Contribution collective</a>
-                                </li>
-                            </ul>
-                        </div>
+                    <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/a-propos/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/a-propos/" {% if '/publications/bonnes-pratiques/a-propos/' == page.url %}aria-current="page"{% endif %}>À propos</a>
                     </li>
                     <li class="fr-sidemenu__item">
                         <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-annexes">Annexes</button>
@@ -65,6 +47,8 @@ layout: layouts/base.njk
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
+        <h1>{{ title }}</h1>
+
         {{ content | safe }}
     </div>
 </div>
