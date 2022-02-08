@@ -20,7 +20,7 @@ layout: layouts/base.njk
         <div class="fr-sidemenu__inner">
             <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                <ul class="fr-sidemenu__list fr-mb-3w">
+                <ul class="fr-sidemenu__list fr-mb-1w">
                     <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
                         <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
                     </li>
@@ -69,9 +69,9 @@ layout: layouts/base.njk
                 </ul>
 
             {% if bonnesPratiquesListe %}
-                <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+                <div class="fr-tile fr-tile--horizontal">
                     <div class="fr-tile__body">
-                        <h2 class="fr-tile__title fr-mb-3w">Filtrer les bonnes pratiques</h2>
+                        <h2 class="fr-tile__title fr-mb-1w">Filtrer les bonnes pratiques</h2>
                         <div class="fr-tile__desc">
                             <div class="fr-form-group">
                                 <label class="fr-label" for="form-priority">Priorité</label>
