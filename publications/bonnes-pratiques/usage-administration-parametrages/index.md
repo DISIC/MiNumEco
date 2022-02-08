@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Phase usage, administration et paramétrages
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: f.
 eleventyNavigation:
   key: bonnes-pratiques-usage
   parent: guideBpNr

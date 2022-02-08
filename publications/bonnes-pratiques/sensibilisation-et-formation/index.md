@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Sensibilisation et formation
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: b.
 eleventyNavigation:
   key: bonnes-pratiques-sensibilisation-et-formation
   parent: guideBpNr

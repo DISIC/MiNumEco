@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Services numériques
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: g.
 eleventyNavigation:
   key: bonnes-pratiques-services-numeriques
   parent: guideBpNr
