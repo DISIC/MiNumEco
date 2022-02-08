@@ -4,7 +4,7 @@ title: Guide des bonnes pratiques numérique responsable
 date: 2022-02-17
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 type: publication
-#eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: guideBpNrAccueil
   parent: publications
