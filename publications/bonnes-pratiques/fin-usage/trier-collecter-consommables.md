@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Vérifier le professionnalisme des entreprises de collecte des DEEE
+title: Trier et collecter séparément les consommables
 type: bpnr
 date: 2022-02-17
 idbp: i.10
