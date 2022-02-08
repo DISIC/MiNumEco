@@ -4,25 +4,53 @@ layout: layouts/base.njk
 
 {% include "layouts/bonne-pratique/breadcrumb.njk" %}
 
+{% set bonnesPratiquesListe = '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}
+{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/'] %}
+
+{% set bonnesPratiquesOuvert = false %}
+{% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
+{% for thematique in thematiques %}
+    {% if thematique.url == page.url or thematique.key == eleventyNavigation.parent %}
+        {% set bonnesPratiquesOuvert = true %}
+    {% endif %}
+{% endfor %}
+
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">    
         <div class="fr-sidemenu__inner">
             <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                <ul class="fr-sidemenu__list">
+                <ul class="fr-sidemenu__list fr-mb-3w">
                     <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Le guide</a>
-                    </li>
-                    <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %}aria-current="page"{% endif %}>Synthèse</a>
-                    </li>
-                    <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/a-propos/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/a-propos/" {% if '/publications/bonnes-pratiques/a-propos/' == page.url %}aria-current="page"{% endif %}>À propos</a>
+                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
                     </li>
                     <li class="fr-sidemenu__item">
-                        <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="fr-sidemenu-item-annexes">Annexes</button>
-                        <div class="fr-collapse" id="fr-sidemenu-item-annexes">
+                        <button class="fr-sidemenu__btn" aria-expanded="{% if bonnesPratiquesOuvert %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-bonnes-pratiques">Bonnes pratiques</button>
+                        <div class="fr-collapse" id="fr-sidemenu-item-bonnes-pratiques">
                             <ul class="fr-sidemenu__list">
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Voir toutes</a>
+                                </li>
+                            
+                            {% for thematique in thematiques %}
+                                {% set currentThematique = thematique.url == page.url or thematique.key == eleventyNavigation.parent %}
+                                <li class="fr-sidemenu__item {% if currentThematique %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/#{{ thematique.key }}" {% if currentThematique %}aria-current="page"{% endif %}>{{ thematique.title }}</a>
+                                </li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                    </li>   
+                    <li class="fr-sidemenu__item">
+                        <button class="fr-sidemenu__btn" aria-expanded="{% if aProposOuvert %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-apropos">À propos</button>
+                        <div class="fr-collapse" id="fr-sidemenu-item-apropos">
+                            <ul class="fr-sidemenu__list">
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/introduction/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/introduction/" {% if '/publications/bonnes-pratiques/introduction/' == page.url %}aria-current="page"{% endif %}>Introduction</a>
+                                </li>
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %}aria-current="page"{% endif %}>Synthèse</a>
+                                </li>
                                 <li class="fr-sidemenu__item ">
                                     <a class="fr-sidemenu__link" href="#">Glossaire</a>
                                 </li>
@@ -38,10 +66,50 @@ layout: layouts/base.njk
                             </ul>
                         </div>
                     </li>
-                    <li class="fr-sidemenu__item">
-                        <a class="fr-sidemenu__link" href="#">Consultation publique</a>
-                    </li>
                 </ul>
+
+            {% if bonnesPratiquesListe %}
+                <div class="fr-tile fr-tile--horizontal fr-mb-2w">
+                    <div class="fr-tile__body">
+                        <h2 class="fr-tile__title fr-mb-3w">Filtrer les bonnes pratiques</h2>
+                        <div class="fr-tile__desc">
+                            <div class="fr-form-group">
+                                <label class="fr-label" for="form-priority">Priorité</label>
+                                <select class="fr-select" id="form-priority" name="priority">
+                                    <option value="" selected>Toutes</option>
+                                    <option>Prioritaire</option>
+                                    <option>Recommandée</option>
+                                    <option>Aller plus loin</option>
+                                </select>
+                            </div>
+                            <div class="fr-form-group">
+                                <label class="fr-label" for="form-difficulty">Difficulté de mise en oeuvre</label>
+                                <select class="fr-select" id="form-difficulty" name="difficulty">
+                                    <option value="" selected>Toutes</option>
+                                    <option>Facile</option>
+                                    <option>Moyenne</option>
+                                    <option>Difficile</option>
+                                </select>
+                            </div>
+                            <div class="fr-form-group">
+                                <label class="fr-label" for="form-who">Qui est pilote</label>
+                                <select class="fr-select" id="form-who" name="who">
+                                    <option value="" selected>Toutes</option>
+                                    <option>Achats</option>
+                                    <option>Chef de projet</option>
+                                    <option>Décideurs</option>
+                                    <option>Délégué à la protection des données</option>
+                                    <option>Délégué au numérique responsable</option>
+                                    <option>Direction du numérique</option>
+                                    <option>Logistique</option>
+                                    <option>Responsable produit</option>
+                                    <option>Ressources Humaines</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
             </div>
         </div>
     </nav>

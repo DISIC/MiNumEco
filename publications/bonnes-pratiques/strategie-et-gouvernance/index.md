@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Stratégie et gouvernance
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: a.
 eleventyNavigation:
   key: bonnes-pratiques-strategie-et-gouvernance
   parent: guideBpNr

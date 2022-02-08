@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Mesure et évaluation
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: c.
 eleventyNavigation:
   key: bonnes-pratiques-mesure-evaluation
   parent: guideBpNr

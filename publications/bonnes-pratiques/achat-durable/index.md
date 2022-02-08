@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique-categorie.njk
 title: Achat durable
 tags: guideBpNrThematique
 date: 2022-02-17
+idThematique: e.
 eleventyNavigation:
   key: bonnes-pratiques-achat-durable
   parent: guideBpNr
