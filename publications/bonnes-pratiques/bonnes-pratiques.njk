@@ -30,7 +30,7 @@ eleventyNavigation:
     <ul class="fr-summary__list guide-bonne-pratique__summary__list" type="a">
     {% for thematique in thematiques %}
         <li>
-            <a class="fr-summary__link" href="#{{ thematique.key }}">{{ thematique.data.idThematique }} {{ thematique.title }}</a>
+            <a class="fr-summary__link" href="#{{ thematique.key }}">{{ thematique.data.idThematique }} – {{ thematique.title }}</a>
         </li>
     {% endfor %}
     </ul>
