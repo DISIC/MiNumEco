@@ -13,7 +13,7 @@ indicators:
   - "Nombre d'équipements informatiques remis en état ou à niveau ou réparés confiés aux acteurs de l’ESS"
   - "% des équipements informatiques remis en état ou à niveau ou réparés confiés aux acteurs de l’ESS par rapport à tous les équipements remis en état ou à niveau ou réparés confiés à des tiers"
   - "Poids des DEEE évités : poids des équipements remis en état ou à niveau ou réparés via les acteurs de l’ESS"
-  - "% des DEEE évités par les remises à niveau / en état ou les réparations par rapport au poids total des DEEE générés via les acteurs de l’ESS.."
+  - "% des DEEE évités par les remises à niveau / en état ou les réparations par rapport au poids total des DEEE générés via les acteurs de l’ESS."
 eleventyNavigation:
   parent: guideBpNr-fin-usage
   order: 30
