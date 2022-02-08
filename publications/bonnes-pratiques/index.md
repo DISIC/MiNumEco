@@ -58,5 +58,9 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 ## Consulter le guide
 
 <nav>
-<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les exemples de bonnes pratiques</a>
+<ul>
+<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/introduction/">À propos</a></li>
+<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/synthese/">Synthèse</a></li>
+<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les exemples de bonnes pratiques</a></li>
+</ul>
 </nav>
