@@ -14,7 +14,7 @@ indicators:
   - "% du poids des consommables collectés séparément sur l’ensemble des déchets générés"
   - "% du poids du papier collecté par rapport au poids du papier acheté"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 100
 ---
 

@@ -16,7 +16,7 @@ indicators:
   - "Poids des matières recyclées à l’issue des opérations gérées par les producteurs organisés en système individuel"
   - "Poids des DEEE valorisés en énergie ou en substitution à l’issue des opérations gérées par les producteurs organisés en système individuel"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 80
 ---
 

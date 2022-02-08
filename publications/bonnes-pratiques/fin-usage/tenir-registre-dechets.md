@@ -12,7 +12,7 @@ who:
 indicators:
   - "Maintien d’un registre des déchets d’équipements électriques et électroniques et des consommables : oui / non"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 110
 ---
 

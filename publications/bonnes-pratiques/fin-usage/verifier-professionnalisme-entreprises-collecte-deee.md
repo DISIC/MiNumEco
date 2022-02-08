@@ -15,7 +15,7 @@ indicators:
   - "Poids des matières recyclées à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets"
   - "Poids des DEEE valorisés en énergie ou en substitution à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 90
 ---
 

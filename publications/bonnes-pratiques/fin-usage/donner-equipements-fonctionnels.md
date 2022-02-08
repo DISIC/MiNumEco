@@ -14,7 +14,7 @@ indicators:
   - "Poids des DEEE évités : poids des équipements donnés"
   - "% des DEEE évités par les dons par rapport au poids total des DEEE générés"
 eleventyNavigation:
-  parent: guideBpNr-fin-usage
+  parent: bonnes-pratiques-fin-usage
   order: 50
 ---
 
