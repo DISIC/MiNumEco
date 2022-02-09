@@ -1,7 +1,7 @@
 ---
 layout: layouts/bonne-pratique/default.njk
 title: Synthèse
-date: 2022-01-01
+date: 2022-02-17
 image: /img/guide-achats/guide-achats-numerique-responsable.png
 ---
 

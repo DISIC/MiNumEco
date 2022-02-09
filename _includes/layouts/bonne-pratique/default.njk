@@ -5,7 +5,7 @@ layout: layouts/base.njk
 {% include "layouts/bonne-pratique/breadcrumb.njk" %}
 
 {% set bonnesPratiquesListe = '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}
-{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/'] %}
+{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/', '/publications/bonnes-pratiques/glossaire/', '/publications/bonnes-pratiques/bibliographie/'] %}
 
 {% set bonnesPratiquesOuvert = false %}
 {% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
@@ -51,11 +51,12 @@ layout: layouts/base.njk
                                 <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif %}">
                                     <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %}aria-current="page"{% endif %}>Synthèse</a>
                                 </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Glossaire</a>
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/glossaire/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/glossaire/" {% if '/publications/bonnes-pratiques/glossaire/' == page.url %}aria-current="page"{% endif %}>Glossaire</a>
                                 </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Bibliographie sélective</a>
+                                </li>
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bibliographie/" {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}aria-current="page"{% endif %}>Bibliographie sélective</a>
                                 </li>
                                 <li class="fr-sidemenu__item ">
                                     <a class="fr-sidemenu__link" href="#">Webographie</a>
@@ -118,5 +119,9 @@ layout: layouts/base.njk
         <h1>{{ title }}</h1>
 
         {{ content | safe }}
+
+        <p>
+            <time class="fr-tag" datetime="{{ date | htmlDateString }}">Dernière mise à jour le {{ date | readableDate }}</time>
+        </p>
     </div>
 </div>
