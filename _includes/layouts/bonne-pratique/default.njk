@@ -5,7 +5,7 @@ layout: layouts/base.njk
 {% include "layouts/bonne-pratique/breadcrumb.njk" %}
 
 {% set bonnesPratiquesListe = '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}
-{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/', '/publications/bonnes-pratiques/glossaire/', '/publications/bonnes-pratiques/bibliographie/'] %}
+{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/', '/publications/bonnes-pratiques/glossaire/', '/publications/bonnes-pratiques/bibliographie/', '/publications/bonnes-pratiques/webographie/'] %}
 
 {% set bonnesPratiquesOuvert = false %}
 {% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
@@ -58,11 +58,8 @@ layout: layouts/base.njk
                                 <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}fr-sidemenu__item--active{% endif %}">
                                     <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bibliographie/" {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}aria-current="page"{% endif %}>Bibliographie sélective</a>
                                 </li>
-                                <li class="fr-sidemenu__item ">
-                                    <a class="fr-sidemenu__link" href="#">Webographie</a>
-                                </li>
-                                <li class="fr-sidemenu__item">
-                                    <a class="fr-sidemenu__link" href="#">Revoir le webinaire de lancement</a>
+                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/webographie/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/webographie/" {% if '/publications/bonnes-pratiques/webographie/' == page.url %}aria-current="page"{% endif %}>Webographie</a>
                                 </li>
                             </ul>
                         </div>

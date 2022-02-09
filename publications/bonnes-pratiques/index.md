@@ -14,28 +14,30 @@ eleventyNavigation:
   order: 100
 ---
 
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-12 fr-col-md-7">
+  
 Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.
 
 L’objectif de ce guide est d’une part de sensibiliser les différents acteurs aux impacts de certaines pratiques rencontrées au sein des organisations, et d’autre part de partager des exemples de bonnes pratiques numérique responsable qui peuvent participer à la réduction de l’empreinte environnementale du numérique. Ce guide s’adresse à tout type d’organisation, du secteur public comme du secteur privé. Certains exemples de bonnes pratiques sont plus adaptés que d’autres suivant le contexte et la maturité de la démarche numérique responsable au sein des organisations.
 
 Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique.. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués.. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les décideurs informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
 
+  </div>
+  <div class="fr-col-12 fr-col-md-5">
+    <a target="_self" href="#" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf X Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+  </div>
+</div>
+
 Enfin, dans une démarche qui se veut itérative, ce guide est publié en version beta. La version 1 du guide sera complétée et publiée après une consultation publique.
 
-<div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-12 fr-col-md-6">
+
 
 **Conception et rédaction** : MiNumEco, mission interministérielle numérique écoresponsable, Direction interministérielle du numérique (DINUM), Ministère de la Transition écologique, Institut du Numérique Responsable (INR)
 
 **Pilotes projet** : Richard Hanna et Olivier Joviado (DINUM)
 
 **Principaux contributeurs** : Richard Hanna et Olivier Joviado (DINUM), Laurent Pingault (INR), Françoise Berthoud et Sophie Quinton (EcoInfo), Viviane Valla (CGDD), Alexandra Grout, Anne Crance, Maxime Nebule, Romain Cassiaux et Rachid Igouti (ministère de l’Intérieur), Frédéric Damiens (ministère de la Transition écologique), Brigitte Tran (ministère de la Culture), Romuald Ribault (Alliance Green IT), Agnès Comte (Banque de France), Hervé le Luherne (Région Bretagne), Catherine Petit, Yveline Baratta et Florence Launay (Bibliothèque Nationale de France).
-
-  </div>
-  <div class="fr-col-12 fr-col-md-6">
-    <a target="_self" href="#" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf X Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
-  </div>
-</div>
 
 **Relecteurs** : Fatiha Gas (ministère de la Justice), Thierry Darbois (ministère de l’Europe et des Affaires étrangères), Murielle Timsit (indépendante), Gauthier Roussilhe (indépendant), Bela Loto (Point de MIR), Julie Delmas-Orgelet (DDemain), Benjamin Ninassi (INRIA), Benoit Dequick et Ugo Dessertine (Pôle design de service numérique, DINUM), Hubert de Cadolle (IFCE), Jacques-François Marchandise (Fing), Marine Gout (Pix), Ishan Bhojwani (beta.gouv, DINUM), Béatrice Bellini (Université Paris Nanterre), Philippe Derouette (IT-CE - groupe BPCE), Astrid Lebrun-Frisdal (Ecosystem), Bertrand Reygner (Ecologic).
 

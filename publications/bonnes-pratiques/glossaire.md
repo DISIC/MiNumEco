@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: Glossaire
 date: 2022-02-17
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 ---
 
 **Accessibilité Numérique** : consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles, c’est-à-dire 100 % conformes au RGAA, le Référentiel Général d’Amélioration de l’Accessibilité. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
