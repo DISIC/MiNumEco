@@ -31,7 +31,7 @@ eleventyNavigation:
     <ul class="fr-summary__list guide-bonne-pratique__summary__list" type="a">
     {% for thematique in thematiques %}
         <li>
-            <a class="fr-summary__link" href="#{{ thematique.key }}">{{ thematique.data.idThematique }} – {{ thematique.title }}</a>
+            <a class="fr-summary__link" href="#{{ thematique.key }}">{{ thematique.data.idThematique }} {{ thematique.title }}</a>
         </li>
     {% endfor %}
     </ul>
@@ -46,7 +46,7 @@ eleventyNavigation:
         {% if thematiqueContent.url == thematique.url %}
             <section class="fr-accordion fr-mb-1w">
                 <h3 class="fr-accordion__title">
-                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-{{ thematique.key }}">{{ thematique.data.idThematique }} – Introduction</button>
+                    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="introduction-{{ thematique.key }}">{{ thematique.data.idThematique }} Introduction</button>
                 </h3>
                 <div class="fr-collapse" id="introduction-{{ thematique.key }}">
                     {{ thematiqueContent.templateContent | safe }}    
@@ -55,9 +55,9 @@ eleventyNavigation:
         {% endif %}
     {% endfor %}
 
-    <ul>
+    <ul class="no-bullets">
     {% for bonnePratique in thematique.children %}
-        <li data-type="sheet" data-priority="{{ bonnePratique.data.priority }}" data-difficulty="{{ bonnePratique.data.difficulty }}" data-who="{{ bonnePratique.data.who }}"><small>{{ bonnePratique.data.idbp }}</small> – <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
+        <li data-type="sheet" data-priority="{{ bonnePratique.data.priority }}" data-difficulty="{{ bonnePratique.data.difficulty }}" data-who="{{ bonnePratique.data.who }}">{{ bonnePratique.data.idbp }} <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
