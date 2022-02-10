@@ -8,10 +8,6 @@ layout: layouts/bonne-pratique/default.njk
 
 <ul>
 {% for bonnePratique in collections.all | eleventyNavigationExtended(eleventyNavigation.key) %}
-    <li><small>{{ bonnePratique.data.idbp }}</small> – <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
+    <li><a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
 {% endfor %}
 </ul>
-
-{%- if date %}
-    <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mis à jour le {{ date | readableDate }}</time></p>
-{% endif %}
