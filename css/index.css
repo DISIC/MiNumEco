@@ -20,6 +20,14 @@ main h2, main h3, main h4, main h5, main h6 {
   margin-top: 3rem;
 }
 
+main h3 {
+  font-size: 1.5rem;
+}
+
+main h4 {
+  font-size: 1rem;
+}
+
 .fr-highlight {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -33,6 +41,12 @@ main h2, main h3, main h4, main h5, main h6 {
   content: none;
 }
 
-.guide-bonne-pratique__summary__list > li > a {
+/* reset summary font size */
+.fr-summary__list > li > a {
   font-size: 1rem;
+}
+
+.fr-summary__title {
+  font-size: 1rem;
+  text-transform: none;
 }
