@@ -63,7 +63,7 @@ Pour chaque bonne pratique, vous trouverez :
 
 <h2 id="contribution-collective">Contribution collective</h2>
 
-Les contributeurs principaux de ce guide sont les suivants. 
+Les contributrices et contributeurs principaux de ce guide sont les suivants.
 
 ### MiNumEco, mission interministérielle numérique écoresponsable
 
@@ -121,9 +121,9 @@ Entreprise à mission, [Ecosystem](https://www.ecosystem.eco/) est un éco-organ
 
 **Pilotes projet** : Richard Hanna et Olivier Joviado (DINUM)
 
-**Principaux contributeurs** : Richard Hanna et Olivier Joviado (DINUM), Laurent Pingault (INR), Françoise Berthoud et Sophie Quinton (EcoInfo), Viviane Valla (CGDD), Alexandra Grout, Anne Crance, Maxime Nebule, Romain Cassiaux et Rachid Igouti (ministère de l’Intérieur), Frédéric Damiens (ministère de la Transition écologique), Brigitte Tran (ministère de la Culture), Romuald Ribault (Alliance Green IT), Agnès Comte (Banque de France), Hervé le Luherne (Région Bretagne), Catherine Petit, Yveline Baratta et Florence Launay (Bibliothèque Nationale de France).
+**Principaux contributeurs et contributrices** : Richard Hanna et Olivier Joviado (DINUM), Laurent Pingault (INR), Françoise Berthoud et Sophie Quinton (EcoInfo), Viviane Valla (CGDD), Alexandra Grout, Anne Crance, Maxime Nebule, Romain Cassiaux et Rachid Igouti (ministère de l’Intérieur), Frédéric Damiens (ministère de la Transition écologique), Brigitte Tran (ministère de la Culture), Romuald Ribault (Alliance Green IT), Agnès Comte (Banque de France), Hervé le Luherne (Région Bretagne), Catherine Petit, Yveline Baratta et Florence Launay (Bibliothèque Nationale de France).
 
-**Relecteurs** : Fatiha Gas (ministère de la Justice), Thierry Darbois (ministère de l’Europe et des Affaires étrangères), Murielle Timsit (indépendante), Gauthier Roussilhe (indépendant), Bela Loto (Point de MIR), Julie Delmas-Orgelet (DDemain), Benjamin Ninassi (INRIA), Benoit Dequick et Ugo Dessertine (Pôle design de service numérique, DINUM), Hubert de Cadolle (IFCE), Jacques-François Marchandise (Fing), Marine Gout (Pix), Ishan Bhojwani (beta.gouv, DINUM), Béatrice Bellini (Université Paris Nanterre), Philippe Derouette (IT-CE - groupe BPCE), Astrid Lebrun-Frisdal (Ecosystem), Bertrand Reygner (Ecologic).
+**Relectrices et relecteurs** : Fatiha Gas (ministère de la Justice), Thierry Darbois (ministère de l’Europe et des Affaires étrangères), Murielle Timsit (indépendante), Gauthier Roussilhe (indépendant), Bela Loto (Point de MIR), Julie Delmas-Orgelet (DDemain), Benjamin Ninassi (INRIA), Benoit Dequick et Ugo Dessertine (Pôle design de service numérique, DINUM), Hubert de Cadolle (IFCE), Jacques-François Marchandise (Fing), Marine Gout (Pix), Ishan Bhojwani (beta.gouv, DINUM), Béatrice Bellini (Université Paris Nanterre), Philippe Derouette (IT-CE - groupe BPCE), Astrid Lebrun-Frisdal (Ecosystem), Bertrand Reygner (Ecologic).
 
 **Remerciements** : Le guide porté par la mission interministérielle numérique écoresponsable et publié en licence ouverte pour une réutilisation par tous, prend pour point de départ les travaux du Club Green IT en 2017. Ils ont été remaniés, réactualisés et complétés par l’ensemble des parties prenantes de ce projet, mais nous tenons tout particulièrement à remercier les premiers contributeurs, les historiques  : Frédéric Bordage (greenit.fr), Sophie Choplain (Club Green IT), Philippe Derouette (IT-CE - groupe BPCE), Hélène Ripert (Pôle emploi), Jean-Christophe Chaussat (Pôle Emploi), Jacques Bourdos (Renault), Frédéric Cerbelaud (SNCF), Thierry Vonck (SNCF), Philippe Schmitt (Engie), Jean-François Girard (Informatique CDC), Charbel Eid (La Poste), Marc Villemon (RTE) et Eric Mely (Société Générale).
 
