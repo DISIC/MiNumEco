@@ -12,7 +12,6 @@ eleventyNavigation:
 {% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
 
 <p>
-    <time class="fr-tag" datetime="{{ date | htmlDateString }}">Publié le {{ date | readableDate }}</time>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Télécharger en PDF</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter en CSV</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Flux JSON</a>
