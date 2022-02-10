@@ -26,4 +26,4 @@ Pour les émissions de gaz à effet de serre, cette évaluation doit porter sur 
 
 ## En savoir plus
 
-L'INR propose un outil d'évaluation de l'empreinte d'un SI : <https://institutnr.org/wenr-2021>. D'autres outils permettent une évaluation brique par brique, comme la [base Impacts de l'ADEME](http://www.base-impacts.ademe.fr/) (en monocritère GES). Des outils open source comme OpenLCA sont également disponibles pour réaliser des ACV si vous avez les compétences. 
+L'INR propose un [outil d'évaluation de l'empreinte d'un SI](https://institutnr.org/wenr-2021). D'autres outils permettent une évaluation brique par brique, comme la [base Impacts de l'ADEME](http://www.base-impacts.ademe.fr/) (en monocritère GES). Des outils open source comme OpenLCA sont également disponibles pour réaliser des ACV si vous avez les compétences.
