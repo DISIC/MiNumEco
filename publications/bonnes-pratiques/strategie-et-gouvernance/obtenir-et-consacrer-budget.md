@@ -4,7 +4,7 @@ title: Obtenir et consacrer un budget spécifique
 type: bpnr
 date: 2021-02-17
 idbp: a.5
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Décideurs

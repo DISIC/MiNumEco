@@ -4,7 +4,7 @@ title: S’engager pour un numérique plus respectueux
 type: bpnr
 date: 2022-02-17
 idbp: a.7
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Décideurs

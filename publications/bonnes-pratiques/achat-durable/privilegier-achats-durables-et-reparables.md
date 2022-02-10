@@ -4,7 +4,7 @@ title: Privilégier les achats durables et réparables
 type: bpnr
 date: 2022-02-17
 idbp: e.2
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique

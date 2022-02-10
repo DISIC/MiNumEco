@@ -4,7 +4,7 @@ title: Mettre en place les bonnes pratiques d'impression
 type: bpnr
 date: 2022-02-17
 idbp: f.7
-priority: Recommandé
+priority: Recommandée
 difficulty: Facile
 who:
   - Direction du numérique

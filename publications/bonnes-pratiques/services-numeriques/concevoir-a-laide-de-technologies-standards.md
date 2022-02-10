@@ -4,7 +4,7 @@ title: Concevoir à l’aide de technologies standards plutôt que de technologi
 type: bpnr
 date: 2022-02-17
 idbp: g.7
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique

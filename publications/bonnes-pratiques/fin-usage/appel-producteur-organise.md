@@ -4,7 +4,7 @@ title: Faire appel au producteur organisé en système individuel agréé
 type: bpnr
 date: 2022-02-17
 idbp: i.8
-priority: Recommandé
+priority: Recommandée
 difficulty: Facile
 who:
   - Direction du numérique

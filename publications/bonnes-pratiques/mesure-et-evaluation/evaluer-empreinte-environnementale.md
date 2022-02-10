@@ -4,7 +4,7 @@ title: Évaluer régulièrement l’empreinte environnementale du système d’i
 type: bpnr
 date: 2022-02-17
 idbp: c.2
-priority: Recommandé
+priority: Recommandée
 difficulty: Difficile 
 who:
   - Délégué au numérique responsable

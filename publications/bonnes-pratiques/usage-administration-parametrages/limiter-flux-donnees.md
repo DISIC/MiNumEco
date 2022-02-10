@@ -4,7 +4,7 @@ title: Limiter le flux de données
 type: bpnr
 date: 2022-02-17
 idbp: f.3
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique

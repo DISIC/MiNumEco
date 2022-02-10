@@ -4,7 +4,7 @@ title: Systématiser une revue de conception en amont et une revue de code orien
 type: bpnr
 date: 2022-02-17
 idbp: g.2
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Responsable produit

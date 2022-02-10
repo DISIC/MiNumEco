@@ -4,7 +4,7 @@ title: Refroidir le centre de données par une solution économe en énergie
 type: bpnr
 date: 2022-02-17
 idbp: h.5
-priority: Recommandé
+priority: Recommandée
 difficulty: Difficile
 who:
   - Direction du numérique

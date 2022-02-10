@@ -4,7 +4,7 @@ title: Concevoir un service numérique qui s’adapte à différents types de te
 type: bpnr
 date: 2022-02-17
 idbp: g.5
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Responsable produit

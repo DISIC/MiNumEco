@@ -4,7 +4,7 @@ title: Faire appel à un établissement de l'économie sociale et solidaire
 type: bpnr
 date: 2022-02-17
 idbp: i.3
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique

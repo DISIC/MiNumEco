@@ -4,7 +4,7 @@ title: Optimiser l’architecture du centre de données
 type: bpnr
 date: 2021-07-15
 idbp: h.3
-priority: Recommandé
+priority: Recommandée
 difficulty: Difficile
 who:
   - Direction du numérique

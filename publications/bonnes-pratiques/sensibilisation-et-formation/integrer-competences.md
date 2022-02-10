@@ -4,7 +4,7 @@ title: Intégrer les compétences Numérique Responsable dans le plan de formati
 type: bpnr
 date: 2022-02-17
 idbp: b.2
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne 
 who:
   - Ressources Humaines

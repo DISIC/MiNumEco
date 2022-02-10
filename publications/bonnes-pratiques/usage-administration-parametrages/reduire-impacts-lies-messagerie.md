@@ -4,7 +4,7 @@ title: Réduire les impacts liés à la messagerie
 type: bpnr
 date: 2022-02-17
 idbp: f.6
-priority: Recommandé
+priority: Recommandée
 difficulty: Facile
 who:
   - Direction du numérique

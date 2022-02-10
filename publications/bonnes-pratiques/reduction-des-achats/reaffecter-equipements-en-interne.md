@@ -4,7 +4,7 @@ title: Réaffecter les équipements en interne
 type: bpnr
 date: 2022-02-17
 idbp: d.3
-priority: Recommandé
+priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique

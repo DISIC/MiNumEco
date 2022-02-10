@@ -4,7 +4,7 @@ title: Réduire le temps passé par un usager sur un service numérique
 type: bpnr
 date: 2022-02-17
 idbp: g.8
-priority: Recommandé
+priority: Recommandée
 difficulty: Difficile
 who:
   - Responsable produit
