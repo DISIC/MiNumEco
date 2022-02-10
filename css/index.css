@@ -41,6 +41,14 @@ main h4 {
   content: none;
 }
 
+ul.no-bullets > li::before {
+  content: none;
+}
+
+ul.no-bullets > li {
+  margin-left: 1rem;
+}
+
 /* reset summary font size */
 .fr-summary__list > li > a {
   font-size: 1rem;
