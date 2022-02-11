@@ -9,9 +9,9 @@ eleventyNavigation:
   order: 20
 ---
 
-Le numérique représente aujourd'hui environ 4% des émissions mondiales de gaz à effets de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génèrent.
+Le numérique représente aujourd'hui environ 4% des émissions mondiales de gaz à effet de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génère.
 
-## La mission interministérielle « Green Tech » : numérique écoresponsable
+## La MiNumEco, la mission interministérielle numérique écoresponsable
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
@@ -107,7 +107,7 @@ Depuis 2019, elle pilote, avec l’appui des ministères, le programme TECH.GOUV
 
 Ce programme répond à six enjeux — simplification, inclusion, attractivité, maîtrise, économies, alliances — qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
 
-Dans le cadre de ce programme, la DINUM a mis en place une mission interministérielle « Green Tech » : à travers elle, elle est engagée auprès des ministères pour permettre aux administrations de s’inscrire durablement dans les démarches pour un numérique responsable, notamment promouvoir un achat numérique responsable.
+Dans le cadre de ce programme, la DINUM a mis en place une mission interministérielle numérique écoresponsable (MiNumEco) : à travers elle, elle est engagée auprès des ministères pour permettre aux administrations de s’inscrire durablement dans les démarches pour un numérique responsable, notamment promouvoir un achat numérique responsable.
 
 La DINUM est un service du Premier ministre, placé sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
 
@@ -117,7 +117,7 @@ La DINUM est un service du Premier ministre, placé sous l’autorité de la min
 
 Le sein du secrétariat général, le service du numérique initie et accompagne la transformation numérique du ministère. Il favorise l'évolution des pratiques numériques et en assure la gouvernance. Il veille à la mise en œuvre de la stratégie définie. Il s'assure de la qualité des produits et des services et conduit l'évolution du schéma d'urbanisation, dont il est garant, selon la logique de l'État plateforme. Il accompagne les directions et services du ministère pour l'élaboration, le déploiement, le maintien et l'évolution de leurs produits numériques, ainsi que pour la transformation des politiques publiques liées au numérique. Il industrialise et sécurise le socle technique et les plateformes d'infrastructure. Il assure la veille et la prospective sur les technologies émergentes et conduit les actions d'innovation. En lien avec les responsables des actions correspondantes, il contribue à la valorisation du patrimoine des données du ministère et des établissements publics placés sous sa tutelle, à l’évaluation des effets de la transformation numérique sur l'organisation des services, à la promotion des méthodes innovantes et à l'accompagnement du changement liées au numérique, au développement et à la valorisation des compétences et il élabore et met en œuvre la politique de sécurité des systèmes d'information.
 
-Avec le commissariat général du développement durable, il a élaboré la feuille de route ministérielle « numérique et écologie », participé au pilotage de l’action interministérielle « Green Tech » du programme TECH.GOUV de la direction interministérielle du numérique et a contribué aux travaux du Conseil national du numérique en vue de l’élaboration d’une feuille de route gouvernementale « numérique & environnement ».
+Avec le commissariat général du développement durable, il a élaboré la feuille de route ministérielle « numérique et écologie », participé au pilotage de l’action interministérielle numérique écoresponsable du programme TECH.GOUV de la direction interministérielle du numérique et a contribué aux travaux du Conseil national du numérique en vue de l’élaboration d’une feuille de route gouvernementale « numérique & environnement ».
 
 #### Commissariat général au développement durable (CGDD)
 
