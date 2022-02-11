@@ -1,3 +1,7 @@
+[data-fr-theme="dark"] .fr-header__operator > img {
+  content:url(/img/logo-blanc.png);
+}
+
 #contenu img, #contenu iframe {
   max-width: 100%;
   display: block;
