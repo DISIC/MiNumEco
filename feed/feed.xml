@@ -5,12 +5,34 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2021-12-17T00:00:00Z</updated>
+	<updated>2022-02-11T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>Mission Green Tech</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Webinaire de lancement du Guide des bonnes pratiques numérique responsable</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/webinaire-guide-bonnes-pratiques/"/>
+		<updated>2022-02-11T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/webinaire-guide-bonnes-pratiques/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/webinaire-guide-bonnes-pratiques.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;La mission interministérielle numérique écoresponsable, vous invite à participer au webinaire d&#39;annonce de la publication du &lt;strong&gt;Guide des bonnes pratiques numérique responsable&lt;/strong&gt;, en version bêta et en consultation publique&lt;/p&gt;
+&lt;p&gt;Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personnes intervenantes :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virginie Rozière, Richard Hanna et Olivier Joviado, direction interministérielle du numérique&lt;/li&gt;
+&lt;li&gt;Christophe Boutonnet, ministère de la Transition écologique&lt;/li&gt;
+&lt;li&gt;Jean-Christophe Chaussat, Institut du Numérique Responsable&lt;/li&gt;
+&lt;li&gt;D&#39;autres personnes intervenantes sont à confirmer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Webinaire le jeudi 17 février de 17h à 18h&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Lien&lt;/strong&gt; : &lt;a href=&quot;https://webinaire.numerique.gouv.fr//meeting/signin/4981/creator/10/hash/b06536b48485ccc40f915b34a57e444ce2e41ee8&quot;&gt;accéder au webinaire le jour J&lt;/a&gt;&lt;br /&gt;
+Pas d&#39;inscription préalable, dans la limite de 250 personnes connectées.&lt;/p&gt;
+&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Formation initiale à l’écoconception le 16 décembre 2021</title>
