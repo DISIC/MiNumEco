@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Optimiser l’architecture du centre de données - Numérique écoresponsable</title>
+    <title>Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme - Numérique écoresponsable</title>
     <meta name="description" content="Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Optimiser l’architecture du centre de données">
+    <meta property="og:title" content="Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme">
     <meta property="og:description" content="Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
 
@@ -143,16 +143,16 @@
                 
             
                 
+            
+                
+            
+                
                     <li>
                         <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/bonnes-pratiques/">Bonnes pratiques</a>
                     </li>
                     <li>
-                        <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/bonnes-pratiques/#bonnes-pratiques-salle-serveur-et-centre-de-donnees">Salle serveur et centre de données</a>
+                        <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/bonnes-pratiques/#bonnes-pratiques-services-numeriques">Services numériques</a>
                     </li>
-                
-            
-                
-            
                 
             
                 
@@ -161,7 +161,7 @@
             
 
             <li>
-                <a class="fr-breadcrumb__link" aria-current="page">h.3 – Optimiser l’architecture du centre de données</a>
+                <a class="fr-breadcrumb__link" aria-current="page">g.7 – Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme</a>
             </li>
         
         </ol>
@@ -188,9 +188,9 @@
     
 
     
-
-    
         
+    
+
     
 
     
@@ -239,24 +239,21 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-9">
-        <h1>Optimiser l’architecture du centre de données</h1>
+        <h1>Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme</h1>
 
         <p>
-            <time class="fr-tag" datetime="2021-07-15">Dernière mise à jour le 15/07/2021</time>
+            <time class="fr-tag" datetime="2022-02-17">Dernière mise à jour le 17/02/2022</time>
         </p>
 
         
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
   <div class="fr-col-12 fr-col-md-8">
-    <p>Plusieurs bonnes pratiques d’urbanisation et d’architecture des centres de données peuvent être mises en place :</p>
-<ul>
-<li>Confiner les baies des salles serveurs pour permettre de réduire l’énergie nécessaire à la climatisation. Deux solutions peuvent être envisagées : confinement de l'air frais ou confinement de l'air chaud.</li>
-<li>Organiser les baies en allées chaudes et froides : une des bases d’une bonne climatisation est d’assurer une circulation efficace de l’air frais dans la salle, notamment en séparant les flux d’air chaud et d’air froid, en apportant l’air froid au plus près des baies et en extrayant l’air chaud au plus près des sorties de baies.</li>
-<li>Favoriser les équipements numériques répondant aux standards de l'ASHRAE : l’American Society of Heating Refrigeration and Air Conditioning Engineers a créé la certification ASHRAE qui atteste qu’un centre de données utilise du matériel qui peut continuer à fonctionner à un certain niveau de température et dans des conditions d'humidité données, ce qui réduit considérablement les besoins en refroidissement et donc la consommation d’eau et d’énergie. Ce référentiel est repris dans le Code de Conduite européen des centres de données. Imposer un seuil minimal d'efficacité énergétique pour les infrastructures autres que numériques</li>
-<li>Dimensionner de façon rationnelle les équipements et choisir du matériel de qualité permet d'optimiser la consommation énergétique de l'ensemble de la chaîne de valeur.</li>
-<li>Augmenter la température de fonctionnement à plus de 24° C.</li>
-<li>Utiliser des systèmes de refroidissement naturel, économes en énergie.</li>
-</ul>
+    <p>Certains utilisateurs et utilisatrices de smartphones anciens ne peuvent plus utiliser certaines applications mobiles pour accéder à la réservation de leur billet de train ou à leur compte en banque, car le système d'exploitation n'est plus mis à jour et les applications ne supportent pas les anciennes versions des systèmes d’exploitation. S'il n'existe pas de version web de ces services numériques, l'usager n'a pas d'autre choix que de changer de smartphone à cause de l'obsolescence matérielle induite par le logiciel.</p>
+<p>Ainsi, réaliser une application web fonctionnant dans le navigateur plutôt qu'une application lourde à installer sur le terminal utilisateur permettra de réduire la contribution à l'obsolescence des terminaux.</p>
+<p>En effet, les applications propriétaires ou les applications natives qui pèsent généralement plus lourd que leurs équivalents en version web, ont besoin d'une configuration et de versions de systèmes d'exploitation spécifiques pour fonctionner, alors qu'une application web est disponible partout, sur tout type de terminal via un navigateur web.</p>
+<p>On peut également se poser la question de dupliquer un service web existant en le doublant d'une application mobile alors que la version web serait suffisante.</p>
+<p>De plus, si l'application web est conçue pour tout type d'écran (approche « <em>responsive design</em> »), elle sera disponible pour tout type de terminal, pour des ordinateurs de bureau comme pour des smartphones.</p>
+<p>Par ailleurs, les applications web peuvent gérer du hors-ligne depuis déjà plusieurs années. Les concepteurs peuvent sauvegarder l'interface et les données en cache dans le navigateur, sur ordinateur comme sur smartphone. Le point fort des applications installées permettant de travailler sans connexion internet est donc aussi possible dans des outils web.</p>
 
   </div>
 
@@ -271,37 +268,25 @@
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
             <h2 class="fr-tile__title">Difficulté de mise en oeuvre</h2>
-            <p class="fr-tile__desc">Difficile</p>
+            <p class="fr-tile__desc">Moyenne</p>
         </div>
     </div>
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemple de pilote</h2>
-            <ul class="fr-tile__desc"><li>Direction du numérique</li></ul>
+            <h2 class="fr-tile__title">Exemples de pilotes</h2>
+            <ul class="fr-tile__desc"><li>Direction du numérique</li><li>Responsable produit</li><li>Responsable projet</li></ul>
         </div>
     </div>
 
 
     <div class="fr-tile fr-tile--horizontal fr-mb-2w">
         <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Exemples d'indicateurs de pilotage</h2>
+            <h2 class="fr-tile__title">Exemple d'indicateur de pilotage</h2>
             <p class="fr-tile__desc">
                 <ul>
                 
-                    <li>% de rack confinés</li>
-                
-                    <li>% du DC organisé en allées chaudes et allées froides</li>
-                
-                    <li>% des équipements conformes aux exigences ASHRAE</li>
-                
-                    <li>% d&#39;équipement acheté avec une efficacité énergétique minimum</li>
-                
-                    <li>% de serveurs paramétrés</li>
-                
-                    <li>température de consigne</li>
-                
-                    <li>% des centres de données de l’organisation utilisant un refroidissement naturel</li>
+                    <li>% applications reposant sur des technologies standard / total gérées par l&#39;organisation</li>
                 
                 </ul>
             </p>
@@ -343,7 +328,41 @@
     
         
             
+                
+            
         
+    
+
+    
+        
+            
+                
+            
+        
+    
+
+    
+        
+            
+                
+            
+        
+    
+
+    
+        
+            
+                
+            
+        
+    
+
+    
+        
+            
+        
+    
+
     
 
     
@@ -354,13 +373,13 @@
 <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
     
-        <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/">Page précédente :<br />Utiliser un hébergement signataire du Code de Conduite européen des centres de données</a>
+        <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/bonnes-pratiques/services-numeriques/concevoir-service-numerique-compatible-avec-faibles-debits/">Page précédente :<br />Concevoir un service numérique compatible avec des faibles débits</a>
     
   </div>
   
   <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
     
-        <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/regrouper-serveurs/">Page suivante :<br />Regrouper et rationaliser les serveurs</a>
+        <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/services-numeriques/reduire-le-temps-passé-par-usager/">Page suivante :<br />Réduire le temps passé par un usager sur un service numérique</a>
     
   </div>
 </nav>
