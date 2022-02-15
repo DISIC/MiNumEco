@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Évaluer régulièrement l’empreinte environnementale du système d’information
 type: bpnr
 date: 2022-02-17

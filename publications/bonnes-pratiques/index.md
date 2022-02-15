@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique/default.njk
-title: Guide des bonnes pratiques numérique responsable
+title: Guide des bonnes pratiques numérique responsable pour les organisations
 date: 2022-02-17
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 type: publication
@@ -53,7 +53,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
 ## Contribuer
 
-<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="#">Participer à la consultation publique</a>
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
 
 ## Consulter le guide
 

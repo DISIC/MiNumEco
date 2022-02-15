@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réduire le temps passé par un usager sur un service numérique
 type: bpnr
 date: 2022-02-17

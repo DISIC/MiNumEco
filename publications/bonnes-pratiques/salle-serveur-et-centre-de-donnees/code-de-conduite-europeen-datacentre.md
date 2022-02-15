@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Utiliser un hébergement signataire du Code de Conduite européen des centres de données
 type: bpnr
 date: 2022-02-17

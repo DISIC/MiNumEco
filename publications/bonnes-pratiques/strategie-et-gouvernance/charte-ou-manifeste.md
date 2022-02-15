@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Acter la démarche numérique responsable dans une charte ou un manifeste
 type: bpnr
 date: 2022-02-17

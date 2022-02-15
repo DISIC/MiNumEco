@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Mettre en place les bonnes pratiques d'impression
 type: bpnr
 date: 2022-02-17

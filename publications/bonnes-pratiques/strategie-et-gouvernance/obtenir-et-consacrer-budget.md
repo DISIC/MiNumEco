@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Obtenir et consacrer un budget spécifique
 type: bpnr
 date: 2021-02-17

@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Anticiper le sourcing des fournisseurs d'équipements contenant des matériaux recyclés ou issus du réemploi
 type: bpnr
 date: 2022-02-17

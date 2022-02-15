@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Dissocier les mises à jour évolutives et les mises à jour correctives
 type: bpnr
 date: 2022-02-17

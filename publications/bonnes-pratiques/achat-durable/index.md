@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique-categorie.njk
+layout: layouts/bonne-pratique/thematique.njk
 title: Achat durable
 tags: guideBpNrThematique
 date: 2022-02-17

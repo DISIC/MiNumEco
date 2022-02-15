@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Prioriser la remise en état ou la remise à niveau pour réemploi plutôt que le recyclage
 type: bpnr
 date: 2021-07-15

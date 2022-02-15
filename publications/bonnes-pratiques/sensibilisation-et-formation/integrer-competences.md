@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Intégrer les compétences Numérique Responsable dans le plan de formation
 type: bpnr
 date: 2022-02-17

@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Former en interne à la réparation des équipements hors garantie 
 type: bpnr
 date: 2022-02-17

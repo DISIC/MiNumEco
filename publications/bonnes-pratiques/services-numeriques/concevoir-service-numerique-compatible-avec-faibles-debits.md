@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Concevoir un service numérique compatible avec des faibles débits
 type: bpnr
 date: 2022-02-17

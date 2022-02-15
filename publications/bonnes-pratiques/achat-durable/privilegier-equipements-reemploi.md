@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Privilégier des équipements issus du réemploi ou contenant des matériaux recyclés
 type: bpnr
 date: 2022-02-17

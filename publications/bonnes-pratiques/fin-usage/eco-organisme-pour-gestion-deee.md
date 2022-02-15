@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Faire appel à un éco-organisme pour la gestion des DEEE
 type: bpnr
 date: 2022-02-17

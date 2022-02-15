@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Vendre ses équipements fonctionnels pour favoriser la réutilisation
 type: bpnr
 date: 2022-02-17

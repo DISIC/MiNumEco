@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Affecter une personne dédiée à la mise en œuvre d’une démarche « Numérique Responsable »
 type: bpnr
 date: 2022-02-17

@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Définir et mettre en place un plan d’action 
 type: bpnr
 date: 2022-02-17

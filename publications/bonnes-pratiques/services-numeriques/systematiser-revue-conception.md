@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Systématiser une revue de conception en amont et une revue de code orientées sobriété numérique
 type: bpnr
 date: 2022-02-17

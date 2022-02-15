@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Concevoir à l’aide de technologies standards plutôt que de technologies propriétaires ou spécifiques à une plateforme
 type: bpnr
 date: 2022-02-17

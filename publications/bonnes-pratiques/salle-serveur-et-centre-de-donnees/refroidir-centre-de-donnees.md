@@ -1,5 +1,5 @@
 ---
-layout: layouts/bonne-pratique.njk
+layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Refroidir le centre de données par une solution économe en énergie 
 type: bpnr
 date: 2022-02-17

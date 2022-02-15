@@ -17,6 +17,14 @@
     "email": "numerique-responsable.dinum@modernisation.gouv.fr",
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
+  "guideBonnesPratiques": {
+    "version": "beta",
+    "versionTitle": "bêta",
+    "title": "Guide des bonnes pratiques numérique responsable pour les organisations",
+    "description": "Guide proposé par la Dinum, le Ministère de la Transition Écologique et l’Institut du Numérique Responsable",
+    "updatedAt": "2022-02-17",
+    "consultationUrl": "https://purpoz.com/consultations/consultation-pour-etablir-un-guide-des-bonnes-pratiques-numerique-responsable/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions/opinions/avant-propos/introduction-7"
+  },
   "referentielEcoconception": {
     "version": "beta",
     "versionTitle": "bêta",
