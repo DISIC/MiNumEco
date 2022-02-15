@@ -11,6 +11,10 @@ eleventyNavigation:
   order: 80
 ---
 
-Les centres de données se développent pour répondre à des besoins et des usages qui ne font qu’augmenter. Les impacts environnementaux des centres de données ne sont pas que d’ordre énergétique pour l’alimentation et le refroidissement des serveurs. L’installation du centre de données surtout lorsqu’il s’accompagne de l’artificialisation des sols et la gestion du parc de matériels, notamment la durée de vie des équipements, sont aussi des éléments à prendre en compte.
+Les centres de données se développent pour répondre à des besoins et des usages qui ne font qu’augmenter. Une première bonne pratique de sobriété est de réduire ces besoins et usages, en questionnant leur pertinence.  Pour les besoins et usages restants, on cherchera à réduire l’impact de l’utilisation des centres de données.
 
-Adopter la démarche du Code de conduite européen pour les datacentres et exiger cette adoption chez les partenaires en cherchant à réduire en valeur absolue l’empreinte environnementale des datacentres, en interne ou non, constituent d’excellentes bonnes pratiques.
+Les impacts environnementaux des centres de données sont multiples, et dus en particulier à la consommation d’électricité pour l’alimentation et le refroidissement des équipements informatiques, à la fabrication de ces mêmes équipements, à l’artificialisation des sols pour l’installation du centre de données et à la consommation d’eau.
+
+Parmi les bonnes pratiques, on pourra notamment adopter la démarche du [Code de conduite européen pour les centres de données](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/) et exiger cette adoption chez les partenaires afin de réduire en valeur absolue l’empreinte environnementale des datacentres.
+
+Dans la suite de cette section, nous donnons quelques exemples de bonnes pratiques qui découlent pour la plupart du Code de conduite européen.

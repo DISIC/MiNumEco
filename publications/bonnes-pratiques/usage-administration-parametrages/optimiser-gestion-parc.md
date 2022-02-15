@@ -14,9 +14,11 @@ indicators:
   - "Taux de labellisation des équipements"
   - "Taux de panne des équipements par modèle et par an"
   - "Taux d’équipements en stock"
+  - "Taux de remplacement des matériels"
+  - "Taux de remplacement en lien avec la durée de garantie"
   - "Durée de stockage moyen des équipements"
   - "Nombre de matériels par utilisateur de l’organisation"
-
+  - "Taux de matériels non renouvelés car redondants"
 eleventyNavigation:
   parent: bonnes-pratiques-usage
   order: 10
@@ -28,8 +30,10 @@ La gestion des équipements informatiques est une étape importante dans une dé
 * Identifier le matériel avec des étiquettes sécurisées comportant au minimum un code unique d’identification, le nom de l’organisation et le numéro de téléphone du support, permet de :
   - faciliter les inventaires et l’identification du matériel par le support,
   - réduire le vol et la perte de matériel.
-* Inventorier et suivre les matériels dans un logiciel de gestion de parc (comme GLPI) en y ajoutant des informations relatives comme l’utilisateur associé, le statut du matériel, le coût d’achat, la date d’achat, le fournisseur, les contrats associés, etc., permet de :
+* Inventorier et suivre les matériels dans un logiciel de gestion de parc (comme GLPI) en y ajoutant des informations relatives comme l’utilisateur associé, le statut du matériel, le coût d’achat, la date d’achat, la date de fin de garantie, le fournisseur, les contrats associés, etc., permet de :
   - connaître l’état de son parc en temps réel,
   - retrouver rapidement les informations utiles pour faire jouer une garantie,
   - obtenir plus facilement des indicateurs de pilotage.
 * Optimiser son parc informatique  en fonction des besoins et pratiques des usagers (télétravail, mobilité,...)
+* Pratiquer des transferts de matériels le cas échéant (lors d’un changement de matériel, le matériel remplacé peut être réutilisé dans un autre service, par exemple).
+*	etc.

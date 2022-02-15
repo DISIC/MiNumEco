@@ -11,9 +11,9 @@ eleventyNavigation:
   order: 40
 ---
 
-Parce que l’empreinte environnementale des équipements électroniques est très importante, voire majoritaire sur la phase de fabrication, l’action la plus efficace est la réduction de la production d’équipements électroniques neufs (téléphones, écrans, capteurs, serveurs, consoles de jeux etc.). Du côté du consommateur, cela peut se traduire par une diminution du nombre d’achats (neufs ou d’occasion) et la prolongation de la vie effective des équipements utilisés.
+Parce que l’empreinte environnementale des équipements électroniques est très importante, voire majoritaire sur la phase de fabrication, l’action la plus efficace est la réduction de la production d’équipements électroniques neufs (téléphones, écrans, capteurs, serveurs, consoles de jeux, etc.). Du côté du consommateur, cela peut se traduire par une diminution du nombre d’achats (neufs ou d’occasion) et la prolongation de la vie effective des équipements utilisés.
 
-L’alibi d’un équipement neuf qui consommerait moins d’énergie pendant sa phase d’usage ne vaut que pour les serveurs (qui consomment beaucoup d’énergie et sont alimentés 24h/24). Les simulations réalisées pour des terminaux de type portable montrent qu’il faut plusieurs dizaines d’années d’utilisation pour que le bénéfice d’une réduction de la consommation moyenne soit visible, ou soit mesurable.
+L’alibi d’un équipement neuf qui consomme moins d’énergie pendant sa phase d’usage ne vaut que pour les serveurs après plusieurs années (qui consomment beaucoup d’énergie et sont alimentés 24h/24). Les simulations réalisées pour des terminaux de type portable montrent qu’il faut plusieurs dizaines d’années d’utilisation pour que le bénéfice d’une réduction de la consommation moyenne soit visible.
 
 Les bonnes pratiques permettant d'œuvrer à l'allongement de la durée d'utilisation des équipements se situent à différents niveaux.
 

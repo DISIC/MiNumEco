@@ -9,7 +9,7 @@ difficulty: Moyenne
 who:
   - Direction du numérique
 indicators:
-  - "% du parc de poste informatique mis à jour plutôt que renouvelés"
+  - "% du parc de postes informatiques mis à jour plutôt que renouvelés"
   - "allongement moyen de la durée de vie (en année)"
 eleventyNavigation:
   parent: bonnes-pratiques-reduction-achat

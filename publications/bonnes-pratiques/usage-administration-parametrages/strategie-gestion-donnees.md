@@ -13,12 +13,13 @@ who:
 indicators:
   - "% de données archivées par an"
   - "% de données supprimées par an"
+  - "% de données laissées en libre accès (FAIR)"
 eleventyNavigation:
   parent: bonnes-pratiques-usage
   order: 40
 ---
 
-L'optimisation des infrastructures de stockage envahies de données redondantes est très importante mais n'est pas suffisante pour réduire l'impact environnemental du numérique. Pour cela, il est opportun de mettre en place une stratégie durable permettant la gestion de la durée de conservation des données et du volume stocké. Cette gouvernance durable doit permettre le recyclage, le traitement, l'identification, le contrôle et la suppression des données-déchets stockées en masse.
+L'optimisation des infrastructures de stockage envahies de données redondantes est très importante, mais n'est pas suffisante pour réduire l'impact environnemental du numérique. Pour cela, il est opportun de mettre en place une stratégie durable permettant la gestion de la durée de conservation des données et du volume stocké. Cette gouvernance durable, doit permettre le recyclage, le traitement, l'identification, le contrôle et la suppression des données-déchets stockées en masse.
 
 Les données redondantes consomment des ressources matérielles (les disques de stockage) et de façon récurrente de l'électricité (pour la redondance). Elles polluent donc considérablement les systèmes d'information.
 

@@ -7,7 +7,7 @@ idbp: b.2
 priority: Recommandée
 difficulty: Moyenne 
 who:
-  - Ressources Humaines
+  - Direction ressources humaines
 indicators:
   - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
 eleventyNavigation:
@@ -17,15 +17,17 @@ eleventyNavigation:
 
 Afin d’acculturer les équipes sur le sujet, le mieux est de les former ! Quelques exemples de compétences à acquérir en formation : 
 
-- Compréhension des enjeux environnementaux globaux
-- Compréhension des impacts du numérique 
-- Notion de cycle de vie d'un appareil
-- Compréhension du cycle de vie d'un service numérique
-- Identification des facteurs de consommation sur une page web, dans un logiciel, etc.
-- Identification des impacts directs et indirects d'une technologie
-- Maîtrise des enjeux et bonnes pratiques liés à l'achat des équipements, à la gestion des Déchets d'équipements électriques et électroniques (DEEE) et au réemploi
-- Capacité à mener une campagne de sensibilisation en interne ou vis à vis des fournisseurs et des prestataires, etc.
-- Accessibilité et écoconception des services numériques
+* Compréhension des enjeux environnementaux globaux
+* Compréhension des impacts du numérique 
+* Notion de cycle de vie d'un appareil
+* Compréhension du cycle de vie d'un service numérique
+* Identification des facteurs de consommation sur une page web, dans un logiciel, etc.
+* Identification des impacts directs et indirects d'une technologie
+* Maîtrise des enjeux et bonnes pratiques liés à l'achat des équipements, à la gestion des Déchets d'équipements électriques et électroniques (DEEE) et au réemploi
+* Capacité à mener une campagne de sensibilisation en interne ou vis à vis des fournisseurs et des prestataires, etc.
+* Accessibilité et écoconception des services numériques
+* Capacité à mesurer la consommation énergétique en phase usage des équipements numériques
+* etc.
 
 Selon le public ou le service ciblé (achat, conception, opérationnel…), il vaut mieux adapter la formation pour appuyer davantage sur certains points (l’écoconception pour les équipes de conception par exemple).
 

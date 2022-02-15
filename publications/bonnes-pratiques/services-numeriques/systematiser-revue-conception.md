@@ -8,23 +8,24 @@ priority: Recommandée
 difficulty: Moyenne
 who:
   - Responsable produit
-  - Chef de projet
+  - Responsable projet
 indicators:
   - "% de fonctionnalités livrées avec revue de conception en amont et une revue de code en aval."
   - "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité : oui / non"
   - "Vérification de la conformité au Référentiel général d’écoconception de service numérique"
+  - "Compatibilité avec les systèmes d’exploitation et matériels anciens ou peu puissants"
 eleventyNavigation:
   parent: bonnes-pratiques-services-numeriques
   order: 20
 ---
 
-En impliquant tous les métiers concernés (et pas seulement les développeurs et développeuses), une revue de conception est systématisée en amont du développement. Cette revue de conception sous forme d’un atelier par exemple permettra de définir la solution technique la plus pertinente pour répondre aux besoins des utilisateurs. Il faut veiller d’abord à bien définir l'unité fonctionnelle (exemple : « Obtenir mon quotient familial », « Partager une photo à mes amis »). Cette revue de conception permet d’éviter des incompréhensions sur la fonctionnalité à développer. De plus, en ajoutant à cet atelier la dimension environnementale, il s’agit d’évaluer les impacts environnementaux afin de les réduire le plus possible. Pour cela, il convient de privilégier les solutions les plus sobres, les moins consommatrices de ressources informatiques mais répondant à un besoin utilisateur.
+En impliquant tous les métiers concernés (et pas seulement les développeuses et développeurs), une revue de conception est systématisée en amont du développement. Cette revue de conception sous forme d’un atelier par exemple permettra de définir la solution technique la plus pertinente pour répondre aux besoins des utilisateurs et en regard de l‘impact environnemental des différentes solutions possibles. Il faut veiller d’abord à bien définir l'unité fonctionnelle (exemple : « Obtenir mon quotient familial », « Partager une photo à mes amis »). Cette revue de conception permet d’éviter des incompréhensions sur la fonctionnalité à développer. De plus, en ajoutant à cet atelier la dimension environnementale, il s’agit d’évaluer les impacts environnementaux afin de les réduire le plus possible. Pour cela, il convient de privilégier les solutions les plus sobres, les moins consommatrices de ressources informatiques mais répondant à un besoin utilisateur.
 
-En sortie de développement, la revue de code est déjà une bonne pratique liée à la qualité de l’ingénierie logicielle. Durant cette revue de code, il s’agit de s’assurer que le choix de conception orienté sobriété numérique a été implémenté. Y ajouter des indicateurs, par exemple le nombre et poids des médias, bibliothèques ou dépendances ajoutés.
+En sortie de développement, la revue de code est déjà une bonne pratique liée à la qualité de l’ingénierie logicielle. Durant cette revue de code, il s’agit de s’assurer que le choix de conception orienté « sobriété numérique » a été implémenté. Y ajouter des indicateurs, par exemple le nombre et poids des médias, bibliothèques ou dépendances ajoutés, les ressources matérielles nécessaires.
 
 S’il existe une liste de critères en fin de développement, une « Définition de fini » (*definition of done*), y intégrer des critères environnementaux, par exemple le nombre et poids des médias à respecter, le temps de réponse, bibliothèques ou dépendances ajoutées.
 
-Une attention à l'obsolescence des équipements est à étudier : la solution choisie et son implémentation doivent pouvoir fonctionner sur des équipements anciens ou dans des conditions dégradées (connectivité par exemple).
+Une attention à l'obsolescence des équipements est à étudier : la solution choisie et son implémentation doivent pouvoir fonctionner sur des équipements anciens ou dans des conditions dégradées (connectivité limitée par exemple).
 
 ## En savoir plus
 

@@ -17,6 +17,6 @@ L’évaluation des impacts du numérique devraient idéalement inclure plusieur
 
 1. les impacts directs du numérique au sein de la structure,
 2. Les impacts indirects
-    * les impacts liés à la sous-traitance de tout ou partie des services fournis (services numériques, traitement des achats, des déchets etc.),
+    * les impacts liés à la sous-traitance de tout ou partie des services fournis (services numériques, traitement des achats, des déchets, etc.),
     * les impacts induits par l’achat ou l’utilisation de services ou d’équipements (non numériques) du fait de l’existence de certains services numériques et/ou d’optimisations rendues possible par l’utilisation du numérique,
     * les impacts générés chez les « clients » de la structure du fait des services numériques ou produits proposés.

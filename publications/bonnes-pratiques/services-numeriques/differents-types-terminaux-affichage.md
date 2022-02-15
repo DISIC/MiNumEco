@@ -8,7 +8,7 @@ priority: Recommandée
 difficulty: Moyenne
 who:
   - Responsable produit
-  - Chef de projet
+  - Responsable projet
 indicators:
   - "Le service numérique s’adapte à différents types de terminaux d’affichage : oui / non"
 eleventyNavigation:
@@ -18,8 +18,8 @@ eleventyNavigation:
 
 Une conception responsable de services numériques vise à réduire la contribution à l'obsolescence des terminaux utilisateurs mais aussi à toucher le maximum de public. Pour toucher le maximum de personnes, il faut tenir compte des équipements utilisés et du contexte d'usage : taille d'écran, puissance, connectivité, bande passante...
 
-Aujourd'hui, en France ou même dans le Monde, les internautes naviguent davantage sur des équipements mobiles et à petit écran (smartphone ou tablette) que des ordinateurs à grand écran.
+Aujourd'hui, en France ou même dans le Monde, les internautes naviguent davantage sur des équipements mobiles et à petit écran (smartphone essentiellement) que des ordinateurs à grand écran.
 
-Concevoir des applications d'abord pour petit écran permet de les rendre disponibles pour tous les publics et pour tous les équipements.
+Même s’il y a davantage d’enjeux à concevoir des applications fonctionnant sur des équipements les plus anciens possibles, concevoir d'abord pour petit écran permet de les rendre disponibles pour tous types de terminaux d’affichage.
 
-Cela revêt un second avantage déterminant pour réduire l'empreinte d'une application : les fonctionnalités proposées à l'écran sont forcément diminuées du fait de la taille écran disponible. Les concepteurs doivent alors réfléchir en impliquant les utilisateurs à exprimer précisément  leurs besoins et en éliminant les fonctionnalités inutiles.
+Cela revêt un second avantage déterminant pour réduire l'empreinte d'une application : les fonctionnalités proposées à l'écran sont forcément diminuées du fait de la taille écran disponible. Les concepteurs doivent alors réfléchir en impliquant les utilisateurs à exprimer précisément leurs besoins et en éliminant les fonctionnalités inutiles.

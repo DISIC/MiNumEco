@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Réglementations
-date: 2021-12-17
+date: 2022-02-15
 eleventyNavigation:
   key: Réglementations
   order: 30
@@ -43,7 +43,7 @@ Dans le cadre de la mission interministérielle Numérique écoresponsable, la r
 
 <h2 id="feuille-de-route-numerique-et-environnement">Feuille de route gouvernementale « Numérique et environnement »</h2>
 
-Cette mission s’inscrit dans la [feuille de route gouvernementale « Numérique et environnement »](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route) qui vise à faire converger les transitions numérique et écologiques. Elle s'articule autour de trois axes :
+La mission interministérielle numérique écoresponsable s’inscrit dans le cadre de la [feuille de route gouvernementale « Numérique et environnement »](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route) qui vise à faire converger les transitions numérique et écologiques. Elle s'articule autour de trois axes :
 
 1. **Connaître pour agir** : Développer la connaissance de l’empreinte environnementale numérique
 2. **Soutenir un numérique plus sobre** : Réduire l’empreinte environnementale du numérique
@@ -114,3 +114,13 @@ Le décret tertiaire (décret n° 2019-771 du 23 juillet 2019) en matière de **
 Au niveau européen, les sujets d’écoconception sont au cœur de la directive Ecodesign et un règlement d’exécution pour l’écoconception des terminaux (smartphones et tablettes) est en cours d’élaboration.
 
 Une résolution du Parlement européen adoptée le 25 novembre 2020 souhaite que l’Europe aille [vers un marché unique plus durable pour les entreprises et les consommateurs](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0318_FR.html). En considérant la raréfaction des ressources naturelles et à la prolifération des déchets, il est indispensable « d’instaurer des stratégies durables de production et de consommation en tenant compte des limites planétaires, avec pour priorité un usage plus efficace et plus soutenable de nos ressources ». Cette résolution vient souligner la lutte contre l’obsolescence programmée des biens et logiciels et la défense des droits des consommateurs.
+
+Cette résolution s’inscrit dans le cadre du Pacte Vert pour l’Europe et dans la lignée de toutes les directives, règlements et plans d’actions mis en place au niveau européen depuis 2002
+
+* Directive WEEE 2002/95/CE relative aux DEEE, remplacée par la 2012/19/UE en 2012,
+* Directive RoHS 2002/95/CE  visant à limiter l’utilisation de dix substances dangereuses dans les équipements électriques et électroniques, complétée par la RoHS2 du 2008/98/CE qui intègre le principe de responsabilité du producteur et donc de pollueur-payeur, et la RoHS3 du 2011/65/UE qui élargit le nombre d’appareils électriques concernés,
+* Directive 2006/66/CE relative aux piles et accumulateurs et aux déchets de piles et accumulateurs,
+* Règlement REACH n°1907/2006 pour la protection de la santé humaine et de l’environnement contre les risques liés aux substances chimiques,
+* Directive ErP 2009/125/CE concernant les exigences en matière d’écoconception applicables aux produits liés à l’énergie, qui remplace la directive EuP 2005/32/CE
+
+A noter l’importance de l’échelon qui a plus de poids face aux fabricants et éditeurs du numérique. 

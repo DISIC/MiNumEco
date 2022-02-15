@@ -16,7 +16,7 @@ eleventyNavigation:
   order: 30
 ---
 
-Afin d'allonger la durée de vie d'un équipement et amortir plus longuement les pollutions liées à sa fabrication, il est nécessaire d'allonger sa durée d'usage.
+Afin d'allonger la durée de vie d'un équipement et amortir plus longuement les pollutions liées à sa fabrication, il est nécessaire d'allonger sa durée d’utilisation au sein de l’organisation.
 
 Lorsque les capacités des matériels ne suffisent plus pour certaines tâches conséquentes (exemple : équipement pour les profils développeurs), ces matériels peuvent être réemployés pour d'autres profils dont les exigences en CPU et / ou en RAM sont moins élevées.
 

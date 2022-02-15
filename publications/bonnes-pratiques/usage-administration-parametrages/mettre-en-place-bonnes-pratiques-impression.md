@@ -15,7 +15,8 @@ eleventyNavigation:
 ---
 
 Les impacts environnementaux liés à l’impression et les moyens de les réduire sont maintenant largement intégrées au sein des organisations. On peut citer ces quelques bonnes pratiques :
-* Remplacer le parc d’imprimantes par des équipements multifonctions installés en réseau avec système d’identification
+
+* Remplacer le parc d’imprimantes en fin de vie par des équipements multifonctions installés en réseau avec système d’identification
 * Privilégier des prestataires qui proposent des copieurs reconditionnés
 * Acheter ou louer des imprimantes ayant les écolabels Blue Angel ou EPEAT
 * Acheter du papier neuf ou recyclé certifié Blue Angel ou FSC

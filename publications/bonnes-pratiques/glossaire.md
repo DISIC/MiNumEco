@@ -35,7 +35,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 
 **CUE** : qui signifie *Carbon Usage Effectiveness* mesure le rapport entre la quantité totale de gaz à effet de serre (exprimée en kg équivalent CO2) résultant de l’activité du centre de données et la quantité d'énergie utilisée par les équipements informatiques.
 
-**DEEE** ou **D3E** : déchets d’équipements électriques et électroniques. Ce sont les équipements en fin de vie, fonctionnant à l’électricité ou via des champs électromagnétiques, ainsi que les équipements de production, de transfert et de mesure de ces courants et champs. Ce sont surtout des ordinateurs, imprimantes, téléphones portables, appareils photo numériques, jeux électroniques, écrans, télévisions, etc.
+**DEEE** ou **D3E** : déchets d’équipements électriques et électroniques. Ce sont les équipements dont un utilisateur se défait ou a l’intention ou l’obligation de se défaire, fonctionnant à l’électricité ou via des champs électromagnétiques, ainsi que les équipements de production, de transfert et de mesure de ces courants et champs. Dans le contexte du numérique, il s’agit des ordinateurs, imprimantes, téléphones portables, appareils photo numériques, jeux électroniques, écrans, télévisions, etc.
 
 **DINUM** : Direction interministérielle du numérique
 
@@ -51,7 +51,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 
 **Écolabellisé** : qui bénéficie d’une reconnaissance officielle pour sa capacité à garantir un impact écologique réduit sur l’environnement.
 
-**Énergie grise** : L’énergie grise, ou énergie intrinsèque, est la quantité d'énergie consommée lors du cycle de vie d'un matériau ou d'un produit : la production, l'extraction, la transformation, la fabrication, le transport, la mise en œuvre, l'entretien et enfin le recyclage, à l'exception notable de l'utilisation. L'énergie grise est en effet une énergie cachée, indirecte, au contraire de l'énergie liée à l'utilisation.
+**Énergie grise** : l’énergie grise, ou énergie intrinsèque, est la quantité d'énergie consommée lors du cycle de vie d'un matériau ou d'un produit : la production, l'extraction, la transformation, la fabrication, le transport, la mise en œuvre, l'entretien et enfin la fin de vie, à l'exception notable de l'utilisation. L'énergie grise est en effet une énergie cachée, indirecte, au contraire de l'énergie liée à l'utilisation.
 
 **EPEAT** : pour *Electronic Product Environmental Assessment Tool* est un écolabel permettant au consommateur d’évaluer l’effet d’un produit informatique sur l’environnement.
 

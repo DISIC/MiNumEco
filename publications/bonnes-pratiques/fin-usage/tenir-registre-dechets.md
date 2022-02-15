@@ -3,17 +3,17 @@ layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Tenir un registre des déchets
 type: bpnr
 date: 2022-02-17
-idbp: i.11
+idbp: i.8
 priority: Prioritaire
 difficulty: Moyenne
 who:
   - Direction du numérique
-  - Logistique
+  - Direction logistique
 indicators:
   - "Maintien d’un registre des déchets d’équipements électriques et électroniques et des consommables : oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-fin-usage
-  order: 110
+  order: 80
 ---
 
 Les exploitants des établissements qui produisent ou expédient des déchets doivent tenir à jour un registre où sont consignés tous les déchets sortants.

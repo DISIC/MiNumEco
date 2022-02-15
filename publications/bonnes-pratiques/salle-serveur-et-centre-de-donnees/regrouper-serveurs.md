@@ -17,7 +17,7 @@ eleventyNavigation:
 
 Une des bonnes pratiques pour réduire l'impact environnemental des serveurs est leur mutualisation.
 
-La virtualisation permet de répondre à la problématique de surdimensionnement de serveurs dédiés à des applications uniques. L'hébergement de plusieurs machines virtuelles (VM) sur un même serveur hôte réduit le nombre d'équipements et donc leur occupation au sol, ainsi que leur consommation énergétique à toutes les étapes du cycle de vie.
+Bonne pratique présente dans le Code de conduite européen pour les centres de données, la virtualisation permet de répondre à la problématique de surdimensionnement de serveurs dédiés à des applications uniques. L'hébergement de plusieurs machines virtuelles (VM) sur un même serveur hôte réduit le nombre d'équipements et donc leur occupation au sol, ainsi que leur consommation énergétique à toutes les étapes du cycle de vie.
 
 Si les VM sont simples à déployer, elles doivent cependant aussi être configurées et dimensionnées avec précaution afin de ne pas entraver les performances du système.
 

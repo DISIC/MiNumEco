@@ -8,7 +8,7 @@ priority: Prioritaire
 difficulty: Facile
 who:
   - Direction du numérique
-  - Achats
+  - Direction des achats
 indicators:
   - "% équipements protégés"
   - "Taux de casse par an"

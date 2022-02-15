@@ -15,7 +15,8 @@ eleventyNavigation:
   parent: bonnes-pratiques-sensibilisation-et-formation
   order: 10
 ---
-Afin d'embarquer toute l'organisation vers un numérique plus soutenable, il est primordial de sensibiliser tous les collaborateurs, les décideurs et les dirigeants sur les impacts environnementaux du numérique et les enjeux d'un numérique plus responsable.
+
+Afin d'embarquer toute l'organisation vers un numérique plus soutenable, il est primordial de sensibiliser tous les collaborateurs et les directions sur les impacts environnementaux du numérique et les enjeux d'un numérique plus responsable.
 
 L'idée est de communiquer sur les principaux impacts environnementaux du numérique sur l'ensemble du cycle de vie de nos usages numériques (fabrication des équipements, usage, fin d'usage). Il s'agit aussi de promouvoir les bonnes pratiques prioritaires à l'échelle de l'individu mais surtout celles à l'échelle de l'organisation dont l'impact peut être démultiplié.
 
@@ -24,8 +25,9 @@ Cela peut prendre la forme de campagnes internes de sensibilisation pour un num�
 Cette sensibilisation peut également être intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation.
 
 ## En savoir plus
-- [MOOC Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), proposé par l’INRIA.
-- [MOOC Numérique Responsable](https://www.academie-nr.org/) proposé par l'INR en partenariat avec l'Ademe.
-- [Appliquez les principes du Green IT](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise) sur OpenClassRooms
-- [La Face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, janvier 2021.
-- [La fresque du numérique](https://www.fresquedunumerique.org/)
+
+* [MOOC Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), proposé par l’Association Class’Code et l’INRIA.
+* [MOOC Numérique Responsable](https://www.academie-nr.org/) proposé par l'INR en partenariat avec l'Ademe.
+* [Appliquez les principes du Green IT](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise) sur OpenClassrooms
+* [La Face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, janvier 2021.
+* [La fresque du numérique](https://www.fresquedunumerique.org/)

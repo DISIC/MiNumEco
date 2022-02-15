@@ -7,9 +7,10 @@ idbp: e.4
 priority: Prioritaire
 difficulty: Moyenne
 who:
-  - Achats
+  - Direction des achats
 indicators:
   - "Nombre de fournisseurs identifiés proposant des produits reconditionnés"
+  - "% des achats annuels HT des catégories de produits concernés"
 eleventyNavigation:
   parent: bonnes-pratiques-achat-durable
   order: 40
@@ -19,4 +20,6 @@ L’article 58 de la loi relative à la lutte contre le gaspillage et à l'écon
 
 Le décret du 9 mars 2021 établit la liste des catégories de produits concernées par cette obligation et fixe des seuils minimaux d’acquisition de produits issus de ces filières : minimum 20% des achats annuels HT de la catégorie de produits concernés.
 
-Il est donc nécessaire de lancer une démarche de sourcing afin d'identifier des fournisseurs d'équipements reconditionnés sans attendre le besoin. Il est également important de vérifier auprès des fournisseurs la possibilité de répondre à une large commande de matériels aux configurations identiques.
+Il est donc nécessaire de lancer une démarche de sourcing afin d'identifier des fournisseurs d'équipements reconditionnés sans attendre le besoin. Il est également important de vérifier auprès des fournisseurs la possibilité de répondre à une large commande de matériels aux configurations similaires, voire identiques.
+
+Il ne faut pas perdre de vue que l’achat de matériel reconditionné est de loin préférable à l’utilisation de matières recyclées dans un matériel neuf.

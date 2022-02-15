@@ -16,7 +16,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 * [Classification des déchets](https://www.ademe.fr/sites/default/files/assets/documents/nomenclature_dechets.pdf), ADEME
 * [Convention Citoyenne pour le Climat](https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-levolution-du-numerique-pour-reduire-ses-impacts-environnementaux/)
 * [Décret n° 2019-771 du 23 juillet 2019 relatif aux obligations d’actions de réduction de la consommation d’énergie finale dans des bâtiments  à usage tertiaire.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038812251)
-* [DEEE professionnels : recyclage des déchets électriques](https://www.e-dechet.com/)
+* [DEEE professionnels : recyclage des déchets électriques](https://www.e-dechet.com/) (service proposé par Ecologic)
 * [Définition de « *Bloatware* »](https://fr.wikipedia.org/w/index.php?title=Bloatware&oldid=184255084), Wikipédia. 
 * [Directive 2012/19/UE du Parlement européen et du Conseil du 4 juillet 2012 relative aux déchets d’équipements électriques et électroniques (DEEE)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026319124)
 * [Eco-conception Web : Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
@@ -50,7 +50,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 * [Où vont nos vieux ordinateurs ?](https://www.sciencesetavenir.fr/nature-environnement/ou-vont-nos-vieux-ordinateurs_16345), *Sciences et Avenir*, 24 juin 2015.
 * [Plan d’Actions de la Région Bretagne après obtention du Label Numérique Responsable](https://www.bretagne.bzh/app/uploads/PlanActions_label_Numerique_responsable_-avril_2021.pdf)
 * [Qu’est-ce que l’économie sociale et solidaire (ESS) ?](https://www.economie.gouv.fr/cedef/economie-sociale-et-solidaire)
-* [RGAA – Référentiel Général d’Accessibilité pour les Administrations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
+* [RGAA – Référentiel Général d’Amélioration de l’Accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 * [RGESN - Référentiel général d’écoconception de services numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 * [Référentiel général d’interopérabilité (RGI)](https://www.numerique.gouv.fr/publications/interoperabilite/)
 * [Règlement général sur la protection des données - RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), CNIL
