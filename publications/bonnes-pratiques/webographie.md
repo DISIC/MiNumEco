@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: Webographie
 date: 2022-02-17
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
 * [2ème vague du baromètre de l’hyperconnexion](https://www.bva-group.com/sondages/hyperconnexion-ecrans-sondage-bva-fondation-april/), BVA Group

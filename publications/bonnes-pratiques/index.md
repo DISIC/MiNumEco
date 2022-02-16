@@ -2,15 +2,18 @@
 layout: layouts/bonne-pratique/default.njk
 title: Guide de bonnes pratiques numérique responsable pour les organisations
 date: 2022-02-17
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: guideBpNrAccueil
   parent: publications
+<<<<<<< HEAD
   title: Guide de bonnes pratiques numérique responsable
+=======
+  title: Guide des bonnes pratiques numérique responsable pour les organisations
+>>>>>>> 6a05433 (Publication du guide)
   date: 2022-02-17
-  image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
+  image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
   order: 100
 ---
 
@@ -25,7 +28,7 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
 
   </div>
   <div class="fr-col-12 fr-col-md-5">
-    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 

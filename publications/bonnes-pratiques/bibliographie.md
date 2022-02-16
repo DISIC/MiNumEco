@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: Bibliographie sélective
 date: 2022-02-17
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
 Cette bibliographie est constituée de ressources imprimées et numériques qui complètent l’ensemble des informations proposées dans le Guide de bonnes pratiques numérique responsable.
