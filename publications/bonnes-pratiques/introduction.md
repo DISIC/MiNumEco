@@ -12,16 +12,10 @@ image: /img/guide-achats/guide-achats-numerique-responsable.png
             <a class="fr-summary__link" href="#introduction">Introduction</a>
         </li>
         <li>
-            <a class="fr-summary__link" href="#pourquoi-ce-guide">Pourquoi ce guide et à qui s’adresse-t-il ?</a>
-        </li>
-        <li>
             <a class="fr-summary__link" href="#comment-utiliser-ce-guide">Comment utiliser ce guide</a>
         </li>
         <li>
             <a class="fr-summary__link" href="#contribution-collective">Contribution collective</a>
-        </li>
-        <li>
-            <a class="fr-summary__link" href="#equipe-projet">Équipe projet</a>
         </li>
     </ol>
 </nav>
@@ -37,16 +31,6 @@ Mettre en place une démarche « Numérique responsable » nécessite des connai
 Se lancer dans une démarche « Numérique responsable » telle que présentée dans cette publication peut nécessiter un temps d’appropriation, mais cela peut amorcer ou accompagner une réponse plus globale à une demande croissante d’information et d’action, tant dans le secteur privé que dans le secteur public, par les équipes dédiées aux sujets environnementaux, par les informaticiens eux-mêmes, ou par les utilisateurs des outils qui se soucient de leurs impacts environnementaux, souvent sans pouvoir trouver de réponse satisfaisante. C’est également le cas dans l'enseignement supérieur, universités comme écoles d'ingénieur, où les étudiants demandent à recevoir des enseignements sur ce sujet.
 
 Enfin, mettre en place une démarche « Numérique responsable » s’avère être un processus peu onéreux car il existe de nombreuses possibilités d’économies dans une approche de coût global : coût d’acquisition, d’utilisation et de gestion en fin de vie des équipements notamment.
-
-<h2 id="pourquoi-ce-guide">Pourquoi ce guide et à qui s’adresse-t-il ?</h2>
-
-Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.
-
-L’objectif de ce guide est d’une part de sensibiliser les différents acteurs aux impacts de certaines pratiques rencontrées au sein des organisations, et d’autre part de partager des exemples de bonnes pratiques numérique responsable qui peuvent participer à la réduction de l’empreinte environnementale du numérique. Ce guide s’adresse à tout type d’organisation, du secteur public comme du secteur privé. Certains exemples de bonnes pratiques sont plus adaptés que d’autres suivant le contexte et la maturité de la démarche numérique responsable au sein des organisations.
-
-Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les décideurs informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
-
-Enfin, dans une démarche qui se veut itérative, ce guide est publié en version beta. La version 1 du guide sera complétée et publiée après une consultation publique.
 
 <h2 id="comment-utiliser-ce-guide">Comment utiliser ce guide</h2>
 
@@ -103,40 +87,20 @@ Au sein du service du pilotage stratégique et de la gouvernance, la sous-direct
 
 ### L’Institut du Numérique Responsable (INR)
 
-Association loi 1901 à but non lucratif créée en 2018, l’INR a pour objet d’être un lieu de réflexion sur les trois enjeux clés du numérique responsable : la réduction de l’empreinte (économique, sociale et environnementale) du numérique, la capacité du numérique à réduire l’empreinte (économique, sociale et environnementale) de l’humanité, et la création de valeur durable / innovation responsable via le numérique pour réussir l’e-inclusion de tous. 
+Association loi 1901 à but non lucratif créée en 2018, l’[INR](https://institutnr.org/) a pour objet d’être un lieu de réflexion sur les trois enjeux clés du numérique responsable : la réduction de l’empreinte (économique, sociale et environnementale) du numérique, la capacité du numérique à réduire l’empreinte (économique, sociale et environnementale) de l’humanité, et la création de valeur durable / innovation responsable via le numérique pour réussir l’e-inclusion de tous. 
 
 L’INR est un acteur de référence rassemblant entreprises et organisations autour de l’expérimentation et la promotion de bonnes pratiques pour un numérique plus régénérateur, inclusif et éthique.
 
 ### EcoInfo
 
-EcoInfo est un groupement de service (GDS) du CNRS (soutenu par l’INS2I et l’INEE), réparti sur tout le territoire français. Il propose un ensemble de services en ligne ou sous la forme d’accompagnement et/ou d’audit dans l’objectif général d’évaluer puis de réduire les impacts de l’informatique dans l’ensemble de l’enseignement supérieur recherche, quelque soit la discipline. Acteur très actif au sein de MatInfo, EcoInfo œuvre à ce que les équipements achetés dans le cadre du marché national soit le plus vertueux possible. EcoInfo propose entre autres, un service d’évaluation de l’empreinte environnementale du parc informatique, des audits de datacentre, un guide et des conseils dans le cadre de l’évaluation HCERES (volet développement durable), des conseils sur l’éco-conception de services numériques et la gestion des e-déchets.
+[EcoInfo](https://ecoinfo.cnrs.fr/) est un groupement de service (GDS) du CNRS (soutenu par l’INS2I et l’INEE), réparti sur tout le territoire français. Il propose un ensemble de services en ligne ou sous la forme d’accompagnement et/ou d’audit dans l’objectif général d’évaluer puis de réduire les impacts de l’informatique dans l’ensemble de l’enseignement supérieur recherche, quelque soit la discipline. Acteur très actif au sein de MatInfo, EcoInfo œuvre à ce que les équipements achetés dans le cadre du marché national soit le plus vertueux possible. EcoInfo propose entre autres, un service d’évaluation de l’empreinte environnementale du parc informatique, des audits de datacentre, un guide et des conseils dans le cadre de l’évaluation HCERES (volet développement durable), des conseils sur l’éco-conception de services numériques et la gestion des e-déchets.
 
 EcoInfo est l’acteur de référence pour l’Enseignement Supérieur et la Recherche pour « Agir pour réduire les impacts environnementaux et sociétaux négatifs des technologies du numérique ».
 
 ### Ecologic
 
-Ecologic est un éco-organisme agréé, fortement investi depuis son origine sur le secteur IT. Entreprise à but non lucratif, Ecologic est investi par l’Etat d’une mission d’utilité publique consistant à développer la prévention des déchets et à assurer la gestion des déchets des équipements électriques et électroniques (DEEE) ménagers et professionnels. 
+[Ecologic](https://www.ecologic-france.com/) est un éco-organisme agréé, fortement investi depuis son origine sur le secteur IT. Entreprise à but non lucratif, Ecologic est investi par l’Etat d’une mission d’utilité publique consistant à développer la prévention des déchets et à assurer la gestion des déchets des équipements électriques et électroniques (DEEE) ménagers et professionnels. 
 
 ### ecosystem
 
 Entreprise à mission, [ecosystem](https://www.ecosystem.eco/) est un éco-organisme agréé par l’État pour la gestion des DEEE ménagers et des DEEE professionnels. Il est par ailleurs agréé par l’État pour la gestion des déchets diffus spécifiques (DDS) relatifs aux petits extincteurs et autres appareils à fonction extinctrice.
-
-<h2 id="equipe-projet">Équipe projet</h2>
-
-**Conception et rédaction** : MiNumEco, mission interministérielle numérique écoresponsable, Direction interministérielle du numérique (DINUM), Ministère de la Transition écologique, Institut du Numérique Responsable (INR)
-
-**Pilotes projet** : Richard Hanna et Olivier Joviado (DINUM)
-
-**Principaux contributeurs et contributrices** : Richard Hanna et Olivier Joviado (DINUM), Laurent Pingault (INR), Françoise Berthoud (CNRS, GRICAD) et Sophie Quinton (Inria Grenoble), Emmanuelle Frenoux (Univ. Paris-Saclay, LISN), Laurent Lefèvre (Inria, LIP, ENS Lyon), Anne-Laure Ligozat (ENSIIE, LISN), Didier Mallarino (CNRS, PYTHEAS), Anne-Cécile Orgerie (CNRS, IRISA), Francis Vivat (CNRS, LATMOS), Viviane Valla (CGDD), Alexandra Grout, Anne Crance, Maxime Nebule, Romain Cassiaux et Rachid Igouti (ministère de l’Intérieur), Frédéric Damiens (ministère de la Transition écologique), Brigitte Tran (ministère de la Culture), Romuald Ribault (Alliance Green IT), Agnès Comte (Banque de France), Hervé le Luherne (Région Bretagne), Catherine Petit, Yveline Baratta et Florence Launay (Bibliothèque Nationale de France).
-
-**Relectrices et relecteurs** : Fatiha Gas (ministère de la Justice), Thierry Darbois (ministère de l’Europe et des Affaires étrangères), Murielle Timsit (indépendante), Gauthier Roussilhe (indépendant), Bela Loto (Point de MIR), Julie Delmas-Orgelet (DDemain), Benjamin Ninassi (INRIA), Benoit Dequick et Ugo Dessertine (Pôle design de service numérique, DINUM), Hubert de Cadolle (IFCE), Jacques-François Marchandise (Fing), Marine Gout (Pix), Ishan Bhojwani (beta.gouv, DINUM), Béatrice Bellini (Université Paris Nanterre), Philippe Derouette (IT-CE - groupe BPCE), Astrid Lebrun-Frisdal (ecosystem), Bertrand Reygner (Ecologic), Rémy Marrone (INR).
-
-**Remerciements** : Le guide porté par la mission interministérielle numérique écoresponsable et publié en licence ouverte pour une réutilisation par tous, prend pour point de départ les travaux menés par le Club Green IT en 2017. Ils ont été remaniés, réactualisés et complétés par l’ensemble des parties prenantes de ce projet, mais nous tenons tout particulièrement à remercier les contributrices et contributeurs originels, les historiques  : Frédéric Bordage (greenit.fr), Sophie Choplain (Club Green IT), Philippe Derouette (IT-CE - groupe BPCE), Hélène Ripert (Pôle emploi), Jean-Christophe Chaussat (Pôle Emploi), Jacques Bourdos (Renault), Frédéric Cerbelaud (SNCF), Thierry Vonck (SNCF), Philippe Schmitt (Engie), Jean-François Girard (Informatique CDC), Charbel Eid (La Poste), Marc Villemon (RTE) et Eric Mely (Société Générale).
-
-**Mise en page et graphisme** : Céline Berthaut	
-
-**Version actuelle** : Bêta
-
-**Version cible** : v1 après consultation publique
-
-**Licence** : publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/guides.etalab.gouv.fr/blob/master/LICENSE.md)
