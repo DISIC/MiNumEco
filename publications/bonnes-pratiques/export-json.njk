@@ -1,0 +1,58 @@
+---
+permalink: "/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.json"
+eleventyExcludeFromCollections: true
+---
+{% set thematiquesContent = collections.guideBpNrThematique %}
+{
+  "title": "{{ metadata.guideBonnesPratiques.title }}",
+  "url": "{{ metadata.url }}",
+  "description": {{ metadata.guideBonnesPratiques.description | dump | safe }},
+  "version": "{{ metadata.guideBonnesPratiques.version }}",
+  "updated_at": "{{ metadata.guideBonnesPratiques.updatedAt }}",
+  "author": {
+    "name": "{{ metadata.author.name }}",
+    "url": "{{ metadata.author.url }}"
+  },
+  "thematiques": [
+    {% for thematique in collections.all | eleventyNavigationExtended("guideBpNr") -%}
+    {
+      "id": {{ thematique.data.idThematique | dump | safe }},
+      "titre": {{ thematique.data.title | dump | safe }},
+      "description": {% for thematiqueContent in thematiquesContent %}{% if thematiqueContent.url == thematique.url %}{{ thematiqueContent.templateContent | dump | safe }}{% endif %}{% endfor %},
+      "bonnesPratiques": [
+      {% for bonnePratique in thematique.children %}
+        {
+          "id": {{ bonnePratique.data.idbp | dump | safe }},
+          "titre": {{ bonnePratique.data.title | dump | safe }},
+          "priorite": {{ bonnePratique.data.priority | dump | safe }},
+          "difficulte": {{ bonnePratique.data.difficulty | dump | safe }},
+          "pilotes": [
+            {% for who in bonnePratique.data.who %}
+              {{ who | dump | safe }}
+              {%- if not loop.last -%}
+              ,
+              {%- endif -%}
+            {%- endfor %}
+          ],
+          "indicateurs": [
+            {% for indicator in bonnePratique.data.indicators %}
+              {{ indicator | dump | safe }}
+              {%- if not loop.last -%}
+              ,
+              {%- endif -%}
+            {%- endfor %}
+          ],
+          "url": {{ bonnePratique.url | url | absoluteUrl(metadata.url) | dump | safe }}
+        }
+        {%- if not loop.last -%}
+        ,
+        {%- endif -%}
+      {% endfor %}
+      ]
+    }
+    {%- if not loop.last -%}
+    ,
+    {%- endif -%}
+    {%- endfor %}
+  ]
+}

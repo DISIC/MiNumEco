@@ -1,9 +1,9 @@
 {
   "title": "Numérique écoresponsable",
   "url": "https://ecoresponsable.numerique.gouv.fr/",
-  "description": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
+  "description": "MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
   "feed": {
-    "subtitle": "Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
+    "subtitle": "MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://ecoresponsable.numerique.gouv.fr/"
@@ -13,7 +13,7 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/feed/feed.json"
   },
   "author": {
-    "name": "Mission Green Tech",
+    "name": "MiNumEco, la mission interministérielle numérique écoresponsable",
     "email": "numerique-responsable.dinum@modernisation.gouv.fr",
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
@@ -21,7 +21,7 @@
     "version": "beta",
     "versionTitle": "bêta",
     "title": "Guide des bonnes pratiques numérique responsable pour les organisations",
-    "description": "Guide proposé par la Dinum, le Ministère de la Transition Écologique et l’Institut du Numérique Responsable",
+    "description": "Guide proposé par la DINUM, le Ministère de la Transition Écologique et l’Institut du Numérique Responsable",
     "updatedAt": "2022-02-17",
     "documentUrl": "#",
     "documentWeightInMo": "X",
@@ -31,7 +31,7 @@
     "version": "beta",
     "versionTitle": "bêta",
     "title": "Référentiel général d'écoconception de services numériques",
-    "description": "Référentiel piloté par la Dinum, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
+    "description": "Référentiel piloté par la DINUM, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
     "updatedAt": "2021-10-19",
     "consultationUrl": "https://purpoz.com/project/referentiel-general-decoconception-de-service-numerique/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions",
     "thematique": {
