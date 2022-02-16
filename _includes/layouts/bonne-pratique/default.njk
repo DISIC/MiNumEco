@@ -24,9 +24,6 @@ layout: layouts/base.njk
                     <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
                         <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
                     </li>
-                    <li class="fr-sidemenu__item {% if bonnesPratiquesListe %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/" {% if bonnesPratiquesListe %}aria-current="page"{% endif %}>Bonnes pratiques</a>
-                    </li>
                     <li class="fr-sidemenu__item">
                         <button class="fr-sidemenu__btn" aria-expanded="{% if aProposOuvert %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-apropos">À propos</button>
                         <div class="fr-collapse" id="fr-sidemenu-item-apropos">
@@ -49,6 +46,9 @@ layout: layouts/base.njk
                                 </li>
                             </ul>
                         </div>
+                    </li>
+                    <li class="fr-sidemenu__item {% if bonnesPratiquesListe %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/" {% if bonnesPratiquesListe %}aria-current="page"{% endif %}>Bonnes pratiques</a>
                     </li>
                 </ul>
 
