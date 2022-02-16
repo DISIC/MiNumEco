@@ -37,7 +37,7 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 <a href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>.
 <a href="/publications/bonnes-pratiques/synthese/">En synthèse</a>.
 </p>
-<a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Voir les exemples de bonnes pratiques</a>
+<a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Consulter le guide de bonnes pratiques</a>
 </div>
 
 ## Télécharger
