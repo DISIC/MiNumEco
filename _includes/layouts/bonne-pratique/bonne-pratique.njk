@@ -2,53 +2,32 @@
 layout: layouts/bonne-pratique/default.njk
 ---
 
-<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-  <div class="fr-col-12 fr-col-md-8">
-    {{ content | safe }}
-  </div>
+<p>
+    {% for thematique in collections.guideBpNrThematique %}
+        {% if thematique.data.eleventyNavigation.key == eleventyNavigation.parent %}
+            <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/#{{ eleventyNavigation.parent }}">{{ thematique.data.title }}</a>
+        {% endif %}
+    {% endfor %}
+    <a class="fr-tag fr-mb-1w" href="#"><strong>Priorité</strong> : {{ priority }}</a>
+    <a class="fr-tag fr-mb-1w" href="#"><strong>Difficulté de mise en œuvre</strong> : {{ difficulty }}</a>
+</p>
 
-  <div class="fr-col-12 fr-col-md-4">
-    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
-        <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Priorité</h2>
-            <p class="fr-tile__desc">{{ priority }}</p>
-        </div>
-    </div>
+{{ content | safe }}
 
-    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
-        <div class="fr-tile__body">
-            <h2 class="fr-tile__title">Difficulté de mise en oeuvre</h2>
-            <p class="fr-tile__desc">{{ difficulty }}</p>
-        </div>
-    </div>
+    <h2>Pilotage</h2>
+    <h3>{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h3>
+    {% for item in who %}
+        <a class="fr-tag fr-mb-1w" href="#">{{ item }}</a>
+    {% endfor %}
 
-    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
-        <div class="fr-tile__body">
-            <h2 class="fr-tile__title">{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h2>
-            <ul class="fr-tile__desc">
-                {%- for item in who -%}
-                <li>{{ item }}</li>
-                {%- endfor -%}
-            </ul>
-        </div>
-    </div>
-
-{% if indicators.length %}
-    <div class="fr-tile fr-tile--horizontal fr-mb-2w">
-        <div class="fr-tile__body">
-            <h2 class="fr-tile__title">{% if indicators.length > 1 %}Exemples d'indicateurs de pilotage{% else %}Exemple d'indicateur de pilotage{% endif %}</h2>
-            <p class="fr-tile__desc">
-                <ul>
-                {% for indicator in indicators %}
-                    <li>{{ indicator }}</li>
-                {% endfor %}
-                </ul>
-            </p>
-        </div>
-    </div>
-{% endif %}
-  </div>
-</div>
+    {% if indicators.length %}
+        <h3>{% if indicators.length > 1 %}Exemples d'indicateurs de pilotage{% else %}Exemple d'indicateur de pilotage{% endif %}</h3>
+        <ul>
+        {% for indicator in indicators %}
+            <li>{{ indicator }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
 
 {% set precedenteBonnePratique = null %}
 {% set couranteBonnePratique = null %}

@@ -16,7 +16,7 @@ layout: layouts/base.njk
 {% endfor %}
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 {% if idbp %}fr-col-md-3{% else %}fr-col-md-4{% endif %}" role="navigation" aria-label="Menu latéral">
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
         <div class="fr-sidemenu__inner">
             <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">{% if bonnesPratiquesListe %}Sommaire et filtres{% else %}Sommaire{% endif %}</button>
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
@@ -98,11 +98,11 @@ layout: layouts/base.njk
         </div>
     </nav>
 
-    <div class="fr-col-12 {% if idbp %}fr-col-md-9{% else %}fr-col-md-8{% endif %}">
+    <div class="fr-col-12 fr-col-md-8">
         <h1>{{ title }}</h1>
 
-        <p>
-            <time class="fr-tag" datetime="{{ date | htmlDateString }}">Dernière mise à jour le {{ date | readableDate }}</time>
+        <p class="fr-text--sm">
+            Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
         </p>
 
         {{ content | safe }}
