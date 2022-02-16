@@ -29,11 +29,11 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
   </div>
 </div>
 
-Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique.. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués.. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les décideurs informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
+Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les directions informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
 
 <div class="fr-callout">
 <h2 class="fr-callout__title">Consulter le guide</h2>
-<p class="fr-callout__text">Dans une démarche qui se veut itérative, ce guide est publié en version bêta. La version 1 du guide sera complétée et publiée après une consultation publique.
+<p class="fr-callout__text">Le guide est disponible en ligne, fichier .pdf, export csv et flux json.
 <a href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>.
 <a href="/publications/bonnes-pratiques/synthese/">En synthèse</a>.
 </p>
@@ -45,6 +45,8 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
 
 ## Contribuer
+
+Dans une démarche qui se veut itérative, ce guide est publié en version bêta et en licence ouverte. La version 1 du guide sera complétée et publiée après une consultation publique.
 
 <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
 
