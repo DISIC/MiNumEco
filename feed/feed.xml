@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Numérique écoresponsable</title>
-	<subtitle>Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique</subtitle>
+	<subtitle>MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique</subtitle>
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
 	<updated>2022-02-11T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
-		<name>Mission Green Tech</name>
+		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
 	

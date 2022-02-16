@@ -1,0 +1,1040 @@
+
+{
+  "title": "Guide des bonnes pratiques numérique responsable pour les organisations",
+  "url": "https://ecoresponsable.numerique.gouv.fr/",
+  "description": "Guide proposé par la DINUM, le Ministère de la Transition Écologique et l’Institut du Numérique Responsable",
+  "version": "beta",
+  "updated_at": "2022-02-17",
+  "author": {
+    "name": "MiNumEco, la mission interministérielle numérique écoresponsable",
+    "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
+  },
+  "thematiques": [
+    {
+      "id": "a.",
+      "titre": "Stratégie et gouvernance",
+      "description": "<p>La situation environnementale, la « santé » économique, les aspects sociaux et sanitaires, les capacités d’approvisionnement, etc. vont évoluer au cours des prochaines années beaucoup plus rapidement qu’au cours des décennies passées à cause notamment du changement climatique et de la tension sur les ressources de la planète. En conséquence, pour que des bonnes pratiques soient adaptées aux contraintes, utiles et opérationnelles, il est indispensable qu’elles évoluent en fonction du contexte.</p>\n<p>La structuration et le cadre sont donc au moins aussi importants que le contenu de la démarche. La structuration interne à l’organisation devrait à minima intégrer :</p>\n<ul>\n<li>L’engagement des membres de la structure, au-delà des seuls acteurs du Système d’Information (SI) ou directions du numérique, notamment via des réflexions collectives, des engagements formels, des processus participatifs par exemple.</li>\n<li>La mise en place d’un groupe de pilotage, indépendant de la direction, pour évaluer l’empreinte environnementale de l’ensemble des activités numériques de la structure qui aille au-delà des seuls acteurs du Système d’Information de façon à éviter les transferts de pollution et les effets rebond. Ce groupe pourrait être en charge de l’application de ce code de bonne conduite, incluant l’écoute et la mise en lien des différents acteurs dans les différents métiers, la mise en place de dispositifs participatifs, un rendu régulier et une révision des bonnes pratiques à mettre en place en fonction de l’évolution de la situation.</li>\n</ul>\n<p>Cette structuration peut prendre différentes formes et s’opérationnaliser de différentes façons.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "a.1",
+          "titre": "Dédier une personne spécifique à la coordination de la démarche numérique responsable",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction générale"
+          ],
+          "indicateurs": [
+            
+              "Certificat de formation ou de connaissances de la personne chargée de la démarche numérique responsable",
+              "Présence dans l'organisation d'une personne déléguée ou référente au numérique responsable : oui / non",
+              "Place dans l'organigramme de cette personne"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/personne-dediee-demarche-numerique-responsable/"
+        },
+        {
+          "id": "a.2",
+          "titre": "Définir et mettre en place un plan d’action",
+          "priorite": "Prioritaire",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction générale",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/strategie-et-plan-daction/"
+        },
+        {
+          "id": "a.3",
+          "titre": "Définir des indicateurs Numérique Responsable",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non",
+              "Place dans l'organigramme de cette personne",
+              "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC sur les impacts environnementaux du numérique et les moyens d’agir",
+              "% montant achat ordinateurs portables avec prise en compte du seuil de l’indice de réparabilité / nombre total",
+              "PUE et WUE moyens mesurés pour les centres de données",
+              "Durée de vie moyenne et évolution du montant d’achat par type de matériel",
+              "L'empreinte environnementale (tonne équivalent CO2 / an / utilisateur)"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/definir-indicateurs/"
+        },
+        {
+          "id": "a.4",
+          "titre": "Développer un réseau de référents pour faire vivre et inscrire la démarche dans la durée",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Délégué au numérique responsable",
+              "Direction ressources humaines"
+          ],
+          "indicateurs": [
+            
+              "Nombre de référents Numérique Responsable / nombre salariés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/developper-reseau-referents/"
+        },
+        {
+          "id": "a.5",
+          "titre": "Obtenir et consacrer un budget spécifique",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction générale"
+          ],
+          "indicateurs": [
+            
+              "% du budget de la direction du numérique. Préciser l’allocation de ce budget"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/obtenir-et-consacrer-budget/"
+        },
+        {
+          "id": "a.6",
+          "titre": "Acter la démarche numérique responsable dans une charte ou un manifeste",
+          "priorite": "Aller plus loin",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction générale",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/charte-ou-manifeste/"
+        },
+        {
+          "id": "a.7",
+          "titre": "S’engager pour un numérique plus respectueux",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction générale"
+          ],
+          "indicateurs": [
+            
+              "% des données localisées en France",
+              "% d’équipements ergonomiques",
+              "% d’arrêts de travail liés à des pathologies liées au numérique ?",
+              "Présence d’un comité d’éthique dans l’organisation"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/sengager-pour-un-numerique-respectueux/"
+        }
+      ]
+    },{
+      "id": "b.",
+      "titre": "Sensibilisation et formation",
+      "description": "<p>Le préalable à tout changement volontaire et engagé est la connaissance. C’est pourquoi, il est indispensable de sensibiliser, de former, d’acculturer l’ensemble des collaborateurs aux enjeux de la transition écologique (changement climatique, limites planétaires et perte de biodiversité principalement).</p>\n<p>S’engager vers un changement profond de fonctionnement nécessite d’y intégrer les dimensions sociales, sociétales et les outils et techniques d’animation pour impliquer réellement tous les acteurs.</p>\n<p>Développer une vision et une pensée systémiques sont à la base du développement de la pensée critique permettant d’identifier les croyances, les « allant de soi », les tabous, etc. C’est une nécessité pour aller plus loin, ailleurs, imaginer des solutions radicalement différentes, sortir de la pensée en « silo », ouvrir des possibles et éviter les effets rebond ou autres effets indirects négatifs.</p>\n<p>Enfin, sur un plan plus opérationnel, il y a une multitude de bonnes pratiques à mettre en œuvre, de compétences de développement ou de réparation à acquérir pour que la durabilité et la sobriété ne soient pas des mots creux.</p>\n<p>Les actions de sensibilisation devraient idéalement concerner tous les acteurs de l’organisation et les actions de formation les plus volontaires, les directions, les participants aux processus participatifs.</p>\n<p>Idéalement toute organisation devrait être en mesure d’assurer au moins de la sensibilisation en interne.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "b.1",
+          "titre": "Sensibiliser les collaborateurs au numérique responsable",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC pour un numérique plus responsable.",
+              "sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/sensibiliser-collaborateurs/"
+        },
+        {
+          "id": "b.2",
+          "titre": "Intégrer les compétences Numérique Responsable dans le plan de formation",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction ressources humaines"
+          ],
+          "indicateurs": [
+            
+              "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/integrer-competences/"
+        },
+        {
+          "id": "b.3",
+          "titre": "Former en interne à la réparation des équipements hors garantie",
+          "priorite": "Aller plus loin",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction ressources humaines"
+          ],
+          "indicateurs": [
+            
+              "% des salariés / agents du support formés aux réparations",
+              "% du matériel réparé en interne / total matériel défectueux"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/sensibilisation-et-formation/former-reparation-equipements/"
+        }
+      ]
+    },{
+      "id": "c.",
+      "titre": "Mesure et évaluation",
+      "description": "<p>La mesure et les estimations sont nécessaires pour objectiver les progrès à faire ou réalisés. Pour autant, il faudra veiller à ce que la mesure, l’évaluation ne deviennent pas une fin en soi, avec le risque de rechercher un niveau de précision qui n’a pas de sens et n’est pas nécessaire pour agir !</p>\n<p>L’évaluation des impacts du numérique devraient idéalement inclure plusieurs indicateurs environnementaux (dont les émissions de gaz à effet de serre, la pollution, la quantité de déchets, la quantité d’eau douce, la quantité de ressources minérales) et sociaux (notamment l’accessibilité, la qualité de vie au travail, etc.) :</p>\n<ol>\n<li>les impacts directs du numérique au sein de la structure,</li>\n<li>Les impacts indirects\n<ul>\n<li>les impacts liés à la sous-traitance de tout ou partie des services fournis (services numériques, traitement des achats, des déchets, etc.),</li>\n<li>les impacts induits par l’achat ou l’utilisation de services ou d’équipements (non numériques) du fait de l’existence de certains services numériques et/ou d’optimisations rendues possible par l’utilisation du numérique,</li>\n<li>les impacts générés chez les « clients » de la structure du fait des services numériques ou produits proposés.</li>\n</ul>\n</li>\n</ol>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "c.1",
+          "titre": "Connaître son système d'information pour mieux l’exploiter",
+          "priorite": "Prioritaire",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "taux de complétion des cartographies applicatives, processus et données",
+              "taux de description des données majeures"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/connaitre-son-si-pour-mieux-lexploiter/"
+        },
+        {
+          "id": "c.2",
+          "titre": "Évaluer régulièrement l’empreinte environnementale du système d’information",
+          "priorite": "Recommandée",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/evaluer-empreinte-environnementale/"
+        }
+      ]
+    },{
+      "id": "d.",
+      "titre": "Réduction des achats",
+      "description": "<p>Parce que l’empreinte environnementale des équipements électroniques est très importante, voire majoritaire sur la phase de fabrication, l’action la plus efficace est la réduction de la production d’équipements électroniques neufs (téléphones, écrans, capteurs, serveurs, consoles de jeux, etc.). Du côté du consommateur, cela peut se traduire par une diminution du nombre d’achats (neufs ou d’occasion) et la prolongation de la vie effective des équipements utilisés.</p>\n<p>L’alibi d’un équipement neuf qui consomme moins d’énergie pendant sa phase d’usage ne vaut que pour les serveurs après plusieurs années (qui consomment beaucoup d’énergie et sont alimentés 24h/24). Les simulations réalisées pour des terminaux de type portable montrent qu’il faut plusieurs dizaines d’années d’utilisation pour que le bénéfice d’une réduction de la consommation moyenne soit visible.</p>\n<p>Les bonnes pratiques permettant d'œuvrer à l'allongement de la durée d'utilisation des équipements se situent à différents niveaux.</p>\n<p>Au niveau du matériel, l'arbitrage entre achat et location en vue d'une optimisation de la gestion des différentes phases de la vie des équipements est un choix stratégique. Celui-ci implique néanmoins des bonnes pratiques similaires, par exemple prévoir des clauses garantissant la réparation durant une période suffisamment longue ou augmenter si besoin les capacités des matériels par l'ajout ou le remplacement de composants.</p>\n<p>Il est aussi possible d'agir au niveau des services numériques en évitant les mises à jour requérant plus de ressources que nécessaire.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "d.1",
+          "titre": "Réduire le nombre d’équipements",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Nombre d’écrans par utilisateur",
+              "% d’agents équipés d’un smartphone professionnel",
+              "Nombre d’imprimantes par utilisateur",
+              "% d’imprimantes mutualisées avec identification",
+              "% d’équipements en stock"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/"
+        },
+        {
+          "id": "d.2",
+          "titre": "Mettre à jour les équipements au lieu de les remplacer",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "% du parc de postes informatiques mis à jour plutôt que renouvelés",
+              "allongement moyen de la durée de vie (en année)"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/mettre-a-jour-equipements/"
+        },
+        {
+          "id": "d.3",
+          "titre": "Réaffecter les équipements en interne",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Durée de vie moyenne des équipements au sein de l’organisation",
+              "Nombre et / ou % de matériels réemployés en interne."
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reaffecter-equipements-en-interne/"
+        },
+        {
+          "id": "d.4",
+          "titre": "Séparer les achats d’équipements",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "% des équipements informatiques principaux renouvelés seuls, par critères : écrans, souris, téléphones portables, unités centrales…"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/separer-achats-equipements/"
+        },
+        {
+          "id": "d.5",
+          "titre": "Opter pour la location fonctionnelle d'équipements",
+          "priorite": "Aller plus loin",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "Nombre et type d’équipements en location fonctionnelle",
+              "% des achats en location fonctionnelle"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/opter-location-fonctionnelle-equipements/"
+        },
+        {
+          "id": "d.6",
+          "titre": "Protéger les équipements",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "% équipements protégés",
+              "Taux de casse par an",
+              "% de SAV retours internes"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/proteger-les-equipements/"
+        }
+      ]
+    },{
+      "id": "e.",
+      "titre": "Achat durable",
+      "description": "<p>Lorsque l’achat s’avère nécessaire, quelques bonnes pratiques permettent de s’assurer d’un achat ayant moins d’impacts environnementaux et sociaux, notamment en vérifiant l’adéquation des équipements achetés par rapport aux besoins, en privilégiant les achats de seconde main et les équipements reconditionnés…</p>\n<p>Il s’agit aussi de s’assurer de la traçabilité des équipements ainsi que de vérifier que les produits et vendeurs assument bien leurs responsabilités au titre de la REP (Responsabilisation élargie du producteur) : adhésion à un éco-organisme collecteur de DEEE, système individuel agréé pour un producteur, solutions de reprise des matériels usagés…</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "e.1",
+          "titre": "Privilégier des équipements issus du réemploi ou contenant des matériaux recyclés",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "% d'équipements reconditionnés ou contenant des matériaux recyclés achetés",
+              "Durée de conservation des matériels reconditionnés",
+              "% de matériaux recyclés par nature dans le cas d’achats neufs"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-equipements-reemploi/"
+        },
+        {
+          "id": "e.2",
+          "titre": "Privilégier les achats durables et réparables",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "Indice de réparabilité (minimum pris en compte à l’achat)",
+              "Durée de garantie souscrite (minimum pris en compte à l’achat)",
+              "Durée effective d’utilisation des matériels",
+              "Nombre de matériels réparés / mois",
+              "Equivalent CO2 économisé par les réparations (attention : difficile à évaluer)"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-achats-durables-et-reparables/"
+        },
+        {
+          "id": "e.3",
+          "titre": "Privilégier des équipements éco-labellisés",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "% d'équipements éco-labellisés (type I) achetés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-equipements-ecolabellises/"
+        },
+        {
+          "id": "e.4",
+          "titre": "Anticiper le sourcing des fournisseurs d'équipements contenant des matériaux recyclés ou issus du réemploi",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "Nombre de fournisseurs identifiés proposant des produits reconditionnés",
+              "% des achats annuels HT des catégories de produits concernés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/anticiper-sourcing/"
+        },
+        {
+          "id": "e.5",
+          "titre": "S'assurer de la traçabilité des produits",
+          "priorite": "Prioritaire",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "Quelles sont les obligations précisées dans les cahiers de clauses administratives entre l'acheteur et le titulaire du marché ?",
+              "Quelles sont les clauses sociales intégrées aux marchés ?",
+              "Quels sont les outils de traçabilité et de contrôle mis en place ?"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/sassurer-tracabilite-produits/"
+        }
+      ]
+    },{
+      "id": "f.",
+      "titre": "Phase d’usage, administration et paramétrages",
+      "description": "<p>On rappellera ici que l’impact lors de la phase d’usage est pour l’immense majorité des équipements très inférieure à l’impact de la fabrication. Les bonnes pratiques dans ce cadre doivent donc bien venir après celles liées à l’achat.</p>\n<p>Même si la phase d’usage est considérée comme moins impactante, quelques bonnes pratiques peuvent être mises en œuvre, par exemple sur la consommation de fluides et consommables comme l’énergie et le papier, ou encore l’optimisation du dimensionnement des unités de stockage.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "f.1",
+          "titre": "Optimiser la gestion du parc des équipements",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Durée de vie moyenne des équipements par type",
+              "Durée de vie moyenne des équipements par modèle",
+              "Taux de labellisation des équipements",
+              "Taux de panne des équipements par modèle et par an",
+              "Taux d’équipements en stock",
+              "Taux de remplacement des matériels",
+              "Taux de remplacement en lien avec la durée de garantie",
+              "Durée de stockage moyen des équipements",
+              "Nombre de matériels par utilisateur de l’organisation",
+              "Taux de matériels non renouvelés car redondants"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/optimiser-gestion-parc/"
+        },
+        {
+          "id": "f.2",
+          "titre": "Agir sur les paramétrages par défaut",
+          "priorite": "Recommandée",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "% des postes managés (par GPO, SCCM ou autre)",
+              "% des postes éteints effectivement aux heures d’inutilisation"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/agir-parametrages-par-defaut/"
+        },
+        {
+          "id": "f.3",
+          "titre": "Limiter le flux de données",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Go téléchargés sur Internet de l’organisation par mois ramené au nombre de collaborateurs",
+              "Trafic par mois par les serveurs web des applications internes en Go ou To",
+              "Taux de vidéos en basse résolution distribuées"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/limiter-flux-donnees/"
+        },
+        {
+          "id": "f.4",
+          "titre": "Mettre en place une stratégie de gestion de données",
+          "priorite": "Prioritaire",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué à la protection des données",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "% de données archivées par an",
+              "% de données supprimées par an",
+              "% de données laissées en libre accès (FAIR)"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/strategie-gestion-donnees/"
+        },
+        {
+          "id": "f.5",
+          "titre": "Réduire le volume de données stockées",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué à la protection des données"
+          ],
+          "indicateurs": [
+            
+              "Volume total de données stockées (en To)",
+              "Volume total de données par nombre d’utilisateurs"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/reduire-volume-donnees-stockees/"
+        },
+        {
+          "id": "f.6",
+          "titre": "Réduire les impacts liés à la messagerie",
+          "priorite": "Recommandée",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "Nombre de courriels reçus par mois",
+              "Nombre de courriels envoyés par mois",
+              "Poids moyen des courriels",
+              "Volume moyen utilisé de la boîte mail, dimensionnement maximal de la boîte mail"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/reduire-impacts-lies-messagerie/"
+        },
+        {
+          "id": "f.7",
+          "titre": "Mettre en place les bonnes pratiques d'impression",
+          "priorite": "Recommandée",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/usage-administration-parametrages/mettre-en-place-bonnes-pratiques-impression/"
+        }
+      ]
+    },{
+      "id": "g.",
+      "titre": "Services numériques",
+      "description": "<p>La <a href=\"https://fr.wikipedia.org/wiki/Loi_de_Wirth\">loi de Wirth</a> est une loi empirique formulée par Niklaus Wirth en 1995, selon laquelle « les programmes ralentissent plus vite que le matériel n'accélère ». En effet, l'une des causes de l'obsolescence des équipements est due aux logiciels, qui en consommant de plus en plus de ressources informatiques, accélèrent l'obsolescence des équipements.</p>\n<p>De plus, sur certains équipements ou sur certains systèmes d'exploitation, des logiciels préinstallés ne peuvent pas être supprimés (<a href=\"https://fr.wikipedia.org/wiki/Bloatware)\">bloatware</a>), occupant à la fois les ressources disques et parfois les ressources CPU lorsqu'ils fonctionnent en tâche de fond.</p>\n<p>Quelques questions à se poser</p>\n<p>À l’achat de logiciels ou d'équipements contenant un logiciel :</p>\n<ul>\n<li>Quelles sont les versions des systèmes d’exploitation, navigateurs et types d’équipements supportés par le logiciel acheté ? Peut-on estimer la durée pendant laquelle ils le seront ?</li>\n<li>Peut-on contractualiser sur des durées longues de maintenance du logiciel acheté ?</li>\n<li>Les acheteurs sont-ils formés sur les sujets de l’écoconception de service numérique, de l’obsolescence des logiciels eux-mêmes mais aussi l’obsolescence induite par le logiciel sur les équipements ?</li>\n</ul>\n<p>À la conception d'un service numérique :</p>\n<ul>\n<li>A-t-on besoin de numériser le service ?</li>\n<li>A-t-on identifié les attentes réelles des utilisateurs-cibles ?</li>\n<li>Une stratégie de compatibilité avec les terminaux et versions logicielles obsolètes est-elle définie ? Dans la définition des personae, les versions cibles d’équipements, systèmes d’exploitation (OS) et navigateurs ont-ils été pris en compte ?</li>\n<li>S'assurer d'une compatibilité descendante et ascendante sur les équipements</li>\n<li>Conception d'abord web ou technologies standard au lieu d’applications propriétaires (web app vs applications natives par exemple)</li>\n<li>Limiter les dépendances externes (librairies / packages tiers)</li>\n<li>Privilégier les versions LTS (Long-term support) des outils ou briques logicielles notamment open source</li>\n<li>Privilégier des solutions open source mais vérifier les durées d’engagement de maintenance ou s’engager dans la maintenance de l’outil.</li>\n<li>Amélioration progressive selon les possibilités du terminal (<em>Progressive Web App</em>)</li>\n<li>Séparer les mises à jour évolutives des mises à jours correctives (vrai surtout pour les applications propriétaires et les systèmes d'exploitation)</li>\n<li>Découpler le code métier des frameworks pour faciliter les mises à jour et les évolutions</li>\n<li>Conception sobre : limiter les fonctionnalités, limiter la consommation de ressources informatiques (nombre de requêtes, poids, process, RAM…) et utiliser des composants natifs du système.</li>\n</ul>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "g.1",
+          "titre": "Évaluer collectivement la pertinence des fonctionnalités à concevoir",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "% de fonctionnalités développées avec revue de conception en amont impliquant tous les métiers concernés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/evaluer-fonctionnalites/"
+        },
+        {
+          "id": "g.2",
+          "titre": "Systématiser une revue de conception en amont et une revue de code orientées sobriété numérique",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "% de fonctionnalités livrées avec revue de conception en amont et une revue de code en aval.",
+              "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité : oui / non",
+              "Vérification de la conformité au Référentiel général d’écoconception de service numérique",
+              "Compatibilité avec les systèmes d’exploitation et matériels anciens ou peu puissants"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/systematiser-revue-conception/"
+        },
+        {
+          "id": "g.3",
+          "titre": "Mettre en place les bonnes pratiques et s’appuyer sur les référentiels",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "Utilisation d'un référentiel d'écoconception pendant les phases de conception d'un service numérique ? oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/mettre-en-place-bonnes-pratiques/"
+        },
+        {
+          "id": "g.4",
+          "titre": "Concevoir un service numérique compatible avec des équipements les plus anciens possibles",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "Définition des types, années de construction ou versions cibles des équipements utilisateurs supportés (type de smartphone, taille écran...)",
+              "Définition de la configuration minimale (mémoire, connexion, etc.) des équipements pour supporter les services"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-un-service-numerique-compatible-avec-equipements-anciens/"
+        },
+        {
+          "id": "g.5",
+          "titre": "Concevoir un service numérique qui s’adapte à différents types de terminaux d’affichage",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "Le service numérique s’adapte à différents types de terminaux d’affichage : oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/differents-types-terminaux-affichage/"
+        },
+        {
+          "id": "g.6",
+          "titre": "Concevoir un service numérique compatible avec des faibles débits",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "Test du service numérique en connexion bas débit intégré à la phase de recette des fonctionnalités : oui / non",
+              "Test du service numérique utilisable en bas débit (3G en contexte mobile, connexion 512 Kb en contexte fixe) : oui / non",
+              "Mêmes indicateurs, à tester avec une machine de faible puissance."
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-service-numerique-compatible-avec-faibles-debits/"
+        },
+        {
+          "id": "g.7",
+          "titre": "Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "% applications reposant sur des technologies standard / total gérées par l'organisation"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-a-laide-de-technologies-standard/"
+        },
+        {
+          "id": "g.8",
+          "titre": "Réduire le temps passé par un usager sur un service numérique",
+          "priorite": "Aller plus loin",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "temps moyen utilisateur sur le service numérique",
+              "temps moyen de parcours utilisateur pour des fonctionnalités-clés",
+              "taux d'utilisation des fonctionnalités des applications existantes"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/reduire-le-temps-pass%C3%A9-par-usager/"
+        },
+        {
+          "id": "g.9",
+          "titre": "Accompagner les contributeurs pour alléger les contenus multimédia",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Délégué au numérique responsable",
+              "Direction du numérique",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "Contenu (page web par exemple) total en incluant l’interface (html, css, js pour une page web) et toutes les ressources (images, vidéos, pdf) affiché à l’utilisateur : poids < x Ko (à définir selon votre contexte)"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/accompagner-contributeurs/"
+        },
+        {
+          "id": "g.10",
+          "titre": "Dissocier les mises à jour évolutives et les mises à jour correctives",
+          "priorite": "Aller plus loin",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "Durée de maintenance d'une version LTS (Long-Term Support) de l'application > x années (à déterminer selon le contexte)",
+              "% d'applications dont les mises à jour de sécurité et de confort sont dissociées"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/dissocier-mises-a-jour-evolutives-correctives/"
+        },
+        {
+          "id": "g.11",
+          "titre": "Envisager des solutions non-numériques plus efficientes",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Responsable produit",
+              "Responsable projet"
+          ],
+          "indicateurs": [
+            
+              "A-t-on évalué la pertinence d’une solution numérique pour répondre au besoin ? oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/envisager-solutions-non-numeriques/"
+        }
+      ]
+    },{
+      "id": "h.",
+      "titre": "Salle serveur et centre de données",
+      "description": "<p>Les centres de données se développent pour répondre à des besoins et des usages qui ne font qu’augmenter. Une première bonne pratique de sobriété est de réduire ces besoins et usages, en questionnant leur pertinence.  Pour les besoins et usages restants, on cherchera à réduire l’impact de l’utilisation des centres de données.</p>\n<p>Les impacts environnementaux des centres de données sont multiples, et dus en particulier à la consommation d’électricité pour l’alimentation et le refroidissement des équipements informatiques, à la fabrication de ces mêmes équipements, à l’artificialisation des sols pour l’installation du centre de données et à la consommation d’eau.</p>\n<p>Parmi les bonnes pratiques, on pourra notamment adopter la démarche du <a href=\"https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/\">Code de conduite européen pour les centres de données</a> et exiger cette adoption chez les partenaires afin de réduire en valeur absolue l’empreinte environnementale des datacentres.</p>\n<p>Dans la suite de cette section, nous donnons quelques exemples de bonnes pratiques qui découlent pour la plupart du Code de conduite européen.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "h.1",
+          "titre": "Intégrer des clauses environnementales lors du choix d’un prestataire d’hébergement",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "Voir les critères environnementaux dans le texte de la bonne pratique"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/clauses-environnementales-choix-prestataire/"
+        },
+        {
+          "id": "h.2",
+          "titre": "Utiliser un hébergement signataire du Code de Conduite européen des centres de données",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats"
+          ],
+          "indicateurs": [
+            
+              "% de centre de données ou m² de datacentre ou kWh (facture d’électricité par exemple) gérés par des fournisseurs ayant signé le Code de Conduite européen des centres de données."
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/code-de-conduite-europeen-datacentre/"
+        },
+        {
+          "id": "h.3",
+          "titre": "Optimiser l’architecture de la salle serveur",
+          "priorite": "Recommandée",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "% de rack confinés",
+              "% du DC organisé en allées chaudes et allées froides",
+              "% des équipements conformes aux exigences ASHRAE",
+              "% d'équipement acheté avec une efficacité énergétique minimum",
+              "% de serveurs paramétrés",
+              "température de consigne",
+              "% des centres de données de l’organisation utilisant un refroidissement naturel"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/optimiser-architecture-salle-serveur/"
+        },
+        {
+          "id": "h.4",
+          "titre": "Regrouper et rationaliser les serveurs",
+          "priorite": "Recommandée",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "% des serveurs virtualisés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/regrouper-serveurs/"
+        },
+        {
+          "id": "h.5",
+          "titre": "Refroidir les serveurs par une solution économe en énergie",
+          "priorite": "Recommandée",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "% des centres de données de l'organisation se servant d’un refroidissement économe en énergie"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/refroidir-serveur/"
+        },
+        {
+          "id": "h.6",
+          "titre": "Définir et mettre en œuvre une stratégie de décommissionnement des services numériques",
+          "priorite": "Prioritaire",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Présence d'une stratégie de décommissionnement des matériels et services numériques : oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/decommissionnement-service-numerique/"
+        },
+        {
+          "id": "h.7",
+          "titre": "Mettre en place un suivi régulier des indicateurs des centres de données",
+          "priorite": "Recommandée",
+          "difficulte": "Difficile",
+          "pilotes": [
+            
+              "Direction du numérique"
+          ],
+          "indicateurs": [
+            
+              "Power Usage Effectiveness (PUE)",
+              "Water Usage Effectiveness (WUE)\"",
+              "Carbone Usage Effectiveness (CUE)\"",
+              "Renewable Energy Factor (REF)\"",
+              "Coefficient Of Performance (COF)\""
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/salle-serveur-et-centre-de-donnees/suivi-indicateur/"
+        }
+      ]
+    },{
+      "id": "i.",
+      "titre": "Fin d'usage",
+      "description": "<p>Pourquoi la fin d’usage des équipements est-elle un enjeu ?</p>\n<p>La fin d’usage se caractérise par la fin d’utilisation d’un équipement dans son usage initial par son utilisateur ou son détenteur. Prolonger la durée de vie des équipements permet de ne pas en fabriquer de nouveaux, ou au moins de réduire ce besoin. Cela réduit la part d’impact environnemental liée à la fabrication du matériel en la diluant sur une durée de vie plus longue. Le prolongement de l’usage peut passer par plusieurs processus :</p>\n<ul>\n<li>Le soin des équipements qui ne sont plus utilisés dans l’organisation, afin que les processus suivants puissent avoir lieu : un équipement doit être conservé dans des conditions correctes pour pouvoir être réutilisé en tout ou partie ensuite.</li>\n<li>La réparation, remise en état ou reconditionnement de l’équipement, qui consiste à restaurer sa fonctionnalité initiale, afin de continuer à l’utiliser dans la même organisation (en interne), ou dans une autre organisation (en externe) via un don ou une vente.</li>\n</ul>\n<ul>\n<li>Si l’équipement est directement réutilisé sans passer par un éco-organisme, on parlera de réemploi : cela concerne les réaffectations internes, les dons aux collaborateurs, les dons à des associations ou des tiers et la vente des équipements.</li>\n<li>Dans le cas contraire, on parlera de réutilisation</li>\n</ul>\n<p>Lorsque l’équipement arrive en fin de vie, idéalement quand les opérations de réemploi ne sont plus possibles (équipements hors-service et non réparables, trop obsolètes, sans marché de destination…), il devient un déchet. Le producteur du déchet est tenu pour responsable de son élimination jusqu’à sa valorisation finale.</p>\n<p>Dès lors, l’enjeu consiste à recycler au mieux les déchets avec les plus hauts niveaux d’exigences imposés par la <a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026319124\">directive européenne DEEE</a>. Une première étape consiste à dépolluer les équipements pour sécuriser les polluants. Une deuxième étape vise à valoriser les matières en les recyclant et/ou sous forme d’énergie. Enfin, ce qui ne peut pas être valorisé, sera enfoui dans les centres d’enfouissement techniques dédiés et contrôlés.</p>\n<p>Pour ces opérations, le détenteur peut confier ses déchets à un éco-organisme ou au producteur de l’équipement organisé en système individuel. Et dans ce cas, sa responsabilité sera éteinte dès la collecte par ces-derniers (<a href=\"https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041599099/\">Article L541-10 du code de l’environnement</a>).</p>\n<p>Le détenteur peut aussi confier ses déchets à un gestionnaire de déchets ou un opérateur de traitement en vérifiant qu’il est autorisé à les prendre en charge, notamment qu’il est bien en contrat avec un éco-organisme ou que l’entreprise à qui il les confie pour traitement est elle-même en contrat. Mais le détenteur demeure responsable du déchet jusqu’à son élimination ou sa valorisation finale. Un traçage est donc indispensable.</p>\n<p>Réemploi et recyclage ne s’opposent pas, ils ne concernent tout simplement pas la même étape du cycle de vie du produit. A la fin d’un usage, il est toujours utile d’allonger la durée de vie d’un équipement par une opération de réemploi quand elle est possible. Cela a pour effet de retarder la fin de vie. Une fois en fin de vie, le recyclage s’impose. Dans ce sens, il est donc important de choisir un éco-organisme agréé en fonction du taux de réemploi des matériels collectés et non de leur seule préparation pour le recyclage.</p>\n",
+      "bonnesPratiques": [
+      
+        {
+          "id": "i.1",
+          "titre": "Réemployer en remettant en état",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Opérationnel"
+          ],
+          "indicateurs": [
+            
+              "Nombre d'équipements informatiques remis en état ou à niveau",
+              "Poids des DEEE évités : poids des équipements remis en état ou à niveau",
+              "% des DEEE évités par les remises en état / à niveau par rapport au poids total des DEEE générés",
+              "Nombre, pourcentage et poids des matériels en état qui ont été confiés aux acteurs de l’ESS",
+              "Pourcentage des matériels remis en état restés au sein de l’entreprise après réparation"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-remettant-en-etat/"
+        },
+        {
+          "id": "i.2",
+          "titre": "Réemployer en donnant les équipements fonctionnels",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "Nombre d’équipements donnés",
+              "Poids des DEEE évités : poids des équipements donnés",
+              "% des DEEE évités par les dons par rapport au poids total des DEEE générés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-donnant/"
+        },
+        {
+          "id": "i.3",
+          "titre": "Réemployer en vendant les équipements fonctionnels",
+          "priorite": "Aller plus loin",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Délégué au numérique responsable"
+          ],
+          "indicateurs": [
+            
+              "Poids des DEEE évités : poids des équipements fonctionnels vendus",
+              "% des DEEE évités par les ventes aux tiers par rapport au poids total des DEEE générés"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-vendant/"
+        },
+        {
+          "id": "i.4",
+          "titre": "Faire appel à un éco-organisme pour la gestion des DEEE",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction logistique"
+          ],
+          "indicateurs": [
+            
+              "Poids des DEEE confiés aux éco-organismes",
+              "% des DEEE confiés aux éco-organismes par rapport au poids total des DEEE générés",
+              "Poids des matières recyclées à l’issue des opérations gérées par les éco-organisme",
+              "Poids des DEEE valorisés en énergie ou en substitution"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/eco-organisme-pour-gestion-deee/"
+        },
+        {
+          "id": "i.5",
+          "titre": "Faire appel au producteur organisé en système individuel agréé pour la collecte des DEEE",
+          "priorite": "Recommandée",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction des achats",
+              "Direction logistique"
+          ],
+          "indicateurs": [
+            
+              "Poids des DEEE confiés aux producteurs organisés en système individuel",
+              "% des DEEE confiés aux producteurs organisés en système individuel par rapport au poids total des DEEE générés",
+              "Poids des matières recyclées à l’issue des opérations gérées par les producteurs organisés en système individuel",
+              "Poids des DEEE valorisés en énergie ou en substitution à l’issue des opérations gérées par les producteurs organisés en système individuel"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/appel-producteur-systeme-individuel/"
+        },
+        {
+          "id": "i.6",
+          "titre": "Vérifier le professionnalisme des entreprises de collecte des DEEE",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction logistique"
+          ],
+          "indicateurs": [
+            
+              "Poids des DEEE confiés à des opérateurs de traitement ou gestionnaires de déchets",
+              "% des DEEE confiés à des opérateurs de traitement ou gestionnaires de déchets par rapport au poids total des DEEE générés",
+              "Poids des matières recyclées à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets",
+              "Poids des DEEE valorisés en énergie ou en substitution à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/verifier-professionnalisme-entreprises-collecte-deee/"
+        },
+        {
+          "id": "i.7",
+          "titre": "Trier et collecter séparément les consommables",
+          "priorite": "Prioritaire",
+          "difficulte": "Facile",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction logistique"
+          ],
+          "indicateurs": [
+            
+              "Poids des consommables (par type de déchet) collectés séparément",
+              "% du poids des consommables collectés séparément sur l’ensemble des déchets générés",
+              "% du poids du papier collecté par rapport au poids du papier acheté"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/trier-collecter-consommables/"
+        },
+        {
+          "id": "i.8",
+          "titre": "Tenir un registre des déchets",
+          "priorite": "Prioritaire",
+          "difficulte": "Moyenne",
+          "pilotes": [
+            
+              "Direction du numérique",
+              "Direction logistique"
+          ],
+          "indicateurs": [
+            
+              "Maintien d’un registre des déchets d’équipements électriques et électroniques et des consommables : oui / non"
+          ],
+          "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/tenir-registre-dechets/"
+        }
+      ]
+    }
+  ]
+}
