@@ -8,8 +8,8 @@ layout: layouts/bonne-pratique/default.njk
             <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/#{{ eleventyNavigation.parent }}">{{ thematique.data.title }}</a>
         {% endif %}
     {% endfor %}
-    <a class="fr-tag fr-mb-1w" href="#"><strong>Priorité</strong> : {{ priority }}</a>
-    <a class="fr-tag fr-mb-1w" href="#"><strong>Difficulté de mise en œuvre</strong> : {{ difficulty }}</a>
+    <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?priority={{ priority | safe }}"><strong>Priorité</strong> : {{ priority | safe }}</a>
+    <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?difficulty={{ difficulty | safe }}"><strong>Difficulté de mise en œuvre</strong> : {{ difficulty }}</a>
 </p>
 
 {{ content | safe }}
@@ -17,7 +17,7 @@ layout: layouts/bonne-pratique/default.njk
     <h2>Pilotage</h2>
     <h3>{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h3>
     {% for item in who %}
-        <a class="fr-tag fr-mb-1w" href="#">{{ item }}</a>
+        <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?who={{ item | safe }}">{{ item }}</a>
     {% endfor %}
 
     {% if indicators.length %}
