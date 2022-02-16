@@ -31,7 +31,24 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
 
 Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique.. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués.. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les décideurs informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
 
-Enfin, dans une démarche qui se veut itérative, ce guide est publié en version beta. La version 1 du guide sera complétée et publiée après une consultation publique.
+<div class="fr-callout">
+<h2 class="fr-callout__title">Consulter le guide</h2>
+<p class="fr-callout__text">Dans une démarche qui se veut itérative, ce guide est publié en version bêta. La version 1 du guide sera complétée et publiée après une consultation publique.
+<a href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>.
+<a href="/publications/bonnes-pratiques/synthese/">En synthèse</a>.
+</p>
+<a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Voir les exemples de bonnes pratiques</a>
+</div>
+
+## Télécharger
+
+<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+
+## Contribuer
+
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
+
+## Équipe projet
 
 **Conception et rédaction** : MiNumEco, mission interministérielle numérique écoresponsable, Direction interministérielle du numérique (DINUM), Ministère de la Transition écologique, Institut du Numérique Responsable (INR)
 
@@ -48,21 +65,3 @@ Enfin, dans une démarche qui se veut itérative, ce guide est publié en versio
 **Version actuelle** : version Bêta
 
 Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
-
-## Télécharger
-
-<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a> 
-
-## Contribuer
-
-<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
-
-## Consulter le guide
-
-<nav>
-<ul>
-<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/introduction/">À propos</a></li>
-<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/synthese/">Synthèse</a></li>
-<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les exemples de bonnes pratiques</a></li>
-</ul>
-</nav>
