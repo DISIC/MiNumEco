@@ -16,7 +16,7 @@ eleventyNavigation:
   order: 30
 ---
 
-Les labels de type I sont des labels décernés par un tiers indépendant alors que les labels de type II sont des auto-labellisations déclarées par les producteurs ou par es distributeurs des produits, sans vérification par un tiers. Il faut donc privilégier les labels de type I.
+Les labels de type I sont des labels décernés par un tiers indépendant alors que les labels de type II sont des auto-labellisations déclarées par les producteurs ou par les distributeurs des produits, sans vérification par un tiers. Il faut donc privilégier les labels de type I.
 
 Un écolabel est un label écologique de type I attribué par un organisme indépendant (certificateur) à un produit ou service susceptible de réduire certains impacts négatifs sur l'environnement par comparaison avec d'autres produits ou services de la même catégorie.
 

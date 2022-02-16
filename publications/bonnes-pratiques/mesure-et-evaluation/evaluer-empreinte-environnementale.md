@@ -15,7 +15,7 @@ eleventyNavigation:
 
 Afin d'identifier les principaux gisements de réduction des impacts environnementaux, chaque organisation est encouragée à évaluer régulièrement les impacts environnementaux de son système d'information (SI) et de ses services numériques. Cette stratégie de mesure est principalement basée sur l’analyse du cycle de vie (ACV), une méthode d’évaluation des impacts itérative, multi-étape et multicritère. 
 
-Il est donc important de mesurer les impacts à toutes les phases du cycle de vie, et pas uniquement la phase d'usage. Le suivi seul de la consommation d'électricité en phase d'usage n’est par exemple pas suffisant à évaluer les impacts puisque pour de nombreux équipements numériques, la phase de fabrication est la plus impactante.
+Il est donc important de mesurer les impacts à toutes les phases du cycle de vie, et pas uniquement la phase d'usage. Le suivi seul de la consommation d'électricité en phase d'usage n’est par exemple pas suffisant pour évaluer les impacts puisque pour de nombreux équipements numériques, la phase de fabrication est la plus impactante.
 
 Il est important également d'évaluer plusieurs critères afin d'éviter les transferts de pollution. Parmi les flux entrants, il faut évaluer par exemple, les flux de matière et d’énergie. C’est-à-dire les ressources en métaux, les consommations d'eau, source d'énergie primaire (pétrole, gaz, uranium). Quant aux flux sortants, il faut évaluer les déchets, émissions gazeuses, liquides rejetés, etc.
 
@@ -28,4 +28,4 @@ Pour les émissions de gaz à effet de serre, cette évaluation doit porter sur 
 
 EcoInfo propose l’outil [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) pour évaluer les impacts liés à la fabrication et au transport d’un parc d’équipements informatiques. Cet outil s’appuie sur les fiches PCF (Product Carbon Footprint) fournies par les constructeurs.
 
-L'INR propose un [outil d'évaluation de l'empreinte d'un SI](https://institutnr.org/wenr-2021). D'autres outils permettent une évaluation brique par brique, comme la [base Impacts de l'ADEME](http://www.base-impacts.ademe.fr/) (en monocritère GES). Des outils open source comme OpenLCA sont également disponibles pour réaliser des ACV si vous avez les compétences.
+L'INR propose un [outil d'évaluation de l'empreinte d'un SI](https://institutnr.org/wenr-2021). D'autres outils permettent une évaluation brique par brique, comme la [base Impacts de l'ADEME](http://www.base-impacts.ademe.fr/) (en monocritère GES). Des outils open source comme [OpenLCA](https://www.openlca.org/) sont également disponibles pour réaliser des ACV si vous avez les compétences.

@@ -123,4 +123,4 @@ Cette résolution s’inscrit dans le cadre du Pacte Vert pour l’Europe et dan
 * Règlement REACH n°1907/2006 pour la protection de la santé humaine et de l’environnement contre les risques liés aux substances chimiques,
 * Directive ErP 2009/125/CE concernant les exigences en matière d’écoconception applicables aux produits liés à l’énergie, qui remplace la directive EuP 2005/32/CE
 
-A noter l’importance de l’échelon qui a plus de poids face aux fabricants et éditeurs du numérique. 
+A noter l’importance de l’échelon européen qui a plus de poids face aux fabricants et éditeurs du numérique. 

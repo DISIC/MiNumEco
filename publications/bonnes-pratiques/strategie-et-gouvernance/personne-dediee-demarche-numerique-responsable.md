@@ -17,7 +17,7 @@ eleventyNavigation:
   order: 10
 ---
 
-Recruter, nommer ou affecter une personne dédiée à la mise en place et à la coordination des actions pour un numérique plus responsable au sein de l’organisation. Cette personne ne devra pas seulement travailler avec la direction du numérique mais aussi de façon transverse dans l’organisation.
+Recruter, nommer ou affecter une personne dédiée à la mise en place et à la coordination des actions pour un numérique plus responsable au sein de l’organisation. Cette personne devra non seulement travailler avec la direction du numérique mais aussi de façon transverse dans l’organisation.
 
 Elle doit construire en concertation avec les différents métiers et les différents services, la stratégie et le plan d’action « numérique responsable » en tenant compte des impacts environnementaux, sociaux et économiques.
 
@@ -31,7 +31,7 @@ Un ensemble de compétences est requis pour ce poste :
 
 * Compréhension des enjeux environnementaux globaux.
 * Compréhension des impacts sociaux-environnementaux du numérique
-* Maîtrise du cycle de vie d'un appareil; éventuellement savoir mettre en place une Analyse Cycle de Vie (ACV) simplifiée
+* Maîtrise du cycle de vie d'un appareil; éventuellement savoir mettre en place une Analyse du Cycle de Vie (ACV) simplifiée
 * Connaissance de l’écoconception d’un outil, produit ou service numérique.
 * Compréhension du cycle de vie d'un service numérique
 * Identification des mauvaises pratiques d'un service numérique (site web, logiciel, etc).

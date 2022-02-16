@@ -23,9 +23,9 @@ On peut ainsi solliciter des expertises sur l’écoconception, mais aussi sur l
 
 Comme bonne pratique, on peut fixer une ambition budgétaire triennale en mixant les actions gratuites grâce aux communs numériques (MOOC, campagnes, documentations, grilles d’analyse) et celles payantes. Sur trois années, la montée en charge est plus flagrante et les impacts attendus plus massifs.
 
-Autre bonne pratique, c’est de réserver et de flécher un budget spécifique, piloté par le référent Numérique Responsable, au sein du budget RSE ou RSO de votre organisation.
+Une autre bonne pratique est de réserver et de flécher un budget spécifique, piloté par le référent Numérique Responsable, au sein du budget RSE ou RSO de votre organisation.
 
-De manière similaire à l’accessibilité, une démarche numérique plus responsable améliore la stabilité et la sécurité de votre système d’information et donc à très court terme est générateur d’économies.
+De manière similaire à l’accessibilité, une démarche numérique plus responsable améliore la stabilité et la sécurité du système d’information et donc à très court terme est générateur d’économies.
 
 
 
