@@ -12,8 +12,8 @@ eleventyNavigation:
 {% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
 
 <p>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Télécharger en PDF</a>
-    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/referentiel-bonnes-pratiques-numerique-responsable-export.csv">Exporter en CSV</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="{{ metadata.guideBonnesPratiques.documentUrl }}">Télécharger en PDF ({{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+    <a class="fr-link fr-fi-download-line fr-link--icon-left" href="/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.csv">Exporter en CSV</a>
     <a class="fr-link fr-fi-download-line fr-link--icon-left" href="#">Flux JSON</a>
 </p>
 

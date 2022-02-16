@@ -25,7 +25,7 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
   </div>
   <div class="fr-col-12 fr-col-md-5">
-    <a target="_self" href="#" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf X Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="#" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf X Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a> 
 
 ## Contribuer
 

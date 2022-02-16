@@ -1,0 +1,7 @@
+---
+permalink: /publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.csv
+eleventyExcludeFromCollections: true
+---
+"Id";"Titre";"Thématique";"Priorité";"Difficulté";"Exemples pilotes";"Exemples indicateurs";"Url";
+{% for thematique in collections.all | eleventyNavigationExtended("guideBpNr") %}{% set items = thematique.children %}{% for item in items %}"{{ item.data.idbp }}";"{{ item.data.title }}";"{{ thematique.data.title }}";"{{ item.data.priority }}";"{{ item.data.difficulty }}";"{{ item.data.who }}";"{{ item.data.indicators }}";"{{ item.url | url | absoluteUrl(metadata.url) }}";
+{% endfor %}{% endfor %}
