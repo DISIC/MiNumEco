@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique/default.njk
-title: À propos du guide des bonnes pratiques numérique responsable pour les organisations
+title: À propos du Guide de bonnes pratiques numérique responsable pour les organisations
 date: 2022-02-17
 image: /img/guide-achats/guide-achats-numerique-responsable.png
 ---

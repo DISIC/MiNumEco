@@ -25,7 +25,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 * [Feuille de route numérique et environnement](https://www.ecologie.gouv.fr/feuille-route-numerique-et-environnement), Ministère de la Transition écologique.
 * [Formation Appliquez les principes du Green IT dans votre entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise), OpenClassrooms. 
 * [Grafana](https://grafana.com/)
-* [Guide des bonnes pratiques du Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/), EcoInfo.
+* [Guide de bonnes pratiques du Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/), EcoInfo.
 * [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)
 * [Guide de cartographie de système d’information](https://www.ssi.gouv.fr/uploads/2018/11/guide-cartographie-systeme-information-anssi-pa-046.pdf). ANSSI.
 * [Guide pratique « La face cachée du numérique »](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf), ADEME.

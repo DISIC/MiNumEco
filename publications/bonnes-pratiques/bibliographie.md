@@ -5,7 +5,7 @@ date: 2022-02-17
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 ---
 
-Cette bibliographie est constituée de ressources imprimées et numériques qui complètent l’ensemble des informations proposées dans le guide des bonnes pratiques numérique responsable.
+Cette bibliographie est constituée de ressources imprimées et numériques qui complètent l’ensemble des informations proposées dans le Guide de bonnes pratiques numérique responsable.
 
 <div class="fr-grid-row">
 <div class="fr-col-12 fr-col-md-8">

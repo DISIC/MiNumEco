@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique/default.njk
-title: Guide des bonnes pratiques numérique responsable pour les organisations
+title: Guide de bonnes pratiques numérique responsable pour les organisations
 date: 2022-02-17
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
 type: publication
@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: guideBpNrAccueil
   parent: publications
-  title: Guide des bonnes pratiques numérique responsable
+  title: Guide de bonnes pratiques numérique responsable
   date: 2022-02-17
   image: /img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png
   order: 100
@@ -25,7 +25,7 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
 
   </div>
   <div class="fr-col-12 fr-col-md-5">
-    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="{{ image }}" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 
@@ -42,7 +42,7 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
 
 ## Contribuer
 
