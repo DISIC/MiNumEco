@@ -16,7 +16,7 @@ eleventyNavigation:
   order: 30
 ---
 
-L'écoconception des services numériques n'est pas uniquement une recherche d’optimisation, d’efficience ou de performance mais une réflexion plus globale sur l'usage des technologies. Il est important d’intégrer les impacts environnementaux du numérique dans la conception des services numériques, en visant directement ou indirectement à allonger la durée des vies des équipements numériques, à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données.
+L'écoconception des services numériques n'est pas uniquement une recherche d’optimisation, d’efficience ou de performance mais une réflexion plus globale sur l'usage des technologies. Il est important d’intégrer les impacts environnementaux du numérique dans la conception des services numériques, en visant directement ou indirectement à allonger la durée de vie des équipements numériques, à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données.
 
 Avant même la mise en application d’un référentiel d’écoconception ou de bonnes pratiques, il est indispensable de se poser la question de la raison d’être du service numérique et de sa pertinence pour répondre à un besoin. L’existence de ce service numérique est-elle nécessaire ? Aurait-on pu faire autrement que développer une solution numérique ? Après mesures comparatives, une alternative non numérique du service est-elle envisageable et préférable ?
 

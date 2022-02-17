@@ -17,11 +17,11 @@ eleventyNavigation:
 ---
 
 Les prestataires d'hébergement et de centres de données peuvent avoir des caractéristiques très variées telles que :
-* la localisation géographique : cette localisation va avoir une influence sur l’empreinte environnementale notamment via le mix électrique, ainsi qu’en terme de transfert des données ;
-* l'activité : interne à une organisation, hébergement en colocation, services de _cloud computing_, calcul intensif...
-* le taux de disponibilité : cette caractéristique détermine le niveau de redondance des équipements de l’infrastructure mise en place ;
-* la superficie (en m²) ;
-* et la densité électrique (kW/baie, kVA/baie).
+* **la localisation géographique** : cette localisation va avoir une influence sur l’empreinte environnementale notamment via le mix électrique, ainsi qu’en terme de transfert des données ;
+* **l'activité** : interne à une organisation, hébergement en colocation, services de _cloud computing_, calcul intensif...
+* **le taux de disponibilité** : cette caractéristique détermine le niveau de redondance des équipements de l’infrastructure mise en place ;
+* **la superficie** (en m²) ;
+* et **la densité électrique** (kW/baie, kVA/baie).
 
 Des critères environnementaux peuvent être pris en compte lors du choix d’un prestataire d’hébergement :
 * Adhésion au Code de conduite européen pour les datacentres ? oui / non

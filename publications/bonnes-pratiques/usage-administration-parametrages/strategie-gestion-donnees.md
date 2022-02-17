@@ -27,4 +27,11 @@ Une stratégie d'archivage pérenne peut être mise en place afin de limiter le 
 
 ## En savoir plus
 
-Le principe [FAIR](https://fr.wikipedia.org/wiki/Fair_data) recouvre des principes de gestion des données de façon à ce qu’elles soient «**F**acile à trouver, **A**ccessible, **I**nteropérable et **R**éutilisable ». Suivre cette méthode permet de réduire l'impact par la mise en place d'une meilleure interopérabilité et réutilisation des données.
+Le principe [FAIR](https://fr.wikipedia.org/wiki/Fair_data) recouvre des principes de gestion des données de façon à ce qu’elles soient
+
+* **F**acile à trouver,
+* **A**ccessible,
+* **I**nteropérable,
+* **R**éutilisable.
+
+Suivre cette méthode permet de réduire l'impact par la mise en place d'une meilleure interopérabilité et réutilisation des données.

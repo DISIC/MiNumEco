@@ -17,7 +17,7 @@ eleventyNavigation:
   order: 90
 ---
 
-Les services numériques sont très souvent alimentés par des contenus multimédia (texte, images, vidéos, documents à télécharger) soumis par des contributeurs. Même si son interface a été « éco-conçue », le service numérique peut être alourdi par les contenus présentés. Il faut donc mieux maîtriser les intrants. Cela passe par la sensibilisation des contributeurs mais aussi par la mise en place de tâches automatiques qui vont aider ces contributeurs.
+Les services numériques sont très souvent alimentés par des contenus multimédia (texte, images, vidéos, documents à télécharger) soumis par des contributeurs. Même si son interface a été « éco-conçue », le service numérique peut être alourdi par les contenus présentés. Il vaut donc mieux maîtriser les intrants. Cela passe par la sensibilisation des contributeurs mais aussi par la mise en place de tâches automatiques qui vont aider ces contributeurs.
 
 Pour les images, les questions que le contributeur doit se poser par exemple : la taille suffisante pour être lisible et le bon format d’image : jpg pour une photographie, png pour les illustrations, graphiques… et tout ce qui n’est pas une photographie.
 

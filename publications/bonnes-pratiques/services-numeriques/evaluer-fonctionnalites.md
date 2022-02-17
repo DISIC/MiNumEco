@@ -16,7 +16,7 @@ eleventyNavigation:
   order: 10
 ---
 
-L’écoconception d’un service numérique ne doit pas être la responsabilité seule des développeuses et développeurs. Il ne s’agit pas simplement « d’optimiser du code » mais de réfléchir en profondeur à la réponse technique à un besoin utilisateur. Les enjeux de l’écoconception se jouent en amont du développement de la fonctionnalité.
+L’écoconception d’un service numérique ne doit pas être la seule responsabilité des développeuses et développeurs. Il ne s’agit pas simplement « d’optimiser du code » mais de réfléchir en profondeur à la réponse technique à un besoin utilisateur. Les enjeux de l’écoconception se jouent en amont du développement de la fonctionnalité.
 
 D’abord, il faut définir l’unité fonctionnelle sur laquelle va porter la réflexion (par exemple « réserver une salle de réunion », « partager un document à mes collègues »). Quels sont les métiers concernés pour mener à bien cette fonctionnalité ? Les commerciaux, les chefs de projet, les designers, les développeurs, les devops…
 

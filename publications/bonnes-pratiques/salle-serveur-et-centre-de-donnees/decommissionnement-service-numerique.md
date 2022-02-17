@@ -19,6 +19,6 @@ L’arrêt et le décommisionnement des matériels et des services numériques s
 
 Sans compter les coûts éventuels de licences et de maintenance, ce sont des services numériques et des équipements encore en activité, et donc, qui consomment de l’électricité pour leur fonctionnement et leur refroidissement.
 
-Une stratégie ou un plan d’action doit être défini avec les différents acteurs concernés (développeurs(ses), devops, hébergeur…) et mis en place, avec des jalons, des alertes tout au long de la vie du projet.
+Une stratégie ou un plan d’action doit être défini avec les différents acteurs concernés (développeurs(ses), devops, hébergeur…) et mis en place, avec des jalons, des alertes tout au long de la vie du service numérique.
 
 Cette démarche permet de gagner de l'espace dans les baies, de réduire les risques de sécurité et les coûts de licences, de simplifier le système d'information et de réemployer les serveurs décommissionnés.

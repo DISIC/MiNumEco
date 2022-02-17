@@ -20,4 +20,4 @@ Les exploitants des établissements qui produisent ou expédient des déchets do
 
 Ce document est obligatoire pour toute organisation. Il permet d'assurer de manière chronologique la traçabilité des déchets sortant de l'entreprise. Il doit être conservé 3 ans minimum et peut être sous format numérique ou papier. [Voici un exemple de registre de déchets](http://www.ademe.fr/sites/default/files/assets/documents/gisement_dechet.xlsx).
 
-Chaque type de déchets doit être classé suivant une nomenclature définie par la réglementation. [Voir la nomenclature des déchets qui définit la codification devant apparaître sur tous les documents](http://www.ademe.fr/sites/default/files/assets/documents/nomenclature_dechets.pdf).
+Chaque type de déchet doit être classé suivant une nomenclature définie par la réglementation. [Voir la nomenclature des déchets qui définit la codification devant apparaître sur tous les documents](http://www.ademe.fr/sites/default/files/assets/documents/nomenclature_dechets.pdf).

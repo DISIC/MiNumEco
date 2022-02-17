@@ -24,7 +24,7 @@ eleventyNavigation:
   order: 10
 ---
 
-La gestion des équipements informatiques est une étape importante dans une démarche numérique responsable. En effet, dans l’ensemble du cycle de vie d’un matériel informatique, la phase de la fabrication est celle qui a le plus d’impact environnemental pour environ [80%](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/). Il est donc important de réduire au maximum la nécessité de renouvellement des matériels. Une gestion rigoureuse du parc informatique permettra d’atteindre cet objectif.
+La gestion des équipements informatiques est une étape importante dans une démarche numérique responsable. En effet, dans l’ensemble du cycle de vie d’un matériel informatique, la phase de fabrication est celle qui a le plus d’impact environnemental pour environ [80%](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/). Il est donc important de réduire au maximum la nécessité de renouvellement des matériels. Une gestion rigoureuse du parc informatique permettra d’atteindre cet objectif.
 
 ` `On peut citer les bonnes pratiques suivantes :
 * Identifier le matériel avec des étiquettes sécurisées comportant au minimum un code unique d’identification, le nom de l’organisation et le numéro de téléphone du support, permet de :

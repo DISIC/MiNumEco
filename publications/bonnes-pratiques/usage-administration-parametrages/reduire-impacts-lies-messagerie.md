@@ -31,4 +31,3 @@ Principalement, les objectifs sont :
 * avoir une signature sobre, limiter les signatures à du texte brut ;
 * diminuer le temps de conservation des messages ;
 * stocker les fichiers, avec une date limite de validité, dans des espaces partagés (avec un nom unique pour éviter les doublons) et envoyer un lien vers le fichier plutôt qu'une pièce jointe.
-
