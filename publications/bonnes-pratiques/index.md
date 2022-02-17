@@ -7,11 +7,7 @@ type: publication
 eleventyNavigation:
   key: guideBpNrAccueil
   parent: publications
-<<<<<<< HEAD
-  title: Guide de bonnes pratiques numérique responsable
-=======
-  title: Guide des bonnes pratiques numérique responsable pour les organisations
->>>>>>> 6a05433 (Publication du guide)
+  title: Guide de bonnes pratiques numérique responsable pour les organisations
   date: 2022-02-17
   image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
   order: 100
@@ -28,23 +24,31 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
 
   </div>
   <div class="fr-col-12 fr-col-md-5">
-    <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+{% if metadata.guideBonnesPratiques.documentUrl %}
+<a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+{% else %}
+<img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc">
+{% endif %}
   </div>
 </div>
 
 Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les directions informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
 
 <div class="fr-callout">
-<h2 class="fr-callout__title">Consulter le guide</h2>
+<h2 class="fr-callout__title">Consulter</h2>
 <p class="fr-callout__text">Le guide est disponible en ligne, fichier .pdf, export csv et flux json.
-</p>
 <a class="fr-btn" href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>
 <a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les bonnes pratiques</a>
+</p>
 </div>
 
 ## Télécharger
 
+{% if metadata.guideBonnesPratiques.documentUrl %}
 <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+{% else %}
+Version pdf à venir sous peu.
+{% endif %}
 
 ## Contribuer
 
