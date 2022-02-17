@@ -24,8 +24,7 @@ Ce guide répond à un besoin des organisations d’avoir un outil pour les acco
 
 <div class="fr-highlight">
 
-**Webinaire le jeudi 17 février de 17h à 18h**
-**Lien** : [accéder au webinaire le jour J](https://webinaire.numerique.gouv.fr//meeting/signin/4981/creator/10/hash/b06536b48485ccc40f915b34a57e444ce2e41ee8)
-Pas d'inscription préalable, dans la limite de 250 personnes connectées.
+**Le jeudi 17 février de 17h à 18h**
+**Webinaire** : [enregistrement et support de présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317)
 
 </div>

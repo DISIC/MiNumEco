@@ -14,7 +14,7 @@ eleventyNavigation:
   order: 70
 ---
 
-Les impacts environnementaux liés à l’impression et les moyens de les réduire sont maintenant largement intégrées au sein des organisations. On peut citer ces quelques bonnes pratiques :
+Les impacts environnementaux liés à l’impression et les moyens de les réduire sont maintenant largement intégrés au sein des organisations. On peut citer ces quelques bonnes pratiques :
 
 * Remplacer le parc d’imprimantes en fin de vie par des équipements multifonctions installés en réseau avec système d’identification
 * Privilégier des prestataires qui proposent des copieurs reconditionnés

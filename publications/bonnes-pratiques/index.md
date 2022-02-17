@@ -56,7 +56,11 @@ Version pdf à venir sous peu.
 
 Dans une démarche qui se veut itérative, ce guide est publié en version bêta et en licence ouverte. La version 1 du guide sera complétée et publiée après une consultation publique.
 
-<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}" target="_blank">Participer à la consultation publique</a>
+
+## Webinaire
+
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317" target="_blank">Voir l'enregistrement et le support de présentation</a>.
 
 ## Équipe projet
 
