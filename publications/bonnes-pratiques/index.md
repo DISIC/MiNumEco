@@ -47,7 +47,9 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 {% if metadata.guideBonnesPratiques.documentUrl %}
 <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
 {% else %}
+<div class="fr-highlight">
 Version pdf à venir sous peu.
+</div>
 {% endif %}
 
 ## Contribuer
