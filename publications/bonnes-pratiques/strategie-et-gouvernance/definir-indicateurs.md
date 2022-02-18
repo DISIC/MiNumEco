@@ -1,21 +1,15 @@
 ---
 layout: layouts/bonne-pratique/bonne-pratique.njk
-title: Définir des indicateurs Numérique Responsable 
+title: Mettre en place et suivre des indicateurs de pilotage
 type: bpnr
-date: 2022-02-17
+date: 2022-02-18
 idbp: a.3
 priority: Prioritaire
 difficulty: Moyenne 
 who:
   - Délégué au numérique responsable
 indicators:
-  - "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non"
-  - "Place dans l'organigramme de cette personne"
-  - "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC sur les impacts environnementaux du numérique et les moyens d’agir"
-  - "% montant achat ordinateurs portables avec prise en compte du seuil de l’indice de réparabilité / nombre total"
-  - "PUE et WUE moyens mesurés pour les centres de données"
-  - "Durée de vie moyenne et évolution du montant d’achat par type de matériel"
-  - "L'empreinte environnementale (tonne équivalent CO2 / an / utilisateur)"
+  - "Suivi d’indicateurs de pilotage : oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 30
@@ -32,7 +26,3 @@ Pour faciliter l’appropriation des indicateurs, dans chacune des fiches du gui
 Le tableau de bord est un outil indispensable d’aide à la décision qui regroupe des données factuelles. Ces indicateurs peuvent être issus de différentes sources de données, en temps réel ou en différé et se présenter sous différentes formes : tableur, page web, application, etc. Le tableau de bord peut être très basique ou plus évolué pour, par exemple, avoir un historique et une tendance de chaque indicateur ou bien pour définir des alertes lorsqu’un seuil prédéfini est franchi.
 
 Tout ou partie de ce tableau de bord peut être rendu public au sein de l’organisation afin de mettre en avant les comportements vertueux et de sensibiliser sur la démarche.
-
-## Indicateurs de pilotage
-
-*	Suivi d’indicateurs de pilotage : oui / non

@@ -36,7 +36,8 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 <div class="fr-callout">
 <h2 class="fr-callout__title">Consulter</h2>
-<p class="fr-callout__text">Le guide est disponible en ligne, fichier .pdf, export csv et flux json.
+<p class="fr-callout__text">Le guide est disponible en ligne, fichier .pdf, export csv et flux json.</p>
+<p class="fr-callout__text">
 <a class="fr-btn" href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>
 <a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les bonnes pratiques</a>
 </p>

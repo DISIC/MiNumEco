@@ -25,6 +25,8 @@ Ce guide répond à un besoin des organisations d’avoir un outil pour les acco
 <div class="fr-highlight">
 
 **Le jeudi 17 février de 17h à 18h**
-**Webinaire** : [enregistrement et support de présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317)
+**Webinaire** : [Voir l'enregistrement et le support de présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317)
+
+<a class="fr-btn" href="/publications/bonnes-pratiques/">Consulter le Guide des bonnes pratiques numérique responsable</a>
 
 </div>
