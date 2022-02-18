@@ -25,7 +25,7 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
   </div>
   <div class="fr-col-12 fr-col-md-5">
 {% if metadata.guideBonnesPratiques.documentUrl %}
-<a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide des bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+<a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'guide-bonnes-pratiques-numerique-responsable.pdf', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
 {% else %}
 <img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc">
 {% endif %}
