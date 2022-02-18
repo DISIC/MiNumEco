@@ -50,7 +50,7 @@
         },
         {
           "id": "a.3",
-          "titre": "Définir des indicateurs Numérique Responsable",
+          "titre": "Mettre en place et suivre des indicateurs de pilotage",
           "priorite": "Prioritaire",
           "difficulte": "Moyenne",
           "pilotes": [
@@ -59,13 +59,7 @@
           ],
           "indicateurs": [
             
-              "Présence dans l'organisation d'une personne responsable ou référente numérique responsable : oui / non",
-              "Place dans l'organigramme de cette personne",
-              "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC sur les impacts environnementaux du numérique et les moyens d’agir",
-              "% montant achat ordinateurs portables avec prise en compte du seuil de l’indice de réparabilité / nombre total",
-              "PUE et WUE moyens mesurés pour les centres de données",
-              "Durée de vie moyenne et évolution du montant d’achat par type de matériel",
-              "L'empreinte environnementale (tonne équivalent CO2 / an / utilisateur)"
+              "Suivi d’indicateurs de pilotage : oui / non"
           ],
           "url": "https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/strategie-et-gouvernance/definir-indicateurs/"
         },
