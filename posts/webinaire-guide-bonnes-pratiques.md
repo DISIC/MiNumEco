@@ -1,7 +1,7 @@
 ---
-title: Webinaire de lancement du Guide des bonnes pratiques numérique responsable
+title: Webinaire de lancement du Guide de bonnes pratiques numérique responsable
 type: news
-date: 2022-02-11
+date: 2022-02-18
 image: /img/posts/webinaire-guide-bonnes-pratiques.png
 layout: layouts/post.njk
 ---
@@ -12,7 +12,7 @@ La mission interministérielle numérique écoresponsable, vous invite à partic
 
 Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.
 
-**Personnes intervenantes :**
+Personnes intervenantes :
 
 * **Virginie Rozière** - Cheffe du pôle conseil et responsable des missions MiNumEco et ressources
 * **Viviane Valla** - ministère de la Transition écologique / Commissariat Général au Développement Durable
@@ -22,11 +22,8 @@ Ce guide répond à un besoin des organisations d’avoir un outil pour les acco
 * **Olivier Joviado** - copilote de la MiNumEco et **Richard Hanna** - chargé de projet MiNumEco, DINUM
 * Suivi des réponses à vos questions
 
-<div class="fr-highlight">
+Le webinaire a eu lieu le jeudi 17 février à 17h
 
-**Le jeudi 17 février de 17h à 18h**
-**Webinaire** : [Voir l'enregistrement et le support de présentation](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317)
+<a class="fr-btn" href="/publications/bonnes-pratiques/">Consulter le Guide de bonnes pratiques numérique responsable</a>
 
-<a class="fr-btn" href="/publications/bonnes-pratiques/">Consulter le Guide des bonnes pratiques numérique responsable</a>
-
-</div>
+<a class="fr-btn fr-btn--secondary" href="https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/5943c51cd99e192ecf7c9c6ce2562d5e4b33348b-1645112719317" target="_blank" title="Nouvelle fenêtre : Voir l'enregistrement et le support de présentation">Voir l'enregistrement et le support de présentation</a>
