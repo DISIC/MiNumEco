@@ -1,6 +1,8 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: Retours d'expérience
+image: /img/referentiel-ecoconception.png
+date: 2021-11-15
 ---
 
 Voici quelques exemples de mise en œuvre du Référentiel général d'écoconception de service numérique.

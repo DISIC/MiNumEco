@@ -1,6 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: Journal des modifications
+image: /img/referentiel-ecoconception.png
 date: 2021-10-19
 ---
 

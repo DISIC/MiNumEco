@@ -27,14 +27,13 @@ layout: layouts/base.njk
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
 
     <div class="fr-col-12 fr-col-md-8">
+        {% if date %}
+            <p class="fr-text--sm">Dernière mis à jour de cette page le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+        {% endif %}
 
-        <p class="fr-py-2w">
-            {% if date %}
-                <time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time>
-            {% endif %}
-                
+        <p>
             <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ link }}">Voir le site</a>
-        
+
             {% if codeRepository %}
                 <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ codeRepository }}">Voir le code source</a>
             {% endif %}

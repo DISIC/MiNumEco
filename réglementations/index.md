@@ -103,6 +103,8 @@ Le texte, qui prolonge les actions de la [feuille de route gouvernementale numé
 * **Promouvoir des datacenters et des réseaux moins énergivores** : Le texte renforce les conditionnalités environnementales qui s’appliqueront, à compter de 2022, au tarif réduit de la taxe intérieure de consommation finale d’électricité (TICFE) applicable aux datacenters (art.28). Les opérateurs de communications électroniques devront quant à eux publier des indicateurs clés récapitulant leurs engagements en faveur de la transition écologique (art. 29). 
 * **Promouvoir une stratégie numérique responsable dans les territoires** : À partir de 2025, les communes et leurs intercommunalités de plus de 50 000 habitants devront élaborer une stratégie numérique responsable.
 
+Le décret n° 2022-190 du 17 février 2022 établi [les conditions d'utilisation des termes « reconditionné » et « produit reconditionné »](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045185223).
+
 <h3 id="autres-dispositions">Autres dispositions</h3>
 
 L’article 167 de la loi de finances pour 2021 (loi n° 2020-1721 du 29 décembre 2020) conditionne, à partir du 1er janvier 2022, **l’application du tarif réduit de la TICFE** (taxe intérieure sur la consommation finale d’électricité) introduite en 2019 **au bénéfice des centres de stockage de données à 3 engagements** : la mise en œuvre d’un système de management de l’énergie ; l’adhésion à un programme de mutualisation des bonnes pratiques de gestion énergétique ; la réalisation d’une analyse coûts-avantages afin d'évaluer l'opportunité de valoriser de la chaleur fatale notamment à travers un réseau de chaleur ou de froid. Cette disposition a depuis été renforcée par la loi REEN.

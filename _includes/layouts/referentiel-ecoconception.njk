@@ -33,8 +33,6 @@ layout: layouts/base.njk
     </div>
 </nav>
 
-<h1>{{ title }}</h1>
-
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     
     <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
@@ -66,10 +64,12 @@ layout: layouts/base.njk
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        {{ content | safe }}
-        
-        {%- if date %}
-            <p class="fr-py-2w"><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time></p>
+        <h1>{{ title }}</h1>
+
+        {% if title %}
+            <p class="fr-py-2w fr-text--sm">Version {{ metadata.referentielEcoconception.versionTitle }}. Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
         {% endif %}
+
+        {{ content | safe }}
     </div>
 </div>

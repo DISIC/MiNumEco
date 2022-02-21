@@ -9,7 +9,7 @@ layout: layouts/base.njk
     <h1>{{ title }}</h1>
 
     {%- if date %}
-      <p><time class="fr-tag" datetime="{{ date | htmlDateString }}">Mise à jour le {{ date | readableDate }}</time></p>
+      <p class="fr-text--sm">Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
     {% endif %}
 
     {{ content | safe }}

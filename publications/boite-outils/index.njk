@@ -18,15 +18,22 @@ eleventyNavigation:
 
 <h1>{{ title }}</h1>
 
-<p>Sélection non-exhaustive de logiciels libres et open source dédiés aux impacts environnementaux du numérique.</p>
+<p class="fr-text--sm">Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
 
-<div class="fr-highlight">
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-12 fr-col-md-8">
+    <p>Sélection non-exhaustive de logiciels libres et open source dédiés aux impacts environnementaux du numérique.</p>
 
-<p>Le référencement de ces outils, volontairement limité en quantité pour en faciliter l’appropriation, la classification et les descriptions ont été réalisés par la DINUM. Celle-ci n’engage pas sa responsabilité quant à la fiabilité des méthodologies utilisées, le code ou la qualité des outils.</p>
-<p>Un logiciel libre et open source manque dans cette liste ? Vous êtes une administration publique ou une collectivité, vous utilisez déjà certains de ces outils ? <a href="/contact">Nous contacter</a>.</p>
-Les autres catalogues disponibles : <a href="https://sill.etalab.gouv.fr/">Socle Interministériel de Logiciels Libres</a> et <a href="https://catalogue.numerique.gouv.fr/">Catalogue GouvTech</a>.
-</p>
-
+    <div class="fr-highlight">
+      <p>Le référencement de ces outils, volontairement limité en quantité pour en faciliter l’appropriation, la classification et les descriptions ont été réalisés par la DINUM. Celle-ci n’engage pas sa responsabilité quant à la fiabilité des méthodologies utilisées, le code ou la qualité des outils.</p>
+      <p>Un logiciel libre et open source manque dans cette liste ? Vous êtes une administration publique ou une collectivité, vous utilisez déjà certains de ces outils ? <a href="/contact">Nous contacter</a>.</p>
+      Les autres catalogues disponibles : <a href="https://sill.etalab.gouv.fr/">Socle Interministériel de Logiciels Libres</a> et <a href="https://catalogue.numerique.gouv.fr/">Catalogue GouvTech</a>.
+      </p>
+    </div>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="{{ image }}" alt="" />
+  </div>
 </div>
 
 <div class="fr-grid-row fr-grid-row--gutters">
