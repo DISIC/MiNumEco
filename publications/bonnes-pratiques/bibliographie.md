@@ -56,10 +56,6 @@ ADEME (Agence de la transition écologique)
 « Les impacts du smartphone : un téléphone pas si « smart » pour l’environnement ». Édition décembre 2019
 [Disponible en ligne sur](https://librairie.ademe.fr/cadic/1866/guide-pratique-impacts-smartphone.pdf?modal=false) (consulté le 27 janvier 2022)
 
-ADEME (Agence de la transition écologique)
-*La face cachée du numérique : réduire les impacts du numérique sur l’environnement*. Edition 2019*
-[Disponible en ligne sur](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false) (consulté le 1er férvier 2022)
-
 Flipo, Fabrice
 [La numérisation du monde : un désastre écologique](https://catalogue.bnf.fr/ark:/12148/cb468854777). Paris : L'échappée, 2021. 173 p.
 Impression : 14-Condé-sur-Noireau : Impr. Corlet

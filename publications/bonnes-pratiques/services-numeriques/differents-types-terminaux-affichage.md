@@ -18,7 +18,7 @@ eleventyNavigation:
 
 Une conception responsable de services numériques vise à réduire la contribution à l'obsolescence des terminaux utilisateurs mais aussi à toucher le maximum de public. Pour toucher le maximum de personnes, il faut tenir compte des équipements utilisés et du contexte d'usage : taille d'écran, puissance, connectivité, bande passante...
 
-Aujourd'hui, en France ou même dans le Monde, les internautes naviguent davantage sur des équipements mobiles et à petit écran (smartphone essentiellement) que sur des ordinateurs à grand écran.
+Aujourd'hui, en France ou même dans le monde, les internautes naviguent davantage sur des équipements mobiles et à petit écran (smartphone essentiellement) que sur des ordinateurs à grand écran.
 
 Même s’il y a davantage d’enjeux à concevoir des applications fonctionnant sur des équipements les plus anciens possibles, concevoir d'abord pour petit écran permet de les rendre disponibles pour tous types de terminaux d’affichage.
 

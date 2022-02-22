@@ -27,7 +27,7 @@ Quelques questions à se poser
 
 -	A-t-on besoin de numériser le service ?
 -	A-t-on identifié les attentes réelles des utilisateurs-cibles ?
-- Une stratégie de compatibilité avec les terminaux et versions logicielles obsolètes est-elle définie ? Dans la définition des personae, les versions cibles d’équipements, systèmes d’exploitation (OS) et navigateurs ont-ils été pris en compte ?
+- Une stratégie de compatibilité avec les terminaux et versions logicielles obsolètes est-elle définie ? Dans la définition des personae, les versions cibles d’équipements, systèmes d’exploitation (OS) et navigateurs ont-elles été prises en compte ?
 - S'assurer d'une compatibilité descendante et ascendante sur les équipements
 - Conception d'abord web ou technologies standard au lieu d’applications propriétaires (web app vs applications natives par exemple)
 - Limiter les dépendances externes (librairies / packages tiers)

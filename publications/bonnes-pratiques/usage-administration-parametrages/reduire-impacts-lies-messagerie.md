@@ -13,7 +13,8 @@ indicators:
   - "Nombre de courriels reçus par mois"
   - "Nombre de courriels envoyés par mois"
   - "Poids moyen des courriels"
-  - "Volume moyen utilisé de la boîte mail, dimensionnement maximal de la boîte mail"
+  - "Volume moyen utilisé de la boîte mail"
+  - "Dimensionnement maximal de la boîte mail"
 eleventyNavigation:
   parent: bonnes-pratiques-usage
   order: 60

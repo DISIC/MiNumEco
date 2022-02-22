@@ -9,7 +9,7 @@ difficulty: Difficile
 who:
   - Direction du numérique
 indicators:
-  - "% des centres de données de l'organisation se servant d’un refroidissement économe en énergie"
+  - "% des centres de données de l'organisation utilisant d’un refroidissement économe en énergie"
 eleventyNavigation:
   parent: bonnes-pratiques-salle-serveur-et-centre-de-donnees
   order: 50

@@ -23,7 +23,7 @@ Elle doit construire en concertation avec les différents métiers et les diffé
 
 Son positionnement dans l’organisation peut être analogue à celui de la personne en charge de la responsabilité sociétale de l’organisation ou du Responsable Sécurité des Systèmes d’Informations (RSSI), en dehors de la direction du numérique pour éviter tout conflit d’intérêt.
 
-Cette personne représente également la structure dans les cercles d’expertises « Numérique et environnement » et auprès des autres établissements, menant des actions de veille et de partage des bonnes pratiques.
+Cette personne représente également la structure dans les cercles d’expertise « Numérique et environnement » et auprès des autres établissements, menant des actions de veille et de partage des bonnes pratiques.
 
 Dans les petites structures, un référent Numérique Responsable peut être nommé au sein de l'entité, en plus de ses autres tâches. Une possibilité supplémentaire est de partager cette responsabilité au sein des équipes.
 

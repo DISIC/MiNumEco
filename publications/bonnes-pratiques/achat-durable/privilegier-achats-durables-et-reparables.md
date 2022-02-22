@@ -25,7 +25,7 @@ Un achat responsable se traduit par un choix de matériels :
 * **De qualité / fiables** afin de réduire les pannes et la casse qui peut en résulter 
 * **Réparables** en se basant sur [l'indice de réparabilité](https://www.ecologie.gouv.fr/indice-reparabilite). L'objectif étant de pouvoir réparer rapidement et de changer les pièces pour augmenter les performances plus facilement.
 * **Durables** en se basant sur l’indice de durabilité qui remplacera l’indice de réparabilité en 2024.
-* aux **garanties longues** (à minima 5, idéalement 7 ans) pour tous les matériels.
+* aux **garanties longues** (a minima 5, idéalement 7 ans) pour tous les matériels.
 * **Evolutifs / modulaires** qui permettent par exemple :  
   - L'ajout de cartes additionnelles dans un ordinateur fixe
   - Le remplacement d'un processeur, de la mémoire vive, du stockage ou d’une carte graphique
