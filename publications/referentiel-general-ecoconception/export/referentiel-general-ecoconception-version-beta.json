@@ -78,7 +78,7 @@
       "critere": "Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ?",
       "thematique": "Stratégie",
       "objectif": "Connaître les impacts environnementaux du service numérique. Avoir une vision globale des conséquences du service numérique, à chaque phase (début, usage, fin) et en intégrant les impacts environnementaux des équipements matériels utilisés, dans la production et dans l’usage de ce service numérique.",
-      "miseEnOeuvre": "Faire un diagnostic basé sur une méthodologie ACV, une analyse de cycle de vie (screening, simplifiée ou ISO) multicritère. Les indicateurs d’impacts environnementaux à considérer à minima la consommation d’énergie primaire, les émissions GES, la consommation d’eau bleue et l’épuisement des ressources abiotiques.\nLe périmètre de l’analyse de cycle de vie peut être élargi par exemple en tenant compte des moyens de productions : impacts environnementaux des équipements de conception, les services en ligne mobilisés (environnement de test, de QA...), les déplacements des équipes, etc.",
+      "miseEnOeuvre": "Faire un diagnostic basé sur une méthodologie ACV, une analyse de cycle de vie (screening, simplifiée ou ISO) multicritère. Les indicateurs d’impacts environnementaux à considérer a minima la consommation d’énergie primaire, les émissions GES, la consommation d’eau bleue et l’épuisement des ressources abiotiques.\nLe périmètre de l’analyse de cycle de vie peut être élargi par exemple en tenant compte des moyens de productions : impacts environnementaux des équipements de conception, les services en ligne mobilisés (environnement de test, de QA...), les déplacements des équipes, etc.",
       "controle": "Un document de référence (Analyse de cycle de vie - ACV - par exemple) des actions à entreprendre ou déjà entreprises, classées par phase projet.\n* Quels sont les indicateurs définis ?\n* Comment sont suivis ces indicateurs ?\n* Sont-ils publiés / ouverts et si oui, où ?\n* Quel est le rythme de mesure ?"
     },{
       "id": "1.10",
@@ -86,7 +86,7 @@
       "critere": "Le service numérique s’est-il fixé des objectifs en matière de réduction ou de limitation des impacts environnementaux ?",
       "thematique": "Stratégie",
       "objectif": "Minimiser l’empreinte environnementale du service numérique.",
-      "miseEnOeuvre": "Fixer les objectifs en matière d’empreinte environnementale du service numérique en regard du nombre d’utilisateurs escompté. Les indicateurs suivies doivent à minima être la consommation d’énergie primaire, les émissions GES, la consommation d’eau bleue et l’épuisement des ressources abiotiques.",
+      "miseEnOeuvre": "Fixer les objectifs en matière d’empreinte environnementale du service numérique en regard du nombre d’utilisateurs escompté. Les indicateurs suivies doivent a minima être la consommation d’énergie primaire, les émissions GES, la consommation d’eau bleue et l’épuisement des ressources abiotiques.",
       "controle": "Quels sont les objectifs fixés ?"
     },{
       "id": "1.11",
