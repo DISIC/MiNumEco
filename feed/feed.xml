@@ -5,12 +5,51 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2022-02-18T00:00:00Z</updated>
+	<updated>2022-02-23T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Veille de la MiNumEco du 23 février 2023</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/veille-2022-02-23/"/>
+		<updated>2022-02-23T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/veille-2022-02-23/</id>
+		<content type="html">&lt;p&gt;Un condensé de l&#39;actualité numérique écoresponsable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;En résumé&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publication du Guide de Bonnes pratiques numérique responsable&lt;/li&gt;
+&lt;li&gt;Un décret pour définir « Reconditionné »&lt;/li&gt;
+&lt;li&gt;La législation sur les dons vient d&#39;évoluer avec la loi 3DS&lt;/li&gt;
+&lt;li&gt;Certificats d’économies d’énergie et sobriété numérique&lt;/li&gt;
+&lt;li&gt;Un rapport de France Stratégie sur l&#39;internet des objets&lt;/li&gt;
+&lt;li&gt;Un réseau écologiste des professionnel·le·s de l’action publique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Publication du Guide de Bonnes pratiques numérique responsable&lt;/h2&gt;
+&lt;p&gt;Livrable majeur de la feuille de route gouvernementale numérique et environnement pour la sphère publique, ce guide permet de donner des pistes pour construire sa démarche numérique responsable. Publié par la MiNumEco avec notre partenaire l’INR.Consultation publique jusqu&#39;au 1er avril.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/&quot;&gt;Voir le Guide de bonnes pratiques numérique responsable&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Une définition à « Reconditionné »&lt;/h2&gt;
+&lt;p&gt;Vient de paraître, le &lt;a href=&quot;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045185223&quot;&gt;décret n° 2022-190 du 17 février 2022 qui établi les conditions d&#39;utilisation des termes « reconditionné » et « produit reconditionné »&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;La législation sur les dons vient d&#39;évoluer avec la loi 3DS&lt;/h2&gt;
+&lt;p&gt;Pour l&#39;État et les collectivités locales, les dons informatiques sont désormais autorisés à certaines associations reconnues d’intérêt général dont l’objet statutaire est d’équiper, de former et d’accompagner des personnes en situation de précarité et en outre ces associations et les associations reconnues d&#39;utilité publique pourront céder les dons informatiques à un prix solidaire fixé par décret, à destination de personnes précaires ou des associations œuvrant en faveur de telles personnes. Cela ouvre de nouvelles possibilités de dons informatiques pour l&#39;Etat.&lt;/p&gt;
+&lt;p&gt;En savoir plus :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dons.encheres-domaine.gouv.fr/&quot;&gt;Le site des dons des biens mobiliers du Domaine (DNID)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.acteurspublics.fr/articles/numerique-ce-que-change-la-loi-3ds&quot;&gt;Numérique : ce que change la loi 3DS (Acteurs Publics)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Certificats d’économies d’énergie (CEE)&lt;/h2&gt;
+&lt;p&gt;Le lauréat sur le sujet numérique est le programme SONUM – SObriété NUMérique (15 M€). Il a pour objectif de réduire les consommations d’énergie liées à l’usage du numérique, grâce à des actions de sensibilisation et de formation, ainsi que la création d’un label, d’une base de données publiques, de référentiels et d’outils de mesure, ainsi que d’un code de conduite « sobriété numérique ». Porté par l’ADEME en lien avec le CNRS et l’INRIA, il fédère un grand nombre d’acteurs du numérique. SONUM va former 300 enseignants du supérieur, 2 000 ambassadeurs en entreprises, et 650 ambassadeurs en collectivités. L’objectif est que ceux-ci sensibilisent 400 000 élèves du supérieur, 10 000 personnes en entreprises et 1 000 collectivités.&lt;/p&gt;
+&lt;p&gt;En savoir plus : « &lt;a href=&quot;https://www.ecologie.gouv.fr/barbara-pompili-annonce-investissement-pres-100-millions-deuros-dans-5-nouveaux-programmes&quot;&gt;Barbara Pompili annonce un investissement de près de 100 millions d&#39;euros dans 5 nouveaux programmes d&#39;économies d&#39;énergie&lt;/a&gt; »&lt;/p&gt;
+&lt;h2&gt;Publication d&#39;un rapport de France Stratégie sur l&#39;internet des objets (IdO - IoT)&lt;/h2&gt;
+&lt;p&gt;Le rapport a été confié à France Stratégie dans le cadre de la feuille de route gouvernementale numérique et environnement. Il y a un volet sur l&#39;impact environnemental de l&#39;IdO assez développé. Le rapport traite également des enjeux sociétaux, éthiques, juridiques, de l&#39;IdO.&lt;/p&gt;
+&lt;p&gt;Voir le rapport « &lt;a href=&quot;https://www.strategie.gouv.fr/publications/monde-de-linternet-objets-dynamiques-maitriser&quot;&gt;Le monde de l’Internet des objets : des dynamiques à maîtriser&lt;/a&gt; »&lt;/p&gt;
+&lt;h2&gt;Découvrez l&#39;association le Lierre, le réseau écologiste des professionnel·le·s de l’action publique.&lt;/h2&gt;
+&lt;p&gt;Fondé fin 2019, le Lierre rassemble des fonctionnaires, haut-fonctionnaires, expert·e·s, consultant·e·s, acteurs et actrices des politiques publiques, convaincu·e·s que la transformation profonde de l’action publique est indispensable pour répondre aux urgences écologique et sociale.&lt;/p&gt;
+&lt;p&gt;En savoir plus : &lt;a href=&quot;https://le-lierre.fr/&quot;&gt;site Internet le-lierre.fr&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Webinaire de lancement du Guide de bonnes pratiques numérique responsable</title>
