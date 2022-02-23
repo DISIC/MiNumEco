@@ -6,8 +6,8 @@ pagination:
     size: 1000
     alias: critere
 ---
-"id";"thematique";"critere";"objectif";"miseEnOeuvre";"controle";"url"
+"id","thematique","critere","objectif","miseEnOeuvre","controle","url"
 {% for item in pagination.items %}
 {%- set absolutePostUrl %}{{ metadata.url ~ 'publications/referentiel-general-ecoconception/critere/' ~ (item.numero | slug) ~ '/' }}{% endset -%}
-{{ item.numero | dump | safe }};{{ item.thematique | dump | safe }};{{ item.critere | dump | safe }};{{ item.objectif | dump | safe }};{{ item.miseEnOeuvre | dump | safe }};{{ item.controle | dump | safe }};"{{ absolutePostUrl }}"
+{{ item.numero | dump | safe }},{{ item.thematique | dump | safe }},{{ item.critere | dump | safe }},{{ item.objectif | dump | safe }},{{ item.miseEnOeuvre | dump | safe }},{{ item.controle | dump | safe }},"{{ absolutePostUrl }}"
 {% endfor %}
