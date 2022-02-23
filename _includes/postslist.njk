@@ -4,18 +4,18 @@
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
         <div class="fr-card__body">
-            <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
             <h2 class="fr-card__title">
                 <a href="{{ post.url | url }}" class="fr-card__link">{{ post.data.title }}</a>
             </h2>
-            {%if post.data.description %}
+            {% if post.data.description %}
             <p class="fr-card__desc">
               {{ post.data.description }}
             </p>
-            {%endif %}
+            {% endif %}
+            <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
         </div>
         <div class="fr-card__img">
-            <img src="{{ post.data.image }}" alt="">
+            <img src="{{ post.data.image }}" class="fr-responsive-img" alt="">
         </div>
     </div> 
   </div>
