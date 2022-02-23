@@ -32,6 +32,10 @@ main h4 {
   font-size: 1rem;
 }
 
+h2.fr-card__title, h2.fr-tile__title {
+  margin-top: 0;
+}
+
 .fr-highlight {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -43,14 +47,6 @@ main h4 {
 
 .guide-bonne-pratique__summary__list > li > a::before {
   content: none;
-}
-
-ul.no-bullets > li::before {
-  content: none;
-}
-
-ul.no-bullets > li {
-  margin-left: 1rem;
 }
 
 /* reset summary font size */
