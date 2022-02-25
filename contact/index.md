@@ -5,7 +5,7 @@ link: /a-propos/
 linkTitle: À propos de la mission
 ---
 
-Olivier Joviado et Richard Hanna, chargés de mission Pi3 Green Tech à la direction interministérielle du numérique (DINUM).
+**Olivier Joviado** et **Richard Hanna**, Direction interministérielle du numérique (DINUM), chargés de mission interministérielle Numérique écoresponsable - MiNumEco.
 
 Pour nous contacter par courriel :
 

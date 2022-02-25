@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 100
 ---
 
-**Coordination du guide** : Olivier Joviado et Richard Hanna, mission Green Tech - DINUM
+**Coordination du guide** : Olivier Joviado et Richard Hanna, mission Green Tech / numérique écoresponsable - DINUM
 
 **Équipe projet** : Malika Kessous, Julie Boulet, Mounir Ould-Ghouil, Maxence Waerniers, Patrick Drouyer, Hayat Izabachène, Julien Barbier, Hippolyte Le Meur, Hubert Rameye et Nicolas Perette - Direction des Achats de l’État, Pascale Damestoy – Institut du Numérique Responsable, Jean-Christophe Chaussat – DSI Pôle Emploi, Viviane Valla - Commissariat Général au Développement Durable.
 

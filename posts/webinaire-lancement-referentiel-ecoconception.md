@@ -8,12 +8,12 @@ link: https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/7
 layout: layouts/post.njk
 ---
 
-Nous vous annonçons la publication en version bêta sous licence ouverte Etalab v2 et la consultation publique d'un [Référentiel général d'écoconception de service numérique](/publications/referentiel-general-ecoconception/). Ce document est piloté par la Dinum, le Ministère de la Transition Écologique (MTE), l'Ademe et l'Institut du Numérique Responsable (INR) dans le cadre de la mission interministérielle Green Tech / Numérique écoresponsable.
+Nous vous annonçons la publication en version bêta sous licence ouverte Etalab v2 et la consultation publique d'un [Référentiel général d'écoconception de service numérique](/publications/referentiel-general-ecoconception/). Ce document est piloté par la Dinum, le Ministère de la Transition Écologique (MTE), l'Ademe et l'Institut du Numérique Responsable (INR) dans le cadre de la mission interministérielle  Numérique écoresponsable.
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, le référentiel général d’écoconception de service numérique est aussi un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
 
 __Sommaire du webinaire :__
-1. La mission interministérielle « Green Tech » Numérique écoresponsable, par Olivier Joviado, mission interministérielle Green Tech, Dinum
+1. La mission interministérielle Numérique écoresponsable, par Olivier Joviado, Dinum
 2. État des lieux de la réglementation sur l'écoconception logicielle, par Viviane Valla du Commissariat général au développement durable (CGDD)
 3. Complémentarité entre accessibilité et écoconception, par Marine Boudeau, pôle Design, Dinum
 4. Écoconception et mesure, par Raphaël Guastavi, service écoconception et recyclage, Ademe

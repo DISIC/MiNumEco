@@ -1,4 +1,4 @@
-# Mission interministérielle Green Tech
+# MiNumEco - Mission interministérielle numérique écoresponsable
 
 ## Installation
 

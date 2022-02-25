@@ -116,7 +116,7 @@ S’engager dans une démarche d’achat numérique responsable est un premier p
 
 **Version actuelle** : version Bêta
 
-**Version cible** : V1 – fin 2021
+**Version cible** : V1 – avril 2022
 
 Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
 
@@ -130,9 +130,11 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
 <a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" onclick="return tag.click.send({elem:this, name:'guide-achats-numeriques-responsables-version-beta-avril-2021.pdf', type:'download'});">Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)</a>
 
+Voir [la page dédiée du guide sur data.gouv.fr]({{ metadata.guideAchats.dataGouvUrl }}).
+
 ## Contribuer
 
-<a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation">Participer à la consultation publique</a>
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation" target="_blank" title="Voir la consultation publique - Nouvelle fenêtre">Voir la consultation publique</a> ou [Nous contacter](/contact/)
 
 ## Consulter
 

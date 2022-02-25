@@ -41,9 +41,11 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 ## Télécharger
 
-* <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'{{ metadata.guideBonnesPratiques.documentUrl }}', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+* <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_blank" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo) - Nouvelle fenêtre" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'{{ metadata.guideBonnesPratiques.documentUrl }}', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
 * <a class="fr-link fr-fi-download-line fr-link--icon-right" href="/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.csv" onclick="return tag.click.send({elem:this, name:'Guide de bonnes pratiques en version csv', type:'download'});">Exporter en CSV</a>
 * <a class="fr-link fr-fi-download-line fr-link--icon-right" href="/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.json" onclick="return tag.click.send({elem:this, name:'Guide de bonnes pratiques en version json', type:'download'});">Flux JSON</a>
+
+Voir aussi [la page dédiée au guide sur data.gouv.fr]({{ metadata.guideBonnesPratiques.dataGouvUrl }}).
 
 ## Contribuer
 

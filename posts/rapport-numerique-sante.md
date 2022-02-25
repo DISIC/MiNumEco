@@ -14,4 +14,4 @@ Ce rapport s’inscrit dans le cadre des travaux de la cellule éthique du Numé
 
 Il vise à sensibiliser l’ensemble des acteurs de l’écosystème de la santé numérique (qu’ils soient usagers du système de santé, patients, professionnels, éditeurs de logiciel, industriels) sur les impacts environnementaux des systèmes numériques et à proposer des éléments de réflexion sur la sobriété numérique appliquée aux secteurs de la santé, du social et du médico-social, dans la perspective d’actions concrètes. Il s’articule autour de six parties et comporte deux zooms et trois chapitres « Pour approfondir » visant à détailler certains points en vue d’une mise en application de la sobriété numérique.
  
-La mission Green Tech a participé à la rédaction de ce rapport aux côtés de la Délégation ministérielle au numérique en santé.
+La MiNumEco a participé à la rédaction de ce rapport aux côtés de la Délégation ministérielle au numérique en santé.

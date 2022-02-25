@@ -60,6 +60,8 @@ Ce référentiel est issu d’un travail de tamisage du [Guide de Référence de
 
 Version bêta publié sous [licence ouverte Etalab v2](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
+Voir [la page dédiée au référentiel sur data.gouv.fr]({{ metadata.referentielEcoconception.dataGouvUrl }}).
+
 ## Consultation publique
 
 Une <a href="{{ metadata.referentielEcoconception.consultationUrl }}">consultation publique</a>, en ligne jusqu'au 3 décembre 2021, 18h, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1 prévue d'ici avril 2022.

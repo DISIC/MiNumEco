@@ -13,7 +13,7 @@ La mission interministérielle numérique écoresponsable était invitée à l'�
 Intervenants :
 
 * Agnès Crépet - directrice Software Longevity & IT - Fairphone
-* Richard Hanna - chargé de mission interministérielle Green Tech - Dinum
+* Richard Hanna - chargé de mission interministérielle numérique écoresponsable - Dinum
 * Tristan Nitot - Fondateur - Octet Vert
 * Véronique Torner - Co-fondatrice et Co-Présidente - Alter way
 * Cyrille Chausson - Rédacteur en chef - IT for Business

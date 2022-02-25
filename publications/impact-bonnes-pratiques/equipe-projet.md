@@ -14,7 +14,7 @@ eleventyNavigation:
 
 ## Pilotage
 
-Olivier Joviado et Richard Hanna – Mission interministérielle Green Tech, DINUM
+Olivier Joviado et Richard Hanna – Mission interministérielle numérique écoresponsable - Green Tech, DINUM
 
 ## Contributeurs
 
