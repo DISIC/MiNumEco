@@ -24,34 +24,26 @@ L’objectif de ce guide est d’une part de sensibiliser les différents acteur
 
   </div>
   <div class="fr-col-12 fr-col-md-5">
-{% if metadata.guideBonnesPratiques.documentUrl %}
 <a target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" title="Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)" onclick="return tag.click.send({elem:this, name:'{{ metadata.guideBonnesPratiques.documentUrl }}', type:'download'});"><img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
-{% else %}
-<img src="/img/bonnes-pratiques/guide-bonnes-pratiques-couverture.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc">
-{% endif %}
   </div>
 </div>
 
 Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquement la direction du numérique. De nombreux services transverses comme les achats, les ressources humaines, la communication, les services généraux etc. sont également impliqués. Ce guide s’adresse donc à un large public en relation avec les systèmes d’information tels que les directions informatiques, administrateurs systèmes et réseaux, développeurs, acheteurs, usagers, etc.
 
-<div class="fr-callout">
-<h2 class="fr-callout__title">Consulter</h2>
+<div class="fr-callout fr-py-3w">
+<h2 class="fr-callout__title">Consulter le guide</h2>
 <p class="fr-callout__text">Le guide est disponible en ligne, fichier .pdf, export csv et flux json.</p>
 <p class="fr-callout__text">
 <a class="fr-btn" href="/publications/bonnes-pratiques/introduction/">À propos du guide</a>
-<a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Les bonnes pratiques</a>
+<a class="fr-btn" href="/publications/bonnes-pratiques/bonnes-pratiques/">Voir les bonnes pratiques</a>
 </p>
 </div>
 
 ## Télécharger
 
-{% if metadata.guideBonnesPratiques.documentUrl %}
-<a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'{{ metadata.guideBonnesPratiques.documentUrl }}', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
-{% else %}
-<div class="fr-highlight">
-Version pdf à venir sous peu.
-</div>
-{% endif %}
+* <a class="fr-link fr-fi-download-line fr-link--icon-right" target="_self" href="{{ metadata.guideBonnesPratiques.documentUrl }}" onclick="return tag.click.send({elem:this, name:'{{ metadata.guideBonnesPratiques.documentUrl }}', type:'download'});">Télécharger le Guide de bonnes pratiques numérique responsable (pdf {{ metadata.guideBonnesPratiques.documentWeightInMo }} Mo)</a>
+* <a class="fr-link fr-fi-download-line fr-link--icon-right" href="/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.csv" onclick="return tag.click.send({elem:this, name:'Guide de bonnes pratiques en version csv', type:'download'});">Exporter en CSV</a>
+* <a class="fr-link fr-fi-download-line fr-link--icon-right" href="/publications/bonnes-pratiques/guide-bonnes-pratiques-numerique-responsable-export-version-{{ metadata.guideBonnesPratiques.version }}.json" onclick="return tag.click.send({elem:this, name:'Guide de bonnes pratiques en version json', type:'download'});">Flux JSON</a>
 
 ## Contribuer
 
