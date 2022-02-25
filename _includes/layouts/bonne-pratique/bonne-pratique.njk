@@ -8,26 +8,49 @@ layout: layouts/bonne-pratique/default.njk
             <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/#{{ eleventyNavigation.parent }}">{{ thematique.data.title }}</a>
         {% endif %}
     {% endfor %}
-    <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?priority={{ priority | safe }}"><strong>Priorité</strong> : {{ priority | safe }}</a>
-    <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?difficulty={{ difficulty | safe }}"><strong>Difficulté de mise en œuvre</strong> : {{ difficulty }}</a>
+
+    {% set priorityCssClass = {
+        'Prioritaire': 'fr-tag--green-emeraude',
+        'Recommandée': 'fr-tag--brown-caramel',
+        'Aller plus loin': 'fr-tag--purple-glycine'
+    } %}
+
+    <a class="fr-tag {{ priorityCssClass[priority] }} fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?priority={{ priority | safe }}">{{ priority | safe }}</a>
+
+    {% set difficultyCssClass = {
+        'Facile': 'fr-tag--green-emeraude',
+        'Moyenne': 'fr-tag--brown-caramel',
+        'Difficile': 'fr-tag--purple-glycine'
+    } %}
+
+    {% set difficultyTagLabel = {
+        'Facile': 'Facile à mettre en œuvre',
+        'Moyenne': 'Difficulté moyenne de mise en œuvre',
+        'Difficile': 'Difficile à mettre en œuvre'
+    } %}
+
+    <a class="fr-tag {{ difficultyCssClass[difficulty] }} fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?difficulty={{ difficulty | safe }}">{{ difficultyTagLabel[difficulty] }}</a>
 </p>
 
 {{ content | safe }}
 
-    <h2>Pilotage</h2>
-    <h3>{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h3>
-    {% for item in who %}
-        <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?who={{ item | safe }}">{{ item }}</a>
-    {% endfor %}
+<h2>Pilotage</h2>
 
-    {% if indicators.length %}
-        <h3>{% if indicators.length > 1 %}Exemples d'indicateurs de pilotage{% else %}Exemple d'indicateur de pilotage{% endif %}</h3>
-        <ul>
-        {% for indicator in indicators %}
-            <li>{{ indicator }}</li>
-        {% endfor %}
-        </ul>
-    {% endif %}
+<h3>{% if who.length > 1 %}Exemples de pilotes{% else %}Exemple de pilote{% endif %}</h3>
+
+{% for item in who %}
+    <a class="fr-tag fr-tag--yellow-tournesol fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/?who={{ item | safe }}">{{ item }}</a>
+{% endfor %}
+
+{% if indicators.length %}
+    <h3>{% if indicators.length > 1 %}Exemples d'indicateurs de pilotage{% else %}Exemple d'indicateur de pilotage{% endif %}</h3>
+
+    <ul>
+    {% for indicator in indicators %}
+        <li>{{ indicator }}</li>
+    {% endfor %}
+    </ul>
+{% endif %}
 
 {% set precedenteBonnePratique = null %}
 {% set couranteBonnePratique = null %}
