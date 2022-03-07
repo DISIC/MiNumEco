@@ -6,30 +6,60 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
-{% set postslist = collections.all | eleventyNavigation("publications") %}
+{% set postslist = collections.all | eleventyNavigationExtended("publications") %}
 
-<div class="fr-grid-row fr-grid-row--gutters">
-   
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+
 {% for post in postslist | reverse %}
-  <div class="fr-col-12 fr-col-md-4">
-    <div class="fr-card fr-enlarge-link">
+  {% if post.data.focus %}
+  <div class="fr-col-12">
+    <div class="fr-card fr-card--horizontal fr-enlarge-link">
         <div class="fr-card__body">
-            
             <h2 class="fr-card__title">
                 <a href="{{ post.url | url }}" class="fr-card__link">{{ post.title }}</a>
             </h2>
-            {% if post.description %}
+            {% if post.data.description %}
             <p class="fr-card__desc">
-              {{ post.description }}
+              {{ post.data.description }}
             </p>
             {% endif %}
-            <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
         </div>
         <div class="fr-card__img">
             <img src="{{ post.image }}" alt="">
         </div>
     </div> 
   </div>
+  {% endif %}
+{% endfor %}
+
+</div>
+
+<h2>Autres ressources</h2>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+{% for post in postslist | reverse %}
+  {% if not post.data.focus %}
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            
+            <h3 class="fr-card__title">
+                <a href="{{ post.url | url }}" class="fr-card__link">{{ post.title }}</a>
+            </h3>
+            
+            {% if post.data.description %}
+            <p class="fr-card__desc">
+              {{ post.data.description }}
+            </p>
+            {% endif %}
+        </div>
+        <div class="fr-card__img">
+            <img src="{{ post.image }}" alt="">
+        </div>
+    </div> 
+  </div>
+  {% endif %}
 {% endfor %}
 
 </div>

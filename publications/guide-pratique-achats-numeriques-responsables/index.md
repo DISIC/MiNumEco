@@ -1,9 +1,11 @@
 ---
 layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
+description: Ce guide consigne de nombreuses recommandations à l’adresse des acteurs publics, recommandations également ouvertes aux acteurs du secteur privé qui peuvent se les approprier dans leur propre démarche d’achat.
 date: 2021-04-29
 image: /img/guide-achats/guide-achats-numerique-responsable.png
 type: publication
+focus: true
 eleventyNavigation:
   key: guideachat
   parent: publications

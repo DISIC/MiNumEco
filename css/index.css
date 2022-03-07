@@ -36,7 +36,7 @@ main h4 {
   font-size: 1rem;
 }
 
-h2.fr-card__title, h2.fr-tile__title, h2.fr-callout__title {
+h2.fr-card__title, h2.fr-tile__title, h2.fr-callout__title, h3.fr-card__title, h3.fr-tile__title, h3.fr-callout__title {
   margin-top: 0;
 }
 
