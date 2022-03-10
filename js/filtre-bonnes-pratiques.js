@@ -32,7 +32,9 @@ function changeFilterValue(event) {
     queryParams.set('priority', filters.priority ? filters.priority : '');
     queryParams.set('difficulty', filters.difficulty? filters.difficulty : '');
     queryParams.set('who', filters.who ? filters.who : '');
-    history.pushState(null, null, "?"+queryParams.toString());
+    history.pushState(null, null, '?' + queryParams.toString());
+
+    location.href = '#bonnes-pratiques-strategie-et-gouvernance';
     
     updateSheetsList();
 }
