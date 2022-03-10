@@ -7,7 +7,8 @@ idbp: i.1
 priority: Prioritaire
 difficulty: Moyenne
 who:
-  - Opérationnel
+  - Direction du numérique
+  - Délégué au numérique responsable
 indicators:
   - "Nombre d'équipements informatiques remis en état ou à niveau"
   - "Poids des DEEE évités : poids des équipements remis en état ou à niveau"
