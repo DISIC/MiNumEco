@@ -62,3 +62,17 @@ h2.fr-card__title, h2.fr-tile__title, h2.fr-callout__title, h3.fr-card__title, h
   font-size: 1rem;
   text-transform: none;
 }
+
+.team h3 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.team img {
+  border-radius: 50%;
+}
+
+.team p {
+  text-align: center;
+}
