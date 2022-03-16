@@ -1,0 +1,35 @@
+{
+    "questions": [
+        {
+            "question": "1. Le réemploi est synonyme de réutilisation",
+            "answers" : [
+                {
+                    "title": "Vrai"
+                },
+                {
+                    "title": "Faux",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "2. Que peut-on faire pour allonger la durée de vie des équipements ?",
+            "answers" : [
+                {
+                    "title": "Remettre en état"
+                },
+                {
+                    "title": "Donner"
+                },
+                {
+                    "title": "Vendre"
+                },
+                {
+                    "title": "Les trois : remettre en état, donner, vendre",
+                    "isRight": true
+                }
+            ]
+        }
+    ]
+}
+
