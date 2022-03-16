@@ -1,17 +1,15 @@
 ---
-layout: layouts/post.njk
-title: À propos de la mission
-date: 2021-11-25
-linkTitle: Qu’est-ce que le numérique responsable ?
-link: /publications/guide-pratique-achats-numeriques-responsables/demarche-numerique-responsable/definition/
+layout: layouts/a-propos.njk
+title: À propos
+date: 2022-03-16
 eleventyNavigation:
   key: À propos
   order: 20
 ---
 
-Le numérique représente aujourd'hui environ 4% des émissions mondiales de gaz à effet de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génère.
+Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génère.
 
-## La MiNumEco, la mission interministérielle numérique écoresponsable
+<h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
@@ -67,7 +65,7 @@ C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environ
 </table>
 </div>
 
-<h3 class="fr-fi-arrow-right-line fr-link--icon-left">Les principaux objectifs</h3>
+### Les principaux objectifs
 
 Animée par les contributions des correspondants ministériels sur le sujet, celles et ceux des agences comme l'ADEME, la mission a pour objectifs de :
 
@@ -76,13 +74,13 @@ Animée par les contributions des correspondants ministériels sur le sujet, cel
 - Identifier ou créer les méthodologies et outils à déployer au sein de l'administration centrale ou dans les collectivités territoriales.
 - Définir des objectifs et des engagements.
 
-<h3 class="fr-fi-arrow-right-line fr-link--icon-left">Publications</h3>
+### Publications
 
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
-- Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/) (publié en version bêta en avril 2021).
-- Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/)  (publié en version bêta en octobre 2021).
-- Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents (publié en octobre 2021).
-- Un guide de bonnes pratiques numériques responsables (prévu début 2022).
+- Un [guide de bonnes pratiques numérique responsable](/publications/bonnes-pratiques/), publié en version bêta en février 2022.
+- Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/),publié en version bêta en avril 2021.
+- Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/), publié en version bêta en octobre 2021.
+- Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents, publié en octobre 2021.
 - Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable" (en cours).
 - Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique (en cours).
 
@@ -97,7 +95,7 @@ Si vous êtes une administration, une direction ou une collectivité territorial
 </div>
 
 
-## Les pilotes de la mission
+<h2 id="pilotes">Les pilotes de la mission</h2>
 
 ### La direction interministérielle du numérique (DINUM)
 
@@ -122,3 +120,28 @@ Avec le commissariat général du développement durable, il a élaboré la feui
 #### Commissariat général au développement durable (CGDD)
 
 Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
+
+<h2 id="equipe">L’équipe</h2>
+
+<div class="fr-grid-row fr-grid-row--gutters team">
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/virginie-roziere.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Virginie Rozière</h3>
+    <p class="">Cheffe du pôle conseil DINUM et responsable de la mission MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Christophe Boutonnet</h3>
+    <p class="">Chef de service adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/olivier-joviado.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Olivier Joviado</h3>
+    <p class="">Directeur de projets, DINUM. Co-pilote de la MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/richard-hanna.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Richard Hanna</h3>
+    <p class="">Chargé de mission MiNumEco, DINUM</p>
+  </div>
+</div>
