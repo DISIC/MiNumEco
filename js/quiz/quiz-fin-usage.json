@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1. Le réemploi est synonyme de réutilisation",
+            "question": "Le réemploi est synonyme de réutilisation",
             "answers" : [
                 {
                     "title": "Vrai"
@@ -10,10 +10,11 @@
                     "title": "Faux",
                     "isRight": true
                 }
-            ]
+            ],
+            "answerInformation": "On parle de réutilisation une fois l'équipement collecté par un éco-organisme et qu'il a le statut de déchet."
         },
         {
-            "question": "2. Que peut-on faire pour allonger la durée de vie des équipements ?",
+            "question": "Que peut-on faire pour allonger la durée de vie des équipements ?",
             "answers" : [
                 {
                     "title": "Remettre en état"
@@ -28,7 +29,127 @@
                     "title": "Les trois : remettre en état, donner, vendre",
                     "isRight": true
                 }
+            ],
+            "answerInformation": "Les trois englobent toutes les composantes du réemploi."
+        },
+        {
+            "question": "Qu'entend-on par remise en état ?",
+            "answers" : [
+                {
+                    "title": "Remise à niveau"
+                },
+                {
+                    "title": "Réparation"
+                },
+                {
+                    "title": "Reconditionnement"
+                },
+                {
+                    "title": "Les trois : remise à niveau, réparation, reconditionnement",
+                    "isRight": true
+                }
             ]
+        },
+        {
+            "question": "Les trois étapes de recyclage des DEEE sont : réemploi, dépollution, enfouissement",
+            "answers" : [
+                {
+                    "title": "Vrai"
+                },
+                {
+                    "title": "Faux",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "Le réemploi concerne une autre étape du cycle de vie du produit que le recyclage. Les trois étapes du recyclage sont : dépollution, valorisation, enfouissement."
+        },
+        {
+            "question": "La loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration dites loi 3DS permet aux services de l'Etat et aux collectivités territoriales de céder plus simplement leurs matériels informatiques.",
+            "answers" : [
+                {
+                    "title": "Vrai",
+                    "isRight": true
+                },
+                {
+                    "title": "Faux"
+                }
+            ]
+        },
+        {
+            "question": "A quel code se réfèrent les dispositions de la loi 3DS sur la cession de matériels informatiques ?",
+            "answers" : [
+                {
+                    "title": "Code de l'environnement"
+                },
+                {
+                    "title": "Code de la propriété intellectuelle"
+                },
+                {
+                    "title": "Code général de la propriété des personnes publiques",
+                    "isRight": true
+                },
+                {
+                    "title": "Code de la propriété industrielle"
+                }
+            ],
+            "answerInformation": "Voir le <a href=\"https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070299/\" target=\"_blank\">Code général de la propriété des personnes publiques (CG3P)</a>."
+        },
+        {
+            "question": "Il existe une directive européenne relative aux DEEE.",
+            "answers" : [
+                {
+                    "title": "Vrai",
+                    "isRight": true
+                },
+                {
+                    "title": "Faux"
+                }
+            ],
+            "answerInformation": "Il s'agit de la directive WEEE 2012/19/UE qui a remplacé en 2012 la première directive 2002/95/CE relative aux DEEE."
+        },
+        {
+            "question": "Les deux éco-organismes français agréés pour les DEEE sont Ecologic et ecosystem.",
+            "answers" : [
+                {
+                    "title": "Vrai",
+                    "isRight": true
+                },
+                {
+                    "title": "Faux"
+                }
+            ]
+        },
+        {
+            "question": "Les cartouches et toners d'imprimantes sont considérés comme des DEEE.",
+            "answers" : [
+                {
+                    "title": "Vrai",
+                    "isRight": true
+                },
+                {
+                    "title": "Faux"
+                }
+            ],
+            "answerInformation": "Depuis le 15 août 2018, les cartouches et toners d’imprimantes sont considérés comme des DEEE."
+        },
+        {
+            "question": "Que signifie REP ?",
+            "answers" : [
+                {
+                    "title": "Réseau d'éducation prioritaire"
+                },
+                {
+                    "title": "Responsabilité engageant le pollueur"
+                },
+                {
+                    "title": "Responsabilité élargie du producteur",
+                    "isRight": true
+                },
+                {
+                    "title": "Repose en paix"
+                }
+            ],
+            "answerInformation": "C'est la « Responsabilité élargie du producteur », qui est une mesure basée sur le principe de « pollueur-payeur ». Le producteur s’engage à organiser la fin de vie des déchets produits par son activité."
         }
     ]
 }
