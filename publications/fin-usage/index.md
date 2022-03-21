@@ -5,6 +5,7 @@ date: 2022-03-22
 image: /img/ressources-ademe/face-cachee-numerique.png
 extrajs: /js/quiz.js
 type: publication
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: fin-usage
   parent: publications
