@@ -5,12 +5,34 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2022-03-16T00:00:00Z</updated>
+	<updated>2022-03-21T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Top 5 de bonnes pratiques numérique responsable</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/top5-bonnes-pratiques-numerique-responsable/"/>
+		<updated>2022-03-21T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/top5-bonnes-pratiques-numerique-responsable/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/top-5-bonnes-pratiques-numerique-responsable.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Les différentes études scientifiques estiment que le numérique est responsable d&#39;environ 2 à 4% des émissions de gaz à effet de serre au niveau mondial et d&#39;une empreinte matérielle non négligeable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Par quoi commencer, pour réduire ou limiter ces impacts à l&#39;échelle d&#39;une organisation ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Parmi les bonnes pratiques, il y en a de plus impactantes que d&#39;autres, notamment celles qui visent à limiter les externalités négatives importantes liées à la phase de fabrication, qui concentre la majorité des impacts en tenant en compte plusieurs indicateurs environnementaux.&lt;/p&gt;
+&lt;p&gt;Nous avons sélectionné un &lt;strong&gt;top 5 de bonnes pratiques prioritaires&lt;/strong&gt; issues du &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/&quot;&gt;Guide de bonnes pratiques numérique responsable pour les organisations&lt;/a&gt; publié par la Mission interministérielle numérique écoresponsable (MiNumEco) et l&#39;Institut du Numérique Responsable (INR).&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/reduire-nombre-equipements/&quot;&gt;Réduire le nombre d&#39;équipements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Réemployer en &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-remettant-en-etat/&quot;&gt;remettant en état&lt;/a&gt;, &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-donnant/&quot;&gt;donnant&lt;/a&gt; ou &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/reemployer-en-vendant/&quot;&gt;vendant&lt;/a&gt; les équipements&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/privilegier-equipements-reemploi/&quot;&gt;Privilégier les équipements issus du réemploi ou contenant des matériaux recyclés&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/services-numeriques/concevoir-un-service-numerique-compatible-avec-equipements-anciens/&quot;&gt;Concevoir des services numériques compatibles avec les équipements les plus anciens possibles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/fin-usage/eco-organisme-pour-gestion-deee/&quot;&gt;Faire appel à un éco-organisme pour la gestion des DEEE&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Il y a cependant un préalable à la mise en œuvre de certaines de ces bonnes pratiques qui nécessitent une bonne compréhension des enjeux liés à l&#39;empreinte environnementale du numérique de la part de toutes les parties prenantes.&lt;/p&gt;
+&lt;p&gt;Enfin, il faut s’attacher à replacer la démarche Numérique responsable dans une &lt;strong&gt;stratégie globale&lt;/strong&gt; de réduction des impacts environnementaux et sociaux négatifs des activités de l’organisation.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Guide « En route pour la sobriété numérique » proposé par l’ADEME</title>
