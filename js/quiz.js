@@ -4,7 +4,7 @@ const jsonUrl = quizForm.attributes['data-quiz-json'].value;
 readJsonFile(jsonUrl, runQuiz);
 
 let jsonData = {};
-let quizStep = 9;
+let quizStep = 0;
 let score = 0;
 
 function runQuiz(text) {
