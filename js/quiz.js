@@ -4,7 +4,7 @@ const jsonUrl = quizForm.attributes['data-quiz-json'].value;
 readJsonFile(jsonUrl, runQuiz);
 
 let jsonData = {};
-let quizStep = 0;
+let quizStep = 9;
 let score = 0;
 
 function runQuiz(text) {
@@ -62,8 +62,8 @@ function checkAnswer(userAnswer) {
     quizForm.innerHTML = `<p><b>${(quizStep+1)}. ${question.question}</b></p>`
     + (userAnswer === rightAnswer
         ? `<div class="fr-alert fr-alert--success fr-mb-1w">
-            <p class="fr-alert__title">Bonne réponse !</p>
-            <p>La bonne réponse est : « ${rightAnswer} »</p>
+            <p class="fr-alert__title">Bien joué !</p>
+            <p>La bonne réponse est bien : « ${rightAnswer} »</p>
             <p>${question.answerInformation ? question.answerInformation : ''}</p>
         </div>`
         : `<div class="fr-alert fr-alert--error fr-mb-1w">
@@ -76,9 +76,10 @@ function checkAnswer(userAnswer) {
         ? `<div class="fr-form-group">
             <button type="submit" class="fr-btn">Question suivante</button>
         </div>`
-        : `<p><b>Votre score : ${score} / ${quizStep+1}</b></p>
-        <div class="fr-form-group">
-            <button type="submit" class="fr-btn fr-btn--secondary">Refaire le questionnaire</button>
+        : `<div class="fr-alert fr-alert--info">
+            <p class="fr-alert__title">C'est fini !</p>
+            <p>Votre score : ${score} / ${quizStep+1}</p>
+            <p><button type="submit" class="fr-btn fr-btn--secondary">Refaire le questionnaire</button></p>
         </div>`
     );
 }
