@@ -25,3 +25,11 @@ Nous avons sélectionné un **top 5 de bonnes pratiques prioritaires** issues du
 Il y a cependant un préalable à la mise en œuvre de certaines de ces bonnes pratiques qui nécessitent une bonne compréhension des enjeux liés à l'empreinte environnementale du numérique de la part de toutes les parties prenantes.
 
 Enfin, il faut s’attacher à replacer la démarche Numérique responsable dans une **stratégie globale** de réduction des impacts environnementaux et sociaux négatifs des activités de l’organisation.
+
+<div class="fr-callout fr-mb-3w">
+    <p class="fr-callout__title">Consultation publique</p>
+    <p class="fr-callout__text">
+        Afin de valider ou d'enrichir le guide de bonnes pratiques, une consultation publique est ouverte à tous jusqu'au 1er avril 2022.
+    </p>
+    <a class="fr-btn fr-fi-external-link-line fr-btn--icon-right" href="{{ metadata.guideBonnesPratiques.consultationUrl }}">Participer à la consultation publique</a>
+</div>
