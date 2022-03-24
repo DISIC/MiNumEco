@@ -1,11 +1,11 @@
 ---
 layout: layouts/plans-action.njk
-title: A propos
+title: À propos
 description: Dans le cadre de la démarche Service Public Ecoresponsable, démarche globale de réduction des impacts environnementaux des administrations publiques, la mission interministérielle numérique écoresponsable (MiNumEco) publie les plans d’actions 2022 des ministères pour la réduction de l’empreinte environnementale de leurs activités numériques.
 date: 2022-04-01
 eleventyNavigation:
   parent: plansAction
-  title: A propos
+  title: À propos
   date: 2022-04-01
   order: 10
 ---
