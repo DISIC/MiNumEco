@@ -1,7 +1,7 @@
 ---
 layout: layouts/plans-action.njk
 title: Plans d’action des ministères pour la réduction de l’empreinte environnementale du numérique
-description: Dans le cadre de la démarche Service Public Ecoresponsable, démarche globale de réduction des impacts environnementaux des administrations publiques, la mission interministérielle numérique écoresponsable (MiNumEco) publie les plans d’actions 2022 des ministères pour la réduction de l’empreinte environnementale de leurs activités numériques.
+description: Dans le cadre de la démarche Service Public Ecoresponsable, démarche globale de réduction des impacts environnementaux des administrations publiques, la mission interministérielle numérique écoresponsable (MiNumEco) recense les plans d’actions 2022 des ministères pour la réduction de l’empreinte environnementale de leurs activités numériques.
 date: 2022-04-01
 image: /img/plans-action/couverture-dinum.png
 type: publication
@@ -16,9 +16,9 @@ eleventyNavigation:
   order: 30
 ---
 
-_[Version brouillon, à ne pas partager]_
+_**[ Version brouillon ; liens vers les pdf non actifs ; à ne pas partager ]**_
 
-Dans le cadre de la démarche Service Public Ecoresponsable, démarche globale de réduction des impacts environnementaux des administrations publiques, la mission interministérielle numérique écoresponsable (MiNumEco) publie les plans d’actions 2022 des ministères pour la réduction de l’empreinte environnementale de leurs activités numériques.
+Dans le cadre de la démarche Service Public Ecoresponsable, démarche globale de réduction des impacts environnementaux des administrations publiques, la mission interministérielle numérique écoresponsable (MiNumEco) recense les plans d’actions 2022 des ministères pour la réduction de l’empreinte environnementale de leurs activités numériques.
 
 Action initiée en 2021, chaque ministère a élaboré, avec l'appui et la coordination de la direction interministérielle du numérique (DINUM), sa propre feuille de route. Chacune présente les ambitions et les actions prioritaires concrètes lancées, à lancer ou à expérimenter. Cela n'aurait pas été possible sans l’engagement et la mobilisation de tous.
 
