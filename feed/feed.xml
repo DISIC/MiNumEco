@@ -5,12 +5,24 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2022-03-21T00:00:00Z</updated>
+	<updated>2022-04-04T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Loi 3DS, une nouveauté pour les dons informatiques de l’État</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/loi3ds-dons-informatiques/"/>
+		<updated>2022-04-04T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/loi3ds-dons-informatiques/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/loi3ds-dons.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;La loi 3DS relative à la différenciation, la décentralisation, et la déconcentration porte diverses mesures de simplification de l’action publique locale. Depuis le 21 février, les dons de biens informatiques des organismes publics sont réformés.&lt;/p&gt;
+&lt;p&gt;Afin de s’engager dans l’économie circulaire, l’État a développé en 2019 un &lt;a href=&quot;https://dons.encheres-domaine.gouv.fr/&quot;&gt;site de dons mobiliers de l’État&lt;/a&gt; afin d’accompagner les administrations dans leurs dons de biens mobiliers de faible valeur dont elles n’ont plus l’usage.&lt;/p&gt;
+&lt;p&gt;Depuis la loi 3DS du 21 février 2022, les organismes publics peuvent désormais donner leurs matériels informatiques &lt;strong&gt;à des associations reconnues d’intérêt général&lt;/strong&gt; dont l’objet statutaire est d’équiper, de former et d’accompagner des personnes en situation de précarité. Ces associations pourront céder les dons informatiques à un prix solidaire fixé par décret, à destination des personnes en situation de précarité. Il était auparavant interdit à l’État et aux collectivités locales de donner du matériel destiné à la revente, même solidaire. Cette nouvelle loi ouvre de nouvelles possibilités de dons informatiques pour l’État afin de lutter contre l’illectronisme.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Top 5 de bonnes pratiques numérique responsable</title>

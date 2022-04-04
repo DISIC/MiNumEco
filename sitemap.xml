@@ -677,41 +677,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/plans-action-ministeres/a-propos/</loc>
     <lastmod>2022-04-01</lastmod>
   </url>
@@ -734,5 +699,45 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/plans-action-ministeres/les-gains-possibles/</loc>
     <lastmod>2022-04-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/posts/loi3ds-dons-informatiques/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
+    <lastmod>2022-04-04</lastmod>
   </url>
 </urlset>
