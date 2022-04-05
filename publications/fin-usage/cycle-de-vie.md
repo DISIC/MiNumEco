@@ -12,6 +12,8 @@ eleventyNavigation:
   order: 10
 ---
 
+![](/img/fin-usage/cycle-vie.png)
+
 Il y a trois états dans la vie d’un produit
 * Neuf
 * Occasion

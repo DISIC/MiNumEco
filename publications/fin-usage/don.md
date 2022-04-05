@@ -20,8 +20,23 @@ La démarche de réforme des biens informatiques doit s’inscrire dans le cadre
 [transcription]
 
 Depuis la loi de finances pour 2021, la loi du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France et la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (3DS), la réglementation des dons permet aux organismes publics de donner sous conditions.
-  
-## À qui donner ? 
+
+![](/img/fin-usage/conditions-don.png)
+
+**Quatre cas de cessions** prévues par les textes en fonction de l’analyse du parc informatique réformé :
+* le bien est valorisable (< 5 ans ou marque premium, en état de marche et les données effacées) ⇒ vente avec mise en concurrence et publicité (article R3211-25 CG3P) par la DNID
+* le bien est peu valorisable (<300€, en état de marche et les données effacées) ⇒ il est proposé aux dons sur le site des dons (article L3212-2 CG3P) 
+* le bien est valorisable ou peu valorisable (en état de marche), il peut être transféré à d’autres administrations ou EPN, via le site des dons  
+* le bien est considéré comme déchet (ne fonctionne plus ou mal) ⇒ il est transmis aux professionnels d’éco-organismes D3E agréés (Ecologic, ecosystem, …).
+
+<div class="fr-highlight">
+
+**Dans la majorité des cas, pour les matériels de plus de 5 ans, le transfert ou le don est la solution prioritaire.**
+
+</div>
+
+
+## À qui donner ?
 
 En dehors du transfert à d’autres administrations, la réglementation des dons permet aux organismes publics de donner sous conditions : 
 1. **Le bénéficiaire appartient à la liste des bénéficiaires potentiels :** personnels des administrations ; collectivités territoriales, leurs Établissement public locaux (EPL) et leurs groupements ; associations de parents d'élèves, de soutien scolaire ou d'étudiants ; associations reconnues d'utilité publique (RUP) et associations reconnues d’intérêt général (RIG) dont l’objet statutaire est d’équiper, de former et d’accompagner des personnes en situation de précarité ; organismes de réutilisation et de réemploi agréés 

@@ -9,7 +9,7 @@ eleventyNavigation:
   title: Acteurs et enjeux du recyclage
   date: 2022-03-22
   image: /img/ressources-ademe/face-cachee-numerique.png
-  order: 15
+  order: 25
 ---
 
 On entend par déchet, « toute substance ou tout objet, ou plus généralement tout bien meuble dont le détenteur se défait ou dont il a l’intention ou l’obligation de se défaire » (Article L541-1-1 du code de l’environnement). En fin de vie, les équipements électriques et électroniques deviennent des Déchets d’Equipements Electriques et Electroniques (DEEE) soumis en Europe à la [responsabilité élargie du producteur](https://expertises.ademe.fr/economie-circulaire/dechets/elements-contexte/filieres-a-responsabilite-elargie-producteurs-rep#:~:text=La%20Responsabilit%C3%A9%20Elargie%20du%20Producteur,%C3%A0%20leur%20fin%20de%20vie) (REP).
