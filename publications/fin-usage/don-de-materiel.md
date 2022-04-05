@@ -1,0 +1,110 @@
+---
+layout: layouts/fin-usage.njk
+title: Le don de matériel
+date: 2022-03-22
+image: /img/ressources-ademe/face-cachee-numerique.png
+type: publication
+eleventyNavigation:
+  parent: finUsage
+  title: Don de matériel
+  date: 2022-03-22
+  image: /img/ressources-ademe/face-cachee-numerique.png
+  order: 20
+---
+
+## Le don de matériel des organismes publics : la réglementation
+
+La démarche de réforme des biens informatiques doit s’inscrire dans le cadre de la réglementation et de la démarche des [services publics écoresponsables](https://www.ecologie.gouv.fr/services-publics-ecoresponsables). L’objectif est d’optimiser la valorisation et la gestion durable de ce patrimoine.
+
+[illustration]
+[transcription]
+
+Depuis la loi de finances pour 2021, la loi du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France et la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (3DS), la réglementation des dons permet aux organismes publics de donner sous conditions.
+  
+## À qui donner ? 
+
+En dehors du transfert à d’autres administrations, la réglementation des dons permet aux organismes publics de donner sous conditions : 
+1. **Le bénéficiaire appartient à la liste des bénéficiaires potentiels :** personnels des administrations ; collectivités territoriales, leurs Établissement public locaux (EPL) et leurs groupements ; associations de parents d'élèves, de soutien scolaire ou d'étudiants ; associations reconnues d'utilité publique (RUP) et associations reconnues d’intérêt général (RIG) dont l’objet statutaire est d’équiper, de former et d’accompagner des personnes en situation de précarité ; organismes de réutilisation et de réemploi agréés 
+“entreprise solidaire d'utilité sociale” en application du II de l’article L. 3332-17-1 du code du travail. 
+2. **La valeur unitaire des biens donnés n'excède pas 300€.**
+3. **Les biens donnés ne sont pas revendus.** La loi 3DS a introduit une exception en permettant aux associations reconnues d’utilité publique (RUP) et aux associations reconnues d’intérêt général (RIG) de revendre les biens reçus en dons, à des personnes en situation de précarité ou à des associations œuvrant en faveur de telles personnes dès lors que le prix dit « solidaire » des biens informatiques ne dépasse pas un seuil défini par décret. Ce tarif solidaire sera fixé par décret.
+
+## Comment donner ?
+
+<div class="fr-highlight">
+
+**Le [site des dons mobiliers du Domaine](https://dons.encheres-domaine.gouv.fr/).**
+
+</div>
+
+**Utilisation**
+
+1. Créer son compte 
+2. Rédiger son offre avec descriptif, photos et contact 
+3. Définir la durée de réservation du don aux autres administrations (15 jours) puis la date limite de validité de l’offre 
+4. Publication de l’offre, après validation par le Domaine 
+5. Remise du bien : vérification de l’éligibilité du bénéficiaire et signature d’une convention de dons ou de transfert.
+
+## Chiffres et perspectives
+
+### Quelques chiffres de dons tous biens confondus
+
+<div class="fr-table">
+
+||**2020**|**2021**|
+| :- | :- | :- |
+|**Nombre de biens publiés**|2547|8294 (+225%)|
+|**Taux de biens attribués**| 57%   |59%|
+|à des personnes publiques (État)| *57%* | *49%* |
+|à des associations et autres organismes (collectivités territoriales, établissements publics, groupements)| *43%* | *51%*  |
+
+</div>
+
+### Quelques chiffres de dons informatiques (2021)
+
+<div class="fr-highlight">
+
+**Les dons de matériel informatique représentent 40% des dons** 
+
+</div>
+
+<div class="fr-table">
+
+||**Publiés**|**Taux d’attribution**|**Attributions aux personnes publiques**|**Attributions aux autres bénéficiaires**|
+| :- | :- | :- | :- | :- |
+|**Ministère de la Culture**|13    |100%    |100%|-      |
+|**Ministère de la Justice**|6    |-      |-      |-      |
+|**Ministère de la Transition écologique**|788    |61%    |78%|22%|
+|**Ministère de l'Agriculture et de l'Alimentation**|26    |-      |-      |-      |
+|**Ministère de l'Économie, des Finances et de la Relance**|2459    |1667    |29%|71%|
+|**Ministère de l'Éducation nationale, de la Jeunesse et des Sports**|2    |100%|-      |100%|
+|**Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation**|1    |100%|100%    |-      |
+|**Ministère de l'Intérieur**|1    |-      |-      |-      |
+|**Total**|**3 296**    |**66%**   |**41%**|**59%**|
+
+</div>
+
+### Le don, un levier suivi dans la démarche Services publics écoresponsables
+
+Les **indicateurs de suivi** de la démarche « Services publics écoresponsables » sur les dons :
+
+- nombre de biens transférés à d’autres personnes publiques
+- nombre de biens donnés à des associations, fondations, autres organismes
+- nombre de bénéficiaires de dons
+
+### Les perspectives 
+
+Deux décrets sont à venir :
+
+- sur le **prix solidaire** de revente des biens informatiques reçus en dons
+- sur les **objectifs de dons informatiques** **fonctionnels** en application de la loi du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France : *« Les équipements informatiques fonctionnels dont les services de l'Etat ou les collectivités territoriales et leurs groupements se séparent sont orientés vers le réemploi ou la réutilisation, y compris selon les modalités définies à l'article L. 3212-2 du code général de la propriété des personnes publiques, dans des proportions, selon un calendrier et suivant des modalités définis par décret. Les équipements informatiques de plus de dix ans ne sont pas concernés par cette obligation. Ils sont orientés vers le recyclage. »*
+
+## En savoir plus
+
+- [Site internet des dons des biens mobiliers du Domaine](https://dons.encheres-domaine.gouv.fr/)
+- [Mémento juridique et pratique des dons établi par la DNID](https://dons.encheres-domaine.gouv.fr/accueil/conditions-generales)
+- [Guide du donneur](https://dons.encheres-domaine.gouv.fr/sites/default/files/2021-09/Site%20des%20dons%20-%20Guide%20utilisateur%20V4%20-%20Profil%20Donneur.pdf)
+- [Modèle de convention de cession à titre gratuit à des associations ou autres organismes](https://dons.encheres-domaine.gouv.fr/sites/default/files/2020-05/mod%C3%A8le%20convention%20cession%20%C3%A0%20titre%20gratuit%20%C3%A0%20des%20associations%20ou%20autres%20organismes.odt)
+- [Modèle de convention de transfert de biens entre administrations ](https://dons.encheres-domaine.gouv.fr/sites/default/files/2020-05/mod%C3%A8le%20convention%20transfert%20de%20biens%20entre%20administrations.odt)
+- [Site internet des ventes du Domaine](https://encheres-domaine.gouv.fr/)
+- [Les commissariats aux ventes territorialement compétents](https://encheres-domaine.gouv.fr/hermes/nous_contacter)
