@@ -36,7 +36,7 @@ layout: layouts/base.njk
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
                 <ul class="fr-sidemenu__list">
                     <li class="fr-sidemenu__item {% if '/publications/fin-usage/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/fin-usage/" {% if '/publications/plans-action-ministeres/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
+                        <a class="fr-sidemenu__link" href="/publications/fin-usage/" {% if '/publications/fin-usage/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
                     </li>
 
                     {% for item in collections.all | eleventyNavigation("finUsage") %}

@@ -1,12 +1,12 @@
 ---
 layout: layouts/fin-usage.njk
-title: Le don de matériel
+title: Focus sur le don
 date: 2022-03-22
 image: /img/ressources-ademe/face-cachee-numerique.png
 type: publication
 eleventyNavigation:
   parent: finUsage
-  title: Don de matériel
+  title: Focus sur le don
   date: 2022-03-22
   image: /img/ressources-ademe/face-cachee-numerique.png
   order: 20

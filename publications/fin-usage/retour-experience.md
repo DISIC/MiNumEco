@@ -39,11 +39,12 @@ La démarche est organisée par la DSI mais avec l’implication de tous les age
 - Travail des personnes en situation de handicap
 - Diminution de la fracture numérique via des dons ciblés vers les publics précaires
 
-## Démarche historique
+## La démarche
+
+### Une démarche historique
 
 * **2004**. Unédic : traitement généralisé des matériels bureautiques réformés
 * **2008 / 2009**. Extension de la procédure à l'ensemble de Pôle Emploi sur tout le périmètre des équipements électriques et électroniques : PC, imprimantes, onduleurs, switchs, téléphonie, bornes...
-
 
 ### Démarche en partenariat avec des acteurs de l’économie sociale et solidaire sur le territoire pour le traitement
 
@@ -116,7 +117,7 @@ Le coût de revalorisation oscille entre 1,30 et 6,63 euros par pièce.
 
 <div class="fr-table">
 
-|**Catégorie**|**Coût moyen à la pièce (€ HT)**|
+|Catégorie|Coût moyen à la pièce (€ HT)|
 | :- | :- |
 |**PC**|1,30|
 |**Portable**|2,30|
