@@ -677,12 +677,22 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/autres-ressources/</loc>
+    <lastmod>2022-03-22</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/cycle-de-vie/</loc>
     <lastmod>2022-03-22</lastmod>
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/don-de-materiel/</loc>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/don/</loc>
+    <lastmod>2022-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/enjeux-recyclage/</loc>
     <lastmod>2022-03-22</lastmod>
   </url>
   
