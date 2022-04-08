@@ -2,7 +2,7 @@
 layout: layouts/fin-usage.njk
 title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
 date: 2022-03-22
-image: /img/ressources-ademe/face-cachee-numerique.png
+image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyExcludeFromCollections: true
 eleventyNavigation:
@@ -10,7 +10,7 @@ eleventyNavigation:
   parent: publications
   title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
   date: 2022-03-22
-  image: /img/ressources-ademe/face-cachee-numerique.png
+  image: /img/fin-usage/atelier-fin-usage.png
   order: 10
 ---
 

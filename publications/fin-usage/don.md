@@ -2,13 +2,13 @@
 layout: layouts/fin-usage.njk
 title: Focus sur le don
 date: 2022-03-22
-image: /img/ressources-ademe/face-cachee-numerique.png
+image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Focus sur le don
   date: 2022-03-22
-  image: /img/ressources-ademe/face-cachee-numerique.png
+  image: /img/fin-usage/atelier-fin-usage.png
   order: 20
 ---
 
@@ -17,17 +17,35 @@ eleventyNavigation:
 La démarche de réforme des biens informatiques doit s’inscrire dans le cadre de la réglementation et de la démarche des [services publics écoresponsables](https://www.ecologie.gouv.fr/services-publics-ecoresponsables). L’objectif est d’optimiser la valorisation et la gestion durable de ce patrimoine.
 
 [illustration]
-[transcription]
 
-Depuis la loi de finances pour 2021, la loi du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France et la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (3DS), la réglementation des dons permet aux organismes publics de donner sous conditions.
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-1-transcription">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-1-transcription">
 
-![](/img/fin-usage/conditions-don.png)
+* **Loi de finances pour 2021** du 29 décembre 2020
+Autorisation de dons de biens réformés notamment informatiques de l’État à destination des collectivités territoriales, leurs groupements et leurs établissements publics
+* **Loi REEN du 15 novembre 2021**
+Loi visant à réduire l’empreinte environnementale du numérique
+Autorisation de dons de biens informatiques réformés de l’Etat aux organismes agréés ESUS (entreprises solidaires d’utilité sociale) et aux associations d’intérêt général dont l’objet statutaire est d’équiper, de former et d’accompagner des personnes en situation de précarité.
+* **Loi 3DS du 21 février 2022**
+Loi relative à la différenciation, décentralisation, déconcentration et portant diverses mesures de simplification de l’action publique locale
+    * Elargissement des possibilités de dons des collectivités territoriales : peuvent donner des biens réformés dans les mêmes conditions que l’État (dons de mobiliers à des associations RUP, de biens informatiques aux organismes ESUS, ...)
+    * les associations accompagnant des personnes précaires peuvent revendre les biens informatiques reçus en dons à un prix solidaire fixé par décret.
 
-**Quatre cas de cessions** prévues par les textes en fonction de l’analyse du parc informatique réformé :
+</div>
+</section>
+
+
+### Quatre cas de cessions
+
 * le bien est valorisable (< 5 ans ou marque premium, en état de marche et les données effacées) ⇒ vente avec mise en concurrence et publicité (article R3211-25 CG3P) par la DNID
 * le bien est peu valorisable (<300€, en état de marche et les données effacées) ⇒ il est proposé aux dons sur le site des dons (article L3212-2 CG3P) 
 * le bien est valorisable ou peu valorisable (en état de marche), il peut être transféré à d’autres administrations ou EPN, via le site des dons  
 * le bien est considéré comme déchet (ne fonctionne plus ou mal) ⇒ il est transmis aux professionnels d’éco-organismes D3E agréés (Ecologic, ecosystem, …).
+
+![](/img/fin-usage/conditions-don.png)
 
 <div class="fr-highlight">
 

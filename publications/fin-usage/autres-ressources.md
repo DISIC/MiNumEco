@@ -2,13 +2,13 @@
 layout: layouts/fin-usage.njk
 title: Autres ressources
 date: 2022-03-22
-image: /img/ressources-ademe/face-cachee-numerique.png
+image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Autres ressources
   date: 2022-03-22
-  image: /img/ressources-ademe/face-cachee-numerique.png
+  image: /img/fin-usage/atelier-fin-usage.png
   order: 70
 ---
 
@@ -29,5 +29,6 @@ eleventyNavigation:
 
 ## DEEE
 
+- [Equipements électriques et électroniques : données 2020](https://librairie.ademe.fr/dechets-economie-circulaire/5191-equipements-electriques-et-electroniques-donnees-2020.html), ADEME
 - [Guide DEEE de EcoInfo](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/07/Guide_DEEE_V7-4-1.pdf), juillet 2019
 - [TrackDechets](https://trackdechets.beta.gouv.fr/)

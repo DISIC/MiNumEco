@@ -2,13 +2,13 @@
 layout: layouts/fin-usage.njk
 title: "Retour d’expérience : la démarche d’économie circulaire à Pôle Emploi"
 date: 2022-03-22
-image: /img/ressources-ademe/face-cachee-numerique.png
+image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: "Retour d’expérience : la démarche d’économie circulaire à Pôle Emploi"
   date: 2022-03-22
-  image: /img/ressources-ademe/face-cachee-numerique.png
+  image: /img/fin-usage/atelier-fin-usage.png
   order: 30
 ---
 

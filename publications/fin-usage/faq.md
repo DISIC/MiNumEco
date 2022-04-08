@@ -2,13 +2,13 @@
 layout: layouts/fin-usage.njk
 title: Foire aux questions
 date: 2022-03-22
-image: /img/ressources-ademe/face-cachee-numerique.png
+image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Foire aux questions
   date: 2022-03-22
-  image: /img/ressources-ademe/face-cachee-numerique.png
+  image: /img/fin-usage/atelier-fin-usage.png
   order: 40
 ---
 
