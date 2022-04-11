@@ -92,7 +92,20 @@ Exemple de projet ou d'action en cours : réflexion sur la création d’une fi
 </h3>
 <div class="fr-collapse" id="figure-processus-videgrenier">
 
-...
+1. Demande de vide grenier en opportunités : fin de bail, saturation espace de stockage en agence, DR ou site. Inventaire en DR, agence, ou site DSI.
+2. Réception inventaire réalisé sous la responsabilité des SDP
+    * Contrôles inventaire.
+    * Sortie comptable.
+    * Demande de devis.
+3. Réalisation du devis
+4. Passation commande
+    * Attribution du lot.
+    * Planification et suivi.
+    * Mise à jour de la base une fois l’enlèvement réalisé par prestataire DEEE.
+5. Enlèvement du lot 
+    * Catégorisation des matériels (reconditionnement, réemploi, recyclage)  
+    * Traitement et effacement des données 
+    * Reporting dont bordereau de suivi de déchet
 
 </div>
 </section>
@@ -102,6 +115,18 @@ Exemple de projet ou d'action en cours : réflexion sur la création d’une fi
 <button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-processus-don">Processus de dons</button>
 </h3>
 <div class="fr-collapse" id="figure-processus-don">
+
+1. Demande un don de la part d'une association ou d'une ONG
+2. Réception du dossier de demande. Vérification de la disponibilité de matériel éligible.
+3. Vérification de la demande de l’association, contrôle de l’opportunité et établissement de l’agrément pour le don.
+4. Inventaire du matériel à donner.
+    * Transmission du dossier complet (demande + statut fichier de suivi et d’inventaire) à Pôle DEEE 
+    * Effacement des données 
+5. Contrôle de l’inventaire 
+    * Sortie comptable des biens
+    * Go pour mise à disposition des biens par le SDP 
+    * Mise à jour de la base de données
+6. Enlèvement du lot par l'association ou l'ONG
 
 Exemple de projet ou d'action en cours : don de 500 PC auprès de l’association du père Pedro à Madagascar. Vérification de la capacité à réceptionner, installer et utiliser le matériel.
 
@@ -128,7 +153,7 @@ Exemple de projet ou d'action en cours : don de 500 PC auprès de l’associati
 
 ## Coût
 
-La gestion des DEEE mobilise une personne à temps plein à Pôle Emploi. Le coût de prise en charge et de traitement oscille entre 1,30 et 6,63 euros par pièce. Ce coût couvre la prise en charge, l'effacement des données, traitement, déconstruction...
+La gestion des DEEE mobilise une personne à temps plein à Pôle Emploi. Le coût à la charge de Pôle Emploi pour le traitement oscille entre 1,30 et 6,63 euros par pièce. Ce coût couvre la prise en charge, l'effacement des données, le traitement, la déconstruction, etc.
 
 <div class="fr-table">
 

@@ -59,5 +59,46 @@ layout: layouts/base.njk
         {% endif %}
 
         {{ content | safe }}
+
+
+
+        {% if page.url == '/publications/fin-usage/' %}
+            <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+                <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/fin-usage/cycle-de-vie/">Page suivante : Cycle de vie de l’équipement numérique</a>
+            </nav>
+        {% else %}
+            {% set precedenteBonnePratique = null %}
+            {% set couranteBonnePratique = null %}
+            {% set suivanteBonnePratique = null %}
+
+            {% for bonnePratique in collections.all | eleventyNavigationExtended(eleventyNavigation.parent) %}
+                {% if not suivanteBonnePratique %}
+                    {% if couranteBonnePratique %}
+                        {% set suivanteBonnePratique = bonnePratique %}
+                    {% else %}
+                        {% if bonnePratique.url == page.url %}
+                            {% set couranteBonnePratique = bonnePratique %}
+                        {% else %}
+                            {% set precedenteBonnePratique = bonnePratique %}
+                        {% endif %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+            <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+                {% if precedenteBonnePratique %}
+                    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="{{ precedenteBonnePratique.url }}">Page précédente :<br />{{ precedenteBonnePratique.data.title }}</a>
+                {% endif %}
+            </div>
+            
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+                {% if suivanteBonnePratique %}
+                    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ suivanteBonnePratique.url }}">Page suivante :<br />{{ suivanteBonnePratique.data.title }}</a>
+                {% endif %}
+            </div>
+            </nav>
+        {% endif %}
+
     </div>
 </div>
