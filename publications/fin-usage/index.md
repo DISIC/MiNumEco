@@ -1,7 +1,7 @@
 ---
 layout: layouts/fin-usage.njk
 title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
-date: 2022-03-22
+date: 2022-04-14
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyExcludeFromCollections: true
@@ -9,9 +9,9 @@ eleventyNavigation:
   key: finUsage
   parent: publications
   title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
-  date: 2022-03-22
+  date: 2022-04-14
   image: /img/fin-usage/atelier-fin-usage.png
-  order: 10
+  order: 100
 ---
 
 En matière de réduction de l’empreinte environnementale du numérique, l’un des principaux enjeux est d’allonger la durée de vie des équipements. En fin d’usage, pour les matériels fonctionnels, il s’agit de leur donner une seconde vie par le réemploi, en interne dans l’organisation ou bien en externe, en pratiquant la vente ou le don. Pour les équipements non fonctionnels, il s’agit alors de bien s’assurer de leur traitement, notamment leur recyclage.

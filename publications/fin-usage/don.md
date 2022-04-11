@@ -122,7 +122,7 @@ En dehors du transfert à d’autres administrations, la réglementation des don
 |**Ministère de la Justice**|6    |-      |-      |-      |
 |**Ministère de la Transition écologique**|788    |61%    |78%|22%|
 |**Ministère de l'Agriculture et de l'Alimentation**|26    |-      |-      |-      |
-|**Ministère de l'Économie, des Finances et de la Relance**|2459    |1667    |29%|71%|
+|**Ministère de l'Économie, des Finances et de la Relance**|2459    |68%    |29%|71%|
 |**Ministère de l'Éducation nationale, de la Jeunesse et des Sports**|2    |100%|-      |100%|
 |**Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation**|1    |100%|100%    |-      |
 |**Ministère de l'Intérieur**|1    |-      |-      |-      |

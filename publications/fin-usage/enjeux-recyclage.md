@@ -1,13 +1,12 @@
 ---
 layout: layouts/fin-usage.njk
 title: Acteurs et enjeux du recyclage
-date: 2022-03-22
+date: 2022-04-14
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Acteurs et enjeux du recyclage
-  date: 2022-03-22
   image: /img/fin-usage/atelier-fin-usage.png
   order: 25
 ---

@@ -1,13 +1,12 @@
 ---
 layout: layouts/fin-usage.njk
 title: Cycle de vie de l’équipement numérique
-date: 2022-03-22
+date: 2022-04-14
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Cycle de vie de l’équipement numérique
-  date: 2022-03-22
   image: /img/fin-usage/atelier-fin-usage.png
   order: 10
 ---

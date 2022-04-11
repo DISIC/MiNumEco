@@ -1,14 +1,13 @@
 ---
 layout: layouts/fin-usage.njk
 title: Quiz sur la fin d'usage des équipements numériques
-date: 2022-03-22
+date: 2022-04-14
 image: /img/fin-usage/atelier-fin-usage.png
 extrajs: /js/quiz.js
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Quiz
-  date: 2022-03-22
   image: /img/fin-usage/atelier-fin-usage.png
   order: 50
 ---
