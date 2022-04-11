@@ -16,7 +16,7 @@ eleventyNavigation:
 
 La démarche de réforme des biens informatiques doit s’inscrire dans le cadre de la réglementation et de la démarche des [services publics écoresponsables](https://www.ecologie.gouv.fr/services-publics-ecoresponsables). L’objectif est d’optimiser la valorisation et la gestion durable de ce patrimoine.
 
-[illustration]
+![](/img/fin-usage/frise-chrono-lois.png)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -40,12 +40,21 @@ Loi relative à la différenciation, décentralisation, déconcentration et port
 
 ### Quatre cas de cessions
 
+![](/img/fin-usage/conditions-don.png)
+
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-conditions-don">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-conditions-don">
+
 * le bien est valorisable (< 5 ans ou marque premium, en état de marche et les données effacées) ⇒ vente avec mise en concurrence et publicité (article R3211-25 CG3P) par la DNID
 * le bien est peu valorisable (<300€, en état de marche et les données effacées) ⇒ il est proposé aux dons sur le site des dons (article L3212-2 CG3P) 
 * le bien est valorisable ou peu valorisable (en état de marche), il peut être transféré à d’autres administrations ou EPN, via le site des dons  
 * le bien est considéré comme déchet (ne fonctionne plus ou mal) ⇒ il est transmis aux professionnels d’éco-organismes D3E agréés (Ecologic, ecosystem, …).
 
-![](/img/fin-usage/conditions-don.png)
+</div>
+</section>
 
 <div class="fr-highlight">
 
@@ -97,9 +106,13 @@ En dehors du transfert à d’autres administrations, la réglementation des don
 
 <div class="fr-highlight">
 
-**Les dons de matériel informatique représentent 40% des dons** 
+**Les dons de matériel informatique représentent 40% des dons**
 
 </div>
+
+![](/img/fin-usage/don-40-informatique.png)
+
+![](/img/fin-usage/don-stats.png)
 
 <div class="fr-table">
 

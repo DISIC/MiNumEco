@@ -16,7 +16,7 @@ La **démarche d’économie circulaire** de Pôle Emploi pour son matériel inf
 
 La **dimension environnementale** est prise en compte sur l’ensemble de la chaîne de valeur : achat, usage, fin d’usage. La **dimension sociétale** est également prise en compte avec les emplois générés et des conditions de vie améliorées.
 
-La démarche est organisée par la DSI mais avec l’implication de tous les agents qui sont sensibilisés et participent à des événements comme le Cyber World Cleanup Day.  
+La démarche est organisée par la Direction des Systèmes d'Information (DSI) mais avec l’implication de tous les agents qui sont sensibilisés et participent à des événements comme le Cyber World Cleanup Day.  
 
 **La stratégie de la direction des Systèmes d’Information porte sur 4 axes :**
 
@@ -30,8 +30,7 @@ La démarche est organisée par la DSI mais avec l’implication de tous les age
 **Environnemental : priorité à la seconde vie du matériel :**
 
 - Reconditionnement du matériel fonctionnel
-- Déconstruction ou revalorisation des composants
-
+- Déconstruction ou réutilisation des composants
 
 **Social/Sociétal, dans l’ADN de Pôle Emploi :**
 
@@ -51,7 +50,7 @@ La démarche est organisée par la DSI mais avec l’implication de tous les age
 - Ateliers sans frontières
 - Ateliers du bocage
 - Recyclea
-- Avant-garde (outre-mer)
+- Avant-garde (en outre-mer)
 
 ### Réemploi
 
@@ -62,15 +61,20 @@ La démarche est organisée par la DSI mais avec l’implication de tous les age
 
 ### Processus
 
-#### Processus de déstockage national (90%)
+![](/img/fin-usage/process-pole-emploi.png)
+
+<div class="fr-accordions-group">
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-processus-destockage">Processus de déstockage national (90%)</button>
+</h3>
+<div class="fr-collapse" id="figure-processus-destockage">
 
 Exemple de projet ou d'action en cours : réflexion sur la création d’une filière de recyclage de matériel adapté avec d’autres organisations pour des matériels rares ou spécifiques comme les claviers braille.
 
-[illustration ?]
-
 1. Etude pour réaffectation en interne avec effacement des données avec l'outil Blancco
 2. Stockage des matériels réformés et constitution de lots (effacement des données et fourniture de l'inventaire)
-3. Réception des fichiers d'inventaire et contrôle par le Pôle DEEE (préparation sortie comptable et demande de devis auprès des prestataires DEEE)
+3. Réception des fichiers d'inventaire et contrôle par le Pôle DEEE (préparation sortie comptable et demande de devis auprès des prestataires DEEE affiliés à des éco-organismes agréés)
 4. Réalisation du devis
 5. Attribution du lot, passation de commande, planification et suivi
     * effacement des données
@@ -79,15 +83,32 @@ Exemple de projet ou d'action en cours : réflexion sur la création d’une fi
     * Reporting (bordereau de suivi de déchets)
 6. Enlèvement du lot
 
-#### Processus de vide-grenier (10%)
+</div>
+</section>
 
-[illustration ?]
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-processus-videgrenier">Processus de vide-grenier (10%)</button>
+</h3>
+<div class="fr-collapse" id="figure-processus-videgrenier">
 
-#### Processus de dons
+...
+
+</div>
+</section>
+
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-processus-don">Processus de dons</button>
+</h3>
+<div class="fr-collapse" id="figure-processus-don">
 
 Exemple de projet ou d'action en cours : don de 500 PC auprès de l’association du père Pedro à Madagascar. Vérification de la capacité à réceptionner, installer et utiliser le matériel.
 
-[illustration ?]
+</div>
+</section>
+</div>
+
 
 ## Statistiques
 
@@ -107,13 +128,7 @@ Exemple de projet ou d'action en cours : don de 500 PC auprès de l’associati
 
 ## Coût
 
-La gestion des DEEE mobilise une personne à temps plein à Pôle Emploi.
-
-<div class="fr-highlight">
-
-Le coût de revalorisation oscille entre 1,30 et 6,63 euros par pièce. 
-
-</div>
+La gestion des DEEE mobilise une personne à temps plein à Pôle Emploi. Le coût de prise en charge et de traitement oscille entre 1,30 et 6,63 euros par pièce. Ce coût couvre la prise en charge, l'effacement des données, traitement, déconstruction...
 
 <div class="fr-table">
 
@@ -134,6 +149,6 @@ Le coût de revalorisation oscille entre 1,30 et 6,63 euros par pièce.
 
 ## Bénéfice social
 
-- 200 personnes éloignées de l’emploi ou en situation de handicap employées, soit 1,357 million d'euros économisés par la collectivité.
-- 50 encadrants et commerciaux
-- Soit un total de 250 emplois en moyenne
+- 200 personnes éloignées de l’emploi ou en situation de handicap employées, soit 1,4 million d'euros économisés par la collectivité.
+- 50 encadrants et commerciaux.
+- Soit un total de 250 emplois en moyenne.

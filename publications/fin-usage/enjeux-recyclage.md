@@ -16,7 +16,7 @@ On entend par déchet, « toute substance ou tout objet, ou plus généralement
 
 <div class="fr-highlight">
 
-Le principe de responsabilité élargie du producteur, selon lequel les producteurs, c’est-à-dire les personnes responsables de la mise sur le marché de certains produits, peuvent être rendus responsables de financer ou d’organiser la prévention et la gestion des déchets issus de ces produits en fin de vie. Les producteurs choisissent généralement de s’organiser collectivement pour assurer ces obligations dans le cadre d’éco-organismes à but non lucratif, agréés par les pouvoirs publics. La France est l’un des pays ayant le plus recours à ce dispositif. En savoir plus : [Cadre général des filières à responsabilité élargie des producteurs](https://www.ecologie.gouv.fr/cadre-general-des-filieres-responsabilite-elargie-des-producteurs) (site du ministère de la Transition écologique)
+Le principe de responsabilité élargie du producteur, selon lequel les producteurs, c’est-à-dire les personnes responsables de la mise sur le marché de certains produits, peuvent être rendus responsables de financer ou d’organiser la prévention et la gestion des déchets issus de ces produits en fin de vie. Les producteurs choisissent généralement de s’organiser collectivement pour assurer ces obligations dans le cadre d’éco-organismes à but non lucratif, agréés par les pouvoirs publics. La France est l’un des pays ayant le plus recours à ce dispositif. Pour en savoir plus, voir [le cadre général des filières à responsabilité élargie des producteurs](https://www.ecologie.gouv.fr/cadre-general-des-filieres-responsabilite-elargie-des-producteurs) (site du ministère de la Transition écologique)
 
 </div>
 
@@ -33,6 +33,14 @@ Selon l'ADEME, [près de 850000 tonnes de DEEE ont été collectés en 2020](htt
 
 ## Valorisation
 
+<figure class="fr-content-media" role="group" aria-label="© Légende de l‘image">
+    <div class="fr-content-media__img">
+        <img src="/img/fin-usage/cartes-et-puces.jpg" class="fr-responsive-img" alt="" />
+    </div>
+    <figcaption class="fr-content-media__caption">Recyclage des cartes électroniques</figcaption>
+</figure>
+
+
 On distingue différents types de valorisation des déchets, dont les définitions précises sont inscrites dans le Code de l'environnement :
 
 * **Réemploi** : toute opération par laquelle des substances, matières ou produits qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus.
@@ -41,14 +49,14 @@ On distingue différents types de valorisation des déchets, dont les définitio
 * **Valorisation matière** : toute opération de valorisation autre que la valorisation énergétique et le retraitement en matières destinées à servir de combustible ou d'autre moyen de produire de l'énergie. Elle comprend notamment la préparation en vue de la réutilisation, le recyclage, le remblayage et d'autres formes de valorisation matière telles que le retraitement des déchets en matières premières secondaires à des fins d'ingénierie dans les travaux de construction de routes et d'autres infrastructures.
 * **Recyclage** : toute opération de valorisation par laquelle les déchets, y compris les déchets organiques, sont retraités en substances, matières ou produits aux fins de leur fonction initiale ou à d'autres fins. Les opérations de valorisation énergétique des déchets, celles relatives à la conversion des déchets en combustible et les opérations de remblayage ne peuvent pas être qualifiées d'opérations de recyclage.
 
-![](/img/fin-usage/cartes-et-puces.jpg)
-
 **Les taux de performance**
 
-[illustration]
-[transcription]
+![](/img/fin-usage/taux-de-performance.png)
+
+Selon les chiffres 2020 de l'ADEME : 
 
 * Taux de réutilisation et recyclage : 76 %
+
 * Taux de valorisation: 87 %
 
 ## Les obligations du détenteur de déchets
