@@ -19,7 +19,9 @@ Il y a trois états dans la vie d’un produit
 * Occasion
 * Déchet
 
-Un objet neuf ou d’occasion peut faire l’objet d’un réemploi qui peut prendre les formes suivantes : 
+## Un équipement neuf ou d’occasion peut faire l’objet d’un réemploi
+
+Ce réemploi peut prendre les formes suivantes. 
 
 ### 1. Remise en état
 
@@ -57,3 +59,12 @@ Pour en savoir plus, voir la bonne pratique [Réemployer en vendant les équipem
 </div>
 
 Lors du transfert de propriété d’un objet neuf ou d’occasion à l’unité, on parle de cession. Si l’objet passe de l’état neuf ou d’occasion à l’état de déchet, il s’agit d’un abandon, et on le compte alors en kilogrammes.
+
+## Un équipement non fonctionnel et non réparable est à valoriser
+
+On distingue différents types de valorisation des déchets :
+* Valorisation matière
+    * Réutilisation
+    * Recyclage
+    * Remblayage
+* Valorisation énergétique

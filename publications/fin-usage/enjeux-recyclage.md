@@ -56,7 +56,6 @@ On distingue différents types de valorisation des déchets, dont les définitio
 Selon les chiffres 2020 de l'ADEME : 
 
 * Taux de réutilisation et recyclage : 76 %
-
 * Taux de valorisation: 87 %
 
 ## Les obligations du détenteur de déchets
