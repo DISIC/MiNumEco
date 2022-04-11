@@ -677,42 +677,7 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/autres-ressources/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/cycle-de-vie/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/don/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/enjeux-recyclage/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/faq/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/glossaire/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/quiz-fin-usage-deee/</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/retour-experience/</loc>
     <lastmod>2022-03-22</lastmod>
   </url>
   
@@ -784,5 +749,40 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
     <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/autres-ressources/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/cycle-de-vie/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/enjeux-recyclage/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/faq/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/glossaire/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/quiz-fin-usage-deee/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/retour-experience/</loc>
+    <lastmod>2022-04-14</lastmod>
   </url>
 </urlset>
