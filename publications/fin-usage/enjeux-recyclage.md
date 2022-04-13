@@ -63,7 +63,7 @@ Les obligations sont inscrites dans le Code de l’environnement :
 
 *	[Article L541-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023268608/) : responsabilité du déchet jusqu’à sa valorisation ou élimination finale, même en cas de transfert à un tiers.
 * [Article L541-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041599099/) : responsabilité du producteur en système individuel de collecte ou de l’éco-organisme agréé de gérer la fin de vie des déchets. 
-* [Article L541-45](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025144824/) : obligation de remettre un bordereau d’accompagnement des déchets en cas de transfert à un tiers si le producteur n’est pas connu, sauf pour les piles et accumulateurs usagers et les DEEE ou fluides frigorigènes usagés dont la reprise est obligatoire. 
+* [Article R541-45](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043308106) : obligation de remettre un bordereau de suivi des déchets en cas de transfert à un tiers si le producteur n’est pas connu, sauf pour les piles et accumulateurs usagers et les DEEE ou fluides frigorigènes usagés dont la reprise est obligatoire « par les fabricants ou leurs éco-organismes ».
 
 ## Qu’est-ce qu’un éco-organisme ?
 

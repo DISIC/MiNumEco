@@ -126,7 +126,7 @@ En dehors du transfert à d’autres administrations, la réglementation des don
 |**Ministère de l'Éducation nationale, de la Jeunesse et des Sports**|2    |100%|-      |100%|
 |**Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation**|1    |100%|100%    |-      |
 |**Ministère de l'Intérieur**|1    |-      |-      |-      |
-|**Total**|**3 296**    |**66%**   |**41%**|**59%**|
+|**Total**|**3296**    |**66%**   |**41%**|**59%**|
 
 </div>
 

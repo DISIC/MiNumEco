@@ -30,4 +30,5 @@ eleventyNavigation:
 
 - [Equipements électriques et électroniques : données 2020](https://librairie.ademe.fr/dechets-economie-circulaire/5191-equipements-electriques-et-electroniques-donnees-2020.html), ADEME
 - [Guide DEEE de EcoInfo](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/07/Guide_DEEE_V7-4-1.pdf), juillet 2019
+- [Questions / Réponses « Entre droits et devoirs, quelles nouvelles dispositions réglementaires pour la gestion des DEEE en 2014 »](https://www.e-dechet.com/outils/telecharger-documentation/ecologic-faq-2014)
 - [TrackDechets](https://trackdechets.beta.gouv.fr/)

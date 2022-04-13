@@ -37,8 +37,8 @@ Pour en savoir plus,  voir la bonne pratique [Réemployer en remettant en état]
 ### 2. Don / Réaffectation
 
 * Cession à titre gratuit
-* Valeur <= 300 euros
-* Pas de revente
+* Valeur unitaire inférieure ou égale à 300 euros
+* Pas de revente par le bénéficiaire du don
 
 <div class="fr-highlight">
 
@@ -49,7 +49,7 @@ Pour en savoir plus, voir la bonne pratique [Réemployer en donnant les équipem
 ### 3. Vente
 
 * Cession à titre onéreux
-* Valeur > 300 euros
+* Valeur unitaire supérieure à 300 euros
 
 <div class="fr-highlight">
 
