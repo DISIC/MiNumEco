@@ -1,16 +1,14 @@
 ---
 layout: layouts/post.njk
 title: Liste des ressources ADEME sur le numérique responsable
-date: 2021-12-09
+date: 2022-04-14
 image: /img/ressources-ademe/face-cachee-numerique.png
-link: https://www.ademe.fr/face-cachee-numerique
-linkTitle: Voir le guide ADEME « La face cachée du numérique »
 type: publication
 eleventyNavigation:
   key: ressources-ademe
   parent: publications
   title: Ressources ADEME sur le numérique responsable
-  date: 2021-04-29
+  date: 2022-04-14
   image: /img/ressources-ademe/face-cachee-numerique.png
   order: 10
 ---
@@ -20,9 +18,9 @@ eleventyNavigation:
 ### Guides
 
 - [« En route vers la sobriété numérique »](https://librairie.ademe.fr/consommer-autrement/5086-en-route-vers-la-sobriete-numerique-9791029718755.html), novembre 2021
--	[« Guide écoresponsable au bureau »](https://www.ademe.fr/eco-responsable-bureau)
--	[« Guide La face cachée du numérique »](https://www.ademe.fr/face-cachee-numerique)
--	[« Guide Les impacts du smartphone »](https://www.ademe.fr/impacts-smartphone)
+-	[« Guide écoresponsable au bureau »](https://librairie.ademe.fr/cadic/174/guide-pratique-ecoresponsable-au-bureau.pdf?modal=false), pdf, juin 2020
+-	[« Guide La face cachée du numérique »](https://librairie.ademe.fr/cadic/4932/guide-pratique-face-cachee-numerique.pdf?modal=false), pdf, janvier 2021
+-	[« Guide Les impacts du smartphone »](https://www.ademe.fr/impacts-smartphone), décembre 2019
 
 ### Études
 
@@ -37,7 +35,7 @@ eleventyNavigation:
 
 ### Infographie
 
--	[Télétravailler léger](https://www.ademe.fr/sites/default/files/assets/documents/infographie-comment-teletravailler-leger.pdf) (.pdf)
+- [Télétravailler léger](https://librairie.ademe.fr/consommer-autrement/249-comment-teletravailler-leger-.html)
 - [Les métaux : des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/)
 
 ### Articles
