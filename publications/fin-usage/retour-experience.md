@@ -11,16 +11,16 @@ eleventyNavigation:
   order: 30
 ---
 
-La **démarche d’économie circulaire** de Pôle Emploi pour son matériel informatique s’inscrit dans la politique de lutte contre le changement climatique qui est une priorité du plan stratégique de l’organisation et de sa feuille de route RSE. 
+La **démarche d’économie circulaire** de Pôle Emploi pour son matériel informatique s’inscrit dans la politique de lutte contre le changement climatique qui est une priorité du plan stratégique de l’organisation et de sa feuille de route RSE (responsabilité sociétale des entreprises). 
 
 La **dimension environnementale** est prise en compte sur l’ensemble de la chaîne de valeur : achat, usage, fin d’usage. La **dimension sociétale** est également prise en compte avec les emplois générés et des conditions de vie améliorées.
 
 La démarche est organisée par la Direction des Systèmes d'Information (DSI) mais avec l’implication de tous les agents qui sont sensibilisés et participent à des événements comme le Cyber World Cleanup Day.  
 
-**La stratégie de la direction des Systèmes d’Information porte sur 4 axes :**
+**La stratégie RSE de la direction des Systèmes d’Information porte sur 4 axes :**
 
-- Volonté d’œuvrer pour un SI durable et responsable 
-- Obtenir et suivre des métriques sur l’intégralité du cycle de vie des services numériques
+- Volonté d’œuvrer pour un SI durable et responsable
+- Diminuer l’empreinte environnementale du Système d'Information (SI) et de la DSI de Pôle Emploi
 - Renforcer et transmettre des valeurs RSE et numérique responsable
 - Développer des produits et services numériques les plus inclusifs possible
 
@@ -147,7 +147,7 @@ Exemple de projet ou d'action en cours : don de 500 PC auprès de l’associati
 
 - 55 demandes étudiées
 - 1185 matériels donnés aux Restos du Cœur
-- PC donnés via des structures d’insertion dans le cadre du projet « Territoire 0 chômeur »
+- 1041 ordinateurs et écrans donnés via des structures d’insertion dans le cadre du projet « Territoire 0 chômeur »
 - 597 pièces données aux écoles pour réduire la fracture numérique et 
 
 ## Coût
@@ -175,4 +175,3 @@ La gestion des DEEE mobilise une personne à temps plein à Pôle Emploi. Le co�
 
 - 200 personnes éloignées de l’emploi ou en situation de handicap employées, soit 1,4 million d'euros économisés par la collectivité.
 - 50 encadrants et commerciaux.
-- Soit un total de 250 emplois en moyenne.
