@@ -272,11 +272,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/</loc>
-    <lastmod>2021-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/formations/</loc>
     <lastmod>2021-12-17</lastmod>
   </url>
@@ -753,6 +748,11 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/retour-experience/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/</loc>
     <lastmod>2022-04-14</lastmod>
   </url>
   
