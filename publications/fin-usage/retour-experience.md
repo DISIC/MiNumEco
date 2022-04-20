@@ -1,7 +1,7 @@
 ---
 layout: layouts/fin-usage.njk
 title: "Retour d’expérience : la démarche d’économie circulaire à Pôle Emploi"
-date: 2022-04-14
+date: 2022-04-20
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
@@ -73,7 +73,7 @@ Exemple de projet ou d'action en cours : réflexion sur la création d’une fi
 
 1. Etude pour réaffectation en interne avec effacement des données avec l'outil Blancco
 2. Stockage des matériels réformés et constitution de lots (effacement des données et fourniture de l'inventaire)
-3. Réception des fichiers d'inventaire et contrôle par le Pôle DEEE (préparation sortie comptable et demande de devis auprès des prestataires DEEE affiliés à des éco-organismes agréés)
+3. Réception des fichiers d'inventaire et contrôle par le Pôle DEEE (préparation sortie comptable et demande de devis auprès des prestataires DEEE partenaires des éco-organismes agréés)
 4. Réalisation du devis
 5. Attribution du lot, passation de commande, planification et suivi
     * effacement des données

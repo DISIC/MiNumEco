@@ -3,7 +3,7 @@ title: "Certificats d’économies d’énergie (CEE) : un programme de sobriét
 description: "Le dispositif de Certificats d’économie d’énergie constitue l’un des principaux instruments de la politique de maîtrise de la demande d’énergie. Le 17 février 2022, cinq nouveaux programmes ont été retenus à la suite de l’appel à programmes lancé  en octobre 2021 par le Ministère de la Transition écologique. L’un d’entre eux, le programme So.Num, concerne la sobriété électrique du numérique."
 image: /img/posts/cee-sobriete-numerique.png
 type: news
-date: 2022-04-14
+date: 2022-04-20
 ---
 
 ![]({{ image }})

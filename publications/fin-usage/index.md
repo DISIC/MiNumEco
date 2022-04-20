@@ -1,15 +1,15 @@
 ---
 layout: layouts/fin-usage.njk
 title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
-date: 2022-04-14
+description: La MiNumEco organise des ateliers avec des experts et des agents publics afin d’approfondir certaines thématiques, éclairer des points précis et apporter des outils pour passer à l’action. Cette restitution est le résultat d’un atelier consacré à la fin d’usage des équipements numériques, produit grâce aux interventions de personnes expertes.
+date: 2022-04-20
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: finUsage
   parent: publications
   title: Fin d'usage, réemploi et fin de vie des équipements numériques, en pratique
-  date: 2022-04-14
+  date: 2022-04-20
   image: /img/fin-usage/atelier-fin-usage.png
   order: 100
 ---

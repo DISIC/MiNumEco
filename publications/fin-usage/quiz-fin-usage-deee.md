@@ -1,7 +1,7 @@
 ---
 layout: layouts/fin-usage.njk
 title: Quiz sur la fin d'usage des équipements numériques
-date: 2022-04-14
+date: 2022-04-20
 image: /img/fin-usage/atelier-fin-usage.png
 extrajs: /js/quiz.js
 type: publication
