@@ -108,7 +108,7 @@
             "answerInformation": "Il s'agit de la <a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026319124\">directive WEEE 2012/19/UE</a> qui a remplacé en 2012 la première directive 2002/95/CE relative aux DEEE."
         },
         {
-            "question": "Les deux éco-organismes français agréés pour les DEEE sont Ecologic et ecosystem.",
+            "question": "Les deux éco-organismes français agréés pour les DEEE numériques sont Ecologic et ecosystem.",
             "answers" : [
                 {
                     "title": "Vrai",
