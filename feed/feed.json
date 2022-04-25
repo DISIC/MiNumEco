@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/fonds-reparation-lancement-du-label-qualirepar/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/fonds-reparation-lancement-du-label-qualirepar/",
+      "title": "Fonds réparation : lancement du label « QualiRépar »",
+      "content_html": "<p><img src=\"/img/posts/label-qualirepar.png\" alt=\"\"></p>\n<p>Avec la promulgation de la loi AGEC (Anti-Gaspillage et Economie Circulaire) en 2020, les éco-organismes Ecologic et ecosystem ont été missionnés pour mettre en œuvre le fonds réparation. Son ambition est de financer un <strong>dispositif d’incitation à la réparation des équipements électriques et électroniques hors garantie</strong> détenus par les ménages français et ainsi contribuer à l’allongement de la durée de vie de ces équipements.</p>\n<h2>La labellisation « QualiRépar », ouverte depuis le 7 avril 2022</h2>\n<p>Le label QualiRépar constitue un point de repère des consommateurs souhaitant s’adresser à un professionnel compétent de proximité. Ouverte aux réparateurs professionnels d’équipements électriques et électroniques détenus par les ménages, ce label réunit un réseau de réparateurs qualifiés, répartis sur l’ensemble du territoire français pour garantir une proximité de service.</p>\n<p>Pour continuer à inciter les consommateurs à se tourner davantage vers la réparation, la seconde étape sera l’ouverture du dispositif « bonus réparation ». Tous les Français pourront alors bénéficier d’une réduction du coût de la réparation pour leurs équipements électriques et électroniques, dès lors qu’ils feront appel à un réparateur labellisé « QualiRépar ».</p>\n<h2>Pour plus d’informations</h2>\n<ul>\n<li><a href=\"https://www.label-qualirepar.fr/\">Site d’information sur le label QualiRépar</a></li>\n<li><a href=\"https://demande-label-qualirepar.fr/\">Plateforme de candidature à la labellisation</a></li>\n</ul>\n",
+      "date_published": "2022-04-25T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/cee-sobriete-numerique/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/cee-sobriete-numerique/",
       "title": "Certificats d’économies d’énergie (CEE) : un programme de sobriété numérique sélectionné",
