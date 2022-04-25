@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Liste des ressources ADEME sur le numérique responsable
+description: Guides, études, expositions, articles, infographies proposées par l'Ademe sur les impacts environnementaux du numérique et les moyens de les réduire.
 date: 2022-04-14
 image: /img/ressources-ademe/face-cachee-numerique.png
 type: publication
