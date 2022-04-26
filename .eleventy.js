@@ -6,6 +6,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdown = require('markdown-it')({ html: true })
+const markdownLinkAttributes = require("markdown-it-link-attributes");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -87,7 +88,13 @@ module.exports = function(eleventyConfig) {
     html: true,
     breaks: true,
     linkify: true
-  });
+  }).use(markdownLinkAttributes, [{
+    pattern: /^https?:\/\//,
+    attrs: {
+      target: "_blank",
+      rel: "noopener",
+    },
+  }]);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides

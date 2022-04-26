@@ -29,5 +29,8 @@
     "luxon": "^1.25.0",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.5"
+  },
+  "dependencies": {
+    "markdown-it-link-attributes": "^4.0.0"
   }
 }
