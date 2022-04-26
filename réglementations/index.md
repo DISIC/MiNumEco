@@ -4,7 +4,7 @@ title: Réglementations
 date: 2022-02-15
 eleventyNavigation:
   key: Réglementations
-  order: 30
+  order: 35
 ---
 
 <div class="fr-highlight">

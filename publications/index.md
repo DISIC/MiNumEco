@@ -5,5 +5,5 @@ permalink: /publications/
 eleventyNavigation:
   key: publications
   title: Publications
-  order: 50
+  order: 25
 ---

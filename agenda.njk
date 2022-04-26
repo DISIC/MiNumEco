@@ -1,0 +1,30 @@
+---
+layout: layouts/post.njk
+permalink: /agenda/
+title: Agenda
+description: Les évènements auxquels la MiNumEco participe.
+eleventyNavigation:
+  key: agenda
+  title: Agenda
+  order: 32
+---
+
+<p>{{ description }}</p>
+
+{% set postslist = collections.agenda %}
+
+<ul>
+{% for post in postslist %}
+  <li>
+    <h2>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h2>
+    <p>
+      <b><time datetime="{{ post.date | htmlDateString }}">{{ post.data.dateLabel }}</time></b>
+    </p>
+    <p>
+      {{ post.data.description }}
+    </p>
+  </li>
+{% endfor %}
+</ul>
