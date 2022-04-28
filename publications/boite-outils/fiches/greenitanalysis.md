@@ -1,6 +1,6 @@
 ---
 layout: layouts/outil.njk
-title: Green IT Analysis
+title: GreenIT-Analysis
 description: Mesure des impacts environnementaux d'une page web
 tags: tool
 date: 2021-11-09
