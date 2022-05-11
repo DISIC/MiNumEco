@@ -272,11 +272,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/formations/</loc>
-    <lastmod>2021-12-17</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/formation-ecoconception/</loc>
     <lastmod>2021-12-17</lastmod>
   </url>
@@ -769,6 +764,11 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/afnor-spec-ecoconception/</loc>
     <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/formations/</loc>
+    <lastmod>2022-05-11</lastmod>
   </url>
   
   <url>
