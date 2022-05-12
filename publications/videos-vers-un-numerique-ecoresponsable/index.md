@@ -10,7 +10,7 @@ eleventyNavigation:
   title: Vers un numérique écoresponsable
   date: 2022-05-12
   image: /img/videos/videos-vers-un-numerique-ecoresponsable.png
-  order: 30
+  order: 100
 ---
 
 ## Episode #1 : Les impacts environnementaux du numérique
