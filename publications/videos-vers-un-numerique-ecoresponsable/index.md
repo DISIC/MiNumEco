@@ -1,11 +1,10 @@
 ---
-layout: layouts/plans-action.njk
+layout: layouts/post.njk
 title: Vers un numérique écoresponsable
 description: La MiNumEco présente son programme "Vers un numérique écoresponsable", une série de vidéos pour aider à prendre en compte et réduire l'empreinte environnementale du numérique.
 date: 2022-05-12
 image: /img/videos/videos-vers-un-numerique-ecoresponsable.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   parent: publications
   title: Vers un numérique écoresponsable
@@ -17,8 +16,8 @@ eleventyNavigation:
 ## Episode #1 : Les impacts environnementaux du numérique
 
 <iframe
-  width="480"
-  height="595"
+  width="400"
+  height="496"
   src="https://www.dailymotion.com/embed/video/k7JQY0UuAARU2PxXo2p?autoplay=1"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/k7JQY0UuAARU2PxXo2p?autoplay=1><img src=/img/videos/apercu-episode1.jpg alt='Les impacts environnementaux du numérique'><span aria-hidden='true'>▶</span></a>"
   frameborder="0"
