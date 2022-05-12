@@ -10,7 +10,7 @@ Présentation puis échanges sur le Référentiel général d'écoconception des
 
 Intervenants :
 
-* Richard HANNA, chargé de mission interministériel numérique responsable, DINUM
+* Richard HANNA, chargé de mission interministérielle numérique responsable, DINUM
 * Philippe QUEMERAIS, chargé de mission Numérique Responsable, UR1
 
 Ouvert à tous
