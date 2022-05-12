@@ -3,14 +3,14 @@ layout: layouts/plans-action.njk
 title: Vers un numérique écoresponsable
 description: La MiNumEco présente son programme "Vers un numérique écoresponsable", une série de vidéos pour aider à prendre en compte et réduire l'empreinte environnementale du numérique.
 date: 2022-05-12
-image: /img/videos-vers-un-numerique-ecoresponsable.png
+image: /img/videos/videos-vers-un-numerique-ecoresponsable.png
 type: publication
 eleventyExcludeFromCollections: true
 eleventyNavigation:
   parent: publications
   title: Vers un numérique écoresponsable
   date: 2022-05-12
-  image: /img/videos-vers-un-numerique-ecoresponsable.png
+  image: /img/videos/videos-vers-un-numerique-ecoresponsable.png
   order: 30
 ---
 
