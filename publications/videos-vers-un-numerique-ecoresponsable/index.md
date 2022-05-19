@@ -29,9 +29,9 @@ eleventyNavigation:
 
 <section class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-transcription">Transcription de la vidéo Les impacts environnementaux du numérique</button>
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="transcription-video-1">Transcription de la vidéo Les impacts environnementaux du numérique</button>
   </h2>
-  <div class="fr-collapse" id="accordion-transcription">
+  <div class="fr-collapse" id="transcription-video-1">
 
 Comment réduit-on la pollution numérique d’une organisation ?
 
@@ -67,9 +67,9 @@ Sur les impacts il y a donc un vrai enjeu à avoir une vision systémique. Cela 
 
 <section class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-transcription">Transcription de la vidéo Les bonnes pratiques numérique écoresponsable</button>
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="transcription-video-2">Transcription de la vidéo Les bonnes pratiques numérique écoresponsable</button>
   </h2>
-  <div class="fr-collapse" id="accordion-transcription">
+  <div class="fr-collapse" id="transcription-video-2">
 
 On veut tous réduire l'impact environnemental du numérique de notre organisation, mais concrètement, comment on fait ?
 
