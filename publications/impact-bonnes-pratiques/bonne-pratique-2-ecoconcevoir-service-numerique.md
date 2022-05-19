@@ -60,7 +60,7 @@ Comparaison pour 100000 parcours utilisateur sur une démarche en ligne "comment
   </h2>
   <div class="fr-collapse" id="accordion-sources">
 
-L’hypothèse des gains est issue de l’analyse comparative à l’aide de l’outil [Green IT analysis](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr) d'un parcours utilisateur "quelle démarche pour se pacser ?" effectuée sur le [site du service public français](https://www.service-public.fr/) et [son équivalent en Grande-Bretagne](https://www.gov.uk/).
+L’hypothèse des gains est issue de l’analyse comparative à l’aide de l’outil [Green IT analysis](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr) d'un parcours utilisateur "quelle démarche pour se pacser ?" effectuée sur le [site du service public français](https://www.service-public.fr/) et [son équivalent en Grande-Bretagne](https://www.gov.uk/) qui est plus léger. Dans l'illustration, les gains indiquent la différence entre le site anglais et le site français.
 
   </div>
 </section>
