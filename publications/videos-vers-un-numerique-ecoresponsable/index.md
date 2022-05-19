@@ -50,7 +50,7 @@ Enfin, la troisième phase : la fin de vie, la fin d’usage. Les équipements n
 Sur les impacts il y a donc un vrai enjeu à avoir une vision systémique. Cela implique, à l’échelle des organisations, de prendre en compte tout le cycle de vie des équipements numériques. Pour réduire les impacts environnementaux liés à leur fabrication et à leur fin de vie, il est indispensable d’allonger leur durée de vie.
 
   </div>
-</div>
+</section>
 
 ## Épisode #2 : Les bonnes pratiques numérique écoresponsable
 
@@ -93,4 +93,4 @@ Et pour les centres de données, on recommande de suivre les bonnes pratiques du
 Voilà à peu près les démarches à envisager si on veut aller tous ensemble vers un numérique plus responsable.
 
   </div>
-</div>
+</section>
