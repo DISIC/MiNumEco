@@ -27,4 +27,4 @@ Pour mettre en œuvre cette démarche d'écoconception, on peut s'appuyer sur le
 
 Le résultat escompté ce sont des services numériques respectueux de l’humain et de l’environnement, en intégrant la sécurité, la protection des données personnelles, l’open source, l’accessibilité numérique et l’inclusion grâce à une réflexion globale sur l’usage des technologies.
 
-En savoir plus : [Référentiel général d’écoconception des services numériques (RGESN)]([publications/bonnes-pratiques/](/publications/referentiel-general-ecoconception/))
+En savoir plus : [Référentiel général d’écoconception des services numériques (RGESN)](/publications/referentiel-general-ecoconception/)
