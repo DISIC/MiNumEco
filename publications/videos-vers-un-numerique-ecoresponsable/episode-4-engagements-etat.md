@@ -4,7 +4,7 @@ title: "Épisode #4 : Les engagements de l’État pour un numérique écorespon
 description: Face aux défis climatique et environnemental, si on souhaite que les citoyens, que les agents publics, que les entreprises s’engagent, l’État doit lui même montrer l’exemple et amener toutes les organisations qui le composent à être elles-mêmes exemplaires.
 date: 2022-06-02
 image: /img/videos/apercu-episode4.jpg
-embedVideoUrl: https://www.dailymotion.com/embed/video/kieBud7SXAbwMSy0WET
+embedVideoUrl: https://www.dailymotion.com/embed/video/k2Wc7zFvIkZpB6y1dzq
 tags: ["video"]
 type: video
 ---
