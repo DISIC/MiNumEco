@@ -9,6 +9,8 @@ tags: ["video"]
 type: video
 ---
 
+**Richard Hanna, directeur de projets pour la MiNumEco, DINUM.**
+
 Consommer moins d’équipements numériques et allonger leur durée d’utilisation permet de réduire les impacts environnementaux directs et interne à l'organisation.
 
 Mais il y a aussi des impacts externes à l'organisation, c’est-à-dire ceux liés aux usages de ses services numériques.
