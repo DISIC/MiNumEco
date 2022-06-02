@@ -9,6 +9,8 @@ tags: ["video"]
 type: video
 ---
 
+**Olivier Joviado, co-pilote de la mission interministérielle numérique écoresponsable**
+
 Comment réduit-on la pollution numérique d’une organisation ?
 
 Vous allez certainement évoquer le tri de votre boite mail ou la limitation de vos impressions. Ces écogestes individuels sont loin d’être suffisants.
