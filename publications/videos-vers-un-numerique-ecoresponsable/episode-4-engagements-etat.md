@@ -9,6 +9,8 @@ tags: ["video"]
 type: video
 ---
 
+**Virginie Rozière, cheffe du pôle Conseil DINUM et responsable de la mission MiNumEco.**
+
 Face aux défis climatique et environnemental, si on souhaite que les citoyens, que les agents publics, que les entreprises s’engagent, l’État doit lui même montrer l’exemple et amener toutes les organisations qui le composent à être elles-mêmes exemplaires.
 
 Depuis 2020, l’État inscrit résolument son ambition en termes d’exemplarité sur le numérique écoresponsable.
