@@ -9,6 +9,8 @@ tags: ["video"]
 type: video
 ---
 
+**Murielle Timsit, consultante sobriété numérique.**
+
 On veut tous réduire l'impact environnemental du numérique de notre organisation, mais concrètement, comment on fait ?
 
 Si on a vraiment à cœur d'adopter une démarche numérique écoresponsable, il va falloir agir de façon transverse dans l'organisation. Et ça, ça va se faire en plusieurs étapes.
