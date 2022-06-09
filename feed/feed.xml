@@ -5,12 +5,40 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2022-04-29T00:00:00Z</updated>
+	<updated>2022-06-09T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>L’association Halte à l’Obsolescence Programmée lance le mois du numérique</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/hop-mois-numerique-durable/"/>
+		<updated>2022-06-09T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/hop-mois-numerique-durable/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/hop-mois-numerique.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Entre la Semaine européenne du numérique responsable et la Journée mondiale de l’environnement, les initiatives en faveur d’un numérique plus durable ne manquent pas en ce mois de juin. A cette occasion, l’association Halte à l’Obsolescence Programmée (HOP) lance son mois du numérique afin de sensibiliser à ses impacts et partager des solutions.&lt;/p&gt;
+&lt;p&gt;Créée en 2015 à la suite de l’instauration du délit d’obsolescence programmée dans le Code de la consommation, l’association HOP a pour objectif de &lt;strong&gt;lutter contre l’obsolescence programmée des produits commercialisés&lt;/strong&gt;, à l’aide d’investigations et d’actions judiciaires. Elle joue également &lt;strong&gt;un rôle de sensibilisation&lt;/strong&gt; des consommateurs et fabricants et promeut une consommation responsable et un modèle économique global alternatif.&lt;/p&gt;
+&lt;h2&gt;Les 30 jours de l’événement seront jalonnés de partages de l’association.&lt;/h2&gt;
+&lt;p&gt;Plusieurs ressources sont déjà disponibles et de nouveaux articles, astuces, bons plans et autres supports seront bientôt accessibles sur les réseaux sociaux et &lt;a href=&quot;https://www.halteobsolescence.org/&quot;&gt;le site Internet de l’association&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSf4PjPJy_7SvjYIimECSQ5mzl6d0fLGWMQdYUDzZIcdcFyYjQ/viewform&quot;&gt;Quizz pour tester ses connaissances sur le numérique&lt;/a&gt; (HOP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.produitsdurables.fr/2018/11/09/3-choses-a-savoir-pour-reparer-mon-smartphone/&quot;&gt;Conseils pour réparer son smartphone&lt;/a&gt; (Produits Durables/HOP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic&quot;&gt;Infographie sur la pollution numérique&lt;/a&gt; (Qu’est-ce qu’on fait)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Pour aller plus loin&lt;/h2&gt;
+&lt;p&gt;Vous trouverez &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/&quot;&gt;de nombreuses ressources&lt;/a&gt; publiées par la Mission Interministérielle Numérique écoresponsable, la MiNumEco, pour améliorer la durabilité de nos activités numériques :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/&quot;&gt;&lt;strong&gt;La boîte à outils&lt;/strong&gt;&lt;/a&gt; : une sélection de logiciels libres et open source dédiés aux impacts environnementaux du numérique.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/&quot;&gt;&lt;strong&gt;Le référentiel général d’écoconception de service numérique&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/&quot;&gt;&lt;strong&gt;Le guide pratique pour des achats numériques responsables&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/&quot;&gt;&lt;strong&gt;Le guide de bonnes pratiques numérique responsable pour les organisations&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/&quot;&gt;« Vers un numérique écoresponsable » : &lt;strong&gt;une série de vidéos&lt;/strong&gt;&lt;/a&gt; pour aider à prendre en compte et réduire l’empreinte environnementale du numérique.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/&quot;&gt;&lt;strong&gt;Des restitutions d’ateliers&lt;/strong&gt;&lt;/a&gt; avec des experts et agents publics.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Publication de l&#39;AFNOR SPEC écoconception des services numériques</title>
