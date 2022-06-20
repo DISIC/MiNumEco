@@ -1,0 +1,220 @@
+---
+layout: layouts/ecoconception-securite.njk
+title: Synergies et divergences
+date: 2022-06-30
+image: /img/ecoconception-securite/ecoconception-securite.png
+type: publication
+eleventyNavigation:
+  parent: ecoconceptionSecurite
+  title: Synergies et divergences
+  image: /img/ecoconception-securite/ecoconception-securite.png
+  order: 30
+---
+
+## Points communs et synergies
+
+Principes et bonnes pratiques favorables à la sécurité, la protection des données et à la réduction des impacts environnementaux du service numérique
+
+![](/img/ecoconception-securite/syntheses-des-synergies.png)
+
+
+### Détail des principes, points communs et synergies
+
+#### By design
+
+L’écoconception, la cybersécurité et la protection des données ont en commun le principe de prendre en compte les enjeux dès la conception.
+- ***Security by design***
+Principe qui consiste à penser les processus de sécurité et à identifier les vulnérabilités dès la conception d’un produit ou d’un service numérique.
+- ***Privacy by design***
+Principe qui fait référence à la protection de la vie privée dès la conception des systèmes d’information, en référence à l’article 25 du RGPD qui introduit également la notion de « Privacy by default ».
+- ***Green by design***
+Plus rarement utilisée qu’écoconception, cette expression a une signification similaire, la prise en compte de l’environnement dès la conception.
+
+#### Minimisation
+
+Selon la CNIL, le principe de minimisation du RGPD prévoit que les données à caractère personnel doivent être adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées.
+
+Ce principe de **protection des données**, que l’on peut désigner comme principe de la **moindre-donnée**, converge avec le principe de l’écoconception qui consiste à ajuster au besoin les fonctionnalités, et donc les données collectées, via par exemple des formulaires, au strict nécessaire.
+
+Par ailleurs, le fait de minimiser les données contribue à la réduction de l’empreinte environnementale du numérique en diminuant le volume de données qui transitent, et par conséquent les besoins en énergie, infrastructures réseau et stockage.
+
+Au niveau de **l’écoconception** le principe de minimisation prend la forme de la **moindre-fonctionnalité**. Ce principe qui consiste à ne réaliser que des fonctionnalités essentielles et ajustées aux besoins des utilisateurs, et donc à limiter les composants, a un effet positif sur la cybersécurité puisque cela permet de **réduire la surface d’attaque**.
+
+Enfin, au niveau de la **cybersécurité**, le principe du **moindre-privilège**, c’est-à-dire la limitation des droits au strict minimum sur les postes clients, réduit le nombre de logiciels installés et évite l’installation intempestive d’applications sur les postes clients, ce qui, en plus de diminuer la surface d’attaque, est susceptible de réduire les impacts liés à l’usage du poste de travail (consommation d’énergie) ainsi que l’obsolescence matérielle prématurée due aux logiciels installés ou encore à un espace disque saturé dû à ces mêmes logiciels. *« Si un utilisateur n'a pas accès à une fonctionnalité dont il n'a pas besoin, on réduit potentiellement l'impact »*.
+
+
+#### Souveraineté numérique
+
+Selon les experts, la souveraineté numérique est un concept peu évident à définir, notamment en termes de périmètre. La loi « Pour une république numérique » définit 3 grands piliers au sujet de la souveraineté numérique : maîtrise, pérennité, et indépendance du système d’information.
+
+_« La souveraineté de l’Etat est étroitement liée au développement durable, à l’écologie et à l’énergie »_, selon les experts.
+
+Un exemple de souveraineté numérique est la relocalisation de l’hébergement des systèmes, services et données sur le territoire national, à condition que ceux-ci ne soient pas soumis au Cloud Act, loi fédérale américaine permettant à des opérateurs établis en dehors des Etats-Unis de saisir administrativement des données personnelles. La souveraineté numérique contribue donc aussi à la souveraineté et à la protection des données, ainsi qu’à la réduction des impacts du numérique liés à la consommation d’énergie en raison d’un mix énergétique national moins carboné que dans d’autres pays européens ou hors Union Européenne.
+
+Une autre forme de souveraineté numérique est la maîtrise des approvisionnements, voire de la production des équipements, un sujet qui recoupe des enjeux de cybersécurité, environnementaux et sociaux (respect des droits de l’homme).
+
+#### Conformité aux référentiels et réglementations
+
+L’écoconception, la cybersécurité et la protection des données ont en commun des **référentiels** et **règlements** spécifiques à chacun des domaines.
+- [RGS - référentiel général de sécurité](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)
+- [RGPD - règlement général sur la protection des données](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
+- [RGI - référentiel général d’interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)
+- [RGESN - référentiel général d’écoconception de services numériques](/publications/referentiel-general-ecoconception/)
+
+Ont également fait leur apparition le [cyberscore](https://www.vie-publique.fr/loi/282626-loi-3-mars-2022-cyberscore-securite-des-plateformes-numeriques), évaluation du niveau de sécurité des sites Internet, et le label « [EBIOS Risk Manager](https://www.ssi.gouv.fr/administration/management-du-risque/la-methode-ebios-risk-manager/label-ebios-risk-manager-des-outils-pour-faciliter-le-management-du-risque-numerique/) », label ANSSI pour les solutions logicielles.
+
+En outre, il est nécessaire de mettre à jour régulièrement ces référentiels car les règles peuvent vite devenir obsolètes.
+
+Cependant, le respect de la réglementation a un **coût**.
+
+_« Il faut avoir les moyens de se mettre en conformité et les grandes organisations ont plus de facilités que les PME »_
+
+Mais le non-respect de la réglementation peut aussi amener à d’importantes **sanctions financières**, jusqu’à 4% du chiffre d’affaires en cas de non-respect du RGPD. La* CNIL a sanctionné des entreprises avec des retombées médiatiques importantes (4% du CA mondial de Google par exemple : sur la base du e-privacy (cookies), Amazon, Facebook et Google.).
+
+_« On voit l'efficacité du montant des amendes liées au RGPD »._
+
+Respecter la réglementation en matière de RGPD peut donc apporter des **gains ou pertes évitées**. Les pertes évitées grâce à la cybersécurité vont dans le même sens.
+
+La **confiance** engendrée par la mise en conformité aux règles de cybersécurité, protection des données ou écoconception peut aussi se traduire par des gains financiers.
+
+Dans le même ordre d’idées, au-delà des impacts positifs sur l’environnement, la protection des données et la cybersécurité, le gain financier réalisé grâce à l’écoconception peut être substantiel, car un service numérique éco-conçu peut nécessiter moins de temps de réalisation et donc moins de ressources, moins de maintenance, moins d’infrastructures, etc. Un audit d’écoconception peut aussi permettre de détecter du code coûteux et de réaliser des économies sur certaines opérations.
+
+_« Cela peut améliorer la gestion des projets de l’Etat et leur coût »._
+
+Sur un sujet connexe à l’écoconception, le non-respect du RGAA est aussi passible d’une amende de 20 000 euros. Cette somme peut paraître dérisoire à certaines structures, les conditions sont donc en passe de se durcir.
+
+*« La réponse de certaines organisations sur le RGAA : 20000€ de pénalité, c'est rien par rapport aux gains business, donc on fait l'impasse ».*
+
+Les différents domaines peuvent être soumis à des audits de conformité, obligatoires pour la sécurité (audit de cybersécurité) et la protection des données (audit de conformité), mais pas encore pour l’écoconception de service numérique, même si le [référentiel général d’écoconception de service numérique](/publications/referentiel-general-ecoconception/) peut aider dans une démarche volontariste d’audit.
+
+#### Maîtrise du système d’information
+
+La maîtrise du système d’information est bénéfique aux trois domaines.
+
+- **Maîtrise du parc / Inventaire à jour**
+La maîtrise du parc permet d’identifier les équipements non ou sous-utilisés.
+- **Rationalisation**
+La rationalisation permet d’optimiser le système d'information, par exemple en réduisant le nombre de machines ayant la même fonction, ou le nombre de services ayant le même objectif. Cela peut néanmoins occasionner des problèmes au niveau de la cybersécurité qui privilégie les environnements plus cloisonnés.
+- **Cartographie des données**
+L’établissement d’une cartographie des données (et sa mise à jour) permet de recenser, visualiser et traiter les données collectées. La cartographie permet d’identifier les données qui doivent faire l’objet d’une suppression ou d’un archivage d’intermédiaire, mais aussi les risques en termes de sécurité des données.
+- **Maîtrise de la sous-traitance**
+La maîtrise de la sous-traitance au travers d’un plan d’assurance sécurité, la responsabilité du traitement ou de clauses environnementales ou géographiques (exclusion des acteurs extra-européens des prestations), permet de limiter les impacts dans tous les domaines.
+- **Maintenance longue**
+Une maintenance longue permet de corriger les anomalies (bugs ou de sécurité) et de réduire l’obsolescence induite sur le matériel. La maintenance des navigateurs anciens peut toutefois favoriser les failles de sécurité. Certains navigateurs présentant des vulnérabilités et n’étant plus mis à jour sont blacklistés. Les systèmes d’exploitation trop anciens, non mis à jour, peuvent présenter des failles de sécurité.
+- **Décommissionnement**
+Le décommissionnement est un arrêt du service numérique, accompagné d’une gestion des données, des couches logicielles, des ressources et matériels associés. Cette pratique associée à l’écoconception mais aussi à la cybersécurité et à la protection des données personnelles, permet de réduire la surface d’attaque et limiter les failles de sécurité des systèmes obsolètes, le volume de données personnelles à protéger, de libérer de l’espace de stockage et des ressources, et de réduire la consommation énergétique. Plus généralement, le décommissionnement contribue à réduire l’empreinte environnementale d’un service numérique, mais aussi son coût financier en termes de stockage, maintenance etc…
+
+#### Cycle de vie
+
+L’approche cycle de vie permet d’appliquer les bonnes pratiques à chaque phase d’un projet, quel que soit le domaine : conception, usage, fin d’usage. Elle s’applique à chacun des trois domaines. Par exemple, dans les règles du RGPD s’appliquent à la fin de vie des données qui doivent faire l’objet d’un archivage intermédiaire ou de suppression au bout d’une durée légale donnée.
+
+#### Amélioration continue
+
+L’écoconception, la cybersécurité et la protection des données sont des démarches d’amélioration continue. Différentes approches ou méthodes permettent d’améliorer la qualité dans les trois domaines. L’approche « Shift Left » permet l’anticipation des problèmes grâce à la prise en compte des enjeux dès le début du cycle de vie du produit ou du service et tout au long du processus.
+
+*« Dans l’approche "shift left", il y a aussi tous les tests (sécurité ou impact) qui peuvent être automatisés en phase de développement plutôt que d'attendre la mise en production pour corriger »*.
+
+Comment intégrer l’écoconception, la cybersécurité et la protection des données dans les méthodes Agile ? Proposition de solution : par la mesure par exemple, avec la possibilité de comparer par « release » (version mise en ligne), l’empreinte globale après l’ajout d’une fonctionnalité. L’internalisation des compétences aide à l’appropriation de ces sujets dans la méthode. Le coach Agile a pour rôle de s’assurer de la bonne communication entre les différents acteurs.
+
+*« La solution est peut-être dans le domaine de l'automatisation, à la fois de l'implémentation et de la validation des règles (DevOps) »*
+
+#### Formation des personnes, « miser sur le capital humain »
+
+Que ce soit en matière d’écoconception, de cybersécurité ou de protection des données, la formation des personnes est cruciale, et ce dès la formation initiale, avec par exemple l’éducation des ingénieur(e)s en informatique et en électronique aux enjeux environnementaux et de cybersécurité, en leur apportant des connaissances organisationnelles et méthodologiques.
+La montée en compétences au sein des organisations peut s’opérer de manière **individuelle** en développant une expertise et en validant les acquis par une certification.
+
+Il existe des certifications spécifiques à chaque domaine :
+  - Certification des compétences du DPO (délégué à la protection des données) : certification mise en place par la CNIL et l’AFNOR, et délivrée par un organisme certificateur agréé par la CNIL.
+  - Certificat de connaissances sur l’écoconception des services numériques
+  - Différentes certifications de compétences de cybersécurité
+
+Il s’agit aussi d’acquérir des compétences transverses, pour permettre par exemple aux experts techniques de s’approprier le sujet juridique.
+
+*« Cloisonner les environnements, mais décloisonner les équipes »*
+
+Mais la montée en compétences doit surtout être **collective** car il s’agit de processus dynamiques qui nécessitent la certification des personnes plus que des outils. La montée en compétence des équipes est donc plus importante que des labels délivrés à un instant t. Les compétences peuvent se développer via :
+  - Le challenge entre experts pour produire le meilleur
+  - Du mentorat interne
+  - Des ateliers
+
+Enfin, il est essentiel d’internaliser les compétences sur ces sujets.
+
+*« Cela permet par exemple de ne pas faire reposer la responsabilité de l’écoconception sur le seul développeur et de démultiplier les impacts de réduction à différents niveaux (choix de la fonctionnalité, architecture, développement). Plus on s’intéresse en amont à ces choix, plus on va avoir d’impact, alors que l’optimisation seule aura un faible impact »*
+
+*« La vrai "capitalisation" c’est la montée de compétences et de culture en interne d'une structure plutôt que des bouts de produits réutilisés »*
+
+### Focus sur d’autres pratiques synergétiques
+
+<div class="fr-table">
+
+|Impact|Principe|Description du principe / Impact|
+| :- | :- | :- |
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Questionnement des besoins|Pourquoi on produit tel service ? À quoi sert-il ? Est-il pertinent ? Désirable ? Faut-il numériser ?|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Ajustement au besoin|Comprendre les besoins, pourquoi on crée ou non un service|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Analyse de risques|Pour optimiser la mise en place des mesures de sécurité au bon niveau et au bon coût financier mais aussi environnemental.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Architecture |Limiter les redondances dans l’architecture des bases de données|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Site web statique|Architecture de développement sans base de données ni backend. Les pages sont générées une seule fois et l’application (base de données comprise) n’est généralement pas exposée, ce qui réduit la surface d’attaque (modèle JamStack).|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Code sur mesure|Code sur mesure plutôt que code sur étagère, éviter les surcouches logicielles. Attention aussi aux technologies de compilation et transpilation.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Logiciel libre / open source|Encourager l'utilisation de briques libres et open source, permet de mettre en place des règles de bonne conduite et assurer une transparence et une pérennité du code favorable à la maintenance longue pour réduire l’obsolescence induite sur le matériel. La mutualisation du code partagé permet également de réduire les coûts de développement.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Choix du langage de programmation le plus adapté au besoin.|Il n’y a pas d’étude sérieuse sur l’impact énergétique ou le potentiel de performance de tel ou tel langage de programmation. Il est indispensable alors, pour des questions de sécurité et d’optimisation des ressources, de choisir de façon éclairée et raisonnée, le langage de programmation qui s’adapte le mieux au besoin, sans suivre la dernière tendance, mais plutôt de privilégier des solutions robustes, documentées, maintenues et maitrisées.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Choix d’une technologie appropriée|Concept de « Low tech » ou « Wise tech », technologie appropriée, adéquate, judicieuse, rationnelle.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Privilégier les applications web aux applications natives pour mobiles|Une application web ne dépend pas d’une plateforme en particulier et n’a pas besoin d’une installation. Elle s’adapte plus facilement aux différents terminaux donc en réduit l’obsolescence. Les applications natives peuvent en revanche poser des problèmes de cybersécurité et de protection des données en utilisant les capteurs du téléphone des utilisateurs. Voir le critère du RGESN « [Le service numérique a-t-il été conçu avec des technologies standards plutôt que des technologies propriétaires ou spécifiques à une plateforme ou à un système d’exploitation ? ](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.7/)»|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Conception sans base de données|Ou bien ne pas exposer une base de données. Voir aussi la bonne pratique « site web statique »|
+|![Protection des données personnelles](/img/ecoconception-securite/icone-protection-des-donnees.png)|Conception sans dépôt de cookie|Le service numérique ne dépend pas d’un traçage ni d’un profilage des utilisateurs.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Limiter les appels à des services tiers|[Voir le critère du RGESN « Le service numérique permet-il à l’utilisateur de décider de l’activation d’un service tiers ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.5/)|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Privilégier les réseaux filaires|Privilégier les réseaux filaires permet une meilleure sécurité du système d’information et aussi une réduction de la consommation énergétique liée au transfert de données.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Minimiser les dépendances logicielles|S’assurer que les dépendances soient bien conçues. [Voir le critère du RGESN « Le service numérique utilise-t-il des ressources ou des composants existants minimisant leurs impacts environnementaux ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.1/)|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Compatibilité ascendante|La compatibilité des nouvelles versions avec les anciennes peut permettre de limiter l’obsolescence du matériel|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Interopérabilité|Capacité à fonctionner avec d’autres produits ou systèmes informatiques, existants ou futurs, sans restriction d’accès ou de mise en œuvre.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Automatisation des tests de sécurité et d’impact en phase de développement|Cela évite d’attendre la mise en production pour les corriger.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Achats|Responsabilité des prestataires et éditeurs de logiciels. Privilégier les prestataires européens|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Mesure dès la conception|Être en capacité de mesurer les impacts dès la conception. Capacité à travailler en ACV multicritère.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Optimisation|Performances, code, compression, revue de code et relecture croisées entre équipes|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Mesure|Mesure des impacts sur tout le cycle de vie à condition d’avoir des données adaptées au périmètre et aux hypothèses|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Supervision|Les outils de supervision peuvent détecter à la fois des anomalies de sécurité et de consommation de ressources. Mutualiser les deux pourrait être une source de réduction des impacts.|
+|![Réduction des impacts environnementaux](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Audit d’écoconception / Affichage environnemental|L’audit peut aider à identifier du code couteux et générer des gains financiers sur certaines opérations. Permet d’afficher un score de consommation énergétique d’un site par exemple, de façon transparente et compréhensible.|
+|![Protection des données personnelles](/img/ecoconception-securite/icone-protection-des-donnees.png)|Archivage intermédiaire|L’archivage intermédiaire permet de limiter l’accès aux données à un nombre restreint de personnes et donc de réduire la surface d’attaque|
+|![Protection des données personnelles](/img/ecoconception-securite/icone-protection-des-donnees.png)|Durée de conservation|La durée de conservation des données à caractère personnel limitée dans le temps permet de libérer de la place sur les serveurs et de réduire le coût énergétique de stockage, mais aussi la surface d’attaque|
+
+</div>
+
+## Divergences
+
+La mise en application des principes de cybersécurité et de protection des données peut avoir des impacts négatifs en termes de consommation de ressources et d’énergie et donc augmenter les impacts environnementaux.
+
+<div class="fr-table">
+
+|Impact|Principe|Description du principe / Impact|
+| :- | :- | :- |
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Défense en profondeur|Doctrine de cybersécurité dans laquelle une série de mécanismes défensifs sont superposés afin de protéger des données et des informations sensibles. Si un mécanisme échoue, un autre intervient immédiatement pour déjouer une attaque.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Déploiement de logiciels liés à la sécurité|Le déploiement et l’usage de logiciels de protection impactent potentiellement de façon importantes la consommation de ressources informatiques et énergétiques.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png) ![Protection des données personnelles](/img/ecoconception-securite/icone-protection-des-donnees.png)|Chiffrement|Les données ne sont pas stockées ou échangées en clair. Des clés de chiffrement et de déchiffrement sont nécessaires pour les lire.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Disponibilité|La haute disponibilité amène des complexités, et de la duplication d'infrastructure, d’information, une surcouche  architecturale, etc. Mais elle peut aussi conduire à repenser l’architecture et donc à innover.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Cloisonnement / Redondance|Recommandé dans certains contextes de cybersécurité, cela implique de multiplier les environnements plutôt que de rationaliser.|
+|![Amélioration de la sécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Contrôle des entrées utilisateur|Cela est bénéfique d’un point de vue cybersécurité mais implique un traitement plus consommateur d’un point de vue applicatif|
+
+</div>
+
+## Conclusion et perspectives
+
+Opposer les nécessités de cybersécurité et protection des données à caractère personnel et les enjeux environnementaux n’a pas vraiment de sens, tant les bonnes pratiques d’écoconception vont dans la même direction. L’amélioration de l’empreinte environnementale d’un service numérique et la réduction de l’obsolescence des matériels sont potentiellement aussi favorables à une meilleure sécurité des données et des systèmes. Toutefois, des mesures de protection plus profondes peuvent augmenter la consommation de ressources informatiques et énergétiques d’un service numérique.
+
+**Vers un référentiel commun ?**
+
+Selon les experts ayant participés à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les organisations d’importance vitale (OIV).
+
+**Vers une régulation des métiers du numérique ?**
+
+Afin de former et s’assurer des règles de conformité, il peut être envisagé de réguler les métiers du numérique comme c’est le cas dans d’autres domaines comme l'urbanisme et la construction.
+
+**Le non-respect de l’accessibilité en passe de se durcir**
+
+Une directive sur l’accessibilité des produits physiques et numériques sera applicable en 2023. Les sanctions financières en cas de non-respect du RGAA, actuellement à hauteur de 20 000 euros, pourraient se durcir. 
+
+**Labels et code de conduite sur la protection des données**
+
+Des labels sur la protection des données pourraient voir le jour selon les experts. Des codes de conduite obligatoires en plus du RGPD devraient également faire leur apparition pour prendre en compte les spécificités sectorielles. 
+
+**Un cadre normatif pour l’écoconception de service numérique**
+
+Un cadre normatif, voire contraignant, pour l’écoconception permettrait d’avoir plus d’impact, selon les experts du sujet. Cela permettrait aussi d’impliquer la responsabilité des éditeurs de logiciels et prestataires, sur des critères comme l’interopérabilité et la compatibilité ascendante.
