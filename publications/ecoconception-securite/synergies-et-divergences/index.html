@@ -1,0 +1,715 @@
+<!doctype html>
+<html lang="fr" data-fr-theme>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synergies et divergences - Numérique écoresponsable</title>
+    <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+
+    <meta property="og:title" content="Synergies et divergences">
+    <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+    
+    <meta property="og:image" content="/img/ecoconception-securite/ecoconception-securite.png">
+    
+
+    <link rel="stylesheet" href="/css/dsfr.min.css">
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" href="/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/favicons/manifest.webmanifest" crossorigin="use-credentials">
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Numérique écoresponsable">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Numérique écoresponsable">
+  </head>
+  <body>
+    <div class="fr-skiplinks">
+        <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+            <ul class="fr-skiplinks__list">
+                <li>
+                    <a class="fr-link" href="#contenu">Contenu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#header-navigation">Menu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#footer">Pied de page</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <header role="banner" class="fr-header">
+        <div class="fr-header__body">
+            <div class="fr-container">
+                <div class="fr-header__body-row">
+                    <div class="fr-header__brand fr-enlarge-link">
+                        <div class="fr-header__brand-top">
+                            <div class="fr-header__logo">
+                                <p class="fr-logo">
+                                    République
+                                    <br>Française
+                                </p>
+                            </div>
+
+                            <div class="fr-header__operator">
+                                <img src="/img/logo.png" class="fr-responsive-img" style="width:9rem; border-radius:0.5rem" alt="MiNumEco, la mission interministérielle numérique écoresponsable" />
+                            </div>
+
+                            <div class="fr-header__navbar">
+                                <button id="button-menu" class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Menu">
+                                    Menu
+                                </button>
+                            </div>
+                        </div>
+                        <div class="fr-header__service">
+                            <a href="/" title="Accueil - Mission Numérique écoresponsable">
+                                <p class="fr-header__service-title">Mission interministérielle</p>
+                            </a>
+                            <p class="fr-header__service-tagline">Numérique écoresponsable</p>
+                        </div>
+                    </div>
+                    <div class="fr-header__tools">
+                        <div class="fr-header__tools-links">
+                            <ul class="fr-links-group">
+                                <li>
+                                    <button class="fr-link fr-fi-theme-fill fr-link--icon-left" aria-controls="fr-theme-modal" data-fr-opened="false">Paramètres d'affichage</button>
+                                </li>
+                                <li>
+                                    <a class="fr-link fr-fi-mail-line" href="/contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="fr-header__menu fr-modal" id="header-navigation" aria-labelledby="button-menu">
+            <div class="fr-container">
+                <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
+                <div class="fr-header__menu-links"></div>
+                <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+                    <ul class="fr-nav__list">
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/" target="_self" >Accueil</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/a-propos/" target="_self" >À propos</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/publications/" target="_self" >Publications</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/actualités/" target="_self" >Actualités</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/agenda/" target="_self" >Agenda</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/réglementations/" target="_self" >Réglementations</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/formations/" target="_self" >Formations</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    
+    <main role="main">
+        <div id="contenu" class="fr-container fr-py-3w">
+        
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+        
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/ecoconception-securite/">Écoconception, cybersécurité et protection des données, quelles synergies ?</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">Synergies et divergences</a>
+            </li>
+        
+        </ol>
+    </div>
+</nav>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
+        <div class="fr-sidemenu__inner">
+            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+            <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                <ul class="fr-sidemenu__list">
+                    <li class="fr-sidemenu__item ">
+                        <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/" >Accueil</a>
+                    </li>
+
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/definitions/" >Définitions</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/bonnes-pratiques/" >Bonnes pratiques</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item fr-sidemenu__item--active">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/synergies-et-divergences/" aria-current="page">Synergies et divergences</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/quiz/" >Quiz</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/ecosysteme/" >Ecosystème</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/glossaire/" >Glossaire</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/ressources-complementaires/" >Ressources complémentaires</a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="fr-col-12 fr-col-md-8">
+        <h1>Synergies et divergences</h1>
+
+        
+            <p class="fr-text--sm fr-py-2w">
+                Dernière mise à jour le <time datetime="2022-06-30">30/06/2022</time>
+            </p>
+        
+
+        <h2>Points communs et synergies</h2>
+<p>Principes et bonnes pratiques favorables à la sécurité, la protection des données et à la réduction des impacts environnementaux du service numérique</p>
+<p><img src="/img/ecoconception-securite/syntheses-des-synergies.png" alt=""></p>
+<h3>Détail des principes, points communs et synergies</h3>
+<h4>By design</h4>
+<p>L’écoconception, la cybersécurité et la protection des données ont en commun le principe de prendre en compte les enjeux dès la conception.</p>
+<ul>
+<li><em><strong>Security by design</strong></em><br>
+Principe qui consiste à penser les processus de sécurité et à identifier les vulnérabilités dès la conception d’un produit ou d’un service numérique.</li>
+<li><em><strong>Privacy by design</strong></em><br>
+Principe qui fait référence à la protection de la vie privée dès la conception des systèmes d’information, en référence à l’article 25 du RGPD qui introduit également la notion de « Privacy by default ».</li>
+<li><em><strong>Green by design</strong></em><br>
+Plus rarement utilisée qu’écoconception, cette expression a une signification similaire, la prise en compte de l’environnement dès la conception.</li>
+</ul>
+<h4>Minimisation</h4>
+<p>Selon la CNIL, le principe de minimisation du RGPD prévoit que les données à caractère personnel doivent être adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées.</p>
+<p>Ce principe de <strong>protection des données</strong>, que l’on peut désigner comme principe de la <strong>moindre-donnée</strong>, converge avec le principe de l’écoconception qui consiste à ajuster au besoin les fonctionnalités, et donc les données collectées, via par exemple des formulaires, au strict nécessaire.</p>
+<p>Par ailleurs, le fait de minimiser les données contribue à la réduction de l’empreinte environnementale du numérique en diminuant le volume de données qui transitent, et par conséquent les besoins en énergie, infrastructures réseau et stockage.</p>
+<p>Au niveau de <strong>l’écoconception</strong> le principe de minimisation prend la forme de la <strong>moindre-fonctionnalité</strong>. Ce principe qui consiste à ne réaliser que des fonctionnalités essentielles et ajustées aux besoins des utilisateurs, et donc à limiter les composants, a un effet positif sur la cybersécurité puisque cela permet de <strong>réduire la surface d’attaque</strong>.</p>
+<p>Enfin, au niveau de la <strong>cybersécurité</strong>, le principe du <strong>moindre-privilège</strong>, c’est-à-dire la limitation des droits au strict minimum sur les postes clients, réduit le nombre de logiciels installés et évite l’installation intempestive d’applications sur les postes clients, ce qui, en plus de diminuer la surface d’attaque, est susceptible de réduire les impacts liés à l’usage du poste de travail (consommation d’énergie) ainsi que l’obsolescence matérielle prématurée due aux logiciels installés ou encore à un espace disque saturé dû à ces mêmes logiciels. <em>« Si un utilisateur n'a pas accès à une fonctionnalité dont il n'a pas besoin, on réduit potentiellement l'impact »</em>.</p>
+<h4>Souveraineté numérique</h4>
+<p>Selon les experts, la souveraineté numérique est un concept peu évident à définir, notamment en termes de périmètre. La loi « Pour une république numérique » définit 3 grands piliers au sujet de la souveraineté numérique : maîtrise, pérennité, et indépendance du système d’information.</p>
+<p><em>« La souveraineté de l’Etat est étroitement liée au développement durable, à l’écologie et à l’énergie »</em>, selon les experts.</p>
+<p>Un exemple de souveraineté numérique est la relocalisation de l’hébergement des systèmes, services et données sur le territoire national, à condition que ceux-ci ne soient pas soumis au Cloud Act, loi fédérale américaine permettant à des opérateurs établis en dehors des Etats-Unis de saisir administrativement des données personnelles. La souveraineté numérique contribue donc aussi à la souveraineté et à la protection des données, ainsi qu’à la réduction des impacts du numérique liés à la consommation d’énergie en raison d’un mix énergétique national moins carboné que dans d’autres pays européens ou hors Union Européenne.</p>
+<p>Une autre forme de souveraineté numérique est la maîtrise des approvisionnements, voire de la production des équipements, un sujet qui recoupe des enjeux de cybersécurité, environnementaux et sociaux (respect des droits de l’homme).</p>
+<h4>Conformité aux référentiels et réglementations</h4>
+<p>L’écoconception, la cybersécurité et la protection des données ont en commun des <strong>référentiels</strong> et <strong>règlements</strong> spécifiques à chacun des domaines.</p>
+<ul>
+<li><a href="https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/">RGS - référentiel général de sécurité</a></li>
+<li><a href="https://www.cnil.fr/fr/reglement-europeen-protection-donnees">RGPD - règlement général sur la protection des données</a></li>
+<li><a href="https://www.numerique.gouv.fr/publications/interoperabilite/">RGI - référentiel général d’interopérabilité</a></li>
+<li><a href="/publications/referentiel-general-ecoconception/">RGESN - référentiel général d’écoconception de services numériques</a></li>
+</ul>
+<p>Ont également fait leur apparition le <a href="https://www.vie-publique.fr/loi/282626-loi-3-mars-2022-cyberscore-securite-des-plateformes-numeriques">cyberscore</a>, évaluation du niveau de sécurité des sites Internet, et le label « <a href="https://www.ssi.gouv.fr/administration/management-du-risque/la-methode-ebios-risk-manager/label-ebios-risk-manager-des-outils-pour-faciliter-le-management-du-risque-numerique/">EBIOS Risk Manager</a> », label ANSSI pour les solutions logicielles.</p>
+<p>En outre, il est nécessaire de mettre à jour régulièrement ces référentiels car les règles peuvent vite devenir obsolètes.</p>
+<p>Cependant, le respect de la réglementation a un <strong>coût</strong>.</p>
+<p><em>« Il faut avoir les moyens de se mettre en conformité et les grandes organisations ont plus de facilités que les PME »</em></p>
+<p>Mais le non-respect de la réglementation peut aussi amener à d’importantes <strong>sanctions financières</strong>, jusqu’à 4% du chiffre d’affaires en cas de non-respect du RGPD. La* CNIL a sanctionné des entreprises avec des retombées médiatiques importantes (4% du CA mondial de Google par exemple : sur la base du e-privacy (cookies), Amazon, Facebook et Google.).</p>
+<p><em>« On voit l'efficacité du montant des amendes liées au RGPD ».</em></p>
+<p>Respecter la réglementation en matière de RGPD peut donc apporter des <strong>gains ou pertes évitées</strong>. Les pertes évitées grâce à la cybersécurité vont dans le même sens.</p>
+<p>La <strong>confiance</strong> engendrée par la mise en conformité aux règles de cybersécurité, protection des données ou écoconception peut aussi se traduire par des gains financiers.</p>
+<p>Dans le même ordre d’idées, au-delà des impacts positifs sur l’environnement, la protection des données et la cybersécurité, le gain financier réalisé grâce à l’écoconception peut être substantiel, car un service numérique éco-conçu peut nécessiter moins de temps de réalisation et donc moins de ressources, moins de maintenance, moins d’infrastructures, etc. Un audit d’écoconception peut aussi permettre de détecter du code coûteux et de réaliser des économies sur certaines opérations.</p>
+<p><em>« Cela peut améliorer la gestion des projets de l’Etat et leur coût ».</em></p>
+<p>Sur un sujet connexe à l’écoconception, le non-respect du RGAA est aussi passible d’une amende de 20 000 euros. Cette somme peut paraître dérisoire à certaines structures, les conditions sont donc en passe de se durcir.</p>
+<p><em>« La réponse de certaines organisations sur le RGAA : 20000€ de pénalité, c'est rien par rapport aux gains business, donc on fait l'impasse ».</em></p>
+<p>Les différents domaines peuvent être soumis à des audits de conformité, obligatoires pour la sécurité (audit de cybersécurité) et la protection des données (audit de conformité), mais pas encore pour l’écoconception de service numérique, même si le <a href="/publications/referentiel-general-ecoconception/">référentiel général d’écoconception de service numérique</a> peut aider dans une démarche volontariste d’audit.</p>
+<h4>Maîtrise du système d’information</h4>
+<p>La maîtrise du système d’information est bénéfique aux trois domaines.</p>
+<ul>
+<li><strong>Maîtrise du parc / Inventaire à jour</strong><br>
+La maîtrise du parc permet d’identifier les équipements non ou sous-utilisés.</li>
+<li><strong>Rationalisation</strong><br>
+La rationalisation permet d’optimiser le système d'information, par exemple en réduisant le nombre de machines ayant la même fonction, ou le nombre de services ayant le même objectif. Cela peut néanmoins occasionner des problèmes au niveau de la cybersécurité qui privilégie les environnements plus cloisonnés.</li>
+<li><strong>Cartographie des données</strong><br>
+L’établissement d’une cartographie des données (et sa mise à jour) permet de recenser, visualiser et traiter les données collectées. La cartographie permet d’identifier les données qui doivent faire l’objet d’une suppression ou d’un archivage d’intermédiaire, mais aussi les risques en termes de sécurité des données.</li>
+<li><strong>Maîtrise de la sous-traitance</strong><br>
+La maîtrise de la sous-traitance au travers d’un plan d’assurance sécurité, la responsabilité du traitement ou de clauses environnementales ou géographiques (exclusion des acteurs extra-européens des prestations), permet de limiter les impacts dans tous les domaines.</li>
+<li><strong>Maintenance longue</strong><br>
+Une maintenance longue permet de corriger les anomalies (bugs ou de sécurité) et de réduire l’obsolescence induite sur le matériel. La maintenance des navigateurs anciens peut toutefois favoriser les failles de sécurité. Certains navigateurs présentant des vulnérabilités et n’étant plus mis à jour sont blacklistés. Les systèmes d’exploitation trop anciens, non mis à jour, peuvent présenter des failles de sécurité.</li>
+<li><strong>Décommissionnement</strong><br>
+Le décommissionnement est un arrêt du service numérique, accompagné d’une gestion des données, des couches logicielles, des ressources et matériels associés. Cette pratique associée à l’écoconception mais aussi à la cybersécurité et à la protection des données personnelles, permet de réduire la surface d’attaque et limiter les failles de sécurité des systèmes obsolètes, le volume de données personnelles à protéger, de libérer de l’espace de stockage et des ressources, et de réduire la consommation énergétique. Plus généralement, le décommissionnement contribue à réduire l’empreinte environnementale d’un service numérique, mais aussi son coût financier en termes de stockage, maintenance etc…</li>
+</ul>
+<h4>Cycle de vie</h4>
+<p>L’approche cycle de vie permet d’appliquer les bonnes pratiques à chaque phase d’un projet, quel que soit le domaine : conception, usage, fin d’usage. Elle s’applique à chacun des trois domaines. Par exemple, dans les règles du RGPD s’appliquent à la fin de vie des données qui doivent faire l’objet d’un archivage intermédiaire ou de suppression au bout d’une durée légale donnée.</p>
+<h4>Amélioration continue</h4>
+<p>L’écoconception, la cybersécurité et la protection des données sont des démarches d’amélioration continue. Différentes approches ou méthodes permettent d’améliorer la qualité dans les trois domaines. L’approche « Shift Left » permet l’anticipation des problèmes grâce à la prise en compte des enjeux dès le début du cycle de vie du produit ou du service et tout au long du processus.</p>
+<p><em>« Dans l’approche &quot;shift left&quot;, il y a aussi tous les tests (sécurité ou impact) qui peuvent être automatisés en phase de développement plutôt que d'attendre la mise en production pour corriger »</em>.</p>
+<p>Comment intégrer l’écoconception, la cybersécurité et la protection des données dans les méthodes Agile ? Proposition de solution : par la mesure par exemple, avec la possibilité de comparer par « release » (version mise en ligne), l’empreinte globale après l’ajout d’une fonctionnalité. L’internalisation des compétences aide à l’appropriation de ces sujets dans la méthode. Le coach Agile a pour rôle de s’assurer de la bonne communication entre les différents acteurs.</p>
+<p><em>« La solution est peut-être dans le domaine de l'automatisation, à la fois de l'implémentation et de la validation des règles (DevOps) »</em></p>
+<h4>Formation des personnes, « miser sur le capital humain »</h4>
+<p>Que ce soit en matière d’écoconception, de cybersécurité ou de protection des données, la formation des personnes est cruciale, et ce dès la formation initiale, avec par exemple l’éducation des ingénieur(e)s en informatique et en électronique aux enjeux environnementaux et de cybersécurité, en leur apportant des connaissances organisationnelles et méthodologiques.<br>
+La montée en compétences au sein des organisations peut s’opérer de manière <strong>individuelle</strong> en développant une expertise et en validant les acquis par une certification.</p>
+<p>Il existe des certifications spécifiques à chaque domaine :</p>
+<ul>
+<li>Certification des compétences du DPO (délégué à la protection des données) : certification mise en place par la CNIL et l’AFNOR, et délivrée par un organisme certificateur agréé par la CNIL.</li>
+<li>Certificat de connaissances sur l’écoconception des services numériques</li>
+<li>Différentes certifications de compétences de cybersécurité</li>
+</ul>
+<p>Il s’agit aussi d’acquérir des compétences transverses, pour permettre par exemple aux experts techniques de s’approprier le sujet juridique.</p>
+<p><em>« Cloisonner les environnements, mais décloisonner les équipes »</em></p>
+<p>Mais la montée en compétences doit surtout être <strong>collective</strong> car il s’agit de processus dynamiques qui nécessitent la certification des personnes plus que des outils. La montée en compétence des équipes est donc plus importante que des labels délivrés à un instant t. Les compétences peuvent se développer via :</p>
+<ul>
+<li>Le challenge entre experts pour produire le meilleur</li>
+<li>Du mentorat interne</li>
+<li>Des ateliers</li>
+</ul>
+<p>Enfin, il est essentiel d’internaliser les compétences sur ces sujets.</p>
+<p><em>« Cela permet par exemple de ne pas faire reposer la responsabilité de l’écoconception sur le seul développeur et de démultiplier les impacts de réduction à différents niveaux (choix de la fonctionnalité, architecture, développement). Plus on s’intéresse en amont à ces choix, plus on va avoir d’impact, alors que l’optimisation seule aura un faible impact »</em></p>
+<p><em>« La vrai &quot;capitalisation&quot; c’est la montée de compétences et de culture en interne d'une structure plutôt que des bouts de produits réutilisés »</em></p>
+<h3>Focus sur d’autres pratiques synergétiques</h3>
+<div class="fr-table">
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Impact</th>
+<th style="text-align:left">Principe</th>
+<th style="text-align:left">Description du principe / Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Questionnement des besoins</td>
+<td style="text-align:left">Pourquoi on produit tel service ? À quoi sert-il ? Est-il pertinent ? Désirable ? Faut-il numériser ?</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Ajustement au besoin</td>
+<td style="text-align:left">Comprendre les besoins, pourquoi on crée ou non un service</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Analyse de risques</td>
+<td style="text-align:left">Pour optimiser la mise en place des mesures de sécurité au bon niveau et au bon coût financier mais aussi environnemental.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Architecture</td>
+<td style="text-align:left">Limiter les redondances dans l’architecture des bases de données</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Site web statique</td>
+<td style="text-align:left">Architecture de développement sans base de données ni backend. Les pages sont générées une seule fois et l’application (base de données comprise) n’est généralement pas exposée, ce qui réduit la surface d’attaque (modèle JamStack).</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Code sur mesure</td>
+<td style="text-align:left">Code sur mesure plutôt que code sur étagère, éviter les surcouches logicielles. Attention aussi aux technologies de compilation et transpilation.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Logiciel libre / open source</td>
+<td style="text-align:left">Encourager l'utilisation de briques libres et open source, permet de mettre en place des règles de bonne conduite et assurer une transparence et une pérennité du code favorable à la maintenance longue pour réduire l’obsolescence induite sur le matériel. La mutualisation du code partagé permet également de réduire les coûts de développement.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Choix du langage de programmation le plus adapté au besoin.</td>
+<td style="text-align:left">Il n’y a pas d’étude sérieuse sur l’impact énergétique ou le potentiel de performance de tel ou tel langage de programmation. Il est indispensable alors, pour des questions de sécurité et d’optimisation des ressources, de choisir de façon éclairée et raisonnée, le langage de programmation qui s’adapte le mieux au besoin, sans suivre la dernière tendance, mais plutôt de privilégier des solutions robustes, documentées, maintenues et maitrisées.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Choix d’une technologie appropriée</td>
+<td style="text-align:left">Concept de « Low tech » ou « Wise tech », technologie appropriée, adéquate, judicieuse, rationnelle.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Privilégier les applications web aux applications natives pour mobiles</td>
+<td style="text-align:left">Une application web ne dépend pas d’une plateforme en particulier et n’a pas besoin d’une installation. Elle s’adapte plus facilement aux différents terminaux donc en réduit l’obsolescence. Les applications natives peuvent en revanche poser des problèmes de cybersécurité et de protection des données en utilisant les capteurs du téléphone des utilisateurs. Voir le critère du RGESN « <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.7/">Le service numérique a-t-il été conçu avec des technologies standards plutôt que des technologies propriétaires ou spécifiques à une plateforme ou à un système d’exploitation ? </a>»</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Conception sans base de données</td>
+<td style="text-align:left">Ou bien ne pas exposer une base de données. Voir aussi la bonne pratique « site web statique »</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-protection-des-donnees.png" alt="Protection des données personnelles"></td>
+<td style="text-align:left">Conception sans dépôt de cookie</td>
+<td style="text-align:left">Le service numérique ne dépend pas d’un traçage ni d’un profilage des utilisateurs.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Limiter les appels à des services tiers</td>
+<td style="text-align:left"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.5/">Voir le critère du RGESN « Le service numérique permet-il à l’utilisateur de décider de l’activation d’un service tiers ? »</a></td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Privilégier les réseaux filaires</td>
+<td style="text-align:left">Privilégier les réseaux filaires permet une meilleure sécurité du système d’information et aussi une réduction de la consommation énergétique liée au transfert de données.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Minimiser les dépendances logicielles</td>
+<td style="text-align:left">S’assurer que les dépendances soient bien conçues. <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.1/">Voir le critère du RGESN « Le service numérique utilise-t-il des ressources ou des composants existants minimisant leurs impacts environnementaux ? »</a></td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Compatibilité ascendante</td>
+<td style="text-align:left">La compatibilité des nouvelles versions avec les anciennes peut permettre de limiter l’obsolescence du matériel</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Interopérabilité</td>
+<td style="text-align:left">Capacité à fonctionner avec d’autres produits ou systèmes informatiques, existants ou futurs, sans restriction d’accès ou de mise en œuvre.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Automatisation des tests de sécurité et d’impact en phase de développement</td>
+<td style="text-align:left">Cela évite d’attendre la mise en production pour les corriger.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Achats</td>
+<td style="text-align:left">Responsabilité des prestataires et éditeurs de logiciels. Privilégier les prestataires européens</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Mesure dès la conception</td>
+<td style="text-align:left">Être en capacité de mesurer les impacts dès la conception. Capacité à travailler en ACV multicritère.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Optimisation</td>
+<td style="text-align:left">Performances, code, compression, revue de code et relecture croisées entre équipes</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Mesure</td>
+<td style="text-align:left">Mesure des impacts sur tout le cycle de vie à condition d’avoir des données adaptées au périmètre et aux hypothèses</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Supervision</td>
+<td style="text-align:left">Les outils de supervision peuvent détecter à la fois des anomalies de sécurité et de consommation de ressources. Mutualiser les deux pourrait être une source de réduction des impacts.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" alt="Réduction des impacts environnementaux"></td>
+<td style="text-align:left">Audit d’écoconception / Affichage environnemental</td>
+<td style="text-align:left">L’audit peut aider à identifier du code couteux et générer des gains financiers sur certaines opérations. Permet d’afficher un score de consommation énergétique d’un site par exemple, de façon transparente et compréhensible.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-protection-des-donnees.png" alt="Protection des données personnelles"></td>
+<td style="text-align:left">Archivage intermédiaire</td>
+<td style="text-align:left">L’archivage intermédiaire permet de limiter l’accès aux données à un nombre restreint de personnes et donc de réduire la surface d’attaque</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-protection-des-donnees.png" alt="Protection des données personnelles"></td>
+<td style="text-align:left">Durée de conservation</td>
+<td style="text-align:left">La durée de conservation des données à caractère personnel limitée dans le temps permet de libérer de la place sur les serveurs et de réduire le coût énergétique de stockage, mais aussi la surface d’attaque</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Divergences</h2>
+<p>La mise en application des principes de cybersécurité et de protection des données peut avoir des impacts négatifs en termes de consommation de ressources et d’énergie et donc augmenter les impacts environnementaux.</p>
+<div class="fr-table">
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Impact</th>
+<th style="text-align:left">Principe</th>
+<th style="text-align:left">Description du principe / Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Défense en profondeur</td>
+<td style="text-align:left">Doctrine de cybersécurité dans laquelle une série de mécanismes défensifs sont superposés afin de protéger des données et des informations sensibles. Si un mécanisme échoue, un autre intervient immédiatement pour déjouer une attaque.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Déploiement de logiciels liés à la sécurité</td>
+<td style="text-align:left">Le déploiement et l’usage de logiciels de protection impactent potentiellement de façon importantes la consommation de ressources informatiques et énergétiques.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"> <img src="/img/ecoconception-securite/icone-protection-des-donnees.png" alt="Protection des données personnelles"></td>
+<td style="text-align:left">Chiffrement</td>
+<td style="text-align:left">Les données ne sont pas stockées ou échangées en clair. Des clés de chiffrement et de déchiffrement sont nécessaires pour les lire.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Disponibilité</td>
+<td style="text-align:left">La haute disponibilité amène des complexités, et de la duplication d'infrastructure, d’information, une surcouche  architecturale, etc. Mais elle peut aussi conduire à repenser l’architecture et donc à innover.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Cloisonnement / Redondance</td>
+<td style="text-align:left">Recommandé dans certains contextes de cybersécurité, cela implique de multiplier les environnements plutôt que de rationaliser.</td>
+</tr>
+<tr>
+<td style="text-align:left"><img src="/img/ecoconception-securite/icone-cybersecurite.png" alt="Amélioration de la sécurité"></td>
+<td style="text-align:left">Contrôle des entrées utilisateur</td>
+<td style="text-align:left">Cela est bénéfique d’un point de vue cybersécurité mais implique un traitement plus consommateur d’un point de vue applicatif</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Conclusion et perspectives</h2>
+<p>Opposer les nécessités de cybersécurité et protection des données à caractère personnel et les enjeux environnementaux n’a pas vraiment de sens, tant les bonnes pratiques d’écoconception vont dans la même direction. L’amélioration de l’empreinte environnementale d’un service numérique et la réduction de l’obsolescence des matériels sont potentiellement aussi favorables à une meilleure sécurité des données et des systèmes. Toutefois, des mesures de protection plus profondes peuvent augmenter la consommation de ressources informatiques et énergétiques d’un service numérique.</p>
+<p><strong>Vers un référentiel commun ?</strong></p>
+<p>Selon les experts ayant participés à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les organisations d’importance vitale (OIV).</p>
+<p><strong>Vers une régulation des métiers du numérique ?</strong></p>
+<p>Afin de former et s’assurer des règles de conformité, il peut être envisagé de réguler les métiers du numérique comme c’est le cas dans d’autres domaines comme l'urbanisme et la construction.</p>
+<p><strong>Le non-respect de l’accessibilité en passe de se durcir</strong></p>
+<p>Une directive sur l’accessibilité des produits physiques et numériques sera applicable en 2023. Les sanctions financières en cas de non-respect du RGAA, actuellement à hauteur de 20 000 euros, pourraient se durcir.</p>
+<p><strong>Labels et code de conduite sur la protection des données</strong></p>
+<p>Des labels sur la protection des données pourraient voir le jour selon les experts. Des codes de conduite obligatoires en plus du RGPD devraient également faire leur apparition pour prendre en compte les spécificités sectorielles.</p>
+<p><strong>Un cadre normatif pour l’écoconception de service numérique</strong></p>
+<p>Un cadre normatif, voire contraignant, pour l’écoconception permettrait d’avoir plus d’impact, selon les experts du sujet. Cela permettrait aussi d’impliquer la responsabilité des éditeurs de logiciels et prestataires, sur des critères comme l’interopérabilité et la compatibilité ascendante.</p>
+
+
+
+
+        
+            
+            
+            
+
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+            
+                
+                    
+                        
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+
+            <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+                
+                    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/ecoconception-securite/bonnes-pratiques/">Page précédente :<br />Bonnes pratiques de cybersécurité, protection des données et écoconception</a>
+                
+            </div>
+            
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+                
+                    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/ecoconception-securite/quiz/">Page suivante :<br />Quiz sur les synergies entre enjeux environnementaux, sécurité et protection des données</a>
+                
+            </div>
+            </nav>
+        
+
+    </div>
+</div>
+        </div>
+    </main>
+
+    <div class="fr-follow">
+        <div class="fr-container">
+            <div class="fr-grid-row">
+                <div class="fr-col-12">
+                    <div class="fr-follow__social">
+                        <p class="fr-h5 fr-mb-3v fr-mb-3v">Suivez-nous
+                            <br> sur les réseaux sociaux</p>
+                        <ul class="fr-links-group fr-links-group--lg">
+                            <li>
+                                <a class="fr-fi-chat-quote-fill fr-link" title="mastodon - nouvelle fenêtre" href="https://mastodon.social/web/@Mi_NumEco_Gouv" target="_blank">mastodon</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--twitter fr-link" title="twitter - nouvelle fenêtre" href="https://twitter.com/Mi_NumEco_Gouv" target="_blank">twitter</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--linkedin fr-link" title="linkedin - nouvelle fenêtre" href="https://www.linkedin.com/company/mission-interministerielle-numerique-ecoresponsable" target="_blank">linkedin</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--instagram fr-link" title="instagram - nouvelle fenêtre" href="https://www.instagram.com/minumecogouv/" target="_blank">instagram</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="fr-footer" role="contentinfo" id="footer">
+        <div class="fr-container">
+            <div class="fr-footer__body ">
+                <div class="fr-footer__brand fr-enlarge-link">
+                    <a href="/" title="Retour à l’accueil">
+                        <p class="fr-logo">
+                            République
+                            <br>Française
+                        </p>
+                    </a>
+                </div>
+                <div class="fr-footer__content">
+                    <p class="fr-footer__content-desc">
+                        Mission interministérielle numérique écoresponsable pilotée par la
+                        <a href="https://www.numerique.gouv.fr/">direction interministérielle du numérique</a>
+                        et le <a href="https://www.ecologie.gouv.fr/">Ministère de la Transition écologique</a>.
+                    </p>
+                    <ul class="fr-footer__content-list">
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="fr-footer__bottom">
+                <ul class="fr-footer__bottom-list">
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/plan-du-site/">Plan du site</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/contact/">Contact</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/accessibilité/">Accessibilité : totalement conforme</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/mentions-legales/">Mentions légales</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/données-personnelles/">Données personnelles et cookies</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.xml">Flux XML</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.json">Flux JSON</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <button class="fr-footer__bottom-link fr-fi-theme-fill fr-link--icon-left" aria-controls="fr-theme-modal" data-fr-opened="false">Paramètres d'affichage</button>
+                    </li>
+                </ul>
+                <div class="fr-footer__bottom-copy">
+                    <p>
+                        Sauf mention contraire, tous les textes de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md">licence etalab-2.0</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+   <dialog id="fr-theme-modal" class="fr-modal" role="dialog" aria-labelledby="fr-theme-modal-title">
+        <div class="fr-container fr-container--fluid fr-container-md">
+            <div class="fr-grid-row fr-grid-row--center">
+                <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+                    <div class="fr-modal__body">
+                        <div class="fr-modal__header">
+                            <button class="fr-link--close fr-link" aria-controls="fr-theme-modal">Fermer</button>
+                        </div>
+                        <div class="fr-modal__content">
+                            <h1 id="fr-theme-modal-title" class="fr-modal__title">
+                                Paramètres d’affichage
+                            </h1>
+                            <div id="fr-display" class="fr-form-group fr-display">
+                                <div class="fr-form-group">
+                                    <fieldset class="fr-fieldset">
+                                        <legend class="fr-fieldset__legend fr-text--regular" id='-legend'>
+                                            Choisissez un thème pour personnaliser l’apparence du site.
+                                        </legend>
+                                        <div class="fr-fieldset__content">
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="light" type="radio" id="fr-radios-theme-light" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-light">Thème clair
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/light.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="dark" type="radio" id="fr-radios-theme-dark" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-dark">Thème sombre
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/dark.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="system" type="radio" id="fr-radios-theme-system" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-system">Système
+                                                    <span class="fr-hint-text">Utilise les paramètres système.</span>
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/system.svg" alt="" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </fieldset>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dialog>
+
+    <script src="/js/dsfr.module.min.js"></script>
+    <script src="/js/smarttag.js"></script>
+    <script src="/js/mesure-audience.js"></script>
+
+
+  </body>
+</html>

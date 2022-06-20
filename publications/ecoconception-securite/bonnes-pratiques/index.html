@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="fr" data-fr-theme>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bonnes pratiques de cybersécurité, protection des données et écoconception - Numérique écoresponsable</title>
+    <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+
+    <meta property="og:title" content="Bonnes pratiques de cybersécurité, protection des données et écoconception">
+    <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+    
+    <meta property="og:image" content="/img/ecoconception-securite/ecoconception-securite.png">
+    
+
+    <link rel="stylesheet" href="/css/dsfr.min.css">
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" href="/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/favicons/manifest.webmanifest" crossorigin="use-credentials">
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Numérique écoresponsable">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Numérique écoresponsable">
+  </head>
+  <body>
+    <div class="fr-skiplinks">
+        <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+            <ul class="fr-skiplinks__list">
+                <li>
+                    <a class="fr-link" href="#contenu">Contenu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#header-navigation">Menu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#footer">Pied de page</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <header role="banner" class="fr-header">
+        <div class="fr-header__body">
+            <div class="fr-container">
+                <div class="fr-header__body-row">
+                    <div class="fr-header__brand fr-enlarge-link">
+                        <div class="fr-header__brand-top">
+                            <div class="fr-header__logo">
+                                <p class="fr-logo">
+                                    République
+                                    <br>Française
+                                </p>
+                            </div>
+
+                            <div class="fr-header__operator">
+                                <img src="/img/logo.png" class="fr-responsive-img" style="width:9rem; border-radius:0.5rem" alt="MiNumEco, la mission interministérielle numérique écoresponsable" />
+                            </div>
+
+                            <div class="fr-header__navbar">
+                                <button id="button-menu" class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Menu">
+                                    Menu
+                                </button>
+                            </div>
+                        </div>
+                        <div class="fr-header__service">
+                            <a href="/" title="Accueil - Mission Numérique écoresponsable">
+                                <p class="fr-header__service-title">Mission interministérielle</p>
+                            </a>
+                            <p class="fr-header__service-tagline">Numérique écoresponsable</p>
+                        </div>
+                    </div>
+                    <div class="fr-header__tools">
+                        <div class="fr-header__tools-links">
+                            <ul class="fr-links-group">
+                                <li>
+                                    <button class="fr-link fr-fi-theme-fill fr-link--icon-left" aria-controls="fr-theme-modal" data-fr-opened="false">Paramètres d'affichage</button>
+                                </li>
+                                <li>
+                                    <a class="fr-link fr-fi-mail-line" href="/contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="fr-header__menu fr-modal" id="header-navigation" aria-labelledby="button-menu">
+            <div class="fr-container">
+                <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
+                <div class="fr-header__menu-links"></div>
+                <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+                    <ul class="fr-nav__list">
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/" target="_self" >Accueil</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/a-propos/" target="_self" >À propos</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/publications/" target="_self" >Publications</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/actualités/" target="_self" >Actualités</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/agenda/" target="_self" >Agenda</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/réglementations/" target="_self" >Réglementations</a>
+                        </li>
+                        <li class="fr-nav__item">
+                            <a class="fr-nav__link" href="/formations/" target="_self" >Formations</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    
+    <main role="main">
+        <div id="contenu" class="fr-container fr-py-3w">
+        
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+        
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/ecoconception-securite/">Écoconception, cybersécurité et protection des données, quelles synergies ?</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">Bonnes pratiques de cybersécurité, protection des données et écoconception</a>
+            </li>
+        
+        </ol>
+    </div>
+</nav>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
+        <div class="fr-sidemenu__inner">
+            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+            <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                <ul class="fr-sidemenu__list">
+                    <li class="fr-sidemenu__item ">
+                        <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/" >Accueil</a>
+                    </li>
+
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/definitions/" >Définitions</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item fr-sidemenu__item--active">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/bonnes-pratiques/" aria-current="page">Bonnes pratiques</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/synergies-et-divergences/" >Synergies et divergences</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/quiz/" >Quiz</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/ecosysteme/" >Ecosystème</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/glossaire/" >Glossaire</a>
+                        </li>
+                    
+                        <li class="fr-sidemenu__item ">
+                            <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/ressources-complementaires/" >Ressources complémentaires</a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="fr-col-12 fr-col-md-8">
+        <h1>Bonnes pratiques de cybersécurité, protection des données et écoconception</h1>
+
+        
+            <p class="fr-text--sm fr-py-2w">
+                Dernière mise à jour le <time datetime="2022-06-30">30/06/2022</time>
+            </p>
+        
+
+        <p>Des bonnes pratiques ainsi que des synergies peu évidentes entre écoconception, cybersécurité et protection des données ont été identifiées.</p>
+<p><em>« Il faut penser l’écoconception le plus largement possible. Au-delà de l’exemplarité des services étatiques, on va faire en sorte que tous les référentiels soient applicables et transposables dans les organisations du monde numérique au sens large. Un des axes prioritaires est la sobriété numérique, un sujet sur lequel la cybersécurité doit se pencher assez rapidement compte-tenu de l’évolution du prix de l’énergie. Car on risque d’avoir des contraintes fortes en devenir si jamais on ne fait rien de ce côté. »</em></p>
+<p>Un participant à l’atelier écoconception, sécurité et protection des données personnelles.</p>
+<h2>Cybersécurité</h2>
+<p><img src="/img/ecoconception-securite/mindmap-cybersecurite.png" alt=""></p>
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-1-transcription">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-1-transcription">
+<ul>
+<li><strong>Architecture</strong>
+<ul>
+<li>Réseau filaire</li>
+<li>Cloisonnement</li>
+<li>Redondance</li>
+</ul>
+</li>
+<li><strong>Outillage</strong>
+<ul>
+<li>Supervision</li>
+<li>Audit</li>
+<li>Analyse des risques</li>
+</ul>
+</li>
+<li><strong>Principes</strong>
+<ul>
+<li>Moindre privilège</li>
+<li>Défense en profondeur</li>
+<li>Fiabilité</li>
+<li>Disponibilité</li>
+<li>Chiffrement</li>
+</ul>
+</li>
+<li><strong>Cadre légal</strong>
+<ul>
+<li>Réglementations</li>
+<li>Cyberscore</li>
+</ul>
+</li>
+<li><strong>Référentiel</strong>
+<ul>
+<li>RGS : Référentiel général de sécurité</li>
+</ul>
+</li>
+<li><strong>Souveraineté numérique</strong></li>
+</ul>
+</div>
+</section>
+<h2>Protection des données</h2>
+<p><em>« Pour le RGPD, la majorité des organisations ont en tête les cookies et les newsletters. Quand on parle de registre de traitement et PIA, elles tombent des nues ».</em></p>
+<p>Comme le souligne un participant, la protection des données à caractère personnel peut être perçue comme se résumant au consentement, or il s’agit d’un sujet bien plus large et surtout faisant l’objet d’une réglementation stricte dérivant d’une directive européenne qui est venue modifier la loi Informatique et Libertés de 1978.</p>
+<p><img src="/img/ecoconception-securite/mindmap-protection-des-donnees.png" alt=""></p>
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-2-transcription">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-2-transcription">
+<ul>
+<li><strong>Principes</strong>
+<ul>
+<li>Minimisation</li>
+<li>Pseudonymisation</li>
+<li>Sécurité / Confidentialité</li>
+<li>Durée de conservation</li>
+<li>Documentation de conformité</li>
+<li>Etude d'impact</li>
+</ul>
+</li>
+<li><strong>Cadre légal</strong>
+<ul>
+<li>RGPD : Règlement général sur la protection des données</li>
+</ul>
+</li>
+<li><strong>Souveraineté des données</strong>
+<ul>
+<li>Territorialisation des données</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+<h2>Écoconception</h2>
+<p><img src="/img/ecoconception-securite/mindmap-ecoconception.png" alt=""></p>
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-3-transcription">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-3-transcription">
+<ul>
+<li><strong>Gouvernance</strong>
+<ul>
+<li>Implication des décideurs et des chefs de produit</li>
+<li>Stratégie d'achat et décommissionnement</li>
+</ul>
+</li>
+<li><strong>Affichage environnemental</strong>
+<ul>
+<li>Score énergétique</li>
+<li>EcoIndex</li>
+</ul>
+</li>
+<li><strong>Référentiels</strong>
+<ul>
+<li>RGESN : référentiel général d'écoconception de service numérique</li>
+<li>Intégration des check-lists à toutes les phases d'un projet</li>
+</ul>
+</li>
+<li><strong>Amélioration continue</strong>
+<ul>
+<li>Approche &quot;Shift left&quot;</li>
+<li>Méthodes Agile</li>
+</ul>
+</li>
+<li><strong>Conception fonctionnelle</strong>
+<ul>
+<li>Questionnement des besoins</li>
+<li>Fonctionnalités essentielles</li>
+</ul>
+</li>
+<li><strong>Conception technique</strong>
+<ul>
+<li>Architecture optimisée</li>
+<li>Open source</li>
+<li>Code sur mesure</li>
+<li>Technologie standard</li>
+<li>low tech ou wise tech</li>
+<li>Compatibilité</li>
+<li>Interopérabilité</li>
+</ul>
+</li>
+<li><strong>Souveraineté numérique</strong>
+<ul>
+<li>Territorialisation des services numériques</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+
+
+
+
+        
+            
+            
+            
+
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+            
+                
+                    
+                        
+                            
+                        
+                    
+                
+            
+                
+                    
+                        
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+
+            <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+                
+                    <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="/publications/ecoconception-securite/definitions/">Page précédente :<br />Définitions</a>
+                
+            </div>
+            
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+                
+                    <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/ecoconception-securite/synergies-et-divergences/">Page suivante :<br />Synergies et divergences</a>
+                
+            </div>
+            </nav>
+        
+
+    </div>
+</div>
+        </div>
+    </main>
+
+    <div class="fr-follow">
+        <div class="fr-container">
+            <div class="fr-grid-row">
+                <div class="fr-col-12">
+                    <div class="fr-follow__social">
+                        <p class="fr-h5 fr-mb-3v fr-mb-3v">Suivez-nous
+                            <br> sur les réseaux sociaux</p>
+                        <ul class="fr-links-group fr-links-group--lg">
+                            <li>
+                                <a class="fr-fi-chat-quote-fill fr-link" title="mastodon - nouvelle fenêtre" href="https://mastodon.social/web/@Mi_NumEco_Gouv" target="_blank">mastodon</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--twitter fr-link" title="twitter - nouvelle fenêtre" href="https://twitter.com/Mi_NumEco_Gouv" target="_blank">twitter</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--linkedin fr-link" title="linkedin - nouvelle fenêtre" href="https://www.linkedin.com/company/mission-interministerielle-numerique-ecoresponsable" target="_blank">linkedin</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--instagram fr-link" title="instagram - nouvelle fenêtre" href="https://www.instagram.com/minumecogouv/" target="_blank">instagram</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="fr-footer" role="contentinfo" id="footer">
+        <div class="fr-container">
+            <div class="fr-footer__body ">
+                <div class="fr-footer__brand fr-enlarge-link">
+                    <a href="/" title="Retour à l’accueil">
+                        <p class="fr-logo">
+                            République
+                            <br>Française
+                        </p>
+                    </a>
+                </div>
+                <div class="fr-footer__content">
+                    <p class="fr-footer__content-desc">
+                        Mission interministérielle numérique écoresponsable pilotée par la
+                        <a href="https://www.numerique.gouv.fr/">direction interministérielle du numérique</a>
+                        et le <a href="https://www.ecologie.gouv.fr/">Ministère de la Transition écologique</a>.
+                    </p>
+                    <ul class="fr-footer__content-list">
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="fr-footer__bottom">
+                <ul class="fr-footer__bottom-list">
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/plan-du-site/">Plan du site</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/contact/">Contact</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/accessibilité/">Accessibilité : totalement conforme</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/mentions-legales/">Mentions légales</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/données-personnelles/">Données personnelles et cookies</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.xml">Flux XML</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.json">Flux JSON</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <button class="fr-footer__bottom-link fr-fi-theme-fill fr-link--icon-left" aria-controls="fr-theme-modal" data-fr-opened="false">Paramètres d'affichage</button>
+                    </li>
+                </ul>
+                <div class="fr-footer__bottom-copy">
+                    <p>
+                        Sauf mention contraire, tous les textes de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md">licence etalab-2.0</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+   <dialog id="fr-theme-modal" class="fr-modal" role="dialog" aria-labelledby="fr-theme-modal-title">
+        <div class="fr-container fr-container--fluid fr-container-md">
+            <div class="fr-grid-row fr-grid-row--center">
+                <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+                    <div class="fr-modal__body">
+                        <div class="fr-modal__header">
+                            <button class="fr-link--close fr-link" aria-controls="fr-theme-modal">Fermer</button>
+                        </div>
+                        <div class="fr-modal__content">
+                            <h1 id="fr-theme-modal-title" class="fr-modal__title">
+                                Paramètres d’affichage
+                            </h1>
+                            <div id="fr-display" class="fr-form-group fr-display">
+                                <div class="fr-form-group">
+                                    <fieldset class="fr-fieldset">
+                                        <legend class="fr-fieldset__legend fr-text--regular" id='-legend'>
+                                            Choisissez un thème pour personnaliser l’apparence du site.
+                                        </legend>
+                                        <div class="fr-fieldset__content">
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="light" type="radio" id="fr-radios-theme-light" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-light">Thème clair
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/light.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="dark" type="radio" id="fr-radios-theme-dark" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-dark">Thème sombre
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/dark.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="system" type="radio" id="fr-radios-theme-system" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-system">Système
+                                                    <span class="fr-hint-text">Utilise les paramètres système.</span>
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/system.svg" alt="" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </fieldset>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dialog>
+
+    <script src="/js/dsfr.module.min.js"></script>
+    <script src="/js/smarttag.js"></script>
+    <script src="/js/mesure-audience.js"></script>
+
+
+  </body>
+</html>

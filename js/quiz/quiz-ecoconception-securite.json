@@ -1,0 +1,179 @@
+{
+    "questions": [
+        {
+            "question": "Pourquoi protéger son système d’information ?",
+            "answers" : [
+                {
+                    "title": "Pour répondre à des contraintes réglementaires"
+                },
+                {
+                    "title": "Pour faire face aux nouveaux usages (télétravail, nomadisme)"
+                },
+                {
+                    "title": "Parce qu’il y a de plus en plus d’attaques"
+                },
+                {
+                    "title": "Les trois",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "Comment réduire le risque d’attaque d’un service numérique ?",
+            "answers" : [
+                {
+                    "title": "En minimisant le nombre de fonctionnalités"
+                },
+                {
+                    "title": "En hébergeant son service sur un serveur localisé en France"
+                },
+                {
+                    "title": "En limitant les accès"
+                },
+                {
+                    "title": "Les trois",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "Le principe du moindre privilège de la cybersécurité et des fonctionnalités limitées de l’écoconception réduisent la surface d’attaque. L’hébergement sur un serveur localisé en France garantit une meilleure souveraineté des données."
+        },
+        {
+            "question": "Le respect du RGPD (règlement général sur la protection des données) est une obligation légale depuis 1978",
+            "answers" : [
+                {
+                    "title": "Vrai"
+                },
+                {
+                    "title": "Faux",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "C’est la loi informatique et libertés qui a été promulguée en 1978. Le RGPD, qui est le nouveau règlement européen sur la protection des données, est applicable depuis le 25 mai 2018 et remplace la loi Informatique et libertés de 1978."
+        },
+        {
+            "question": "L’écoconception est l’optimisation et la recherche de la performance",
+            "answers" : [
+                {
+                    "title": "Vrai"
+                },
+                {
+                    "title": "Faux",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "L’écoconception est avant tout le questionnement des besoins et des usages."
+        },
+        {
+            "question": "Quelle bonne pratique est favorable aux enjeux de sécurité et aussi aux enjeux environnementaux ?",
+            "answers" : [
+                {
+                    "title": "Superviser le service numérique",
+                    "isRight": true
+                },
+                {
+                    "title": "Mettre en place une défense en profondeur"
+                },
+                {
+                    "title": "Demander la haute disponibilité du service numérique"
+                },
+                {
+                    "title": "Chiffrer les données"
+                }
+            ]
+        },
+        {
+            "question": "Pourquoi le logiciel libre est favorable aux enjeux de sécurité et aussi aux enjeux environnementaux ?",
+            "answers" : [
+                {
+                    "title": "Généralement moins énergivore."
+                },
+                {
+                    "title": "Code disponible et transparent favorisant une maintenance longue pour réduire l’obsolescence du matériel.",
+                    "isRight": true
+                },
+                {
+                    "title": "Failles de sécurité corrigeables facilement."
+                },
+                {
+                    "title": "Bien moins couteux que les logiciels propriétaires."
+                }
+            ]
+        },
+        {
+            "question": "Minimiser la collecte de données, est une bonne pratique…",
+            "answers" : [
+                {
+                    "title": "Pour la protection des données"
+                },
+                {
+                    "title": "Pour la sécurité"
+                },
+                {
+                    "title": "Pour l’écoconception"
+                },
+                {
+                    "title": "Pour les trois",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "La minimisation du volume de données collectées permet de mieux les protéger, mais aussi de réduire la surface d’attaque et l’impact environnemental."
+        },
+        {
+            "question": "Un thème sombre d’interface permet…",
+            "answers" : [
+                {
+                    "title": "D’améliorer l’accessibilité."
+                },
+                {
+                    "title": "Un meilleur confort de lecture pour certaines personnes.",
+                    "isRight": true
+                },
+                {
+                    "title": "De réduire énormément la consommation d’électricité des écrans."
+                },
+                {
+                    "title": "De se mettre dans la peau d’un hacker."
+                }
+            ]
+        },
+        {
+            "question": "Une maintenance longue d’un service numérique permet avant tout…",
+            "answers" : [
+                {
+                    "title": "De suivre un des principes de l’agilité."
+                },
+                {
+                    "title": "De changer de design et mettre au goût du jour l’interface graphique."
+                },
+                {
+                    "title": "De corriger les anomalies (bugs ou de sécurité) et réduire l’obsolescence induite sur le matériel.",
+                    "isRight": true
+                },
+                {
+                    "title": "Au prestataire de rentabiliser le coût du développement initial."
+                }
+            ],
+            "answerInformation": "Plus la durée de maintenance est importante, moins il est nécessaire de remplacer le matériel en raison de failles de sécurité ou d’obsolescence induite par le logiciel sur le matériel."
+        },
+        {
+            "question": "Quelle est la bonne pratique pour la protection des données personnelles qui n’est pas favorable à la réduction des impacts environnementaux ?",
+            "answers" : [
+                {
+                    "title": "Se poser la question de quelles données utilisateurs a-t-on vraiment besoin de collecter"
+                },
+                {
+                    "title": "Purger les données expirées"
+                },
+                {
+                    "title": "Contrôler les accès aux données",
+                    "isRight": true
+                },
+                {
+                    "title": "Localiser l’hébergement des données en France"
+                }
+            ],
+            "answerInformation": "Les principes de cybersécurité comme la défense en profondeur ou le chiffrement impliquent une superposition des mécanismes de défense qui peuvent avoir un impact environnemental non négligeable."
+        }
+    ]
+}
+
