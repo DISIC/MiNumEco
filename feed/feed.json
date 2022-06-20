@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/chargeur-universel/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/chargeur-universel/",
+      "title": "Un chargeur universel bientôt obligatoire dans l’Union Européenne",
+      "content_html": "<p><img src=\"/img/posts/chargeur-universel.png\" alt=\"\"></p>\n<p>D’ici l’automne 2024, un chargeur universel sera imposé à tous les appareils électroniques portables de petite et moyenne taille les plus couramment utilisés. Une avancée importante en faveur de la réduction des déchets électroniques.</p>\n<p>Téléphones mobiles, tablettes, liseuses électroniques, casques audios, appareils photo numériques, consoles de jeux vidéo portables et enceintes portatives devront bientôt être équipés d’un chargeur USB Type-C. Cet accord européen concernera également la marque Apple, qui devra abandonner son chargeur Lightning pour un port de charge commun.</p>\n<p>En plus de réduire les impacts liés à la fabrication des chargeurs, cette nouvelle loi constitue une avancée en faveur de la diminution des déchets électroniques, une préoccupation environnementale majeure. Evalués à 11 000 tonnes par an, les déchets de chargeurs non utilisés pourraient être réduits de près de 1 000 tonnes. Le texte prévoit également d’améliorer et d’harmoniser la vitesse de charge des appareils, et de mieux informer les consommateurs, qui pourront acheter un nouvel appareil avec ou sans chargeur. Un moyen d’économiser sur l’achat de chargeurs seuls et de limiter leur accumulation dans nos tiroirs.</p>\n",
+      "date_published": "2022-06-20T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/campagne-ademe-salaries/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/campagne-ademe-salaries/",
       "title": "L’ADEME relance sa campagne de sensibilisation pour un numérique responsable avec un nouveau volet destiné aux salariés !",
