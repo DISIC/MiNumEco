@@ -13,9 +13,11 @@ eleventyNavigation:
 
 Des bonnes pratiques ainsi que des synergies peu évidentes entre écoconception, cybersécurité et protection des données ont été identifiées.
 
-*« Il faut penser l’écoconception le plus largement possible. Au-delà de l’exemplarité des services étatiques, on va faire en sorte que tous les référentiels soient applicables et transposables dans les organisations du monde numérique au sens large. Un des axes prioritaires est la sobriété numérique, un sujet sur lequel la cybersécurité doit se pencher assez rapidement compte-tenu de l’évolution du prix de l’énergie. Car on risque d’avoir des contraintes fortes en devenir si jamais on ne fait rien de ce côté. »*
+<div class="fr-highlight">
 
-Un participant à l’atelier écoconception, sécurité et protection des données personnelles.
+_« Il faut penser l’écoconception le plus largement possible. Au-delà de l’exemplarité des services étatiques, on va faire en sorte que tous les référentiels soient applicables et transposables dans les organisations du monde numérique au sens large. Un des axes prioritaires est la sobriété numérique, un sujet sur lequel la cybersécurité doit se pencher assez rapidement compte-tenu de l’évolution du prix de l’énergie. Car on risque d’avoir des contraintes fortes en devenir si jamais on ne fait rien de ce côté »_ selon un participant à l’atelier écoconception, sécurité et protection des données personnelles.
+
+</div>
 
 ## Cybersécurité
 

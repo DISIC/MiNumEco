@@ -2,7 +2,7 @@
 layout: layouts/ecoconception-securite.njk
 title: Écoconception, cybersécurité et protection des données, quelles synergies ?
 description: La MiNumEco organise des ateliers avec des experts et des agents publics afin d’approfondir certaines thématiques, éclairer des points précis. Cette restitution est le résultat d’un atelier consacré aux convergences entre écoconception, cybersécurité et protection des données personnelles.
-date: 2022-04-20
+date: 2022-06-30
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyExcludeFromCollections: true
@@ -15,9 +15,11 @@ eleventyNavigation:
   order: 120
 ---
 
-![]({{image}})
+_**[ Version brouillon en relecture ; à ne pas partager ]**_
 
-## La maîtrise des impacts et vulnérabilités du numérique
+**La maîtrise des impacts et vulnérabilités du numérique**
+
+![]({{image}})
 
 Les phases d’extraction et de fabrication des équipements concentrent les trois quarts des impacts environnementaux du numérique. Il est donc indispensable d’allonger leur durée de vie. Or, les systèmes d’exploitation, les logiciels et les services numériques sont de plus en plus gourmands en ressources informatiques. Les utilisateurs sont tentés de changer le matériel qui ralentit pour un plus récent. L’un des leviers pour lutter contre l’obsolescence matérielle induite par le logiciel est l’écoconception de service numérique. 
 

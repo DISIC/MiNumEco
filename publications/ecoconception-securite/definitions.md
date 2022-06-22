@@ -17,7 +17,11 @@ eleventyNavigation:
 
 ### L’écoconception vue par les experts de la cybersécurité et de la protection des données
 
+<div class="fr-highlight">
+
 _« L’écoconception est une méthode qui vise à limiter les impacts environnementaux d’un produit ou d’un service numérique en questionnant les besoins et en prenant en compte l’impact environnemental dès la conception et sur tout le cycle de vie, dans une démarche d’amélioration continue, en intégrant les principes de minimation, stabilité, efficacité et maintenabilité »._
+
+</div>
 
 ### Enjeux environnementaux et écoconception de service numérique
 
@@ -27,7 +31,11 @@ L’analyse du cycle de vie est une méthode d’évaluation environnementale qu
 
 Itérative, multi-étape et multicritère, et faisant l’objet d’une normalisation internationale (normes [ISO 14040](https://www.iso.org/fr/standard/38498.html)  et [ISO 14044](https://www.iso.org/fr/standard/38498.html)), cette approche a permis d’attribuer aux phases d’extraction de matières premières et de fabrication la majorité des impacts environnementaux du numérique.
 
+<div style="background: #fff">
+
 ![](/img/guide-achats/schema-acv.svg)
+
+</div>
 
 Afin de réduire ces impacts environnementaux, les bonnes pratiques sont : 
 
@@ -64,17 +72,21 @@ L’écoconception est une démarche d’amélioration continue visant à rédui
 
 ### La cybersécurité et la protection des données vues par les experts de l’écoconception
 
+<div class="fr-highlight">
+
 _« La cybersécurité et la protection des données est une approche globale qui vise à protéger les systèmes, les données et les personnes, maîtriser les risques, corriger les failles, à tous les niveaux et au meilleur coût, en respectant les principes de minimisation, disponibilité, fiabilité, intégrité, souveraineté et conformité aux réglementations en vigueur »._
+
+</div>
 
 ### Focus sur la cybersécurité
 
 **La cybersécurité** est à la fois un état et un ensemble de domaines visant cet état : 
 - « état recherché pour un système d’information lui permettant de résister à la menace cyber susceptible de compromettre la **disponibilité**, l’**intégrité** ou la **confidentialité** des données ou des services connexes. »
 La cybersécurité répond à 4 types de besoins résumés sous les sigles **DICP** ou **DICT**
-  - **D**isponibilité : 
-  - **I**ntégrité
-  - **C**onfidentialité
-  - **P**reuve ou **T**raçabilité
+  **D**isponibilité
+  **I**ntégrité
+  **C**onfidentialité
+  **P**reuve ou **T**raçabilité
 - Ensemble de méthodologies, technologies, règlements, lois, métiers, … visant à **protéger** dans le cyberespace **ce qui doit l’être** (actifs essentiels), **au bon niveau** et **au meilleur coût**, (l’analyse de risques cybersécurité permet aussi de faire de l’optimisation financière).
 
 **Organisation de la cybersécurité** 
@@ -96,4 +108,8 @@ La cybersécurité répond à 4 types de besoins résumés sous les sigles **DI
 
 L’ANSSI propose le [Référentiel général de sécurité (RGS)](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/), qui a pour objet le renforcement de la confiance des usagers dans les services électroniques mis à disposition par les autorités administratives et s’impose ainsi à elles comme un cadre contraignant tout en étant adaptable et adapté aux enjeux et besoins de tout type d’autorité administrative.
 
+<div class="fr-highlight">
+
 _« La cybersécurité ce n’est pas seulement les services que l’on possède et qu’on utilise pour être en interface avec l’extérieur, c’est aussi le fait qu’on a des besoins de fonctionnement de la société que l’on vient réguler. L’ANSSI est là pour défendre la Nation, pas seulement les administrations mais aussi les services essentiels, d’importance vitale, donc il y a un intérêt à réguler les pratiques de cybersécurité des structures privées en fonction des enjeux, par exemple les transports, l’éducation ou la santé »._
+
+</div>
