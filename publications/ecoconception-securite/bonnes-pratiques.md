@@ -55,7 +55,11 @@ _« Il faut penser l’écoconception le plus largement possible. Au-delà de l
 
 ## Protection des données
 
+<div class="fr-highlight">
+
 _« Pour le RGPD, la majorité des organisations ont en tête les cookies et les newsletters. Quand on parle de registre de traitement et PIA, elles tombent des nues »._
+
+</div>
 
 Comme le souligne un participant, la protection des données à caractère personnel peut être perçue comme se résumant au consentement, or il s’agit d’un sujet bien plus large et surtout faisant l’objet d’une réglementation stricte dérivant d’une directive européenne qui est venue modifier la loi Informatique et Libertés de 1978. 
 
