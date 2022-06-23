@@ -17,9 +17,9 @@ eleventyNavigation:
 
 _**[ Version brouillon en relecture ; à ne pas partager ]**_
 
-**La maîtrise des impacts et vulnérabilités du numérique**
-
 ![]({{image}})
+
+**La maîtrise des impacts et vulnérabilités du numérique.**
 
 Les phases d’extraction et de fabrication des équipements concentrent les trois quarts des impacts environnementaux du numérique. Il est donc indispensable d’allonger leur durée de vie. Or, les systèmes d’exploitation, les logiciels et les services numériques sont de plus en plus gourmands en ressources informatiques. Les utilisateurs sont tentés de changer le matériel qui ralentit pour un plus récent. L’un des leviers pour lutter contre l’obsolescence matérielle induite par le logiciel est l’écoconception de service numérique. 
 

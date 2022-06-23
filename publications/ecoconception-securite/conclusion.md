@@ -15,7 +15,7 @@ Opposer les nécessités de cybersécurité et protection des données à caract
 
 **Vers un référentiel commun ?**
 
-Selon les experts ayant participés à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les organisations d’importance vitale (OIV).
+Selon les experts ayant participé à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les organisations d’importance vitale (OIV).
 
 **Vers une régulation des métiers du numérique ?**
 
