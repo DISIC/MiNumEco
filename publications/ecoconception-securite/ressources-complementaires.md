@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Ressources complémentaires
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -31,9 +31,14 @@ eleventyNavigation:
 ## Protection des données
 
 - [RGPD – Règlement général sur la protection des données](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
+- [Loi informatique et libertés de 1978](https://www.cnil.fr/fr/la-loi-informatique-et-libertes)
+- [Nouvelle loi informatique et libertés de 2019](https://www.cnil.fr/fr/entree-en-vigueur-de-la-nouvelle-loi-informatique-et-libertes-et-de-son-nouveau-decret-dapplication)
 - [La forme des choix : données personnelles, design et frictions désirables, CNIL](https://www.cnil.fr/sites/default/files/atoms/files/cnil_cahiers_ip6.pdf)
 - [Certification des compétences du DPO](https://www.cnil.fr/fr/certification-des-competences-du-dpo-0)
 - [Nouveaux outils de conformité - Codes de conduite](https://www.cnil.fr/fr/le-code-de-conduite)
+- [Nouvelle version du MOOC de la CNIL : l’Atelier RGPD](https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie)
+- [Accessibilité et conformité RGPD](https://www.24joursdeweb.fr/2021/la-recette-des-cookies-double-pepites-privacy-et-accessibilite/)
+- [La sécurité des données personnelles](https://www.cnil.fr/sites/default/files/atoms/files/cnil_guide_securite_personnelle.pdf)
 
 ## Autres
 

@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Conclusion et perspectives
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -11,11 +11,11 @@ eleventyNavigation:
   order: 35
 ---
 
-Opposer les nécessités de cybersécurité et protection des données à caractère personnel et les enjeux environnementaux n’a pas vraiment de sens, tant les bonnes pratiques d’écoconception vont dans la même direction. L’amélioration de l’empreinte environnementale d’un service numérique et la réduction de l’obsolescence des matériels sont potentiellement aussi favorables à une meilleure sécurité des données et des systèmes. Toutefois, des mesures de protection plus profondes peuvent augmenter la consommation de ressources informatiques et énergétiques d’un service numérique.
+Opposer les nécessités de cybersécurité et protection des données et les enjeux environnementaux n’a pas vraiment de sens, tant les bonnes pratiques d’écoconception vont dans la même direction. L’amélioration de l’empreinte environnementale d’un service numérique et la réduction de l’obsolescence des matériels sont potentiellement aussi favorables à une meilleure sécurité des données et des systèmes. Toutefois, des mesures de protection plus profondes peuvent augmenter la consommation de ressources informatiques et énergétiques d’un service numérique.
 
 **Vers un référentiel commun ?**
 
-Selon les experts ayant participé à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les organisations d’importance vitale (OIV).
+Selon les experts ayant participé à cette publication, la question d’un référentiel commun qui rassemblerait les enjeux d’écoconception, cybersécurité et protection des données se pose. Il existe cependant une hiérarchie des importances qui implique une impossibilité de positionner au même niveau ces différents enjeux. La loi de programmation militaire est par exemple prioritaire au RGAA. Il est aussi obligatoire d’implémenter le RGS pour les opérateurs d’importance vitale (OIV).
 
 **Vers une régulation des métiers du numérique ?**
 

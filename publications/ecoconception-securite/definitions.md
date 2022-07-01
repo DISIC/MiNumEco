@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Définitions
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -19,7 +19,7 @@ eleventyNavigation:
 
 <div class="fr-highlight">
 
-_« L’écoconception est une méthode qui vise à limiter les impacts environnementaux d’un produit ou d’un service numérique en questionnant les besoins et en prenant en compte l’impact environnemental dès la conception et sur tout le cycle de vie, dans une démarche d’amélioration continue, en intégrant les principes de minimation, stabilité, efficacité et maintenabilité »._
+_« L’écoconception est une méthode qui vise à limiter les impacts environnementaux d’un produit ou d’un service numérique en questionnant les besoins et en prenant en compte l’impact environnemental dès la conception et sur tout le cycle de vie, dans une démarche d’amélioration continue, en intégrant les principes de minimisation, stabilité, efficacité et maintenabilité »._
 
 </div>
 
@@ -37,7 +37,26 @@ Itérative, multi-étape et multicritère, et faisant l’objet d’une normalis
 
 </div>
 
-Afin de réduire ces impacts environnementaux, les bonnes pratiques sont : 
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="figure-acv-transcription">Transcription</button>
+</h3>
+<div class="fr-collapse" id="figure-acv-transcription">
+
+Le cycle de vie :
+
+1. Extraction des matières premières
+2. Fabrication
+3. Transport
+4. Distribution
+5. Utilisation
+6. Fin de vie ou Valorisation
+7. Dans le cas de la valorisation, possible retour en 2. Fabrication
+
+</div>
+</section>
+
+#### Afin de réduire ces impacts environnementaux, les bonnes pratiques sont : 
 
 - Réduire le nombre d’équipements et la taille des écrans
 - Allonger la durée de vie des équipements
@@ -113,3 +132,23 @@ L’ANSSI propose le [Référentiel général de sécurité (RGS)](https://www.s
 _« La cybersécurité ce n’est pas seulement les services que l’on possède et qu’on utilise pour être en interface avec l’extérieur, c’est aussi le fait qu’on a des besoins de fonctionnement de la société que l’on vient réguler. L’ANSSI est là pour défendre la Nation, pas seulement les administrations mais aussi les services essentiels, d’importance vitale, donc il y a un intérêt à réguler les pratiques de cybersécurité des structures privées en fonction des enjeux, par exemple les transports, l’éducation ou la santé »._
 
 </div>
+
+### Liens entre cybersécurité et protection des données
+
+Il existe un lien très fort entre la cybersécurité et la protection des données. La sécurité est un axe majeur de la protection des données. En effet, la protection des données implique la formalisation d’une politique de sécurité et de confidentialité des données faisant l’objet d’un traitement, afin d’éviter leur communication à des tiers voire leur transfert hors Union Européenne ou dans un pays n’ayant pas le niveau de protection adéquat. 
+
+La mise en œuvre de la sécurité du traitement des données à caractère personnel est décrite à l’article 32 du RGPD, qui liste les mesures techniques et organisationnelles appropriées devant être prises par le responsable de traitement afin de garantir un niveau de sécurité adapté au risque : 
+
+*	Pseudonymisation et chiffrement des données
+* Moyens 
+  * de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des services de traitement
+  * permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique
+* Procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité du traitement
+
+<div class="fr-highlight">
+
+Le DPO a pour rôle de s’assurer de la conformité de son organisation aux réglementations en vigueur en termes d’utilisation des données personnelles. Il est l’interlocuteur privilégié de la CNIL et du responsable de traitement. Sa fonction transverse l’amène aussi à travailler en étroite collaboration avec le RSSI (Responsable de la Sécurité des Systèmes d'Information), dont le rôle est de garantir la mise en œuvre de la sécurité des systèmes d’information.
+
+</div>
+
+Les référents des deux domaines, responsable de la sécurité des systèmes d’information et délégué à la protection des données sont des éléments indispensables à la mise en œuvre de démarches d’amélioration continue, par exemple pour prévenir les risques de violation de données.

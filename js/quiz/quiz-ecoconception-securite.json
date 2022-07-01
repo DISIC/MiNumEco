@@ -35,7 +35,7 @@
                     "isRight": true
                 }
             ],
-            "answerInformation": "Le principe du moindre privilège de la cybersécurité et des fonctionnalités limitées de l’écoconception réduisent la surface d’attaque. L’hébergement sur un serveur localisé en France garantit une meilleure souveraineté des données."
+            "answerInformation": "Le principe du moindre privilège de la cybersécurité et des fonctionnalités limitées de l’écoconception réduisent la surface d’attaque. L’hébergement sur un serveur localisé en France, dans l’Union Européenne, ou dans un pays ayant une décision d’adéquation, garantit une meilleure souveraineté des données."
         },
         {
             "question": "Le respect du RGPD (règlement général sur la protection des données) est une obligation légale depuis 1978",
@@ -48,7 +48,7 @@
                     "isRight": true
                 }
             ],
-            "answerInformation": "C’est la loi informatique et libertés qui a été promulguée en 1978. Le RGPD, qui est le nouveau règlement européen sur la protection des données, est applicable depuis le 25 mai 2018 et remplace la loi Informatique et libertés de 1978."
+            "answerInformation": "C’est la loi informatique et libertés qui a été promulguée en 1978. Le RGPD, qui est le nouveau règlement européen sur la protection des données, est applicable depuis le 25 mai 2018. Le RGPD s’applique directement en droit français : il remplace sur de nombreux points (droits des personnes, bases légales des traitements, mesures de sécurité à mettre en œuvre, transferts, etc.) la loi informatique et libertés de 1978."
         },
         {
             "question": "L’écoconception est l’optimisation et la recherche de la performance",
@@ -61,7 +61,7 @@
                     "isRight": true
                 }
             ],
-            "answerInformation": "L’écoconception est avant tout le questionnement des besoins et des usages."
+            "answerInformation": "L’écoconception est avant tout le questionnement des besoins et des usages. <a href=\"/publications/referentiel-general-ecoconception/#strategie\" target=\"_blank\">Pour en savoir plus, voir la thématique Stratégie du Référentiel général d'écoconception</a>."
         },
         {
             "question": "Quelle bonne pratique est favorable aux enjeux de sécurité et aussi aux enjeux environnementaux ?",
@@ -156,7 +156,7 @@
             "answerInformation": "Plus la durée de maintenance est importante, moins il est nécessaire de remplacer le matériel en raison de failles de sécurité ou d’obsolescence induite par le logiciel sur le matériel."
         },
         {
-            "question": "Quelle est la bonne pratique pour la protection des données personnelles qui n’est pas favorable à la réduction des impacts environnementaux ?",
+            "question": "Quelle est la bonne pratique pour la protection des données qui n’est pas favorable à la réduction des impacts environnementaux ?",
             "answers" : [
                 {
                     "title": "Se poser la question de quelles données utilisateurs a-t-on vraiment besoin de collecter"

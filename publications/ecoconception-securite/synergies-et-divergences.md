@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Synergies et divergences
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -36,7 +36,7 @@ eleventyNavigation:
 
 <h2 id="points-communs">Points communs et synergies</h2>
 
-Principes et bonnes pratiques favorables à la sécurité, la protection des données et à la réduction des impacts environnementaux du service numérique
+Des bonnes pratiques ainsi que des synergies peu évidentes entre écoconception, cybersécurité et protection des données ont été identifiées.
 
 ![](/img/ecoconception-securite/syntheses-des-synergies.png)
 
@@ -66,7 +66,10 @@ Principe qui consiste à penser les processus de sécurité et à identifier les
 - ***Privacy by design***
 Principe qui fait référence à la protection de la vie privée dès la conception des systèmes d’information, en référence à l’article 25 du RGPD qui introduit également la notion de « Privacy by default ».
 - ***Green by design***
-Plus rarement utilisée qu’écoconception, cette expression a une signification similaire, la prise en compte de l’environnement dès la conception.
+Plus rarement utilisée qu’écoconception, cette expression a une signification similaire, la prise en compte de l’environnement dès la conception et avant même la conception, puisque cela peut amener à faire différemment voire à ne pas numériser.
+
+Il s’agit d’être dans l’anticipation : la cybersécurité est l’anticipation des menaces possibles, l’écoconception l’anticipation des impacts. Autres exemples d’anticipation : l’anticipation des accroissements de volumes dans le temps, l’anticipation des pertes de valeurs par obsolescence des informations ou par perte de connaissance, l’anticipation des dettes techniques, ... 
+
 
 <h3 id="minimisation">Minimisation</h3>
 
@@ -96,7 +99,11 @@ _« La souveraineté de l’État est étroitement liée au développement dura
 
 </div>
 
-Un exemple de souveraineté numérique est la relocalisation de l’hébergement des systèmes, services et données sur le territoire national, à condition que ceux-ci ne soient pas soumis au Cloud Act, loi fédérale américaine permettant à des opérateurs établis en dehors des Etats-Unis de saisir administrativement des données personnelles. La souveraineté numérique contribue donc aussi à la souveraineté et à la protection des données, ainsi qu’à la réduction des impacts du numérique liés à la consommation d’énergie en raison d’un mix énergétique national moins carboné que dans d’autres pays européens ou hors Union Européenne.
+Un exemple de souveraineté numérique est la relocalisation de l’hébergement des systèmes, services et données sur le territoire national, à condition que ceux-ci ne soient pas soumis au Cloud Act, loi fédérale américaine permettant à des opérateurs établis en dehors des Etats-Unis de saisir administrativement des données personnelles.
+
+Côté RGPD, les données doivent être stockées au sein de l’Union européenne ou d’un pays bénéficiant d’une [décision d’adéquation](https://www.cnil.fr/fr/la-protection-des-donnees-dans-le-monde) (ou autre pays en justifiant de mesures organisationnelles et techniques permettant de garantir le niveau de sécurité de la donnée). Il n’y a pas d’obligation à être sur le territoire français. Par contre, il faut être vigilant vis-à-vis des sous-traitants américains qui, même s’ils hébergent la donnée en France, restent soumis au Cloud Act (Cf [les mises en demeure de la CNIL concernant l’utilisation de Google Analytics](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/questions-reponses-sur-les-mises-en-demeure-de-la-cnil-concernant-lutilisation-de-google-analytics)).
+
+La souveraineté numérique contribue donc aussi à la souveraineté et à la protection des données, ainsi qu’à la réduction des impacts du numérique liés à la consommation d’énergie en raison d’un mix énergétique national moins carboné que dans d’autres pays européens ou hors Union Européenne.
 
 Une autre forme de souveraineté numérique est la maîtrise des approvisionnements, voire de la production des équipements, un sujet qui recoupe des enjeux de cybersécurité, environnementaux et sociaux (respect des droits de l’homme).
 
@@ -120,7 +127,10 @@ _« Il faut avoir les moyens de se mettre en conformité et les grandes organis
 
 </div>
 
-Mais le non-respect de la réglementation peut aussi amener à d’importantes **sanctions financières**, jusqu’à 4% du chiffre d’affaires en cas de non-respect du RGPD. La* CNIL a sanctionné des entreprises avec des retombées médiatiques importantes (4% du CA mondial de Google par exemple : sur la base du e-privacy (cookies), Amazon, Facebook et Google.).
+Mais le non-respect de la réglementation peut aussi amener à d’importantes **sanctions financières**, jusqu’à 4% du chiffre d’affaires en cas de non-respect du RGPD. La CNIL a sanctionné des entreprises avec des retombées médiatiques importantes. Par exemple [Google a eu une sanction à hauteur de 150 millions d’euros par application de la directive ePrivacy](https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000044840062?init=true&page=1&query=++++D%C3%A9lib%C3%A9ration+SAN-2021-023+du+31+d%C3%A9cembre+2021&searchField=ALL&tab_selection=all) transcrite dans la loi Informatique et Libertés.
+
+Il n’y a pas que le coût financier, les sanctions peuvent être rendues publiques entraînant un impact sur l’image de l’organisation, parfois plus craintes que les sanctions financières.
+
 
 <div class="fr-highlight">
 
@@ -165,15 +175,17 @@ La maîtrise de la sous-traitance au travers d’un plan d’assurance sécurit�
 - **Maintenance longue**
 Une maintenance longue permet de corriger les anomalies (bugs ou de sécurité) et de réduire l’obsolescence induite sur le matériel. La maintenance des navigateurs anciens peut toutefois favoriser les failles de sécurité. Certains navigateurs présentant des vulnérabilités et n’étant plus mis à jour sont blacklistés. Les systèmes d’exploitation trop anciens, non mis à jour, peuvent présenter des failles de sécurité.
 - **Décommissionnement**
-Le décommissionnement est un arrêt du service numérique, accompagné d’une gestion des données, des couches logicielles, des ressources et matériels associés. Cette pratique associée à l’écoconception mais aussi à la cybersécurité et à la protection des données personnelles, permet de réduire la surface d’attaque et limiter les failles de sécurité des systèmes obsolètes, le volume de données personnelles à protéger, de libérer de l’espace de stockage et des ressources, et de réduire la consommation énergétique. Plus généralement, le décommissionnement contribue à réduire l’empreinte environnementale d’un service numérique, mais aussi son coût financier en termes de stockage, maintenance etc…
+Le décommissionnement est un arrêt du service numérique, accompagné d’une gestion des données, des couches logicielles, des ressources et matériels associés. Cette pratique associée à l’écoconception mais aussi à la cybersécurité et à la protection des données, permet de réduire la surface d’attaque et limiter les failles de sécurité des systèmes obsolètes, le volume de données à protéger, de libérer de l’espace de stockage et des ressources, et de réduire la consommation énergétique. Plus généralement, le décommissionnement contribue à réduire l’empreinte environnementale d’un service numérique, mais aussi son coût financier en termes de stockage, maintenance etc…
 
 <h3 id="cycle-de-vie">Cycle de vie</h3>
 
-L’approche cycle de vie permet d’appliquer les bonnes pratiques à chaque phase d’un projet, quel que soit le domaine : conception, usage, fin d’usage. Elle s’applique à chacun des trois domaines. Par exemple, dans les règles du RGPD s’appliquent à la fin de vie des données qui doivent faire l’objet d’un archivage intermédiaire ou de suppression au bout d’une durée légale donnée.
+L’approche cycle de vie permet d’appliquer les bonnes pratiques à chaque phase d’un projet (conception, usage, fin d’usage), quel que soit le domaine. Elle s’applique à chacun des trois domaines : écoconception, protection des données et cybersécurité.
+ 
+Par exemple, les règles du RGPD s’appliquent à la fin de vie des données qui doivent faire l’objet d’un archivage intermédiaire ou de suppression au bout d’une durée donnée en fonction de la finalité du traitement. Dans certains cas, le responsable s’appuiera sur des obligations légales ou sur des recommandations de la CNIL. Dans les autres cas, il devra définir une durée légitime et la documenter.
 
 <h3 id="amelioration-continue">Amélioration continue</h3>
 
-L’écoconception, la cybersécurité et la protection des données sont des démarches d’amélioration continue. Différentes approches ou méthodes permettent d’améliorer la qualité dans les trois domaines. L’approche « Shift Left » permet l’anticipation des problèmes grâce à la prise en compte des enjeux dès le début du cycle de vie du produit ou du service et tout au long du processus.
+L’écoconception, la cybersécurité et la protection des données sont des démarches d’amélioration continue. Différentes approches ou méthodes permettent d’améliorer la qualité dans les trois domaines. L’approche « **_Shift Left_** » permet l’anticipation des problèmes grâce à la prise en compte des enjeux dès le début du cycle de vie du produit ou du service et tout au long du processus.
 
 <div class="fr-highlight">
 
@@ -181,7 +193,7 @@ L’écoconception, la cybersécurité et la protection des données sont des d�
 
 </div>
 
-Comment intégrer l’écoconception, la cybersécurité et la protection des données dans les méthodes Agile ? Proposition de solution : par la mesure par exemple, avec la possibilité de comparer par « release » (version mise en ligne), l’empreinte globale après l’ajout d’une fonctionnalité. L’internalisation des compétences aide à l’appropriation de ces sujets dans la méthode. Le coach Agile a pour rôle de s’assurer de la bonne communication entre les différents acteurs.
+Comment intégrer l’écoconception, la cybersécurité et la protection des données dans les **méthodes Agile** ? Proposition de solution : par la mesure par exemple, avec la possibilité de comparer par « release » (version mise en ligne), l’empreinte globale après l’ajout d’une fonctionnalité. L’internalisation des compétences aide à l’appropriation de ces sujets dans la méthode. Le coach Agile a pour rôle de s’assurer de la bonne communication entre les différents acteurs.
 
 <div class="fr-highlight">
 
@@ -223,6 +235,11 @@ Enfin, il est essentiel d’internaliser les compétences sur ces sujets.
 </div>
 
 <h3 id="focus-autres-pratiques-synergetiques">Focus sur d’autres pratiques synergétiques</h3>
+
+**Domaines :**
+* <img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" style="display:inline; vertical-align: middle" /> écoconception
+* <img src="/img/ecoconception-securite/icone-cybersecurite.png" style="display:inline; vertical-align: middle" /> cybersécurité
+* <img src="/img/ecoconception-securite/icone-protection-des-donnees.png" style="display:inline; vertical-align: middle" /> protection des données
 
 <div class="fr-table">
 
@@ -269,7 +286,7 @@ La mise en application des principes de cybersécurité et de protection des don
 |![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Déploiement de logiciels liés à la sécurité|Le déploiement et l’usage de logiciels de protection impactent potentiellement de façon importantes la consommation de ressources informatiques et énergétiques.|
 |![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png) ![Protection des données](/img/ecoconception-securite/icone-protection-des-donnees.png)|Chiffrement|Les données ne sont pas stockées ou échangées en clair. Des clés de chiffrement et de déchiffrement sont nécessaires pour les lire.|
 |![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Disponibilité|La haute disponibilité amène des complexités, et de la duplication d'infrastructure, d’information, une surcouche  architecturale, etc. Mais elle peut aussi conduire à repenser l’architecture et donc à innover.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Cloisonnement / Redondance|Recommandé dans certains contextes de cybersécurité, cela implique de multiplier les environnements plutôt que de rationaliser.|
+|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Cloisonnement / Redondance|Recommandé dans certains contextes de cybersécurité et pour la sauvegarde des données (« [règle du 3-2-1](https://www.nextinpact.com/article/30278/109000-quest-ce-que-strategie-sauvegarde-3-2-1) »), cela implique de multiplier les environnements plutôt que de rationaliser.|
 |![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Contrôle des entrées utilisateur|Cela est bénéfique d’un point de vue cybersécurité mais implique un traitement plus consommateur d’un point de vue applicatif|
 
 </div>

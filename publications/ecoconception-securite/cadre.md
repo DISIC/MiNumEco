@@ -1,21 +1,19 @@
 ---
 layout: layouts/ecoconception-securite.njk
-title: Bonnes pratiques de cybersécurité, protection des données et écoconception
-date: 2022-06-30
+title: Cadre de la cybersécurité, la protection des données et l’écoconception
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
-  title: Bonnes pratiques
+  title: Cadre de l’écoconception, la cybersécurité et la protection des données
   image: /img/ecoconception-securite/ecoconception-securite.png
   order: 20
 ---
 
-Des bonnes pratiques ainsi que des synergies peu évidentes entre écoconception, cybersécurité et protection des données ont été identifiées.
-
 <div class="fr-highlight">
 
-_« Il faut penser l’écoconception le plus largement possible. Au-delà de l’exemplarité des services étatiques, on va faire en sorte que tous les référentiels soient applicables et transposables dans les organisations du monde numérique au sens large. Un des axes prioritaires est la sobriété numérique, un sujet sur lequel la cybersécurité doit se pencher assez rapidement compte-tenu de l’évolution du prix de l’énergie. Car on risque d’avoir des contraintes fortes en devenir si jamais on ne fait rien de ce côté »_ selon un participant à l’atelier écoconception, sécurité et protection des données personnelles.
+_« Il faut penser l’écoconception le plus largement possible. Au-delà de l’exemplarité des services étatiques, on va faire en sorte que tous les référentiels soient applicables et transposables dans les organisations du monde numérique au sens large. Un des axes prioritaires est la sobriété numérique, un sujet sur lequel la cybersécurité doit se pencher assez rapidement compte-tenu de l’évolution du prix de l’énergie. Car on risque d’avoir des contraintes fortes en devenir si jamais on ne fait rien de ce côté »_ selon un participant à l’atelier écoconception, sécurité et protection des données.
 
 </div>
 
@@ -43,6 +41,7 @@ _« Il faut penser l’écoconception le plus largement possible. Au-delà de l
   - Fiabilité
   - Disponibilité
   - Chiffrement
+  - Sauvegarde
 - **Cadre légal**
   - Réglementations
   - Cyberscore
@@ -57,11 +56,11 @@ _« Il faut penser l’écoconception le plus largement possible. Au-delà de l
 
 <div class="fr-highlight">
 
-_« Pour le RGPD, la majorité des organisations ont en tête les cookies et les newsletters. Quand on parle de registre de traitement et PIA, elles tombent des nues »._
+_« Pour le RGPD, la majorité des organisations ont en tête les cookies et les newsletters. Quand on parle de registre de traitement et PIA (Privacy impact assessment ou analyse d’impact), elles tombent des nues »._
 
 </div>
 
-Comme le souligne un participant, la protection des données à caractère personnel peut être perçue comme se résumant au consentement, or il s’agit d’un sujet bien plus large et surtout faisant l’objet d’une réglementation stricte dérivant d’une directive européenne qui est venue modifier la loi Informatique et Libertés de 1978. 
+Comme le souligne un participant, la protection des données à caractère personnel peut être perçue comme se résumant au consentement, or il s’agit d’un sujet bien plus vaste et surtout faisant l’objet d’une réglementation (RGPD), applicable à tous les pays européens, qui a entraîné en 2019 une mise à jour de la loi Informatiques et Libertés de 1978.
 
 ![](/img/ecoconception-securite/mindmap-protection-des-donnees.png)
 
@@ -80,8 +79,12 @@ Comme le souligne un participant, la protection des données à caractère perso
   - Etude d'impact
 - **Cadre légal**
   - RGPD : Règlement général sur la protection des données
+  - Loi Informatique et Libertés
 - **Souveraineté des données**
   - Territorialisation des données
+- **Gouvernance**
+  - Responsable de traitement
+  - Délégué à la protection des données (DPO) 
 
 </div>
 </section>

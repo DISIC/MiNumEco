@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Ecosystème
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -32,7 +32,8 @@ L’**[Arcep](https://www.arcep.fr/)** est une autorité administrative indépen
 
 ## Les organismes certificateurs et de normalisation
 
-**[AFNOR](https://www.afnor.org/)** : l’agence française de normalisation est un organisme certificateur agréé par la CNIL pour la certification des délégués à la protection des données. Elle publie aussi une AFNOR Spec sur l’écoconception des services numériques, un guide qui a pour objectif de fournir des lignes directrices et des recommandations concrètes applicables à chaque étape du cycle de vie du service numérique, qui a vocation à être porté au niveau européen voire international.
+* **[AFNOR](https://www.afnor.org/)** : l’agence française de normalisation est un organisme certificateur agréé par la CNIL pour la certification des délégués à la protection des données. Elle publie aussi une AFNOR Spec sur l’écoconception des services numériques, un guide qui a pour objectif de fournir des lignes directrices et des recommandations concrètes applicables à chaque étape du cycle de vie du service numérique, qui a vocation à être porté au niveau européen voire international.
+* [Liste des organismes agréés par la CNIL qui délivrent la certification des compétences du DPO](https://www.cnil.fr/fr/organisme-agrees).
 
 ## Les acteurs publics de l’écoconception de services numériques
 
@@ -52,13 +53,15 @@ L’**[Arcep](https://www.arcep.fr/)** est une autorité administrative indépen
 Il hébergent les données pour des tiers. Les enjeux qui les concernent sont la localisation des données, le niveau de sécurité, le niveau de résilience et de redondance et les impacts environnementaux liés à leurs activités (énergie, refroidissement…).
 
 - **Sous-traitants**
-Les sous-traitants doivent prendre en compte les enjeux d’écoconception, mais aussi de cybersécurité. Ils doivent se conformer aux exigences de cybersécurité définis dans le Plan d’Assurance Sécurité (PAS) et peuvent dans certains cas être qualifiés de responsables de traitement au sens du RGPD. 
+Les sous-traitants doivent prendre en compte les enjeux d’écoconception, mais aussi de cybersécurité. Ils doivent se conformer aux exigences de cybersécurité définis dans le Plan d’Assurance Sécurité (PAS) et peuvent dans certains cas être qualifiés de responsables de traitement au sens du RGPD. Les sous-traitants ont des obligations dans le cadre du RGPD et qu’il faut notamment un engagement contractuel qui définit le cadre de la sous-traitance entre le responsable de traitement et le sous-traitant ([article 28 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28)).
 
 et aussi : éditeurs de logiciels, formatrices/formateurs, auditrices/auditeurs, expert(e)s, associations etc.
 
 ### Métiers impliqués dans les organisations
 
 - Responsable produit
+- Délégué à la protection des données (DPD ou DPO)
+- Responsable de la sécurité des systèmes d’information (RSSI)
 - Architecte
 - Tech lead
 - UX designer

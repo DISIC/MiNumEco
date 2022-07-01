@@ -1,27 +1,24 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Écoconception, cybersécurité et protection des données, quelles synergies ?
-description: La MiNumEco organise des ateliers avec des experts et des agents publics afin d’approfondir certaines thématiques, éclairer des points précis. Cette restitution est le résultat d’un atelier consacré aux convergences entre écoconception, cybersécurité et protection des données personnelles.
-date: 2022-06-30
+description: La MiNumEco organise des ateliers avec des experts et des agents publics afin d’approfondir certaines thématiques, éclairer des points précis. Cette restitution est le résultat d’un atelier consacré aux convergences entre écoconception, cybersécurité et protection des données.
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
-eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: ecoconceptionSecurite
   parent: publications
   title: Écoconception, cybersécurité et protection des données, quelles synergies ?
-  date: 2022-06-30
+  date: 2022-07-01
   image: /img/ecoconception-securite/ecoconception-securite.png
   order: 120
 ---
-
-_**[ Version brouillon en relecture ; à ne pas partager ]**_
 
 ![]({{image}})
 
 **La maîtrise des impacts et vulnérabilités du numérique.**
 
-Les phases d’extraction et de fabrication des équipements concentrent les trois quarts des impacts environnementaux du numérique. Il est donc indispensable d’allonger leur durée de vie. Or, les systèmes d’exploitation, les logiciels et les services numériques sont de plus en plus gourmands en ressources informatiques. Les utilisateurs sont tentés de changer le matériel qui ralentit pour un plus récent. L’un des leviers pour lutter contre l’obsolescence matérielle induite par le logiciel est l’écoconception de service numérique. 
+Les phases d’extraction et de fabrication des équipements concentrent les trois quarts des impacts environnementaux du numérique. Il est donc indispensable d’allonger la durée de vie de ces équipements. Or, les systèmes d’exploitation, les logiciels et les services numériques sont de plus en plus gourmands en ressources informatiques. Les utilisateurs sont tentés de changer le matériel qui ralentit pour un plus récent. L’un des leviers pour lutter contre l’obsolescence matérielle induite par le logiciel est l’écoconception de service numérique
 
 La MiNumEco a publié en octobre 2021 avec l’Institut du Numérique Responsable, l’ADEME et le Ministère de la Transition écologique, un référentiel destiné à guider tous les acteurs impliqués dans la réalisation de services numériques vers des principes plus vertueux d’un point de vue environnemental, le [RGESN (référentiel général d’écoconception de service numérique)](publications/referentiel-general-ecoconception/). 
 
@@ -42,3 +39,6 @@ Cette restitution a été produite grâce à la participation d’experts et exp
 - Pierre Fressonnet, Banque de France
 - Fabien Gainier, Campus Cyber
 - Murielle Timsit, Gauthier Roussilhe et Romain Lorenzini, indépendants
+- Harmonie Peynot, Temesis
+
+Illustrations : Céline Berthaut

@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Glossaire
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -25,16 +25,28 @@ eleventyNavigation:
 
 **DICT** : Disponibilité, intégrité, confidentialité, traçabilité
 
+**DPD** : Délégué à la protection des données (en français)
+
+**DPO** : Data Protection Officer en anglais, correspond à délégué à la protection des données
+
 **OIV** : opérateur d’importance vitale
 
 **PAS** : plan d’assurance sécurité
 
-**RGAA** : référentiel général d’amélioration de l’accessibilité
+**PCA** : plan de continuité d’activité
 
-**RGESN** : référentiel général d’écoconception de service numérique
+**PIA** : Privacy impact assessment ou analyse d’impact sur la protection des données (AIPD) cité dans la partie Bonnes pratiques.
 
-**RGI** : référentiel général d’interopérabilité
+**PRA** : plan de reprise d’activité
 
-**RGPD** : règlement général sur la protection des données
+**RGAA** : [référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 
-**RGS** : règlement général de sécurité
+**RGESN** : [référentiel général d’écoconception de service numérique](/publications/referentiel-general-ecoconception/)
+
+**RGI** : [référentiel général d’interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)
+
+**RGPD** : [règlement général sur la protection des données](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
+
+**RGS** : [règlement général de sécurité](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)
+
+**RSSI** : Responsable de la sécurité des systèmes d’information 

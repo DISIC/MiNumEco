@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Quiz sur les synergies entre enjeux environnementaux, sécurité et protection des données
-date: 2022-06-30
+date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 extrajs: /js/quiz.js
 type: publication
