@@ -6,7 +6,7 @@ image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
-  title: Cadre de l’écoconception, la cybersécurité et la protection des données
+  title: Cadres
   image: /img/ecoconception-securite/ecoconception-securite.png
   order: 20
 ---

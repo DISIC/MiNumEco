@@ -4,7 +4,6 @@ title: Quiz sur les synergies entre enjeux environnementaux, sécurité et prote
 date: 2022-07-01
 image: /img/ecoconception-securite/ecoconception-securite.png
 extrajs: /js/quiz.js
-type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Quiz
