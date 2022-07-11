@@ -1,7 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
-date: 2021-10-19
+date: 2022-07-11
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
@@ -10,7 +10,7 @@ Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecorespons
 
 Avant même la mise en application des critères de ce référentiel, il est indispensable de se poser la question de la raison d’être du service numérique et de sa pertinence pour répondre à un besoin. L’existence de ce service numérique est-elle nécessaire ? Aurait-on pu faire autrement que développer une solution numérique ? Après mesures comparatives, une alternative non numérique du service est-elle envisageable et préférable ?
 
-**Ce référentiel doit être intégré dans un cercle vertueux comprenant les référentiels et règlements existants** : RGAA pour l’accessibilité, RGS pour la Sécurité, RGI pour l’interopérabilité et RGPD pour la protection des données personnelles. Ce référentiel a pour objet de compléter le périmètre de couverture. En effet, il ne serait pas cohérent de mettre en œuvre une démarche d’écoconception sans accessibilité numérique. De plus, aucun critère dans ce référentiel d’écoconception n’est redondant avec ces autres référentiels. Dans ce référentiel d’écoconception, chaque critère est uniquement orienté sur l'impact environnemental et s’accorde avec les exigences des autres référentiels.
+**Ce référentiel doit être intégré dans un cercle vertueux comprenant les référentiels et règlements existants** : [RGAA pour l’accessibilité numérique](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/), [RGS pour la Sécurité](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/), [RGI pour l’interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/), [RGPD pour la protection des données personnelles](https://www.cnil.fr/fr/reglement-europeen-protection-donnees) et le [R2GA pour la gestion des archives](https://francearchives.fr/fr/circulaire/R2GA_2013_10). Ce référentiel a pour objet de compléter le périmètre de couverture. En effet, il ne serait pas cohérent de mettre en œuvre une démarche d’écoconception sans accessibilité numérique. De plus, aucun critère dans ce référentiel d’écoconception n’est redondant avec ces autres référentiels. Dans ce référentiel d’écoconception, chaque critère est uniquement orienté sur l'impact environnemental et s’accorde avec les exigences des autres référentiels.
 
 ## Objectifs
 
