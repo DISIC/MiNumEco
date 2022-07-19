@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Réglementations
-date: 2022-02-15
+date: 2022-07-19
 eleventyNavigation:
   key: Réglementations
   order: 35
@@ -83,6 +83,7 @@ La **[Loi du 10 février 2020 relative à la lutte contre le gaspillage et à l�
 * Article 27 : 
     * obligation, pour les fabricants et les vendeurs de biens comportant des éléments numériques, d'informer sur la durée au cours de laquelle les mises à jour des logiciels fournis lors de l'achat du bien restent compatibles avec un usage normal de l'appareil.
     * remise d’un [rapport du gouvernement au Parlement sur la durée de vie des appareils numériques et connectés, sur l'obsolescence logicielle et sur les options pour allonger la durée de vie des équipements concernés](https://www.ecologie.gouv.fr/numerique-et-environnement-remise-au-parlement-du-rapport-sur-lobsolescence-logicielle-prevu).
+* Article 37 : [les conditions dans lesquelles un professionnel peut utiliser les termes « reconditionné » ou « produit reconditionné » sont fixées par le décret n° 2022-190 du 17 février 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045185223). 
 * Article 55 : à compter du 1er janvier 2021, l’administration publique, lors de ses achats, favorise le recours à des logiciels dont la conception permet de limiter la consommation énergétique associée à leur utilisation.
 * Article 58 : à compter du 10 mars 2021, les acheteurs de l’Etat, des collectivités territoriales et de leurs groupements ont l’obligation d’acquérir des biens issus du réemploi ou de la réutilisation ou comportant des matières recyclées, dans des proportions fixées entre 20 et 100 % selon le type de produit. Le décret n° 2021-254 du 9 mars 2021 fixe les objectifs d’achat, en particulier pour les produits numériques.
 
@@ -102,8 +103,6 @@ Le texte, qui prolonge les actions de la [feuille de route gouvernementale numé
 * **Favoriser des usages numériques écologiquement vertueux** : la loi prévoit la création d’un référentiel général d'écoconception des services numériques (art. 25), fixant des critères de conception durable des sites web à partir de 2024. Par ailleurs, une recommandation sera publiée par le CSA sur l’information des consommateurs sur l’empreinte environnementale de la vidéo en ligne (art. 26).
 * **Promouvoir des datacenters et des réseaux moins énergivores** : Le texte renforce les conditionnalités environnementales qui s’appliqueront, à compter de 2022, au tarif réduit de la taxe intérieure de consommation finale d’électricité (TICFE) applicable aux datacenters (art.28). Les opérateurs de communications électroniques devront quant à eux publier des indicateurs clés récapitulant leurs engagements en faveur de la transition écologique (art. 29). 
 * **Promouvoir une stratégie numérique responsable dans les territoires** : À partir de 2025, les communes et leurs intercommunalités de plus de 50 000 habitants devront élaborer une stratégie numérique responsable.
-
-Le décret n° 2022-190 du 17 février 2022 établi [les conditions d'utilisation des termes « reconditionné » et « produit reconditionné »](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045185223).
 
 <h3 id="autres-dispositions">Autres dispositions</h3>
 
