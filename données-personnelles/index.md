@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: Données personnelles et cookies
 date: 2021-04-29
-linkTitle: Mentions légales
-link: /mentions-legales/
 eleventyExcludeFromCollections: true
 ---
 
