@@ -41,5 +41,5 @@ Un ensemble de compétences est requis pour ce poste :
 
 ## En savoir plus 
  
-Voir l’intitulé « Responsable Green IT » [dans la nomenclature des métiers du système d’information du CIGREF (2018)](/https://www.cigref.fr/wp/wp-content/uploads/2020/11/Cigref-Nomenclature-RH-Metiers-Competences-2018_v2.pdf/).
+Voir l’intitulé « Responsable Green IT » [dans la nomenclature des métiers du système d’information du CIGREF (2018)](https://www.cigref.fr/wp/wp-content/uploads/2020/11/Cigref-Nomenclature-RH-Metiers-Competences-2018_v2.pdf).
 
