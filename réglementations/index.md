@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Réglementations
-date: 2022-07-19
+date: 2022-08-23
 eleventyNavigation:
   key: Réglementations
   order: 35
@@ -102,7 +102,7 @@ Le texte, qui prolonge les actions de la [feuille de route gouvernementale numé
   * **La récupération du « stock dormant » des matériels inutilisés** : objectifs spécifiques de recyclage, de réemploi et de réparation (art. 12) pour certains biens numériques et mise en place d’opérations de collecte nationale d’équipements numériques (art. 13).
 * **Favoriser des usages numériques écologiquement vertueux** : la loi prévoit la création d’un référentiel général d'écoconception des services numériques (art. 25), fixant des critères de conception durable des sites web à partir de 2024. Par ailleurs, une recommandation sera publiée par le CSA sur l’information des consommateurs sur l’empreinte environnementale de la vidéo en ligne (art. 26).
 * **Promouvoir des datacenters et des réseaux moins énergivores** : Le texte renforce les conditionnalités environnementales qui s’appliqueront, à compter de 2022, au tarif réduit de la taxe intérieure de consommation finale d’électricité (TICFE) applicable aux datacenters (art.28). Les opérateurs de communications électroniques devront quant à eux publier des indicateurs clés récapitulant leurs engagements en faveur de la transition écologique (art. 29). 
-* **Promouvoir une stratégie numérique responsable dans les territoires** : À partir de 2025, les communes et leurs intercommunalités de plus de 50 000 habitants devront élaborer une stratégie numérique responsable.
+* **Promouvoir une stratégie numérique responsable dans les territoires** : À partir de 2025, les communes et leurs intercommunalités de plus de 50 000 habitants devront élaborer une stratégie numérique responsable (art. 35). [Un décret a été publié le 29 juillet 2022 pour préciser le contenu et les modalités d'élaboration de la stratégie numérique responsable](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046113741).
 
 <h3 id="autres-dispositions">Autres dispositions</h3>
 
