@@ -1,7 +1,7 @@
 ---
 layout: layouts/ecoconception-securite.njk
 title: Conclusion et perspectives
-date: 2022-07-01
+date: 2022-09-08
 image: /img/ecoconception-securite/ecoconception-securite.png
 type: publication
 eleventyNavigation:
@@ -23,7 +23,7 @@ Afin de former et s’assurer des règles de conformité, il peut être envisag�
 
 **Le non-respect de l’accessibilité en passe de se durcir**
 
-Une directive sur l’accessibilité des produits physiques et numériques sera applicable en 2023. Les sanctions financières en cas de non-respect du RGAA, actuellement à hauteur de 20 000 euros, pourraient se durcir. 
+[Une directive sur l’accessibilité des produits physiques et numériques sera applicable en 2025](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32019L0882). Les sanctions financières en cas de non-respect du RGAA, actuellement à hauteur de 20 000 euros, pourraient se durcir. 
 
 **Labels et code de conduite sur la protection des données**
 
