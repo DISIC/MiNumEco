@@ -32,3 +32,4 @@ L'impact potentiel du cloud est immense : bien utilisé, il peut contribuer à d
 * [Référentiel général d’écoconception des services numériques (RGESN)](/publications/referentiel-general-ecoconception/)
 * Guide pratique pour des achats numériques responsables : [Matériels d’infrastructures informatiques et services d’hébergement / solutions hébergées](/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/hebergement/)
 * Guide de bonnes pratiques numérique responsable : [Salle serveur et centre de données](/publications/bonnes-pratiques/bonnes-pratiques/#bonnes-pratiques-salle-serveur-et-centre-de-donnees)
+* [Le Cloud pour les administrations sur le site de la DINUM](https://www.numerique.gouv.fr/services/cloud/)
