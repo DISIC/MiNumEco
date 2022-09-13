@@ -32,4 +32,4 @@ Et pour les centres de données, on recommande de suivre les bonnes pratiques du
 
 Voilà à peu près les démarches à envisager si on veut aller tous ensemble vers un numérique plus responsable.
 
-En savoir plus : [Guide de bonnes pratiques numérique responsable pour les organisations](publications/bonnes-pratiques/)
+En savoir plus : [Guide de bonnes pratiques numérique responsable pour les organisations](/publications/bonnes-pratiques/)
