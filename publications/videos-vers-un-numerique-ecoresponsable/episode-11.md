@@ -4,7 +4,7 @@ title: "Épisode #11 : une seconde vie pour les matériels informatiques"
 description: Avec Anne-Marie Chevalier, directrice adjointe de la DNID
 date: 2022-09-15
 image: /img/videos/apercu-episode11.jpg
-embedVideoUrl: https://www.dailymotion.com/embed/video/k28pgeMGEFUu9Fyi94k
+embedVideoUrl: https://www.dailymotion.com/embed/video/x8dqduz
 tags: ["video"]
 type: video
 ---
