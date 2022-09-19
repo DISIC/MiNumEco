@@ -7,9 +7,44 @@ eleventyNavigation:
   order: 20
 ---
 
-Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génère.
+<h2 id="equipe">L’équipe</h2>
+
+<div class="fr-grid-row fr-grid-row--gutters team">
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/virginie-roziere.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Virginie Rozière</h3>
+    <p class="">Cheffe du pôle conseil DINUM et responsable de la mission MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Christophe Boutonnet</h3>
+    <p class="">Chef de service adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/olivier-joviado.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Olivier Joviado</h3>
+    <p class="">Directeur de projets, DINUM. Co-pilote de la MiNumEco</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/richard-hanna.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Richard Hanna</h3>
+    <p class="">Chargé de mission MiNumEco, DINUM</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Claire Dorville</h3>
+    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable, Ministère de la Transition écologique</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-4">
+    <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="">
+    <h3 class="">Thierry Lochon</h3>
+    <p class="">Directeur du Programme Numérique et Écologie, Ministère de la Transition écologique</p>
+  </div>
+</div>
 
 <h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
+
+Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre. De plus, le numérique est un secteur loin d’être dématérialisé. En effet, [le numérique est très consommateur de métaux](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise) avec les problèmes environnementaux et sociaux que cela génère.
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
@@ -120,28 +155,3 @@ Avec le commissariat général du développement durable, il a élaboré la feui
 #### Commissariat général au développement durable (CGDD)
 
 Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
-
-<h2 id="equipe">L’équipe</h2>
-
-<div class="fr-grid-row fr-grid-row--gutters team">
-  <div class="fr-col-12 fr-col-md-3">
-    <img src="/img/equipe/virginie-roziere.jpg" class="fr-responsive-img" alt="">
-    <h3 class="">Virginie Rozière</h3>
-    <p class="">Cheffe du pôle conseil DINUM et responsable de la mission MiNumEco</p>
-  </div>
-  <div class="fr-col-12 fr-col-md-3">
-    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="">
-    <h3 class="">Christophe Boutonnet</h3>
-    <p class="">Chef de service adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
-  </div>
-  <div class="fr-col-12 fr-col-md-3">
-    <img src="/img/equipe/olivier-joviado.jpg" class="fr-responsive-img" alt="">
-    <h3 class="">Olivier Joviado</h3>
-    <p class="">Directeur de projets, DINUM. Co-pilote de la MiNumEco</p>
-  </div>
-  <div class="fr-col-12 fr-col-md-3">
-    <img src="/img/equipe/richard-hanna.jpg" class="fr-responsive-img" alt="">
-    <h3 class="">Richard Hanna</h3>
-    <p class="">Chargé de mission MiNumEco, DINUM</p>
-  </div>
-</div>
