@@ -642,11 +642,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
-    <lastmod>2022-03-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/guide-sobriete-ademe/</loc>
     <lastmod>2022-03-16</lastmod>
   </url>
@@ -904,6 +899,11 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-11/</loc>
     <lastmod>2022-09-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
+    <lastmod>2022-09-20</lastmod>
   </url>
   
   <url>
