@@ -1,7 +1,7 @@
 ---
 layout: layouts/a-propos.njk
 title: À propos
-date: 2022-03-16
+date: 2022-09-20
 eleventyNavigation:
   key: À propos
   order: 20
@@ -18,7 +18,7 @@ eleventyNavigation:
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="">
     <h3 class="">Christophe Boutonnet</h3>
-    <p class="">Chef de service adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
+    <p class="">Directeur adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
   </div>
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/olivier-joviado.jpg" class="fr-responsive-img" alt="">
