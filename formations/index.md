@@ -314,8 +314,14 @@ Le [système de design de l'État](https://www.systeme-de-design.gouv.fr/) est u
 
 <a class="fr-py-3w fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/formation-ecoconception-2021-12-16.pdf" onclick="return tag.click.send({elem:this, name:'formation-ecoconception-2021-12-16.pdf', type:'download'});">Télécharger le support de la présentation Formation initiation à l’écoconception (pdf 4,6 Mo)</a>
 
+## Numérique écoresponsable (MiNumEco sur la plateforme Mentor)
+  
+<span class="fr-tag">Durée : 10 minutes</span> <span class="fr-tag">Creative Commons - Partage des conditions initiales à l'identique</span>
+  
+Vous souhaitez savoir comment mettre en place une démarche numérique écoresponsable ? Ce module de formation réservé aux agents de l'État doit vous aider à comprendre les principaux enjeux environnementaux que pose le numérique et vous donner les clés pour mettre en place un plan d’action au niveau de votre organisation pour réduire votre empreinte environnementale de vos activités numériques.
 
-
+[Voir le module Numérique écoresponsable](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=493)
+  
 ## Impacts environnementaux du numérique (INRIA) 
 
 <span class="fr-tag">Durée : 5 heures</span> <span class="fr-tag">[Licence CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)</span>
