@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: gh-pages
+          ref: prod
       - name: Download last RTE EcoWatt feed
         run: |
           RTE_OAUTH_RESULT=$(curl -sLS "https://digital.iservices.rte-france.com/token/oauth/" -H "Authorization: Basic ${{ secrets.RTE_CREDENTIAL }}")
