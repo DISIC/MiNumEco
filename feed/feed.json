@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/plan-sobriete-energetique/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/plan-sobriete-energetique/",
+      "title": "Plan sobriété énergétique : quelles actions pour le numérique ?",
+      "content_html": "<p><img src=\"/img/posts/plan-sobriete-energetique.png\" alt=\"\"></p>\n<p>Avec le plan de sobriété énergétique de l’État, l’administration française prend pleinement sa part à l’effort collectif de sobriété énergétique. Ce plan, qui vise la réduction de 10% de la consommation d’énergie de l’Etat comporte des mesures dans le domaine du numérique :</p>\n<ul>\n<li>Sensibiliser les agents aux bons gestes du numérique</li>\n<li>Améliorer l’efficacité énergétique des centres de données de l’État</li>\n<li>Limiter l’usage des écrans en débranchant tous les écrans non essentiels (halls, selfs…) et en les supprimant dans un second temps lorsque c’est possible.</li>\n</ul>\n<p>Les services publics se doivent d’être exemplaires et d’accompagner l’effort de toutes les françaises et de tous les français, tant à court terme dans cette période de tensions internationales, qu’à long terme pour répondre aux enjeux écologiques.</p>\n<p><strong>La MiNumEco, mission interministérielle co-pilotée par la DINUM et le ministère de la Transition écologique, accélère la réduction de l’empreinte environnementale et énergétique des activités numériques des services publics</strong> en fixant des objectifs ambitieux, en accompagnant les administrations, en formant les agents, en créant les outils nécessaires à l’écoconception et à la mesure et la réduction des impacts.</p>\n<p><a href=\"https://www.ecologie.gouv.fr/sites/default/files/dp-plan-sobriete.pdf\">Retrouvez tous les engagements du plan de sobriété énergétique dans le dossier de presse en ligne</a>.</p>\n",
+      "date_published": "2022-10-06T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/implications-loi-reen-collectivites/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/implications-loi-reen-collectivites/",
       "title": "Publication du décret relatif à l&#39;élaboration d&#39;une stratégie numérique responsable par les collectivités",
