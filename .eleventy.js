@@ -71,6 +71,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksFilter('eleventyNavigationExtended', findNavigationEntriesExtended);
 
   eleventyConfig.addPassthroughCopy({
+    'api': 'api',
     'img': 'img',
     'css': 'css',
     'js': 'js',
