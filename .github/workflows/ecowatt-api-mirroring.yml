@@ -14,6 +14,7 @@ jobs:
           ref: prod
       - name: Download last RTE EcoWatt feed
         run: |
+          mkdir -p api/ecowatt
           RTE_OAUTH_RESULT=$(curl -sLS "https://digital.iservices.rte-france.com/token/oauth/" -H "Authorization: Basic ${{ secrets.RTE_CREDENTIAL }}")
           RTE_ACCESS_TOKEN=$(echo $RTE_OAUTH_RESULT | jq -j '.access_token')
           curl "https://digital.iservices.rte-france.com/open_api/ecowatt/v4/signals" -H "Authorization: Bearer $RTE_ACCESS_TOKEN" -o api/ecowatt/ecowatt.json
