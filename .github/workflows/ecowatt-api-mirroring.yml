@@ -1,0 +1,25 @@
+name: EcoWatt Api mirroring
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+      - name: Download last RTE EcoWatt feed
+        run: |
+          RTE_OAUTH_RESULT=$(curl -sLS "https://digital.iservices.rte-france.com/token/oauth/" -H "Authorization: Basic ${{ secrets.RTE_CREDENTIAL }}")
+          RTE_ACCESS_TOKEN=$(echo $RTE_OAUTH_RESULT | jq -j '.access_token')
+          curl "https://digital.iservices.rte-france.com/open_api/ecowatt/v4/signals" -H "Authorization: Bearer $RTE_ACCESS_TOKEN" -o api/ecowatt/ecowatt.json
+      - name: Commit and push changes
+        run: |-
+          git config user.name "EcowattApiMirroring"
+          git add api/ecowatt/ecowatt.json && git commit -m "Mise à jour des données EcoWatt"
+          git push
+          
