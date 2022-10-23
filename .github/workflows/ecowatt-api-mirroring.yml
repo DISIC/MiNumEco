@@ -2,8 +2,8 @@ name: EcoWatt Api mirroring
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 * * * *'
+#  schedule:
+#    - cron:  '0 * * * *'
 
 jobs:
   build:
@@ -21,8 +21,3 @@ jobs:
         run: |-
           git config user.name "EcowattApiMirroring"
           git add api/ecowatt/ecowatt.json && git diff --staged --quiet || git commit -m "Mise à jour des données EcoWatt" && git push
-          cp api/ecowatt/ecowatt.json api/ecowatt/ecowatt-backup.json
-          git checkout prod
-          mv api/ecowatt/ecowatt-backup.json api/ecowatt/ecowatt.json
-          git add api/ecowatt/ecowatt.json && git diff --staged --quiet || git commit -m "Mise à jour des données EcoWatt en production" && git push
-          
