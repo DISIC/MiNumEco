@@ -52,11 +52,14 @@ layout: layouts/base.njk
                     <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/retour-experience/' == page.url }}">
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/retour-experience/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/retour-experience/' == page.url }}>Retours d'expérience</a>
                     </li>
-                    <li class="fr-sidemenu__item">
-                        <a class="fr-sidemenu__link" href="/posts/webinaire-lancement-referentiel-ecoconception/">Revoir le webinaire de lancement</a>
+                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/formation/' == page.url }}">
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/formation/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/formation/' == page.url }}>Formation</a>
                     </li>
                     <li class="fr-sidemenu__item">
                         <a class="fr-sidemenu__link" href="{{ metadata.referentielEcoconception.consultationUrl }}" target="_blank" title="Consultation publique - Nouvelle fenêtre">Consultation publique <span class="fr-fi-external-link-line fr-link--icon-right" aria-hidden="true"></span></a>
+                    </li>
+                    <li class="fr-sidemenu__item">
+                        <a class="fr-sidemenu__link" href="/publications/ecoconception-securite/" target="_blank" title="Écoconception, cybersécurité et protection des données, quelles synergies ? - Nouvelle fenêtre">Écoconception, cybersécurité et protection des données, quelles synergies ? <span class="fr-fi-external-link-line fr-link--icon-right" aria-hidden="true"></span></a>
                     </li>
                 </ul>
             </div>
