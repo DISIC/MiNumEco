@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Faire appel à un éco-organisme pour la gestion des DEEE
 type: bpnr
-date: 2022-02-17
+date: 2022-11-14
 idbp: i.4
 priority: Prioritaire
 difficulty: Facile
@@ -37,6 +37,6 @@ Par ailleurs dans le cadre de leur mission, les éco-organismes doivent favorise
 
 Depuis le 1er janvier 2022, dans le cadre des nouveaux agréments délivrés fin 2021, ecosystem a rejoint Ecologic, agréé depuis 10 ans spécifiquement sur les équipements IT des entreprises et administrations, pour proposer la collecte et le traitement de tous les équipements IT.
 
-**Ecologic** fédère la quasi-totalité des fabricants de l’IT parmi ses adhérents et propose une solution dédiée en ligne [e-dechet.com](http://www.e-dechet.com/) pour gérer, suivre, tracer et archiver tous les éléments relatifs aux demandes d’enlèvement de DEEE sur site. Le service est gratuit à compter de 500 kg sur palettes filmées, à quai. Les équipements doivent être nus d’emballage. 
+**Ecologic** fédère la quasi-totalité des fabricants de l’IT parmi ses adhérents et propose une solution dédiée en ligne [e-dechet.com](http://www.e-dechet.com/) pour gérer, suivre, tracer et archiver tous les éléments relatifs aux demandes d’enlèvement de DEEE sur site. Le service est gratuit à compter de 250 kg sur palettes filmées, à quai. Les équipements doivent être nus d’emballage. 
 
 **ecosystem** a mis en place plusieurs solutions de collecte selon les besoins des détenteurs d’évacuer leurs DEEE (en fonction des volumes et des fréquences nécessaires) et ce, à partir de 500 kg soit 2,5 m3 de DEEE stockés. L’éco-organisme dispose d’accords nationaux de réemploi avec des réseaux de l’économie sociale et solidaire en vue de développer et professionnaliser les activités de réemploi et réutilisation en leur mettant à disposition des appareils réemployables en vue de les rénover et en prolonger la durée l’usage et en soutenant financièrement ces activités de réemploi (6M€ annuels). Ecosystem peut être contacté via son site internet [ecosystem.eco](https://www.ecosystem.eco/).
