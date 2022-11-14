@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/spe-numerique/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/spe-numerique/",
+      "title": "Stéphanie Schaer présente les actions de la MiNumEco, pour la sobriété des services de l’État sur le volet numérique, au comité des services publics écoresponsables",
+      "content_html": "<p><img src=\"/img/posts/spe-numerique.png\" alt=\"\"></p>\n<p>Un mois après l’annonce du Plan de Sobriété, les ministres Stanislas Guerini et Agnès Pannier Runacher, réunissaient le 10 novembre le comité de suivi des Services Publics Écoresponsables.</p>\n<p>En matière de numérique, c’est la MiNumEco, Mission Interministérielle pour le Numérique Écoresponsable, qui accompagne les services publics vers l’exemplarité et la réduction de leur empreinte environnementale liée au numérique.</p>\n<p>Stéphanie Schaer, Directrice Interministérielle au Numérique, co-pilote avec le Ministère de la Transition Écologique, a présenté les orientations et actions pour sensibiliser les agents, accompagner les administrations et fixer des objectifs ambitieux.</p>\n<p>Le premier rendez-vous est fixé au 29 novembre, dans le cadre du mois de l’innovation publique, au lieu de la DITP pour présenter aux DNUM, référents et chefs de projets numérique, le Référentiel Général d’Écoconception et ses 79 critères.</p>\n<p><a href=\"https://www.modernisation.gouv.fr/mois-de-linnovation-publique/lancement-officiel-du-referentiel-general-decoconception-de-service\">S’inscrire pour assister à cet évènement</a></p>\n",
+      "date_published": "2022-11-14T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/plan-sobriete-energetique/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/plan-sobriete-energetique/",
       "title": "Plan sobriété énergétique : quelles actions pour le numérique ?",
