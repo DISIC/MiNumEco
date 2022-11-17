@@ -1,5 +1,7 @@
 # MiNumEco - Mission interministérielle numérique écoresponsable
 
+![MiNumEco - Mission interministérielle numérique écoresponsable](/DISIC/MiNumEco/blob/main/img/logo.png)
+
 ## Installation
 
 ```
