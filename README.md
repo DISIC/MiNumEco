@@ -31,8 +31,13 @@ DEBUG=* npx eleventy
 
 Déploiement des fichiers statiques de la branche `prod` automatiquement avec les "actions Github" dès commit sur la branche `main`. [Voir le workflow de déploiement](https://github.com/DISIC/greentech/blob/main/.github/workflows/deploy.yml)
 
-## Licence
+## Particularités
 
+### Référentiel général d'écoconception de service numérique (RGESN)
+
+Les pages du RGESN sont générées à partir de [referentiel-ecoconception.json](/DISIC/MiNumEco/blob/main/_data/referentiel-ecoconception.json).
+
+## Licence
 
 Les codes sources de ce dépôt sont placés sous licence MIT.
 
