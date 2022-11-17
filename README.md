@@ -1,6 +1,6 @@
 # MiNumEco - Mission interministérielle numérique écoresponsable
 
-![MiNumEco - Mission interministérielle numérique écoresponsable](/DISIC/MiNumEco/blob/main/img/logo.png)
+![MiNumEco - Mission interministérielle numérique écoresponsable](https://raw.githubusercontent.com/DISIC/MiNumEco/main/img/logo.png)
 
 ## Installation
 
