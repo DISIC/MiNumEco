@@ -1,7 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
-date: 2022-07-11
+date: 2022-11-28
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
@@ -64,4 +64,4 @@ Voir [la page dédiée au référentiel sur data.gouv.fr]({{ metadata.referentie
 
 ## Consultation publique
 
-Une <a href="{{ metadata.referentielEcoconception.consultationUrl }}">consultation publique</a>, en ligne jusqu'au 3 décembre 2021, 18h, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1 prévue d'ici avril 2022.
+Une <a href="{{ metadata.referentielEcoconception.consultationUrl }}">consultation publique</a>, en ligne à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, a permi de corriger ou valider les critères proposés afin de passer de la [version bêta à la version 1](/publications/referentiel-general-ecoconception/journal-des-modifications/).

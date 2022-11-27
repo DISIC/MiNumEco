@@ -1,11 +1,12 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: Retours d'expérience
+description: Quelques exemples de mise en œuvre d'une démarche d'écoconception de service numérique.
 image: /img/referentiel-ecoconception.png
-date: 2021-11-15
+date: 2022-11-28
 ---
 
-Voici quelques exemples de mise en œuvre du Référentiel général d'écoconception de service numérique.
+Quelques exemples de mise en œuvre d'une démarche d'écoconception de service numérique
 
 <div class="fr-highlight">
 
@@ -33,3 +34,9 @@ L'équipe a mis en place un outil de suivi sur des indicateurs importants en éc
 L'équipe du projet a pu comparé son cheminement avec celui proposé par le référentiel général d'écoconception de services numériques. Elle considère qu'elle applique "nativement" la moitié des critères et un quart des critères sont en cours de traitement. Certains critères n'ont pas pu être appliqués car des choix techniques différents ont été réalisés. Par exemple, en fonction des librairies utilisées, il n'est pas possible de s'assurer des critères environnementaux. Les critères du RGESN ne sont parfois pas applicables parce que le projet hérite de choix des institutions qui encadrent le projet (authentification keycloak, système de design de l'État, etc.). Le point positif du référentiel est qu'il aide concrètement à structurer la mission du chargé d'écoconception. Ce dernier doit généralement naviguer de la stratégie, à l'UI, à l'hébergement. Il est facile d'oublier des éléments en route. Reprendre le référentiel a permis de rappeler des tâches ou les questions qui avaient été laissées de côté.
 
 La démarche d'écoconception de ce service numérique a été présentée durant ce webinaire : [L’éco-conception numérique, enjeux et cas pratiques](https://vimeo.com/644463125), avec Gauthier Roussilhe pour les Designers Transverses de Beta (sur Vimeo).
+
+## Autres retours d'expérience
+
+* [Écoconception du site ecologie.gouv.fr](https://www.ecologie.gouv.fr/ecoconception-du-site-ecologiegouvfr)
+* [Une logique d’écoconception du site ademe.fr](https://www.ademe.fr/une-logique-d-ecoconception/)
+* [Sustainable Digital Challenge de Apidays Paris 2022 : Retour d’expérience de l’INSEE](https://institutnr.org/apidays-paris-2022-rex-linsee)
