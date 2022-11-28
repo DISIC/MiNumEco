@@ -20,6 +20,8 @@ NumÉcoDiag est proposée par la MiNumEco, mission interministérielle pour le n
 #### Alternatives
 
 * Pour Firefox, [installer depuis un fichier .zip](/docs/2022/numecodiag-firefox-1.0.2.zip)
+* [Tableau au format OpenDocument (.ods)](/docs/2022/NumEcoDiag-feuille.ods)
+* [Tableau au format Excel (.xls)](/docs/2022/NumEcoDiag-feuille.xls)
 
 ### À propos
 
