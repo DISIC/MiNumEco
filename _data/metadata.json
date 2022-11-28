@@ -35,11 +35,11 @@
     "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/guide-de-bonnes-pratiques-numerique-responsable-pour-les-organisations/"
   },
   "referentielEcoconception": {
-    "version": "beta",
-    "versionTitle": "bêta",
+    "version": "v1",
+    "versionTitle": "1",
     "title": "Référentiel général d'écoconception de services numériques",
     "description": "Référentiel piloté par la DINUM, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
-    "updatedAt": "2021-10-19",
+    "updatedAt": "2022-11-29",
     "consultationUrl": "https://purpoz.com/project/referentiel-general-decoconception-de-service-numerique/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions",
     "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/referentiel-general-decoconception-de-services-numeriques/",
     "thematique": {

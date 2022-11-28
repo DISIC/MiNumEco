@@ -1,7 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
-date: 2022-07-11
+date: 2022-11-28
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
@@ -48,7 +48,7 @@ Tous les métiers liés de près ou de loin à la conception d’un service num�
 
 Ce référentiel est mené dans le cadre de la mission interministérielle « Green Tech » / Numérique écoresponsable du programme Tech.Gouv. Cette mission est co-pilotée par la Direction interministérielle du numérique (DINUM) et le Ministère de la Transition Ecologique (MTE), avec la participation de tous les ministères.
 
-Ce référentiel est piloté par la Dinum, le Ministère de la Transition Écologique, mais également l’ADEME et l’Institut du Numérique Responsable (INR).
+Ce référentiel est piloté par la Dinum, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable (INR).
 
 Nous remercions également les nombreuses institutions qui ont fait part de leur intérêt pour ce référentiel et qui ont participé aux travaux : il s’agit principalement de la DAE (Direction des Achats de l’Etat), la DGE (Direction Générale des Entreprises), le CGDD (Commissariat Général au Développement Durable), l’ARCEP (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse) ou l’INRIA (Institut national de recherche en informatique et en automatique)… Nous remercions aussi les sociétés Tasmane et Temesis pour l’accompagnement et les nombreux contributeurs, agents publics, salariés du secteur privé ou du monde associatif et de la recherche qui ont permis à ce référentiel d’être enrichi.
 
@@ -58,10 +58,10 @@ Ce référentiel est issu d’un travail de tamisage du [Guide de Référence de
 
 ## Version et licence
 
-Version bêta publié sous [licence ouverte Etalab v2](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+Version 1 publiée sous [licence ouverte Etalab v2](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
 Voir [la page dédiée au référentiel sur data.gouv.fr]({{ metadata.referentielEcoconception.dataGouvUrl }}).
 
 ## Consultation publique
 
-Une <a href="{{ metadata.referentielEcoconception.consultationUrl }}">consultation publique</a>, en ligne jusqu'au 3 décembre 2021, 18h, à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, permettra de valider les critères proposés ou d’enrichir le référentiel afin de passer de cette version bêta à une version 1 prévue d'ici avril 2022.
+Une <a href="{{ metadata.referentielEcoconception.consultationUrl }}">consultation publique</a>, en ligne à destination de tous les acteurs et actrices impliqués dans la conception des services numériques, a permi de corriger ou valider les critères proposés afin de passer de la [version bêta à la version 1](/publications/referentiel-general-ecoconception/journal-des-modifications/).
