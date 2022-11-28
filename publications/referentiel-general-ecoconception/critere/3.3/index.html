@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il pris en compte l’évolutivité technique des protocoles ? - Numérique écoresponsable</title>
+    <title>Le service numérique a-t-il pris en compte l&amp;#39;évolution technique des protocoles ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il pris en compte l’évolutivité technique des protocoles ?">
+    <meta property="og:title" content="Le service numérique a-t-il pris en compte l&amp;#39;évolution technique des protocoles ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/referentiel-ecoconception.png">
@@ -166,10 +166,13 @@
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/" >Journal des modifications</a>
                     </li>
                     <li class="fr-sidemenu__item ">
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/numecodiag/" >NumEcoDiag</a>
+                    </li>
+                    <li class="fr-sidemenu__item ">
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/retour-experience/" >Retours d'expérience</a>
                     </li>
                     <li class="fr-sidemenu__item ">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/numecodiag/" >NumÉcoDiag</a>
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/on-parle-du-rgesn/" >On parle du RGESN</a>
                     </li>
                     <li class="fr-sidemenu__item ">
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/formation/" >Formation</a>
@@ -191,9 +194,9 @@
         
 
         
-<h1>Le service numérique a-t-il pris en compte l’évolutivité technique des protocoles ?</h1>
+<h1>Le service numérique a-t-il pris en compte l&#39;évolution technique des protocoles ?</h1>
 
-<p class="fr-text--sm">Version bêta. Dernière mise à jour le <time datetime="2021-10-19">19/10/2021</time></p>
+<p class="fr-text--sm">Version 1. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
 
 <p>
     <a href="/publications/referentiel-general-ecoconception/#architecture" class="fr-tag">Architecture</a>
@@ -201,10 +204,10 @@
 
 <h2>Objectif</h2>
 
-<p><p>Limiter l’obsolescence du service induite par l’obsolescence du protocole utilisé, par exemple :</p>
+<p><p>Limiter l’obsolescence du service induite par l'obsolescence du protocole utilisé, par exemple :</p>
 <ul>
-<li>face à la pénurie d’IPv4 et la généralisation d’IPv6 (à moyen terme, certains accès internet ne proposeront plus de connectivité IPv4) en garantissant son interopérabilité et sa pérennité,</li>
-<li>les navigateurs tendent vers le blocage du protocole HTTP et l’obligation d’utiliser HTTPS.</li>
+<li>face à la pénurie d'IPv4 et la généralisation d'IPv6 (à moyen terme, certains accès internet ne proposeront plus de connectivité IPv4) en garantissant son interopérabilité et sa pérennité,</li>
+<li>les navigateurs tendent vers le blocage du protocole HTTP et l'obligation d'utiliser HTTPS.</li>
 </ul>
 </p>
 
@@ -212,18 +215,19 @@
 
 <p><p>Par exemple :</p>
 <ul>
-<li>Définir une stratégie de test IPv6 qui inclue des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif: déceler du code ou des fonctions qui ne fonctionnent qu’en IPv4 only, qui seront inutilisables à moyen terme, avec le retrait d’IPv4,</li>
-<li>Dans un contexte où l’utilisateur accède au service numérique par son navigateur, il est obligatoire d’utiliser HTTPS au lieu de HTTP.</li>
+<li>Définir une stratégie de test IPv6 qui inclut des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif : déceler du code ou des fonctions qui ne fonctionnent qu'en IPv4 only, qui seront inutilisables à moyen terme, avec le retrait d'IPv4,</li>
+<li>Dans un contexte où l'utilisateur accède au service numérique par son navigateur, il est obligatoire d'utiliser HTTPS au lieu de HTTP.</li>
 </ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier que les différents composants du service numerique fonctionnent bien :</p>
+<p><p>Vérifier que les différents composants du service numérique fonctionnent bien :</p>
 <ul>
 <li>en IPv6 et ne font appel à aucun service IPv4 only,</li>
 <li>en HTTPS et non en HTTP.</li>
 </ul>
+<p>Il sera sans doute complexe de vérifier ces cas depuis un audit externe. Demander à l'équipe si certains composants utilisent des IP ou des urls en http &quot;en dur&quot;.</p>
 </p>
     </div>
 </div>

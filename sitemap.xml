@@ -132,16 +132,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/</loc>
-    <lastmod>2021-10-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/journal-des-modifications/</loc>
-    <lastmod>2021-10-19</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/carbonalyser/</loc>
     <lastmod>2021-11-09</lastmod>
   </url>
@@ -194,11 +184,6 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
     <lastmod>2021-11-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
-    <lastmod>2021-11-15</lastmod>
   </url>
   
   <url>
@@ -862,11 +847,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/a-propos/</loc>
-    <lastmod>2022-07-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/formation/</loc>
     <lastmod>2022-07-11</lastmod>
   </url>
@@ -937,8 +917,33 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/a-propos/</loc>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/</loc>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/journal-des-modifications/</loc>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/</loc>
-    <lastmod>2022-11-16</lastmod>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/on-parle-du-rgesn/</loc>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
+    <lastmod>2022-11-28</lastmod>
   </url>
   
   <url>

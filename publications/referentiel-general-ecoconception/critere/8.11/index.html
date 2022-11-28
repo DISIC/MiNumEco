@@ -166,10 +166,13 @@
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/" >Journal des modifications</a>
                     </li>
                     <li class="fr-sidemenu__item ">
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/numecodiag/" >NumEcoDiag</a>
+                    </li>
+                    <li class="fr-sidemenu__item ">
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/retour-experience/" >Retours d'expérience</a>
                     </li>
                     <li class="fr-sidemenu__item ">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/numecodiag/" >NumÉcoDiag</a>
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/on-parle-du-rgesn/" >On parle du RGESN</a>
                     </li>
                     <li class="fr-sidemenu__item ">
                         <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/formation/" >Formation</a>
@@ -193,7 +196,7 @@
         
 <h1>Le service numérique utilise-t-il une redondance uniquement lorsque cela est nécessaire ?</h1>
 
-<p class="fr-text--sm">Version bêta. Dernière mise à jour le <time datetime="2021-10-19">19/10/2021</time></p>
+<p class="fr-text--sm">Version 1. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
 
 <p>
     <a href="/publications/referentiel-general-ecoconception/#hebergement" class="fr-tag">Hébergement</a>
@@ -201,15 +204,16 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire les ressources informatiques et les ressources de stockage utilisées.</p>
+<p><p>Réduire les ressources informatiques et les ressources de stockage utilisées.
+Il s'agit de se poser la question du bon niveau de service sélectionné par rapport au besoin. Plus le taux de disponibilité demandé est haut, plus cela mobilise une infrastructure coûteuse financièrement et environnementalement.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Se questionner sur la pertinence de la redondance du service. Est-ce critique si le service numérique n’est pas disponible pendant un certain temps ?</p>
+<p><p>Se questionner sur la pertinence de la redondance du service. Est-ce critique si le service numérique n'est pas disponible pendant un certain temps ?</p>
 <ul>
 <li>Le Backup &amp; Restore est ce qu’il y a de moins cher, parfaitement adapté aux applications qui ont un RTO (Recovery Time Objective) ou RPO (Recovery Point Objective) de quelques heures.</li>
-<li>Le Pilot Light, c’est par exemple une base de données &quot;mirrorée&quot; mais avec des VMs éteintes, un peu plus cher qu’un Backup &amp; Restore cela fonctionne pour la plupart des applications qui n’ont pas des exigences SLA extrêmes (inférieures à 1 heure).</li>
+<li>Le Pilot Light, c’est par exemple une base de données &quot;mirrorée&quot; / dupliquée mais avec des VMs éteintes, procédé un peu plus cher qu’un Backup &amp; Restore cela fonctionne pour la plupart des applications qui n’ont pas des exigences SLA extrêmes (inférieures à 1 heure).</li>
 <li>Le Warm Standby, c’est lorsque les VMs tournent déjà mais dans une scalabilité limitée, quasiment en temps réel mais potentiellement en qualité légèrement dégradée si incident.</li>
 <li>Le Hot Standby Multi-Site : total résilience pour des SLAs temps réel. Aucune perte de service n’est tolérée, mais forcément cela a un coût.</li>
 </ul>
@@ -217,7 +221,7 @@
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérification de la présence d’un SLA (Service Level Agreement) par exemple</p>
+<p><p>Vérification de la présence d'un SLA (Service Level Agreement) ajusté selon les besoins par exemple</p>
 </p>
     </div>
 </div>
