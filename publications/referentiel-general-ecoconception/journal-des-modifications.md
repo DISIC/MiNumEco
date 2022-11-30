@@ -9,6 +9,8 @@ date: 2022-11-28
 
 29/11/2022 - Publication d'une version 1 du référentiel après prise en compte des retours de la consultation publique
 
+[export csv](/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-v1.csv), [export json](/publications/referentiel-general-ecoconception/export/referentiel-general-ecoconception-version-v1.json), [export OpenDocument](/docs/2022/referentiel-general-ecoconception-version-v1.ods), [export Excel](/docs/2022/referentiel-general-ecoconception-version-v1.xls)
+
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
 <button class="fr-accordion__btn" aria-expanded="false" aria-controls="version-1-detail">Voir le détail des modifications par critère</button>
