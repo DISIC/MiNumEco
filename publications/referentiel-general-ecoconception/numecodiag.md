@@ -15,7 +15,7 @@ NumÉcoDiag est proposée par la MiNumEco, mission interministérielle pour le n
 
 * [Firefox](https://addons.mozilla.org/fr/firefox/addon/num%C3%A9codiag/)
 * [Chrome](https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr)
-* Edge : [utilisez la version Chrome compatible pour Edge](https://addons.mozilla.org/fr/firefox/addon/num%C3%A9codiag/)
+* Edge : [utilisez la version Chrome compatible pour Edge](https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr)
 
 #### Alternatives
 
