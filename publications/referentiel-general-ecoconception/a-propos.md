@@ -20,7 +20,7 @@ Les principaux objectifs de ce référentiel d’écoconception de service numé
 
 <div class="fr-highlight">
 
-__Ce référentiel contient des critères qui sont tous vérifiables, génériques et intemporels__. Le but étant de pouvoir réaliser un audit de conformité du service numérique (auto-audit ou audit externe indépendant). Chaque critère est une question. Il est attendu comme réponse un « __oui__ », un « __non__ » ou un « __non applicable__ ». La réponse « oui » est favorable en termes de réduction des impacts environnementaux. La réponse « non applicable » doit être justifiée.
+__Ce référentiel contient des critères qui sont tous vérifiables, génériques et intemporels__. Le but étant de pouvoir réaliser un audit de conformité du service numérique (auto-audit ou audit externe indépendant). Chaque critère est une question. Il est attendu comme réponse « **conforme** », « **non conforme** » ou « **non applicable** ». Les réponses « conformes » et « non applicables » doivent être justifiées.
 
 </div>
 
