@@ -14,6 +14,19 @@ Vous êtes une administration publique ou une collectivité, vous souhaitez part
 
 </div>
 
+## Les entreprises s'engagent
+
+La communauté Les entreprises s’engagent a été lancée par le Président de la République en juillet 2018 dans l’objectif de renforcer et de pérenniser le lien entre l’État et l’Entreprise en faveur de l’emploi de tous les publics.
+
+Par souci de cohérence avec la mission d’impact de son service, l’équipe a, dès le début, intégré des bonnes pratiques d’éco-conception pour opérer le développement de sa plateforme numérique.
+
+La page dédiée à la déclaration d'éco-conception a pour objectif de partager et de faire connaître notre démarche afin d’inspirer d’autres entités à s’engager en faveur d’un numérique plus responsable.
+
+Par exemple l'équipe de conception et de développement a été sensibilisée aux enjeux environnementaux du numérique et a intégré dans ses rituels, ses outils et son pilotage produit les bonnes pratiques d'éco-conception à l'image du  suivi, toutes les deux semaines de l’éco-index.
+
+En savoir plus : [déclaration d'écoconception de Les entreprises s’engagent](https://lesentreprises-sengagent.gouv.fr/eco-conception)
+
+
 ## Système National d’Enregistrement des demandes de logement locatif social (SNE)
 
 Pendant la finalisation du RGESN, le référentiel général d'écoconception de service numérique, une expérimentation de ce référentiel a été menée sur le SNE, le système national d’enregistrement des demandes de logement locatif social. Le périmètre de cette étude concerne la création d'un nouveau module pour effectuer des recherches avancées de dossier et permettre, à terme, de dé-commissionner un autre module dont son usage avait été détourné. Le contexte de ce projet a été à la fois favorable, car une méthodologie inspirée du design thinking et de l'agilité a été adoptée, tout en présentant deux défis principaux : l'urgence des développements et l'intégration à un système historique (_legacy_).
