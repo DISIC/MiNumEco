@@ -8,6 +8,7 @@ date: 2022-11-28
 
 Quelques exemples d'articles qui parlent du RGESN, le référentiel général d'écoconception de service numérique.
 
+* [Écoconception numérique : 16 mesures inscrites au référentiel de l’État](https://www.silicon.fr/ecoconception-numerique-16-mesures-referentiel-etat-454130.html), Silicon, décembre 2022.
 * [L’État s’attaque au verdissement de ses services numériques](https://acteurspublics.fr/articles/letat-sattaque-au-verdissement-de-ses-services-numeriques), Acteurs publics, décembre 2022.
 * [L’état lance le référentiel d’écoconception des services numériques](https://www.itforbusiness.fr/letat-lance-le-referentiel-decoconception-des-services-numeriques-57738), IT for Business, décembre 2022.
 * [Numérique : un nouveau référentiel doit permettre d'évaluer l'écoconception des applications](https://www.actu-environnement.com/ae/news/numerique-referentiel-econception-applications-40757.php4), Actu Environnement, décembre 2022.
