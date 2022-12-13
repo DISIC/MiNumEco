@@ -1,0 +1,75 @@
+---
+layout: layouts/base.njk
+---
+
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+            </li>
+        {% if page.url == '/publications/guide-achat-indice-reparabilite/' %}
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page" href="/publications/guide-achat-indice-reparabilite/">La prise en compte de l’indice de réparabilité dans les achats publics</a>
+            </li>
+        {% else %}
+            <li>
+                <a class="fr-breadcrumb__link" href="/publications/guide-achat-indice-reparabilite/">La prise en compte de l’indice de réparabilité dans les achats publics</a>
+            </li>
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+            </li>
+        {% endif %}
+        </ol>
+    </div>
+</nav>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+
+    <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
+        <div class="fr-sidemenu__inner">
+            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
+            <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                <ul class="fr-sidemenu__list">
+                    <li class="fr-sidemenu__item {% if '/publications/guide-achat-indice-reparabilite/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/guide-achat-indice-reparabilite/" {% if '/publications/guide-achat-indice-reparabilite/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
+                    </li>
+
+                    {% for item in collections.all | eleventyNavigation("guideIndiceReparabilite") %}
+                        <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                            <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="fr-col-12 fr-col-md-8">
+        <h1>{{ title }}</h1>
+
+        {% if date %}
+            <p class="fr-text--sm fr-py-2w">
+                Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+            </p>
+        {% endif %}
+
+        {{ content | safe }}
+
+
+
+        
+        {% if page.url == '/publications/guide-achat-indice-reparabilite/' %}
+            <nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+                <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/guide-achat-indice-reparabilite/comprendre-indice-reparabilite/">Page suivante : Comprendre l’indice de réparabilité</a>
+            </nav>
+        {% else %}
+            {% include "pagination.njk" %}
+        {% endif %}
+
+    </div>
+</div>
