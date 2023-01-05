@@ -5,12 +5,27 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2022-11-14T00:00:00Z</updated>
+	<updated>2023-01-05T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Prise en compte de l’indice de réparabilité dans les achats publics</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/guide-prise-en-compte-indice-reparabilite-achats-publics/"/>
+		<updated>2023-01-05T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/guide-prise-en-compte-indice-reparabilite-achats-publics/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/prise-en-compte-indice-reparabilite-actu.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ce guide vise à accompagner les acheteurs publics dans la mise en œuvre de l’obligation de prise en compte de l’indice de réparabilité, et plus largement à inspirer l’ensemble des acheteurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guide Prise en compte de l’indice de réparabilité dans les achats publics :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-achat-indice-reparabilite/&quot;&gt;Consulter en ligne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ecologie.gouv.fr/sites/default/files/Guide%20IR%20Achat%20durable%202022.pdf&quot;&gt;Télécharger en pdf&lt;/a&gt; (884 Ko).&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Stéphanie Schaer présente les actions de la MiNumEco, pour la sobriété des services de l’État sur le volet numérique, au comité des services publics écoresponsables</title>
