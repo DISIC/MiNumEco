@@ -1,0 +1,31 @@
+{% set precedentePage = null %}
+{% set courantePage = null %}
+{% set suivantePage = null %}
+
+{% for item in collections.all | eleventyNavigationExtended(eleventyNavigation.parent) %}
+    {% if not suivantePage %}
+        {% if courantePage %}
+            {% set suivantePage = item %}
+        {% else %}
+            {% if item.url == page.url %}
+                {% set courantePage = item %}
+            {% else %}
+                {% set precedentePage = item %}
+            {% endif %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+<nav class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-6">
+        {% if precedentePage %}
+            <a class="fr-link fr-fi-arrow-left-line fr-link--icon-left" href="{{ precedentePage.url }}">Page précédente :<br />{{ precedentePage.data.title }}</a>
+        {% endif %}
+    </div>
+
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-6 text-align--right">
+        {% if suivantePage %}
+            <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="{{ suivantePage.url }}">Page suivante :<br />{{ suivantePage.data.title }}</a>
+        {% endif %}
+    </div>
+</nav>
