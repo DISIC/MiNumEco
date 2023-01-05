@@ -1,13 +1,13 @@
 ---
 layout: layouts/guide-indice-reparabilite.njk
 title: Comprendre l’indice de réparabilité
-date: 2022-12-13
-image: /img/fin-usage/atelier-fin-usage.png
+date: 2023-01-05
+image: /img/prise-en-compte-indice-reparabilite.png
 type: publication
 eleventyNavigation:
   parent: guideIndiceReparabilite
   title: Comprendre l’indice de réparabilité
-  image: /img/fin-usage/atelier-fin-usage.png
+  image: /img/prise-en-compte-indice-reparabilite.png
   order: 10
 ---
 

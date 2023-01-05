@@ -2,17 +2,19 @@
 layout: layouts/guide-indice-reparabilite.njk
 title: La prise en compte de l’indice de réparabilité dans les achats publics
 description: Ce guide vise à accompagner les acheteurs publics dans la mise en œuvre de l’obligation de prise en compte de l’indice de réparabilité, et plus largement à inspirer l’ensemble des acheteurs. 
-date: 2022-12-13
-image: /img/fin-usage/atelier-fin-usage.png
+date: 2023-01-05
+image: /img/prise-en-compte-indice-reparabilite.png
 type: publication
 eleventyNavigation:
   key: guideIndiceReparabilite
   parent: publications
   title: La prise en compte de l’indice de réparabilité dans les achats publics
-  date: 2022-12-13
-  image: /img/fin-usage/atelier-fin-usage.png
-  order: 100
+  date: 2023-01-05
+  image: /img/prise-en-compte-indice-reparabilite.png
+  order: 130
 ---
+
+![](/img/prise-en-compte-indice-reparabilite.png)
 
 **Contexte : pourquoi ce guide ?**
 
@@ -41,3 +43,5 @@ C’est bien dans cet objectif que la **loi du 15 novembre 2021 visant à rédui
 *« A compter du 1er janvier 2026, lors de l'achat public de produits numériques disposant d'un indice de durabilité, les services de l'Etat ainsi que les collectivités territoriales et leurs groupements prennent en compte l'indice de durabilité […]. »*
 
 Ce guide vise à accompagner les acheteurs publics dans la mise en œuvre de cette obligation, et plus largement à inspirer l’ensemble des acheteurs. 
+
+Ce guide [Prise en compte de l’indice de réparabilité dans les achats publics est également disponible en pdf](https://www.ecologie.gouv.fr/sites/default/files/Guide%20IR%20Achat%20durable%202022.pdf) (884 Ko).
