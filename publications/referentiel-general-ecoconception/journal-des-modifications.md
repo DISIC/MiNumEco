@@ -2,8 +2,12 @@
 layout: layouts/referentiel-ecoconception.njk
 title: Journal des modifications
 image: /img/referentiel-ecoconception.png
-date: 2022-11-28
+date: 2023-01-11
 ---
+
+## Version 1.0.1
+
+11/01/2023 - Corrections fautes d'orthographes proposées par Cécile Geoffroy (merci !)
 
 ## Version 1
 
