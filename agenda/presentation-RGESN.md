@@ -14,6 +14,6 @@ L’objectif de ce référentiel est de poser un cadre d’écoconception de ser
 *	la consommation de ressources informatiques ;
 *	la contribution à l’obsolescence des équipements, qu’il s’agisse des équipements utilisateurs ou des équipements réseau ou serveur.
 
-L’outil N[umEcoDiag](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/) sera également présenté et une prise en main durant l’atelier sera proposée.
+L’outil [NumEcoDiag](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/) sera également présenté et une prise en main durant l’atelier sera proposée.
 
 Un temps d’échange permettra de poser vos questions aux intervenants.
