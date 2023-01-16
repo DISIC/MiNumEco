@@ -24,4 +24,5 @@ Les bonnes pratiques de ce code de conduite couvrent par exemple les sujets suiv
 
 ## En savoir plus
 
-[Qu’est-ce que le Code de Conduite européen sur les Datacentres ?](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/)
+* [Qu’est-ce que le Code de Conduite européen sur les Datacentres ?](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/)
+* [Liste des Datacentres participants](https://ecoinfo.cnrs.fr/2019/05/06/code-de-conduite-europeen-sur-les-datacentres/)
