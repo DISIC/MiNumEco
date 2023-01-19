@@ -20,6 +20,19 @@
 
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Numérique écoresponsable">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Numérique écoresponsable">
+
+    <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://stats.data.gouv.fr/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '281']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
   </head>
   <body>
     <div class="fr-skiplinks">
@@ -537,8 +550,6 @@
     </dialog>
 
     <script src="/js/dsfr.module.min.js"></script>
-    <script src="/js/smarttag.js"></script>
-    <script src="/js/mesure-audience.js"></script>
 
 
   </body>

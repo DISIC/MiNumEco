@@ -20,6 +20,19 @@
 
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Numérique écoresponsable">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Numérique écoresponsable">
+
+    <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://stats.data.gouv.fr/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '281']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
   </head>
   <body>
     <div class="fr-skiplinks">
@@ -166,39 +179,6 @@
   </tbody>
 </table>
 </div>
-<p>Toutefois, si vous le souhaitez, vous pouvez vous opposer au dépôt de cookies de mesure d’audience :</p>
-<form onsubmit="return submitOptout();">
-  <div class="fr-checkbox-group">
-      <input type="checkbox" id="cookie_optout" name="cookie_optout">
-      <label class="fr-label" for="cookie_optout">Je m'oppose au suivi de ma navigation sur ce site web</label>
-  </div>
-  <button type="submit" class="fr-btn fr-btn--secondary">
-    Enregistrer
-  </button>
-</form>
-<script>
-function submitOptout()
-{   
-    if (isOptout()) {
-      tag.privacy.setVisitorOptin();
-    } else {
-      tag.privacy.setVisitorOptout();
-    }
-    
-    tag.dispatch();
-
-    location.reload();
-
-    return false;
-}
-
-function initOptout()
-{
-    document.getElementById('cookie_optout').checked = isOptout()
-}
-
-window.addEventListener('load', initOptout);
-</script>
 
   </div>
 </div>
@@ -358,8 +338,6 @@ window.addEventListener('load', initOptout);
     </dialog>
 
     <script src="/js/dsfr.module.min.js"></script>
-    <script src="/js/smarttag.js"></script>
-    <script src="/js/mesure-audience.js"></script>
 
 
   </body>
