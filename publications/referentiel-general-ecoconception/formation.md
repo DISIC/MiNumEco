@@ -293,4 +293,4 @@ Le [système de design de l'État](https://www.systeme-de-design.gouv.fr/) est u
   </div>
 </section>
 
-<a class="fr-py-3w fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/formation-ecoconception-2021-12-16.pdf" onclick="return tag.click.send({elem:this, name:'formation-ecoconception-2021-12-16.pdf', type:'download'});">Télécharger le support de la présentation Formation initiation à l’écoconception (pdf 4,6 Mo)</a>
+<a class="fr-py-3w fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/formation-ecoconception-2021-12-16.pdf">Télécharger le support de la présentation Formation initiation à l’écoconception (pdf 4,6 Mo)</a>

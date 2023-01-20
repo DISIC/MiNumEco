@@ -25,4 +25,4 @@ __Public cible__ : agents publics
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/mois-innovation-publique-numerique-ecoresponsable-2021-11-25.pdf" onclick="return tag.click.send({elem:this, name:'mois-innovation-publique-numerique-ecoresponsable-2021-11-25.pdf', type:'download'});">Télécharger le support de la présentation Mois de l'innovation publique - Numérique écoresponsable (pdf 2,9 Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/mois-innovation-publique-numerique-ecoresponsable-2021-11-25.pdf">Télécharger le support de la présentation Mois de l'innovation publique - Numérique écoresponsable (pdf 2,9 Mo)</a>
