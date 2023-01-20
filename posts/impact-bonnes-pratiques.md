@@ -39,4 +39,4 @@ __Enregistrement__ : [Revoir le webinaire](https://bbb-dinum-scalelite.visio.edu
 
 ## Télécharger
 
-<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/Webinaire-Impact-bonnes-pratiques-organisations-08-12-2021.pdf" onclick="return tag.click.send({elem:this, name:'Webinaire-Impact-bonnes-pratiques-organisations-08-12-2021.pdf', type:'download'});">Télécharger le support de la présentation l’impact des bonnes pratiques numériques écoresponsables au sein des organisations (pdf 3,1 Mo)</a>
+<a class="fr-link fr-fi-download-line fr-link--icon-left" target="_self" href="/docs/2021/Webinaire-Impact-bonnes-pratiques-organisations-08-12-2021.pdf">Télécharger le support de la présentation l’impact des bonnes pratiques numériques écoresponsables au sein des organisations (pdf 3,1 Mo)</a>
