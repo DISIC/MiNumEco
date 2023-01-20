@@ -5,12 +5,86 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-01-05T00:00:00Z</updated>
+	<updated>2023-01-20T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Publication des données NegaOctet dans la Base Impacts de l&#39;ADEME</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/"/>
+		<updated>2023-01-20T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/donnees-negaoctet.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Un jeu d’une cinquantaine de données d’impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts de l’ADEME.&lt;/p&gt;
+&lt;p&gt;Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d’un dossier à télécharger : &lt;a href=&quot;https://base-impacts.ademe.fr/documents/Numerique.zip&quot;&gt;Référentiel sectoriel Numérique&lt;/a&gt; (zip de 2,2 Mo).&lt;/p&gt;
+&lt;p&gt;Ce dossier comprend :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La description de la méthodologie d’inventaire du cycle de vie utilisée par le consortium NégaOctet (Les données ont été collectées entre 2018 et 2021).&lt;/li&gt;
+&lt;li&gt;Le fichier des données d’impacts multicritères selon des hypothèses définies. Le fichier reprend l’empreinte environnementale selon différents indicateurs de catégories d’impacts (utilisation de ressources abiotiques, changement climatique, utilisation de la ressource en eau etc…) pour 4 types d’éléments relatifs au numérique :
+&lt;ul&gt;
+&lt;li&gt;services numériques&lt;/li&gt;
+&lt;li&gt;équipements terminaux&lt;/li&gt;
+&lt;li&gt;équipements réseau&lt;/li&gt;
+&lt;li&gt;équipements datacenter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Détail des données d’impact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Services numériques&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Envoi d’un mail&lt;/li&gt;
+&lt;li&gt;Streaming de vidéo&lt;/li&gt;
+&lt;li&gt;Transfert de fichier&lt;/li&gt;
+&lt;li&gt;Stockage de données dans le cloud&lt;/li&gt;
+&lt;li&gt;Webconférence&lt;/li&gt;
+&lt;li&gt;Requête web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Equipements terminaux&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordinateur portable&lt;/li&gt;
+&lt;li&gt;Tablette&lt;/li&gt;
+&lt;li&gt;Smartphone&lt;/li&gt;
+&lt;li&gt;Ordinateur fixe (sans écran)&lt;/li&gt;
+&lt;li&gt;Ecran d’ordinateur&lt;/li&gt;
+&lt;li&gt;Téléviseur&lt;/li&gt;
+&lt;li&gt;Alimentation - Externe ordinateur portable&lt;/li&gt;
+&lt;li&gt;Alimentation - Externe smartphone et tablette&lt;/li&gt;
+&lt;li&gt;Disque dur externe&lt;/li&gt;
+&lt;li&gt;SSD externe&lt;/li&gt;
+&lt;li&gt;Clef USB&lt;/li&gt;
+&lt;li&gt;Batterie de smartphone&lt;/li&gt;
+&lt;li&gt;Box&lt;/li&gt;
+&lt;li&gt;Montre connectée&lt;/li&gt;
+&lt;li&gt;IoT - Thermostat connecté&lt;/li&gt;
+&lt;li&gt;IoT - Capteur d’industrie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Equipements réseau&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Transport d’1 Go sur réseau fixe&lt;/li&gt;
+&lt;li&gt;Transport d’1 Go sur réseau mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Equipements datacenter&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Serveur&lt;/li&gt;
+&lt;li&gt;Machine virtuelle - Petite&lt;/li&gt;
+&lt;li&gt;Machine virtuelle - Moyenne&lt;/li&gt;
+&lt;li&gt;Machine virtuelle - Grande&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si ces données vont être très utiles à la mesure de l’impact du numérique, elles seront à utiliser avec précaution, l’onglet « Lisez-moi » pointe d’ailleurs des limites liées aux métadonnées ou encore la nécessité de renseigner manuellement la consommation électrique d’usage.&lt;/p&gt;
+&lt;p&gt;Enfin, la Base Impacts de l’ADEME, deviendra la Base Empreinte après fusion avec la Base Carbone : cela se fera progressivement de février 2023 à début 2024.&lt;/p&gt;
+&lt;h2&gt;En savoir plus&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://base-impacts.ademe.fr/gestdoclist&quot;&gt;Base Impacts ADEME&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Prise en compte de l’indice de réparabilité dans les achats publics</title>
