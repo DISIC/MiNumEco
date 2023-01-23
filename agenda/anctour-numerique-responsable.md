@@ -2,7 +2,7 @@
 title: "Numérique responsable et territoires : expérimentation, retours d’expériences et après ?"
 description: Cette table ronde se déroulera dans le cadre de la première édition de l’ANCTour, évènement annuel de l’ANCT, l'Agence nationale de la cohésion des territoires autour de l’ensemble des actions portées par l’Agence pour accompagner les collectivités dans leurs projets de territoire
 date: 2023-01-31
-dateLabel: 31 janvier de 14h à 15h30
+dateLabel: "Initialement prévu le 31 janvier et reporté à une date ultérieure"
 location: Palais des Congrès, Paris
 link: https://agence-cohesion-territoires.gouv.fr/anctour
 linkTitle: En savoir plus sur l’évènement ANCTour
@@ -15,3 +15,6 @@ Les intervenants présenteront aux collectivités le contexte (Haut comité, gro
 Elle ouvrira ensuite sur les perspectives d’accompagnement que pourra proposer l’ANCT forte de cet état des lieux ainsi que la manière dont ces solutions pourront être co-construites avec les territoires. 
 
 Olivier Joviado de la MiNumEco participe à cette table ronde pour présenter les travaux de la mission.
+
+__Suite au préavis de grève déposé pour le mardi 31/01, l’ANCTour est reporté. Nous vous ferons part dès que possible de la nouvelle date.__
+
