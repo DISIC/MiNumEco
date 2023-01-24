@@ -1,5 +1,5 @@
 ---
-title: Publication des données NegaOctet dans la Base Impacts de l'ADEME
+title: Publication des données NegaOctet dans la Base Impacts® de l'ADEME
 description: Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts de l'ADEME.
 image: /img/posts/donnees-negaoctet.png
 type: news
@@ -9,7 +9,7 @@ date: 2023-01-20
 ![]({{ image }})
 
 
-Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts de l'ADEME.
+Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts® de l'ADEME.
 
 Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d'un dossier à télécharger : [Référentiel sectoriel Numérique](https://base-impacts.ademe.fr/documents/Numerique.zip) (zip de 2,2 Mo).
 
@@ -63,4 +63,4 @@ Enfin, la Base Impacts de l'ADEME, deviendra la Base Empreinte après fusion ave
 
 ## En savoir plus
 
-[Base Impacts ADEME](https://base-impacts.ademe.fr/gestdoclist)
+[Base Impacts® ADEME](https://base-impacts.ademe.fr/gestdoclist)
