@@ -11,7 +11,7 @@ date: 2023-01-20
 
 Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts® de l'ADEME.
 
-Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d'un [dossier zip à télécharger](https://base-impacts.ademe.fr/documents/Numerique.zip) (2,2 Mo).
+Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d'un [dossier zip à télécharger](https://base-impacts.ademe.fr/documents/Negaoctet.zip) (752 Ko).
 
 Ce dossier comprend : 
 
