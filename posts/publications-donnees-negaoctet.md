@@ -59,7 +59,7 @@ Ce dossier comprend :
 
 Si ces données vont être très utiles à la mesure de l'impact du numérique, elles seront à utiliser avec précaution, l'onglet "Lisez-moi" pointe d'ailleurs des limites liées aux métadonnées ou encore la nécessité de renseigner manuellement la consommation électrique d'usage.
 
-Enfin, la Base Impacts de l'ADEME, deviendra la Base Empreinte après fusion avec la Base Carbone : cela se fera progressivement de février 2023 à début 2024.
+Enfin, la Base Impacts® de l'ADEME, deviendra la Base Empreinte® après fusion avec la Base Carbone : cela se fera progressivement de février 2023 à début 2024.
 
 ## En savoir plus
 
