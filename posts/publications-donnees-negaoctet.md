@@ -1,6 +1,6 @@
 ---
 title: Publication des données NegaOctet dans la Base Impacts® de l'ADEME
-description: Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts de l'ADEME.
+description: Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts® de l'ADEME.
 image: /img/posts/donnees-negaoctet.png
 type: news
 date: 2023-01-20
@@ -11,7 +11,7 @@ date: 2023-01-20
 
 Un jeu d'une cinquantaine de données d'impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts® de l'ADEME.
 
-Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d'un dossier à télécharger : [Référentiel sectoriel Numérique](https://base-impacts.ademe.fr/documents/Numerique.zip) (zip de 2,2 Mo).
+Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d'un [dossier zip à télécharger](https://base-impacts.ademe.fr/documents/Numerique.zip) (2,2 Mo).
 
 Ce dossier comprend : 
 
@@ -59,7 +59,7 @@ Ce dossier comprend :
 
 Si ces données vont être très utiles à la mesure de l'impact du numérique, elles seront à utiliser avec précaution, l'onglet "Lisez-moi" pointe d'ailleurs des limites liées aux métadonnées ou encore la nécessité de renseigner manuellement la consommation électrique d'usage.
 
-Enfin, la Base Impacts® de l'ADEME, deviendra la Base Empreinte® après fusion avec la Base Carbone : cela se fera progressivement de février 2023 à début 2024.
+Enfin, la Base Impacts® de l'ADEME, deviendra la Base Empreinte® après fusion avec la Base Carbone® : cela se fera progressivement de février 2023 à début 2024.
 
 ## En savoir plus
 
