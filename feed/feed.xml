@@ -19,7 +19,7 @@
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/donnees-negaoctet.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Un jeu d’une cinquantaine de données d’impacts multicritères venant de la base NegaOctet a été intégré à la Base Impacts® de l’ADEME.&lt;/p&gt;
-&lt;p&gt;Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d’un dossier à télécharger : &lt;a href=&quot;https://base-impacts.ademe.fr/documents/Numerique.zip&quot;&gt;Référentiel sectoriel Numérique&lt;/a&gt; (zip de 2,2 Mo).&lt;/p&gt;
+&lt;p&gt;Ces données vont permettre de mieux appréhender les impacts des services et équipements. Elles sont disponibles sous la forme d’un &lt;a href=&quot;https://base-impacts.ademe.fr/documents/Numerique.zip&quot;&gt;dossier zip à télécharger&lt;/a&gt; (2,2 Mo).&lt;/p&gt;
 &lt;p&gt;Ce dossier comprend :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;La description de la méthodologie d’inventaire du cycle de vie utilisée par le consortium NégaOctet (Les données ont été collectées entre 2018 et 2021).&lt;/li&gt;
@@ -80,7 +80,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Si ces données vont être très utiles à la mesure de l’impact du numérique, elles seront à utiliser avec précaution, l’onglet « Lisez-moi » pointe d’ailleurs des limites liées aux métadonnées ou encore la nécessité de renseigner manuellement la consommation électrique d’usage.&lt;/p&gt;
-&lt;p&gt;Enfin, la Base Impacts® de l’ADEME, deviendra la Base Empreinte® après fusion avec la Base Carbone : cela se fera progressivement de février 2023 à début 2024.&lt;/p&gt;
+&lt;p&gt;Enfin, la Base Impacts® de l’ADEME, deviendra la Base Empreinte® après fusion avec la Base Carbone® : cela se fera progressivement de février 2023 à début 2024.&lt;/p&gt;
 &lt;h2&gt;En savoir plus&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://base-impacts.ademe.fr/gestdoclist&quot;&gt;Base Impacts® ADEME&lt;/a&gt;&lt;/p&gt;
 </content>
