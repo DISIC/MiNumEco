@@ -148,7 +148,7 @@ Exemple de projet ou d'action en cours : don de 500 PC auprès de l’associati
 - 55 demandes étudiées
 - 1185 matériels donnés aux Restos du Cœur
 - 1041 ordinateurs et écrans donnés via des structures d’insertion dans le cadre du projet « Territoire 0 chômeur »
-- 597 pièces données aux écoles pour réduire la fracture numérique et 
+- 597 pièces données aux écoles pour réduire la fracture numérique 
 
 ## Coût
 
