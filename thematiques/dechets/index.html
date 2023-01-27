@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="fr" data-fr-theme>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Déchets - Numérique écoresponsable</title>
+    <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+
+    <meta property="og:title" content="Déchets">
+    <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
+    
+    
+    <meta property="twitter:title" content="Déchets" />
+    <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
+    <meta property="twitter:creator" content="MiNumEco" />
+    <meta property="twitter:card" content="summary" />
+    
+
+    <link rel="stylesheet" href="/css/dsfr.min.css">
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" href="/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/favicons/manifest.webmanifest" crossorigin="use-credentials">
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Numérique écoresponsable">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Numérique écoresponsable">
+
+    <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://stats.data.gouv.fr/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '281']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+  </head>
+  <body>
+    <div class="fr-skiplinks">
+        <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+            <ul class="fr-skiplinks__list">
+                <li>
+                    <a class="fr-link" href="#contenu">Contenu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#header-navigation">Menu</a>
+                </li>
+                <li>
+                    <a class="fr-link" href="#footer">Pied de page</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <header role="banner" class="fr-header">
+        <div class="fr-header__body">
+            <div class="fr-container">
+                <div class="fr-header__body-row">
+                    <div class="fr-header__brand fr-enlarge-link">
+                        <div class="fr-header__brand-top">
+                            <div class="fr-header__logo">
+                                <p class="fr-logo">
+                                    République
+                                    <br>Française
+                                </p>
+                            </div>
+
+                            <div class="fr-header__operator">
+                                <img src="/img/logo.png" class="fr-responsive-img" style="width:9rem; border-radius:0.5rem" alt="MiNumEco, la mission interministérielle numérique écoresponsable" />
+                            </div>
+
+                            <div class="fr-header__navbar">
+                                <button id="button-menu" class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Menu">
+                                    Menu
+                                </button>
+                            </div>
+                        </div>
+                        <div class="fr-header__service">
+                            <a href="/" title="Accueil - Mission Numérique écoresponsable">
+                                <p class="fr-header__service-title">Mission interministérielle</p>
+                            </a>
+                            <p class="fr-header__service-tagline">Numérique écoresponsable</p>
+                        </div>
+                    </div>
+                    <div class="fr-header__tools">
+                        <div class="fr-header__tools-links">
+                            <ul class="fr-links-group">
+                                <li>
+                                    <a class="fr-link fr-fi-information-line" href="/nouveautes">Nouveautés</a>
+                                </li>
+                                <li>
+                                    <a class="fr-link fr-fi-mail-line" href="/contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="fr-header__menu fr-modal" id="header-navigation" aria-labelledby="button-menu">
+            <div class="fr-container">
+                <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
+                <div class="fr-header__menu-links"></div>
+                <nav class="fr-nav" role="navigation" aria-label="Menu principal">
+                    <ul class="fr-nav__list">
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/" target="_self" >Accueil</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/a-propos/" target="_self" >À propos</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-thematiques">Thématiques</button>
+                            <div class="fr-collapse fr-menu" id="menu-thematiques">
+                                <ul class="fr-menu__list">
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/sensibilisation-formation/" target="_self">Sensibilisation et formation</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/evaluation/" target="_self">Mesure et évaluation</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/achats/" target="_self">Achats</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/service-numerique/" target="_self">Service numérique</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/centre-de-donnees/" target="_self">Centre de données</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/reemploi/" target="_self">Réemploi</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/dechets/" target="_self">Déchets</a>
+                                    </li>
+                                    <li>
+                                        <a class="fr-nav__link" href="/thematiques/collectivites/" target="_self">Collectivités territoriales</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/publications/" target="_self" >Nos publications</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/actualités/" target="_self" >Actualités</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/agenda/" target="_self" >Agenda</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/réglementations/" target="_self" >Réglementations</a>
+                        
+                        </li>
+                        <li class="fr-nav__item">
+                        
+                            <a class="fr-nav__link" href="/formations/" target="_self" >Formations</a>
+                        
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    
+    <main role="main">
+        <div id="contenu" class="fr-container fr-py-3w">
+        
+<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+    <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-189">Voir le fil d’Ariane</button>
+    <div class="fr-collapse" id="breadcrumb-189">
+        <ol class="fr-breadcrumb__list">
+            <li>
+                <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+        
+            <li>
+                <a class="fr-breadcrumb__link" href="/thematiques/">Thématiques</a>
+            </li>
+        
+            <li>
+                <a class="fr-breadcrumb__link" aria-current="page">Déchets</a>
+            </li>
+        </ol>
+    </div>
+</nav>
+
+
+<h1>Déchets</h1>
+ 
+
+
+<div class="fr-grid-row fr-grid-row--gutters">
+   
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <h2 class="fr-card__title">
+                <a href="/publications/bonnes-pratiques/fin-usage/" class="fr-card__link">Fin d&#39;usage</a>
+            </h2>
+          
+        </div>
+        <div class="fr-card__img">
+            <img src="/img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png" class="fr-responsive-img" alt="">
+        </div>
+    </div> 
+  </div>
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <h2 class="fr-card__title">
+                <a href="/publications/fin-usage/" class="fr-card__link">Fin d&#39;usage, réemploi et fin de vie des équipements numériques, en pratique</a>
+            </h2>
+          
+        </div>
+        <div class="fr-card__img">
+            <img src="/img/fin-usage/atelier-fin-usage.png" class="fr-responsive-img" alt="">
+        </div>
+    </div> 
+  </div>
+
+  <div class="fr-col-12 fr-col-md-4">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <h2 class="fr-card__title">
+                <a href="/publications/videos-vers-un-numerique-ecoresponsable/episode-7-gestion-des-dechets/" class="fr-card__link">Épisode #7 : Les enjeux du bon traitement des déchets informatiques</a>
+            </h2>
+          
+        </div>
+        <div class="fr-card__img">
+            <img src="/img/videos/apercu-episode7.jpg" class="fr-responsive-img" alt="">
+        </div>
+    </div> 
+  </div>
+
+
+</div>
+        </div>
+    </main>
+
+    <div class="fr-follow">
+        <div class="fr-container">
+            <div class="fr-grid-row">
+                <div class="fr-col-12">
+                    <div class="fr-follow__social">
+                        <p class="fr-h5 fr-mb-3v fr-mb-3v">Suivez-nous
+                            <br> sur les réseaux sociaux</p>
+                        <ul class="fr-links-group fr-links-group--lg">
+                            <li>
+                                <a class="fr-fi-chat-quote-fill fr-link" title="mastodon - nouvelle fenêtre" href="https://mastodon.social/web/@Mi_NumEco_Gouv" target="_blank">mastodon</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--twitter fr-link" title="twitter - nouvelle fenêtre" href="https://twitter.com/Mi_NumEco_Gouv" target="_blank">twitter</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--linkedin fr-link" title="linkedin - nouvelle fenêtre" href="https://www.linkedin.com/company/mission-interministerielle-numerique-ecoresponsable" target="_blank">linkedin</a>
+                            </li>
+                            <li>
+                                <a class="fr-link--instagram fr-link" title="instagram - nouvelle fenêtre" href="https://www.instagram.com/minumecogouv/" target="_blank">instagram</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="fr-footer" role="contentinfo" id="footer">
+        <div class="fr-container">
+            <div class="fr-footer__body ">
+                <div class="fr-footer__brand fr-enlarge-link">
+                    <a href="/" title="Retour à l’accueil">
+                        <p class="fr-logo">
+                            République
+                            <br>Française
+                        </p>
+                    </a>
+                </div>
+                <div class="fr-footer__content">
+                    <p class="fr-footer__content-desc">
+                        Mission interministérielle numérique écoresponsable pilotée par la
+                        <a href="https://www.numerique.gouv.fr/">direction interministérielle du numérique</a>
+                        et le <a href="https://www.ecologie.gouv.fr/">Ministère de la Transition écologique</a>.
+                    </p>
+                    <ul class="fr-footer__content-list">
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+                        </li>
+                        <li class="fr-footer__content-item">
+                            <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="fr-footer__bottom">
+                <ul class="fr-footer__bottom-list">
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/plan-du-site/">Plan du site</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/contact/">Contact</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/accessibilité/">Accessibilité : totalement conforme</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/mentions-legales/">Mentions légales</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/données-personnelles/">Données personnelles et cookies</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=281&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1&idSite=281" target="_blank">Stats</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.xml">Flux XML</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <a class="fr-footer__bottom-link" href="/feed/feed.json">Flux JSON</a>
+                    </li>
+                    <li class="fr-footer__bottom-item">
+                        <button class="fr-footer__bottom-link fr-fi-theme-fill fr-link--icon-left" aria-controls="fr-theme-modal" data-fr-opened="false">Paramètres d'affichage</button>
+                    </li>
+                </ul>
+                <div class="fr-footer__bottom-copy">
+                    <p>
+                        Sauf mention contraire, tous les textes de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md">licence etalab-2.0</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+   <dialog id="fr-theme-modal" class="fr-modal" role="dialog" aria-labelledby="fr-theme-modal-title">
+        <div class="fr-container fr-container--fluid fr-container-md">
+            <div class="fr-grid-row fr-grid-row--center">
+                <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+                    <div class="fr-modal__body">
+                        <div class="fr-modal__header">
+                            <button class="fr-link--close fr-link" aria-controls="fr-theme-modal">Fermer</button>
+                        </div>
+                        <div class="fr-modal__content">
+                            <h1 id="fr-theme-modal-title" class="fr-modal__title">
+                                Paramètres d’affichage
+                            </h1>
+                            <div id="fr-display" class="fr-form-group fr-display">
+                                <div class="fr-form-group">
+                                    <fieldset class="fr-fieldset">
+                                        <legend class="fr-fieldset__legend fr-text--regular" id='-legend'>
+                                            Choisissez un thème pour personnaliser l’apparence du site.
+                                        </legend>
+                                        <div class="fr-fieldset__content">
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="light" type="radio" id="fr-radios-theme-light" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-light">Thème clair
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/light.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="dark" type="radio" id="fr-radios-theme-dark" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-dark">Thème sombre
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/dark.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="fr-radio-group fr-radio-rich">
+                                                <input value="system" type="radio" id="fr-radios-theme-system" name="fr-radios-theme">
+                                                <label class="fr-label" for="fr-radios-theme-system">Système
+                                                    <span class="fr-hint-text">Utilise les paramètres système.</span>
+                                                </label>
+                                                <div class="fr-radio-rich__img" data-fr-inject-svg>
+                                                    <img src="/img/artwork/system.svg" alt="" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </fieldset>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dialog>
+
+    <script src="/js/dsfr.module.min.js"></script>
+
+
+  </body>
+</html>
