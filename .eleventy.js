@@ -92,7 +92,7 @@ module.exports = function(eleventyConfig) {
       }
     }
 
-    return pages.reverse();
+    return pages;
   }
 
   eleventyConfig.addNunjucksFilter('eleventyNavigationByKeys', findNavigationEntryByKeys);

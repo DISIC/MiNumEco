@@ -11,5 +11,5 @@ eleventyNavigation:
 
 <h1>{{ title }}</h1>
 
-{% set postslist = collections.posts %}
+{% set postslist = collections.posts | reverse %}
 {% include "postslist.njk" %}

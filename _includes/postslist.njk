@@ -1,6 +1,6 @@
 <div class="fr-grid-row fr-grid-row--gutters">
    
-{% for post in postslist | reverse %}
+{% for post in postslist %}
   <div class="fr-col-12 fr-col-md-4">
     <div class="fr-card fr-enlarge-link">
         <div class="fr-card__body">
@@ -11,9 +11,11 @@
             <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
           {% endif %}
         </div>
+        {% if post.data.image %}
         <div class="fr-card__img">
             <img src="{{ post.data.image }}" class="fr-responsive-img" alt="">
         </div>
+        {% endif %}
     </div> 
   </div>
 {% endfor %}
