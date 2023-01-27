@@ -1,0 +1,17 @@
+---
+title: Thématiques
+layout: layouts/post.njk
+permalink: /thematiques/
+eleventyNavigation:
+  key: thematiques
+  title: Thématiques
+  order: 23
+---
+
+<ul>
+    {%- for thematique in collections.all | eleventyNavigationExtended('thematiques') %}
+    <li>
+        <a href="{{ thematique.url | url }}" target="_self">{{ thematique.title }}</a>
+    </li>
+    {%- endfor %}
+</ul>

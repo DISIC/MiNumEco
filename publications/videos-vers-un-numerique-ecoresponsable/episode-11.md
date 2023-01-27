@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode11.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/x8dqduz
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableSecondeVie
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Anne-Marie Chevalier, directrice adjointe de la DNID, Direction Nationale d'Interventions Domaniales**

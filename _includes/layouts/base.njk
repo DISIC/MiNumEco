@@ -111,11 +111,24 @@
             <div class="fr-container">
                 <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
                 <div class="fr-header__menu-links"></div>
-                <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+                <nav class="fr-nav" role="navigation" aria-label="Menu principal">
                     <ul class="fr-nav__list">
                     {%- for entry in collections.all | eleventyNavigation %}
                         <li class="fr-nav__item{% if entry.url == page.url %} fr-nav__item--active{% endif %}">
+                        {% if entry.key != 'thematiques' %}
                             <a class="fr-nav__link" href="{{ entry.url | url }}" target="_self" {% if entry.url == page.url %}aria-current="page"{% endif %}>{{ entry.title }}</a>
+                        {% else %}
+                            <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-thematiques">{{ entry.title }}</button>
+                            <div class="fr-collapse fr-menu" id="menu-thematiques">
+                                <ul class="fr-menu__list">
+                                    {%- for thematique in collections.all | eleventyNavigationExtended('thematiques') %}
+                                    <li>
+                                        <a class="fr-nav__link" href="{{ thematique.url | url }}" target="_self">{{ thematique.title }}</a>
+                                    </li>
+                                    {%- endfor %}
+                                </ul>
+                            </div>
+                        {% endif %}
                         </li>
                     {%- endfor %}
                     </ul>

@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode10.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/kkfaoG1XtTTk2uyheYR
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableCloud
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Vincent Coudrin, chargé de mission Cloud Computing à la Dinum**

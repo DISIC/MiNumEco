@@ -70,6 +70,33 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addNunjucksFilter('eleventyNavigationExtended', findNavigationEntriesExtended);
 
+  function findNavigationEntryByKeys(nodes = [], keys = []) {
+    let pages = [];
+    
+    for (let key of keys) {
+      for (let entry of nodes) {
+        if (entry.data && entry.data.eleventyNavigation && entry.data.eleventyNavigation.key) {
+          let entryKey = entry.data.eleventyNavigation.key;
+          
+          if (entryKey === key) {
+            pages.push({
+              title: entry.data.title,
+              url: entry.url || entry.data.page.url,
+              data: entry.data,
+              pluginType: 'eleventy-navigation'
+            });
+
+            break;
+          }
+        }
+      }
+    }
+
+    return pages.reverse();
+  }
+
+  eleventyConfig.addNunjucksFilter('eleventyNavigationByKeys', findNavigationEntryByKeys);
+
   eleventyConfig.addPassthroughCopy({
     'api': 'api',
     'img': 'img',

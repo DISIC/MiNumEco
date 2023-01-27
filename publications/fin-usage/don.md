@@ -6,6 +6,7 @@ image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
   parent: finUsage
+  key: focusSurLeDon
   title: Focus sur le don
   date: 2022-03-22
   image: /img/fin-usage/atelier-fin-usage.png

@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode7.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k45AtH8BTUrTuZy5AEk
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableGestionDechets
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Romuald Ribault - Directeur marketing chez Ecologic, Vice-président de l'AGIT**

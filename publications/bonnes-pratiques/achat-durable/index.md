@@ -2,6 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Achat durable
 tags: guideBpNrThematique
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 date: 2022-02-17
 idThematique: e.
 eleventyNavigation:

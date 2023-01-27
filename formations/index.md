@@ -3,6 +3,7 @@ title: Formations
 description: Sélection non-exhaustive de formations libres d’accès dédiés aux impacts environnementaux du numérique
 layout: layouts/post.njk
 date: 2022-05-11
+image: /img/ecoconception/apercu-formation-ecoconception.jpg
 eleventyNavigation:
   key: formations
   title: Formations

@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode12.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k1nbh93c3FHQCiyjIC8
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableMesurer
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Christophe Boutonnet, Directeur adjoint du numérique au Ministère de la Transition Ecologique et de la cohésion des Territoires, Co-pilote de la MiNumEco**

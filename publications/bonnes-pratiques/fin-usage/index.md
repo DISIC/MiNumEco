@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique/thematique.njk
 title: Fin d'usage
 tags: guideBpNrThematique
 date: 2022-02-17
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 idThematique: i.
 eleventyNavigation:
   key: bonnes-pratiques-fin-usage

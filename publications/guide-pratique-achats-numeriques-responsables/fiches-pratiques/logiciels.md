@@ -2,6 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Logiciels
 date: 2021-04-29
+image: /img/guide-achats/guide-achats-numerique-responsable.png
 eleventyNavigation:
   key: guideachat-fiches-pratiques-logiciels
   parent: guideachat-fiches-pratiques

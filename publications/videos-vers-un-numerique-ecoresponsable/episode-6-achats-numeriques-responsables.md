@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode6.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/krGSqfg6T5EtfVy3RAv
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableAchats
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Malika Kessous, Cheffe du bureau des achats responsables à la DAE (Direction des Achats de l’Etat)**

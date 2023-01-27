@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode3.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k7wMeA8c2xRpj9xZTZw
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableEcoconception
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Richard Hanna, directeur de projets pour la MiNumEco, DINUM.**

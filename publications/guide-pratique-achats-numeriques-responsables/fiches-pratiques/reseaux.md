@@ -2,7 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Réseaux et télécoms
 date: 2021-04-29
-image: /img/guide-achats/picto-reseau.svg
+image: /img/guide-achats/guide-achats-numerique-responsable.png
 eleventyNavigation:
   key: guideachat-fiches-pratiques-reseaux
   parent: guideachat-fiches-pratiques

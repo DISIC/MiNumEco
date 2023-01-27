@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode8.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k2wLC76lholA6yy3RCE
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableDesign
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Marine Boudeau - Cheffe du pôle design des services numériques à la Dinum**

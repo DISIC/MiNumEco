@@ -3,7 +3,6 @@ layout: layouts/guide-achats.njk
 title: Qu’est-ce que le numérique responsable ?
 date: 2021-04-29
 eleventyNavigation:
-  key: definition
   parent: demarche-numerique-responsable
   title: Qu’est-ce que le numérique responsable ?
   order: 10

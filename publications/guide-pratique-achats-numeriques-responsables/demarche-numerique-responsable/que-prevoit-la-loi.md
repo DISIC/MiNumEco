@@ -3,7 +3,6 @@ layout: layouts/guide-achats.njk
 title: Que prévoit la loi ?
 date: 2021-04-29
 eleventyNavigation:
-  key: definition
   parent: demarche-numerique-responsable
   title: Que prévoit la loi ?
   order: 50

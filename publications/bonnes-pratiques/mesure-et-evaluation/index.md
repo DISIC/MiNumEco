@@ -3,6 +3,7 @@ layout: layouts/bonne-pratique/thematique.njk
 title: Mesure et évaluation
 tags: guideBpNrThematique
 date: 2022-02-17
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 idThematique: c.
 eleventyNavigation:
   key: bonnes-pratiques-mesure-evaluation

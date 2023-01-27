@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode5.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k5Ly3Srm4fKhB0y2JTk
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableLogicielLibre
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Bastien Guerry, Référent logiciels libres, Etalab, DINUM**

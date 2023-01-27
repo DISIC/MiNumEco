@@ -7,6 +7,9 @@ image: /img/videos/apercu-episode9.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k54ZRDxvP8BzVTyfLKU
 tags: ["video"]
 type: video
+eleventyNavigation:
+  key: videosVersUnNumeriqueEcoresponsableCollectivites
+  parent: videosVersUnNumeriqueEcoresponsable
 ---
 
 **Caroline Xu - Conseillère coordination des programmes numériques à l'ANCT**
