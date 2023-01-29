@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #1 : Les impacts environnementaux du numérique"
 description: Comment réduit-on la pollution numérique d’une organisation ? D'abord, quel est l'origine des impacts environnementaux liés au numérique ?
 date: 2022-05-12
-image: /img/videos/apercu-episode1.jpg
+image: /img/videos/vignettes/apercu-episode1.jpg
+apercu: /img/videos/apercu-episode1.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k7JQY0UuAARU2PxXo2p
 tags: ["video"]
 type: video

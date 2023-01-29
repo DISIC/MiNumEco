@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #8 : Enjeux environnementaux du design des services numériques"
 description: Dans ce 8ème épisode Marine Boudeau explique le rôle joué par le design des services numériques dans l'inclusion et la protection de l'environnement.
 date: 2022-07-01
-image: /img/videos/apercu-episode8.jpg
+image: /img/videos/vignettes/apercu-episode8.jpg
+apercu: /img/videos/apercu-episode8.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k2wLC76lholA6yy3RCE
 tags: ["video"]
 type: video

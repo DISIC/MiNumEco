@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #7 : Les enjeux du bon traitement des déchets informatiques"
 description: Dans ce 7ème épisode Romuald Ribault s'intéresse à la fin de vie des équipements informatiques.
 date: 2022-06-23
-image: /img/videos/apercu-episode7.jpg
+image: /img/videos/vignettes/apercu-episode7.jpg
+apercu: /img/videos/apercu-episode7.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k45AtH8BTUrTuZy5AEk
 tags: ["video"]
 type: video

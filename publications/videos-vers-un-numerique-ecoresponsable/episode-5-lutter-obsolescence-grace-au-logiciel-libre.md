@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #5 : Lutter contre l'obsolescence grâce au logiciel libre"
 description: Dans ce cinquième épisode, Bastien Guerry montre comment le logiciel libre peut contribuer à lutter contre obsolescence des équipements.
 date: 2022-06-09
-image: /img/videos/apercu-episode5.jpg
+image: /img/videos/vignettes/apercu-episode5.jpg
+apercu: /img/videos/apercu-episode5.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k5Ly3Srm4fKhB0y2JTk
 tags: ["video"]
 type: video

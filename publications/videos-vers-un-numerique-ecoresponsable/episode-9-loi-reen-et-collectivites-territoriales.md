@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #9 : Les implications de la loi REEN pour les collectivités territoriales"
 description: Caroline Xu - Conseillère coordination des programmes numériques à l'ANCT revient sur les articles 34 et 35 concernant un numérique plus responsable pour les collectivités locales.
 date: 2022-09-01
-image: /img/videos/apercu-episode9.jpg
+image: /img/videos/vignettes/apercu-episode9.jpg
+apercu: /img/videos/apercu-episode9.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k54ZRDxvP8BzVTyfLKU
 tags: ["video"]
 type: video

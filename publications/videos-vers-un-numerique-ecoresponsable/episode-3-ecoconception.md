@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #3 : Écoconception de services numériques"
 description: L’écoconception de service numérique c'est la prise en compte des impacts environnementaux dans la conception d'un service numérique à toutes les étapes du cycle de vie du service.
 date: 2022-05-25
-image: /img/videos/apercu-episode3.jpg
+image: /img/videos/vignettes/apercu-episode3.jpg
+apercu: /img/videos/apercu-episode3.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k7wMeA8c2xRpj9xZTZw
 tags: ["video"]
 type: video

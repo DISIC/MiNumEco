@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #15 : Comment déployer une stratégie d'écoresponsabilité numérique"
 description: Avec Brigitte Tran, conseillère SI au département de la Stratégie et du Pilotage Numérique au Ministère de la Culture
 date: 2022-12-06
-image: /img/videos/apercu-episode15.jpg
+image: /img/videos/vignettes/apercu-episode15.jpg
+apercu: /img/videos/apercu-episode15.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/ki9iJuZn9sm84gywwQ6
 tags: ["video"]
 type: video

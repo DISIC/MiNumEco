@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #14 : Les données, actif stratégique au service de l’intérêt général"
 description: Avec Romain Tales, Responsable du pôle donnée, Dinum/Etalab
 date: 2022-10-11
-image: /img/videos/apercu-episode14.jpg
+image: /img/videos/vignettes/apercu-episode14.jpg
+apercu: /img/videos/apercu-episode14.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k7rxJW3FdhYCUNylSfg
 tags: ["video"]
 type: video

@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #13 : Mesurer l'impact environnemental du numérique en santé"
 description: Avec Brigitte Seroussi, Directrice de Projets Ethique du Numérique en Santé, DNS, Délégation ministérielle au Numérique en Santé
 date: 2022-10-03
-image: /img/videos/apercu-episode13.jpg
+image: /img/videos/vignettes/apercu-episode13.jpg
+apercu: /img/videos/apercu-episode13.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k6uhGZxPHSTNWhykT4i
 tags: ["video"]
 type: video

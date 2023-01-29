@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #6 : Conseils et pistes d'actions pour des achats numériques responsables"
 description: Dans ce 6ème épisode Malika Kessous donne des conseils et pistes d'actions pour des achats numériques responsables
 date: 2022-06-16
-image: /img/videos/apercu-episode6.jpg
+image: /img/videos/vignettes/apercu-episode6.jpg
+apercu: /img/videos/apercu-episode6.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/krGSqfg6T5EtfVy3RAv
 tags: ["video"]
 type: video

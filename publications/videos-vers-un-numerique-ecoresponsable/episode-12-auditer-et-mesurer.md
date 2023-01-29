@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #12 : Numérique, auditer et mesurer pour mieux réduire son impact"
 description: Avec Christophe Boutonnet, Directeur adjoint du numérique au Ministère de la Transition Ecologique et de la cohésion des Territoires, Co-pilote de la MiNumEco
 date: 2022-09-23
-image: /img/videos/apercu-episode12.jpg
+image: /img/videos/vignettes/apercu-episode12.jpg
+apercu: /img/videos/apercu-episode12.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k1nbh93c3FHQCiyjIC8
 tags: ["video"]
 type: video

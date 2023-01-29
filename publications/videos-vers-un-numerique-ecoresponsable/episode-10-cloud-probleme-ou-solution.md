@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #10 : Le cloud, problème ou solution à la sobriété numérique ?"
 description: Avec Vincent Coudrin, chargé de mission Cloud Computing à la Dinum
 date: 2022-09-09
-image: /img/videos/apercu-episode10.jpg
+image: /img/videos/vignettes/apercu-episode10.jpg
+apercu: /img/videos/apercu-episode10.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/kkfaoG1XtTTk2uyheYR
 tags: ["video"]
 type: video

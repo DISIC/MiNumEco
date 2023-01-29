@@ -3,7 +3,8 @@ layout: layouts/video.njk
 title: "Épisode #2 : Les bonnes pratiques numérique écoresponsable"
 description: On veut tous réduire l'impact environnemental du numérique de notre organisation, mais concrètement, comment on fait ?
 date: 2022-05-19
-image: /img/videos/apercu-episode2.jpg
+image: /img/videos/vignettes/apercu-episode2.jpg
+apercu: /img/videos/apercu-episode2.jpg
 embedVideoUrl: https://www.dailymotion.com/embed/video/k1Plu0PYncw2QfxYKs2
 tags: ["video"]
 type: video
