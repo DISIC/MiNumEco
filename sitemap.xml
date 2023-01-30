@@ -1042,11 +1042,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/anctour-numerique-responsable/</loc>
-    <lastmod>2023-01-31</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/agenda/presentation-RGESN/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
@@ -1054,5 +1049,10 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/agenda/journee-numerique-responsable-esaip/</loc>
     <lastmod>2023-02-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/anctour-numerique-responsable/</loc>
+    <lastmod>2023-05-23</lastmod>
   </url>
 </urlset>
