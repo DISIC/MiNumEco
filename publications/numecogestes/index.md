@@ -25,7 +25,7 @@ Webextension légère, éco-conçue, sécurisée et accessible, « NumEcoGestes 
 
 ## Installation
 
-* [Edge](https://addons.mozilla.org/fr/firefox/addon/%C3%A9cogestes/)
+* [Firefox](https://addons.mozilla.org/fr/firefox/addon/numecogestes/)
 * [Chrome, Chromium et Edge](https://chrome.google.com/webstore/detail/num%C3%A9cogestes/ofabncmmfelcfeaijamifgabkjnincei?hl=fr)
 
 ## Sécurité et protection des données
