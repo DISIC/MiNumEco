@@ -3,17 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NumÉcoGestes - Numérique écoresponsable</title>
-    <meta name="description" content="...">
+    <title>NumEcoGestes - Numérique écoresponsable</title>
+    <meta name="description" content="Dans un contexte de sobriété énergétique, NumEcoGestes permet de sensibiliser, en jouant, sur les bonnes pratiques à adopter pour réduire les consommations d&#39;électricité : télétravail, mobilité, chauffage et usages des appareils électriques et numériques.">
 
-    <meta property="og:title" content="NumÉcoGestes">
-    <meta property="og:description" content="...">
+    <meta property="og:title" content="NumEcoGestes">
+    <meta property="og:description" content="Dans un contexte de sobriété énergétique, NumEcoGestes permet de sensibiliser, en jouant, sur les bonnes pratiques à adopter pour réduire les consommations d&#39;électricité : télétravail, mobilité, chauffage et usages des appareils électriques et numériques.">
     
     <meta property="og:image" content="/img/plans-action/couverture-dinum.png">
     
     
-    <meta property="twitter:title" content="NumÉcoGestes" />
-    <meta property="twitter:description" content="..." />
+    <meta property="twitter:title" content="NumEcoGestes" />
+    <meta property="twitter:description" content="Dans un contexte de sobriété énergétique, NumEcoGestes permet de sensibiliser, en jouant, sur les bonnes pratiques à adopter pour réduire les consommations d&#39;électricité : télétravail, mobilité, chauffage et usages des appareils électriques et numériques." />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
     
@@ -203,7 +203,7 @@
             </li>
         
             <li>
-                <a class="fr-breadcrumb__link" aria-current="page">NumÉcoGestes</a>
+                <a class="fr-breadcrumb__link" aria-current="page">NumEcoGestes</a>
             </li>
         </ol>
     </div>
@@ -212,33 +212,30 @@
 
 <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
   <div class="fr-col-12 fr-col-md-8 fr-col-offset-md-2">
-    <h1>NumÉcoGestes</h1>
+    <h1>NumEcoGestes</h1>
       <p class="fr-text--sm">Dernière mise à jour le <time datetime="2022-12-01">01/12/2022</time></p>
     
 
-    <h2>À propos</h2>
-<p>NumÉcoGestes est un outil, extension de navigateur, proposée par la MiNumEco, permettant de savoir quand et quoi faire en cas de pic de consommation d’énergie.</p>
+    <p>Dans un contexte de sobriété énergétique, NumEcoGestes permet de sensibiliser, en jouant, sur les bonnes pratiques à adopter pour réduire les consommations d’électricité : télétravail, mobilité, chauffage et usages des appareils électriques et numériques.</p>
+<h2>À propos</h2>
+<p>L’objectif est de contribuer à changer les comportements de toutes et tous pendant les pics de consommation d’énergie. Cet outil se base notamment sur les alertes EcoWatt de RTE. Ainsi tous les agents recevront une alerte directement sur leurs ordinateurs lors des pics ou quotidiennement et sauront quoi faire puisque de bonnes pratiques leur seront poussées.</p>
+<p>Webextension légère, éco-conçue, sécurisée et accessible, « NumEcoGestes » permet d’avoir un usage ludique. L’utilisateur peut cliquer sur un bouton « Je le fais » pour déclarer qu’il réalise l’action proposée afin d’augmenter son score et gagner des badges.</p>
 <h2>Installation</h2>
 <ul>
-<li><a href="#">Firefox</a></li>
-<li><a href="#">Edge</a></li>
-<li><a href="#">Chrome</a></li>
+<li><a href="https://addons.mozilla.org/fr/firefox/addon/%C3%A9cogestes/">Edge</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/num%C3%A9cogestes/ofabncmmfelcfeaijamifgabkjnincei?hl=fr">Chrome, Chromium et Edge</a></li>
 </ul>
-<h2>Partager</h2>
-<ul>
-<li><a href="#">Linkedin</a></li>
-<li><a href="#">Twitter</a></li>
-</ul>
-<h2>Sécurité</h2>
-<p>Aucune donnée n’est collectée…</p>
-<h2>En savoir plus sur les écogestes</h2>
-<h3>Réduire le chauffage</h3>
-<p>Todo…</p>
-<h3>Éteindre les écrans non nécessaires</h3>
-<p>Todo…</p>
+<h2>Sécurité et protection des données</h2>
+<p>L’outil est développé en HTML et javascript (<em>framework Vue.js</em>). Dès lors que l’outil est installé, il fonctionne sans nécessité d’aucun téléchargement. Cependant, une récupération automatique toutes les heures est réalisée par l’extension pour mettre à jour les données des alertes EcoWatt. Ces mises à jours sont dans un <a href="https://ecoresponsable.numerique.gouv.fr/api/ecowatt/ecowatt.json">fichier stocké sur ce site</a>, une copie des données disponibles via l’API Ecowatt de RTE.</p>
+<p>L’outil affiche une notification à l’écran lorsqu’il y a une alerte de tension électrique (tous les jours le matin et début de soirée, ainsi que les créneaux des alertes EcoWatt) invitant l’utilisateur à des écogestes (éteindre, décaler des usages…).</p>
+<p>Pour ludifier l’usage de l’outil, l’utilisateur peut cliquer sur un bouton « Je le fais » pour déclarer qu’il réalise l’action proposée. Est stocké alors dans le navigateur, un agrégat qui permet de donner un score mensuel de l’utilisateur. Aucune autre donnée n’est collectée ni transmise en dehors du navigateur.</p>
+<p>L’outil nécessite des droits de notification et de stockage local de données (<em>localStorage</em> du navigateur) ce qui est précisé à l’installation de l’extension sans que l’utilisateur ait à faire quoi que ce soit.</p>
+<p>Les <em>merge</em> de code sur le dépôt de code et la publication sur les catalogues des navigateurs sont gérés directement par la MiNumEco.</p>
+<p>Le « miroir » de l’API Ecowatt est réalisé par la MiNumEco. Il s’agit d’un workflow github action, en l’occurrence un <em>cron job</em> qui récupère le json de l’API Ecowatt et le <a href="https://ecoresponsable.numerique.gouv.fr/api/ecowatt/ecowatt.json">stocke ici</a>. Les extensions installées sur les navigateurs utilisateurs ne communiquent pas directement avec l’API RTE mais récupère donc les données depuis ce <em>json</em> statique stocké sur le site de la MiNumEco. Le détail de ce <em>workflow</em> est <a href="https://github.com/DISIC/MiNumEco/blob/main/.github/workflows/ecowatt-api-mirroring.yml">disponible sur github</a>.</p>
 <h2>Réalisation</h2>
-<p>NumÉcoGestes est proposé gratuitement par la MiNumEco et est réalisé par …</p>
-<p>L’outil est open source et est publié sous licence European Union Public Licence v. 1.2. Le <a href="https://github.com/DISIC/NumEcoGestes">code source est disponible sur Github</a>.</p>
+<p>NumEcoGestes est proposé gratuitement par la MiNumEco et est réalisé par la MiNumEco, Ctrl S et Noesya.</p>
+<h2>Code et licence</h2>
+<p>Le <a href="https://github.com/DISIC/NumEcoGestes">code de NumEcoGestes est publié sur Github</a> et sous <a href="https://github.com/DISIC/NumEcoGestes/blob/main/LICENSE">licence European Union Public Licence v. 1.2</a>.</p>
 
   </div>
 </div>
