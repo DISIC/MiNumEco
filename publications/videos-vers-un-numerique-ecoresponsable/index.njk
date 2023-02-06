@@ -33,7 +33,7 @@ eleventyNavigation:
             <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
         </div>
         <div>
-            <img src="{{ post.data.apercu }}" class="fr-responsive-img" alt="">
+            <img src="{{ post.data.apercu }}" class="fr-responsive-img" loading="lazy" alt="">
         </div>
     </div> 
   </div>
