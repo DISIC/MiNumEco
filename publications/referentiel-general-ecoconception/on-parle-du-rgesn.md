@@ -8,6 +8,8 @@ date: 2022-11-28
 
 Quelques exemples d'articles qui parlent du RGESN, le référentiel général d'écoconception de service numérique.
 
+* [Numérique responsable : aider les acteurs publics à gagner du temps](https://www.alliancy.fr/numerique-responsable-aider-acteurs-publics), Alliancy, février 2023
+* [Ecoconception web : face au lourd bilan environnemental, voici comment savoir si un site est écoresponsable](https://www.novethic.fr/actualite/economie/isr-rse/ecoconception-numerique-comment-savoir-si-un-site-est-ecoresponsable-151328.html), Novethic, février 2023
 * [Journées Acteurs publics Solutions : un référentiel d’écoconception de services pour porter le numérique écoresponsable](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/un-referentiel-decoconception-de-services-pour-porter-le-numerique-ecoresponsable), Acteurs publics, décembre 2022.
 * [Écoconception numérique : 16 mesures inscrites au référentiel de l’État](https://www.silicon.fr/ecoconception-numerique-16-mesures-referentiel-etat-454130.html), Silicon, décembre 2022.
 * [L’État s’attaque au verdissement de ses services numériques](https://acteurspublics.fr/articles/letat-sattaque-au-verdissement-de-ses-services-numeriques), Acteurs publics, décembre 2022.
