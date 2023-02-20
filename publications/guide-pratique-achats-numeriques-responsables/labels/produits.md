@@ -317,7 +317,7 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
   <tbody>
     <tr>
       <th scope="row">Ecolabel européen</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
       <td></td>
@@ -328,9 +328,9 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
       <th scope="row">Ange bleu</th>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
     </tr>
     <tr>
@@ -338,7 +338,7 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
       <td></td>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
     </tr>
@@ -347,41 +347,41 @@ L’objectif de cet écolabel de type I : réduction de l’utilisation de subst
       <td></td>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">TCO</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
     </tr>
     <tr>
       <th scope="row">EPEAT</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
     </tr>
     <tr>
       <th scope="row">Energy Star</th>
       <td></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">80 Plus</th>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
-      <td class="text-align--center"><span class="fr-fi-checkbox-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
+      <td class="text-align--center"><span class="fr-fi-check-line" aria-label="Oui"></span></td>
       <td></td>
       <td></td>
       <td></td>
