@@ -5,7 +5,7 @@ date: 2023-05-23
 dateLabel: 23 mai 2023
 location: Palais des Congrès, Paris
 link: https://agence-cohesion-territoires.gouv.fr/anctour
-linkTitle: En savoir plus sur l’évènement ANCTour
+linkTitle: L’évènement ANCTour
 ---
 
 Cette table ronde consacrée au Numérique Responsable se déroulera dans le cadre de la première édition de l’ANCTour, évènement annuel de l’ANCT, l'Agence nationale de la cohésion des territoires autour de l’ensemble des actions portées par l’Agence pour accompagner les collectivités dans leurs projets de territoire.
