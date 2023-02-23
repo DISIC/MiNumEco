@@ -5,7 +5,7 @@ date: 2023-03-22
 dateLabel: 22 mars 2023, 9h30 - 11h
 location: Espaces Vanel, Toulouse
 link: https://forum.interconnectes.fr/
-linkTitle: En savoir plus sur le Forum des Interconnectés 2023
+linkTitle: Forum des Interconnectés 2023
 ---
 
 Le Forum annuel des Interconnectés organisé cette année à Toulouse les 22 et 23 mars prochains.
