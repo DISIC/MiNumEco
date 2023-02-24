@@ -1,8 +1,6 @@
 ---
 layout: layouts/post.njk
 title: Mentions légales
-link: /a-propos/
-linkTitle: À propos de la mission
 ---
 
 ## Éditeur
@@ -17,7 +15,7 @@ SIREN : 120 001 011
 
 ## Directeur de la publication
 
-Directeur interministériel du numérique.
+Directrice interministérielle du numérique.
 
 ## Hébergement
 
@@ -34,3 +32,7 @@ Le [code source du site est disponible sur Github](https://github.com/DISIC/gree
 ## Données personnelles et cookies
 
 [Voir les informations concernant les cookies utilisées sur ce site](/données-personnelles/)
+
+## Déclaration d'écoconception
+
+[Voir la déclaration d'écoconception](/declaration-ecoconception/)
