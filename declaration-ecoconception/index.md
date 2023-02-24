@@ -12,6 +12,8 @@ Les cibles utilisatrices du service sont d’abord les agents publics qui souhai
 
 ## Stratégie mise en œuvre et objectifs en matière de réduction ou de limitation des impacts environnementaux
 
+Le principal enjeu est de faire en sorte que ce site web fonctionne sur des terminaux les plus anciens possibles et dans des conditions variées de connectivité :
+
 - Travail sur l’UX (expérience utilisateur) en proposant d’accéder aux contenus de manière différente : via « Nos publications » ou via « Vos besoins » (par thématique).
 - Utilisation des composants d’interfaces du système de design de l’État : ils sont accessibles et leur empreinte est minimale.
 - Navigation la plus intuitive possible pour réduire le temps passé à trouver une information
