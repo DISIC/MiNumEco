@@ -9,6 +9,10 @@ date: 2022-11-28
 
 NumÉcoDiag est proposée par la MiNumEco, mission interministérielle pour le numérique écoresponsable co-portée par la DINUM (Direction interministérielle du Numérique - Services de la Première Ministre) et le Ministère Transition Écologique. Son objectif est d’accompagner les ministères dans la transition écologique numérique, elle met à disposition les outils qu’elle développe pour les administrations françaises.
 
+![](/img/outils/NumEcoDiag.png)
+
+_Capture écran de NumEcoDiag_
+
 ### Installation
 
 #### Installer l'outil selon votre navigateur
