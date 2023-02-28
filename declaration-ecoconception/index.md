@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Déclaration d'écoconception
-date: 2023-02-24
+date: 2023-02-28
 ---
 
 ## Raison d’être de ce service
@@ -39,9 +39,9 @@ Les outils utilisés pour évaluer certains indicateurs techniques sont l’insp
 
 <div class="fr-callout fr-py-3w">
 <h2 class="fr-callout__title">Conformité</h2>
-<p class="fr-callout__text">À l’aide de <a href="/publications/referentiel-general-ecoconception/numecodiag/">NumEcoDiag</a>, l’auto-diagnostic donne un taux de conformité au <a href="/publications/referentiel-general-ecoconception/">RGESN</a> (référentiel général d’écoconception) de <b>71%</b>.</p>
+<p class="fr-callout__text">À l’aide de <a href="/publications/referentiel-general-ecoconception/numecodiag/">NumEcoDiag</a>, l’auto-diagnostic donne un taux de conformité au <a href="/publications/referentiel-general-ecoconception/">RGESN</a> (référentiel général d’écoconception) de <b>65%</b>.</p>
 
-<p class="fr-callout__text"><a href="/docs/2023/NumEcoDiag-site-ecoresponsable-numerique-gouv-fr-2023-02-24.ods" class="fr-btn">Voir le détail du diagnostic (.ods, 27 Ko)</a></p>
+<p class="fr-callout__text"><a href="/docs/2023/NumEcoDiag-site-ecoresponsable-numerique-gouv-fr-2023-02-28.ods" class="fr-btn">Voir le détail du diagnostic (.ods, 27 Ko)</a></p>
 </div>
 
 

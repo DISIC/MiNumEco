@@ -1,7 +1,7 @@
 ---
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
-date: 2022-11-28
+date: 2023-02-28
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
@@ -20,7 +20,7 @@ Les principaux objectifs de ce référentiel d’écoconception de service numé
 
 <div class="fr-highlight">
 
-__Ce référentiel contient des critères qui sont tous vérifiables, génériques et intemporels__. Le but étant de pouvoir réaliser un audit de conformité du service numérique (auto-audit ou audit externe indépendant). Chaque critère est une question. Il est attendu comme réponse « **conforme** », « **non conforme** » ou « **non applicable** ». Les réponses « conformes » et « non applicables » doivent être justifiées.
+__Ce référentiel contient des critères qui sont tous vérifiables, génériques et intemporels__. Le but étant de pouvoir réaliser un diagnostic de conformité du service numérique (en auto-diagnostic ou un audit externe indépendant). Chaque critère est une question. Il est attendu comme réponse « **conforme** », « **non conforme** » ou « **non applicable** ». Les réponses « conformes » et « non applicables » doivent être justifiées.
 
 </div>
 
@@ -43,6 +43,14 @@ Ce référentiel ne s’applique pas au périmètre d’une organisation ni dans
 ## Public cible
 
 Tous les métiers liés de près ou de loin à la conception d’un service numérique : chef(fe) de projet, assistant(e) à maîtrise d'ouvrage (AMOA), assistant(e) à maitrise d'œuvre, product owner, UX researcher, designer, graphiste, développeur(se), devops, testeur(se), rédacteur ou rédactrice web, contributeur ou contributrice à un outil de gestion de contenu...
+
+## Calcul de score de conformité
+
+Un score de conformité peut être calculé de la manière suivante :
+
+Nombre de critères conformes / (Total de critères (79) - Nombre de critères non applicables)
+
+[Voir l'outil NumEcoDiag](/publications/referentiel-general-ecoconception/numecodiag/)
 
 ## Réalisation
 

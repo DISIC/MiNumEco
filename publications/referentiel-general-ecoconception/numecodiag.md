@@ -2,7 +2,7 @@
 layout: layouts/referentiel-ecoconception.njk
 title: NumEcoDiag
 description: NumEcoDiag vous permet d’évaluer facilement l’écoconception de votre service ou produit numérique. Développé par la MiNumEco, il se base sur les 79 critères du Référentiel Général d’Écoconception de Services Numériques (RGESN).
-date: 2022-11-28
+date: 2023-02-28
 ---
 
 **NumEcoDiag vous permet d’évaluer facilement l’écoconception de votre service ou produit numérique. Développé par la MiNumEco, il se base sur les 79 critères du [Référentiel Général d’Écoconception de Services Numériques (RGESN)](/publications/referentiel-general-ecoconception/).**
@@ -23,9 +23,9 @@ _Capture écran de NumEcoDiag_
 
 #### Alternatives
 
-* Pour Firefox, [installer depuis un fichier .zip](/docs/2022/numecodiag-firefox-1.0.2.zip)
-* [Tableau au format OpenDocument (.ods)](/docs/2022/NumEcoDiag-feuille.ods)
-* [Tableau au format Excel (.xls)](/docs/2022/NumEcoDiag-feuille.xls)
+* Pour Firefox, [installer depuis un fichier .zip](/docs/2023/NumEcoDiag-firefox-v1.0.3.zip)
+* [Tableau au format OpenDocument (.ods)](/docs/2023/NumEcoDiag-feuille-v1.0.1.ods)
+* [Tableau au format Excel (.xls)](/docs/2023/NumEcoDiag-feuille-v1.0.1.xls)
 
 ### À propos
 
@@ -34,6 +34,17 @@ L'évaluation déclarative se base sur le RGESN, Référentiel Général d’Éc
 Cette auto-évaluation vous permet de situer le niveau d’écoconception de votre service numérique et de l’afficher sur vos outils de communication (en téléchargeant un badge HTML). Vous n’êtes pas obligés de répondre à toutes les questions pour obtenir un premier résultat. Il est important de réaliser cette évaluation avec l'ensemble de l'équipe et des parties prenantes de votre projet.
 
 Pour chaque critère, 4 options sont disponibles : À évaluer, Conforme, Non conforme et Non applicable dans votre contexte projet. Il est important de justifier en commentaire lorsqu'un critère est conforme ou non applicable.
+
+### Score de conformité
+
+Le score de conformité est calculé de la manière suivante :
+
+Nombre de critères conformes / (Total de critères (79) - Nombre de critères non applicables)
+
+### Journal des modifications
+
+- v1.0.3 du 28 février 2023 : correction du calcul du score de conformité
+- v1.0.2 du 29 novembre 2022 : publication de NumEcoDiag
 
 ### Sécurité et protection des données
 
