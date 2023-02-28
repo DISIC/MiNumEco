@@ -76,3 +76,16 @@ h2.fr-card__title, h2.fr-tile__title, h2.fr-callout__title, h3.fr-card__title, h
 .team p {
   text-align: center;
 }
+
+h4.fr-tile__title {
+  margin-top: 0;
+}
+
+.mise-en-avant {
+  --blend: var(--background-alt-grey--blend);
+  background-color: var(--background-alt-grey);
+}
+
+.mise-en-avant h2 {
+  margin-top: 1rem;
+}
