@@ -877,17 +877,7 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/a-propos/</loc>
-    <lastmod>2022-11-28</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/</loc>
-    <lastmod>2022-11-28</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/</loc>
     <lastmod>2022-11-28</lastmod>
   </url>
   
@@ -953,7 +943,17 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/declaration-ecoconception/</loc>
-    <lastmod>2023-02-24</lastmod>
+    <lastmod>2023-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/a-propos/</loc>
+    <lastmod>2023-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/</loc>
+    <lastmod>2023-02-28</lastmod>
   </url>
   
   <url>
