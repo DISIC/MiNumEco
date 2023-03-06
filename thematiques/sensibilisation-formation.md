@@ -1,10 +1,10 @@
 ---
-title: Se sensibiliser et se former
+title: Se sensibiliser et se former aux enjeux environnementaux du numérique
 layout: layouts/thematique.njk
 type: thematique
 eleventyNavigation:
   parent: thematiques
-  title: Se sensibiliser et se former
+  title: Se sensibiliser et se former aux enjeux environnementaux du numérique
   order: 10
 items:
   - videosVersUnNumeriqueEcoresponsable
