@@ -1,10 +1,10 @@
 ---
-title: Achats
+title: Acheter responsable
 layout: layouts/thematique.njk
 type: thematique
 eleventyNavigation:
   parent: thematiques
-  title: Achats
+  title: Acheter responsable
   order: 20
 items:
   - guideachat

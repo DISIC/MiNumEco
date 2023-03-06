@@ -1,10 +1,10 @@
 ---
-title: Mesure et évaluation
+title: Mesurer et évaluer l'empreinte environnementale numérique de mon organisation
 layout: layouts/thematique.njk
 type: thematique
 eleventyNavigation:
   parent: thematiques
-  title: Mesure et évaluation
+  title: Mesurer et évaluer l'empreinte environnementale numérique de mon organisation
   order: 15
 items:
   - bonnes-pratiques-mesure-evaluation

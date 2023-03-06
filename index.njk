@@ -135,7 +135,7 @@ eleventyNavigation:
 <section class="mise-en-avant fr-px-4w fr-py-1w fr-my-7w">
     <h2>Vos besoins</h2>
 
-    <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle fr-py-3w">
         {%- for thematique in collections.all | eleventyNavigationExtended('thematiques') %}
         <div class="fr-col-12 fr-col-md-6">
             <a href="{{ thematique.url | url }}" class="fr-btn" style="display:block; width:70%; text-align:center; margin: 0 auto;">{{ thematique.title }}</a>
