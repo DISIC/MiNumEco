@@ -1,10 +1,10 @@
 ---
-title: Collectivités territoriales
+title: Appliquer les bonnes pratiques dans ma collectivité
 layout: layouts/thematique.njk
 type: thematique
 eleventyNavigation:
   parent: thematiques
-  title: Collectivités territoriales
+  title: Appliquer les bonnes pratiques dans ma collectivité
   order: 200
 items:
   - guideBpNrAccueil
