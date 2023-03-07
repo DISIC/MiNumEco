@@ -842,11 +842,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
-    <lastmod>2022-09-20</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-12-auditer-et-mesurer/</loc>
     <lastmod>2022-09-23</lastmod>
   </url>
@@ -954,6 +949,11 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
+    <lastmod>2023-03-07</lastmod>
   </url>
   
   <url>
