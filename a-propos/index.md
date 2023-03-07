@@ -1,7 +1,7 @@
 ---
 layout: layouts/a-propos.njk
 title: À propos
-date: 2022-09-20
+date: 2023-03-07
 eleventyNavigation:
   key: À propos
   order: 20
@@ -114,8 +114,8 @@ Animée par les contributions des correspondants ministériels sur le sujet, cel
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
 - Un [guide de bonnes pratiques numérique responsable](/publications/bonnes-pratiques/), publié en version bêta en février 2022.
 - Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/),publié en version bêta en avril 2021.
-- Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/), publié en version bêta en octobre 2021.
-- Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents, publié en octobre 2021.
+- Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/), publié en version 1 en novembre 2022.
+- Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents, initiée en octobre 2021 et en constante mise à jour.
 - Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable" (en cours).
 - Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique (en cours).
 
