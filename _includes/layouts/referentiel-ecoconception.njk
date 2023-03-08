@@ -88,9 +88,7 @@ layout: layouts/base.njk
     <div class="fr-col-12 fr-col-md-8">
         <h1>{{ title }}</h1>
 
-        {% if title %}
-            <p class="fr-py-2w fr-text--sm">Version {{ metadata.referentielEcoconception.versionTitle }}. Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
-        {% endif %}
+        <p class="fr-py-2w fr-text--sm">Version {{ metadata.referentielEcoconception.versionTitle }}. Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
 
         {{ content | safe }}
     </div>

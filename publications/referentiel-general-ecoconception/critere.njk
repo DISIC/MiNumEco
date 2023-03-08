@@ -9,13 +9,9 @@ pagination:
     size: 1
     alias: critere
 permalink: "/publications/referentiel-general-ecoconception/critere/{{ critere.numero | slug }}/"
-renderData:
+eleventyComputed:
     title: "{{ critere.critere | safe }}"
 ---
-
-<h1>{{ critere.critere }}</h1>
-
-<p class="fr-text--sm">Version {{ metadata.referentielEcoconception.versionTitle }}. Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></p>
 
 <p>
     <a href="/publications/referentiel-general-ecoconception/#{{ critere.thematique | slug }}" class="fr-tag">{{ critere.thematique }}</a>
