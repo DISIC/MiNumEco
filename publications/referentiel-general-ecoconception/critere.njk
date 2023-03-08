@@ -10,7 +10,7 @@ pagination:
     alias: critere
 permalink: "/publications/referentiel-general-ecoconception/critere/{{ critere.numero | slug }}/"
 renderData:
-    title: "{{ critere.critere }}"
+    title: "{{ critere.critere | safe }}"
 ---
 
 <h1>{{ critere.critere }}</h1>
