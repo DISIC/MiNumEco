@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/guichet-financement-ftap-numerique-ecoresponsable/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/guichet-financement-ftap-numerique-ecoresponsable/",
+      "title": "Ouverture d&#39;un guichet de financement Numérique Ecoresponsable pour les administrations et opérateurs de l’État",
+      "content_html": "<p><img src=\"/img/guichet-ftap.png\" alt=\"\"></p>\n<p>Administration d’État ou opérateur de l’État, vous souhaitez mener un projet en faveur d’un numérique écoresponsable ? Obtenez un financement jusqu’à 50% de son coût total grâce à notre guichet FTAP dédié.</p>\n<p><strong>Les projets attendus doivent viser l’un de ces 4 résultats :</strong></p>\n<ul>\n<li>diminuer les besoins en matériel informatique ;</li>\n<li>améliorer la stratégie d’achat pour acheter des matériels plus écoresponsables pour le parc informatique ;</li>\n<li>optimiser la fin de vie et la fin d’usage des équipements électriques et électroniques ;</li>\n<li>diminuer l’impact écologique d’un produit numérique à venir via des leviers d’#écoconception.</li>\n</ul>\n<p>Ce guichet est proposé par la DINUM dans le cadre du Fonds pour la transformation de l’action publique (FTAP), piloté par la Direction interministérielle de la transformation publique (DITP), sous l’égide du ministère de la Transformation et de la Fonction publiques.</p>\n<p><a href=\"/financement/\">Voir les détails des projets attendus, critères de sélection et processus de dépôt de projet</a></p>\n",
+      "date_published": "2023-03-24T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/",
       "title": "Publication des données NegaOctet dans la Base Impacts® de l&#39;ADEME",

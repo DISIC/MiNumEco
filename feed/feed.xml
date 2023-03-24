@@ -5,12 +5,31 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-01-20T00:00:00Z</updated>
+	<updated>2023-03-24T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Ouverture d&#39;un guichet de financement Numérique Ecoresponsable pour les administrations et opérateurs de l’État</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/guichet-financement-ftap-numerique-ecoresponsable/"/>
+		<updated>2023-03-24T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/guichet-financement-ftap-numerique-ecoresponsable/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/guichet-ftap.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Administration d’État ou opérateur de l’État, vous souhaitez mener un projet en faveur d’un numérique écoresponsable ? Obtenez un financement jusqu’à 50% de son coût total grâce à notre guichet FTAP dédié.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les projets attendus doivent viser l’un de ces 4 résultats :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;diminuer les besoins en matériel informatique ;&lt;/li&gt;
+&lt;li&gt;améliorer la stratégie d’achat pour acheter des matériels plus écoresponsables pour le parc informatique ;&lt;/li&gt;
+&lt;li&gt;optimiser la fin de vie et la fin d’usage des équipements électriques et électroniques ;&lt;/li&gt;
+&lt;li&gt;diminuer l’impact écologique d’un produit numérique à venir via des leviers d’#écoconception.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce guichet est proposé par la DINUM dans le cadre du Fonds pour la transformation de l’action publique (FTAP), piloté par la Direction interministérielle de la transformation publique (DITP), sous l’égide du ministère de la Transformation et de la Fonction publiques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/financement/&quot;&gt;Voir les détails des projets attendus, critères de sélection et processus de dépôt de projet&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Publication des données NegaOctet dans la Base Impacts® de l&#39;ADEME</title>
