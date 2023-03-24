@@ -10,6 +10,7 @@ items:
   - referentiel-ecoconception
   - ecoconceptionSecurite
   - bonnes-pratiques-services-numeriques
+  - financement
   - videosVersUnNumeriqueEcoresponsableEcoconception
   - videosVersUnNumeriqueEcoresponsableDesign
   - videosVersUnNumeriqueEcoresponsableLogicielLibre

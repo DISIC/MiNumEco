@@ -10,5 +10,6 @@ items:
   - guideachat
   - bonnes-pratiques-achat-durable
   - guideIndiceReparabilite
+  - financement
   - videosVersUnNumeriqueEcoresponsableAchats
 ---

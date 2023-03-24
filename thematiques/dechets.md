@@ -9,5 +9,6 @@ eleventyNavigation:
 items:
   - bonnes-pratiques-fin-usage
   - finUsage
+  - financement
   - videosVersUnNumeriqueEcoresponsableGestionDechets
 ---

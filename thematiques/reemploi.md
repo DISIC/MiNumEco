@@ -10,5 +10,6 @@ items:
   - bonnes-pratiques-fin-usage
   - finUsage
   - focusSurLeDon
+  - financement
   - videosVersUnNumeriqueEcoresponsableSecondeVie
 ---

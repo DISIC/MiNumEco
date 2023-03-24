@@ -10,5 +10,6 @@ items:
   - bonnes-pratiques-mesure-evaluation
   - boiteoutils
   - impact-bonnes-pratiques
+  - financement
   - videosVersUnNumeriqueEcoresponsableMesurer
 ---
