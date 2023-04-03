@@ -188,9 +188,9 @@ Cela ne va peut-être pas intéresser les associations utilisatrices. En revanch
 </div>
   
 <h3 class="fr-accordion__title">
-<button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-question-13">Réaliser un transfert d’une bien et non d’une cession gratuite permettrait-il de lever la limite du montant de la valeur vénale (300€) ?</button>
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-question-14">Réaliser un transfert d’une bien et non d’une cession gratuite permettrait-il de lever la limite du montant de la valeur vénale (300€) ?</button>
 </h3>
-<div class="fr-collapse" id="accordion-question-13">
+<div class="fr-collapse" id="accordion-question-14">
 
 Lorsque vous transférez la propriété du bien à un autre établissement public, il y a une cession dont les conditions juridiques sont fixées par le CG3P (code général de la propriété des personnes publiques).
 Au cas particulier, si vous souhaitez céder à titre gratuit un bien, sa valeur vénale unitaire ne doit pas excéder 300€ (article L3212-2 du CG3P)
