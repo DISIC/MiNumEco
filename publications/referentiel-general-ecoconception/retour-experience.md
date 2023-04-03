@@ -4,6 +4,10 @@ title: Retours d'expérience
 description: Quelques exemples de mise en œuvre d'une démarche d'écoconception de service numérique.
 image: /img/referentiel-ecoconception.png
 date: 2022-11-28
+eleventyNavigation:
+  parent: referentiel-ecoconception
+  title: Retours d'expérience
+  order: 40
 ---
 
 Quelques exemples de mise en œuvre d'une démarche d'écoconception de service numérique

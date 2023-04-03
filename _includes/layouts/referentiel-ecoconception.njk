@@ -40,27 +40,15 @@ layout: layouts/base.njk
             <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Sommaire</button>
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
                 <ul class="fr-sidemenu__list">
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/' == page.url }}>Le référentiel</a>
+                    <li class="fr-sidemenu__item {% if '/publications/referentiel-general-ecoconception/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/" {% if '/publications/referentiel-general-ecoconception/' == page.url %}aria-current="page"{% endif %}>Le référentiel</a>
                     </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/a-propos/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/a-propos/' == page.url }}>À propos</a>
-                    </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/journal-des-modifications/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/journal-des-modifications/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/journal-des-modifications/' == page.url }}>Journal des modifications</a>
-                    </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/numecodiag/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/numecodiag/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/numecodiag/' == page.url }}>NumEcoDiag</a>
-                    </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/retour-experience/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/retour-experience/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/retour-experience/' == page.url }}>Retours d'expérience</a>
-                    </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/on-parle-du-rgesn/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/on-parle-du-rgesn/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/on-parle-du-rgesn/' == page.url }}>On parle du RGESN</a>
-                    </li>
-                    <li class="fr-sidemenu__item {{ 'fr-sidemenu__item--active' if '/publications/referentiel-general-ecoconception/formation/' == page.url }}">
-                        <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/formation/" {{ 'aria-current="page"' if '/publications/referentiel-general-ecoconception/formation/' == page.url }}>Formation</a>
-                    </li>
+
+                    {% for item in collections.all | eleventyNavigation("referentiel-ecoconception") %}
+                        <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                            <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
 
                     <li class="fr-sidemenu__item">
                         <button class="fr-sidemenu__btn" aria-expanded="false" aria-controls="sidemenu-autres">Autres ressources</button>

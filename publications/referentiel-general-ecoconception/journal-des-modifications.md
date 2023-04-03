@@ -3,6 +3,10 @@ layout: layouts/referentiel-ecoconception.njk
 title: Journal des modifications
 image: /img/referentiel-ecoconception.png
 date: 2023-01-11
+eleventyNavigation:
+  parent: referentiel-ecoconception
+  title: Journal des modifications
+  order: 20
 ---
 
 ## Version 1.0.1

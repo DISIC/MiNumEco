@@ -2,6 +2,11 @@
 layout: layouts/referentiel-ecoconception.njk
 title: À propos
 date: 2023-02-28
+image: /img/referentiel-ecoconception.png
+eleventyNavigation:
+  parent: referentiel-ecoconception
+  title: À propos
+  order: 10
 ---
 
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.

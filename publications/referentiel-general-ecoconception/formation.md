@@ -3,6 +3,10 @@ layout: layouts/referentiel-ecoconception.njk
 title: Formation initiation à l’écoconception de service numérique
 date: 2022-07-11
 image: /img/ecoconception/apercu-formation-ecoconception.jpg
+eleventyNavigation:
+  parent: referentiel-ecoconception
+  title: Formation initiation à l’écoconception de service numérique
+  order: 60
 ---
 
 Proposée par la mission interministérielle Numérique écoresponsable et le Pôle Design de la DINUM, cette formation s'est déroulée en ligne, le jeudi 16 décembre 2021.
