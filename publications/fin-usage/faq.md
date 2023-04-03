@@ -1,7 +1,7 @@
 ---
 layout: layouts/fin-usage.njk
 title: Foire aux questions
-date: 2022-04-20
+date: 2023-04-03
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
@@ -184,6 +184,17 @@ Dans la convention de don, ce qui est inscrit c’est qu’il n’y a pas de gar
 <div class="fr-collapse" id="accordion-question-13">
 
 Cela ne va peut-être pas intéresser les associations utilisatrices. En revanche cela peut éventuellement intéresser les associations qui sont autorisées à revendre le matériel. C’est un sujet qui sera évoqué dans le prochain décret sur les prix solidaires.
+
+</div>
+  
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-question-14">Réaliser un transfert d’une bien et non d’une cession gratuite permettrait-il de lever la limite du montant de la valeur vénale (300€) ?</button>
+</h3>
+<div class="fr-collapse" id="accordion-question-14">
+
+Lorsque vous transférez la propriété du bien à un autre établissement public, il y a une cession dont les conditions juridiques sont fixées par le CG3P (code général de la propriété des personnes publiques).
+Au cas particulier, si vous souhaitez céder à titre gratuit un bien, sa valeur vénale unitaire ne doit pas excéder 300€ (article L3212-2 du CG3P)
+Sinon, vous devez le vendre avec publicité et mise en concurrence ou vous pouvez le mettre à disposition d'un autre établissement public mais dans ce cas, vous conservez la propriété du bien.
 
 </div>
 
