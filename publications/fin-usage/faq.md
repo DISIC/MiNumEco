@@ -1,7 +1,7 @@
 ---
 layout: layouts/fin-usage.njk
 title: Foire aux questions
-date: 2022-04-20
+date: 2023-04-03
 image: /img/fin-usage/atelier-fin-usage.png
 type: publication
 eleventyNavigation:
