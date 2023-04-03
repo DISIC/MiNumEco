@@ -25,7 +25,6 @@ Vidéo hébergée par Youtube
   height="269"
   src="https://www.youtube-nocookie.com/embed/x5P3uM43MnY"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/x5P3uM43MnY?autoplay=1><img src=/img/open-source-experience/open-source-experience-table-ronde.jpg alt='Voir la table ronde « L’Open Source, contributeur essentiel au GreenIT »'><span aria-hidden='true'>▶</span></a>"
-  frameborder="0"
   allowfullscreen
   allow="autoplay"
   title="Voir la table ronde « L’Open Source, contributeur essentiel au GreenIT »"
@@ -43,7 +42,6 @@ Vidéo hébergée par Dailymotion
   height="269"
   src="https://www.dailymotion.com/embed/video/x85y2zz"
   srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x85y2zz?autoplay=1><img src=/img/open-source-experience/open-source-ecoconception.png alt='Voir la conférence Open source, numérique et environnement'><span aria-hidden='true'>▶</span></a>"
-  frameborder="0"
   allowfullscreen
   allow="autoplay"
   title="Voir la conférence Open source, numérique et environnement"

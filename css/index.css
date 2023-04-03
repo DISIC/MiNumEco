@@ -2,6 +2,10 @@
   content:url(/img/logo-blanc.png);
 }
 
+iframe {
+  border: none;
+}
+
 #contenu img, #contenu iframe {
   max-width: 100%;
   display: block;
