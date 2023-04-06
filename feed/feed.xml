@@ -5,12 +5,161 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-03-24T00:00:00Z</updated>
+	<updated>2023-04-06T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Bilan d’activité 2021 – 2022 de la MiNumEco</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/bilan-activites-2021-2022/"/>
+		<updated>2023-04-06T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/bilan-activites-2021-2022/</id>
+		<content type="html">&lt;p&gt;Depuis 2020, la mission interministérielle numérique écoresponsable œuvre pour réduire l’empreinte environnementale du numérique public. Dans ce cadre, les actions de la mission sont diverses. Il s’agit d’abord d’accompagner les ministères dans l’établissement et la mise en œuvre de plans d’action ambitieux. Pour cela, des documents-cadre ont été établi : guides et référentiels de bonnes pratiques publiés en licence ouverte et qui sont tous produits en concertation avec l’écosystème des acteurs publics et privés.&lt;/p&gt;
+&lt;h2&gt;Les chiffres clés&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/1-1-chiffres-cles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt; publications majeures :
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/logiciels/&quot;&gt;&lt;strong&gt;Guide des achats numérique responsable&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/bonnes-pratiques/&quot;&gt;&lt;strong&gt;Guide de bonnes pratiques numérique responsable&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/&quot;&gt;&lt;strong&gt;Référentiel d’écoconception de service numérique&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications//boite-outils/&quot;&gt;Une boite à outils&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/&quot;&gt;&lt;strong&gt;15&lt;/strong&gt; capsules vidéo&lt;/a&gt; tournées et diffusées&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt; restitutions d’ateliers thématiques :
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/&quot;&gt;Écoconception, cybersécurité et protection des données, quelles synergies ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/&quot;&gt;Fin d’usage, réemploi et fin de vie des équipements numériques, en pratique&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Evénements&lt;/h3&gt;
+&lt;p&gt;Participation de l’équipe à &lt;strong&gt;47&lt;/strong&gt; événements ayant touchés plus de &lt;strong&gt;4600&lt;/strong&gt; participants, des administrations, des collectivités et des professionnels du numérique.&lt;/p&gt;
+&lt;h3&gt;Site Internet&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/1-2-chiffres-cles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Lancé en avril 2021, le site a reçu plus de &lt;strong&gt;67000&lt;/strong&gt; visiteurs uniques en 2022, soit un trafic multiplié par 2,5 par rapport à 2021 (au prorata).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/1-3-chiffres-cles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;section class=&quot;fr-accordion&quot;&gt;
+    &lt;h3 class=&quot;fr-accordion__title&quot;&gt;
+        &lt;button class=&quot;fr-accordion__btn&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;accordion-top-5-pages&quot;&gt;Top 5 des pages les plus visitées&lt;/button&gt;
+    &lt;/h3&gt;
+    &lt;div class=&quot;fr-collapse&quot; id=&quot;accordion-top-5-pages&quot;&gt;
+        &lt;div class=&quot;fr-table&quot;&gt;
+            &lt;table aria-label=&quot;Top 5 des pages les plus visitées&quot; title=&quot;Top 5 des pages les plus visitées&quot;&gt;
+                &lt;thead&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;col&quot;&gt;Page&lt;/th&gt;
+                        &lt;th scope=&quot;col&quot;&gt;Visiteurs&lt;/th&gt;
+                        &lt;th scope=&quot;col&quot;&gt;Pages vues&lt;/th&gt;
+                    &lt;/tr&gt;
+                &lt;/thead&gt;
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/&quot;&gt;Référentiel général d’écoconception de services numériques (RGESN)&lt;/a&gt;&lt;/th&gt;
+                        &lt;td&gt;15779&lt;/td&gt;
+                        &lt;td&gt;31908&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/&quot;&gt;Guide de bonnes pratiques numérique responsable pour les organisations&lt;/a&gt;&lt;/th&gt;
+                        &lt;td&gt;14415&lt;/td&gt;
+                        &lt;td&gt;21930&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/&quot;&gt;Accueil&lt;/a&gt;&lt;/th&gt;
+                        &lt;td&gt;8934&lt;/td&gt;
+                        &lt;td&gt;17633&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/bonnes-pratiques/&quot;&gt;Bonnes pratiques numérique responsable pour les organisations&lt;/a&gt;&lt;/th&gt;
+                        &lt;td&gt;7213&lt;/td&gt;
+                        &lt;td&gt;13273&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;th scope=&quot;row&quot;&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/&quot;&gt;Guide pratique pour des achats numériques responsables&lt;/a&gt;&lt;/th&gt;
+                        &lt;td&gt;6348&lt;/td&gt;
+                        &lt;td&gt;10120&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/tbody&gt;
+            &lt;/table&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;h3&gt;Réseaux sociaux&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/1-4-chiffres-cles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Présence sur &lt;strong&gt;4&lt;/strong&gt; réseaux sociaux (données au 24 mars 2023) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LinkedIn - &lt;strong&gt;4130&lt;/strong&gt; abonnés&lt;/li&gt;
+&lt;li&gt;Twitter - &lt;strong&gt;550&lt;/strong&gt; abonnés&lt;/li&gt;
+&lt;li&gt;Instagram - &lt;strong&gt;160&lt;/strong&gt; abonnés&lt;/li&gt;
+&lt;li&gt;Mastodon – &lt;strong&gt;120&lt;/strong&gt; abonnés&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Faits marquants&lt;/h3&gt;
+&lt;h4&gt;2021&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/2-1-faits-marquants-2021.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lancement du site Internet et publication du guide d’achats numérique responsable (avril 2021)&lt;/li&gt;
+&lt;li&gt;Publication du RGESN, le référentiel général d’écoconception de service numérique, en version bêta (octobre 2021)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;2022&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/2-2-faits-marquants-2022.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publication du guide de bonnes pratiques numérique responsable pour les organisations (février 2022)&lt;/li&gt;
+&lt;li&gt;Début de diffusion du programme de capsules vidéo « Vers un numérique écoresponsable » (mai 2022)&lt;/li&gt;
+&lt;li&gt;Lancement du RGESN V1 et de l’outil NumEcoDiag (novembre 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;2023&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lancement du groupe projet Numérique écoresponsable pour les collectivités dans le cadre du programme TNT – Transformation numérique des territoires (février 2023)&lt;/li&gt;
+&lt;li&gt;Lancement du &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/financement/&quot;&gt;guichet de financement Numérique écoresponsable&lt;/a&gt; (mars 2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Un accompagnement au plus près des ministères&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/3-2-accompagnement-plans-actions.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11&lt;/strong&gt; ministères accompagnés sur leur feuille de route&lt;/p&gt;
+&lt;p&gt;Au sein de chaque ministère, &lt;strong&gt;un référent « numérique écoresponsable »&lt;/strong&gt; est désormais identifié. Ce référent :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Participe aux différents travaux de la mission interministérielle, sur les thématiques : sensibilisation, mesure d’empreinte environnementale, achats durables, écoconception de service numérique, réemploi et économie circulaire, traitement des DEEE…&lt;/li&gt;
+&lt;li&gt;Participe aux ateliers d’échanges interministériels pour le suivi et la mise en œuvre des plans d’actions.&lt;/li&gt;
+&lt;li&gt;Constitue et anime un réseau de correspondants au sein des directions de son périmètre ministériel.&lt;/li&gt;
+&lt;li&gt;Coordonne et suit les actions au sein de son ministère en s’appuyant sur son réseau de correspondants&lt;/li&gt;
+&lt;li&gt;S’assure que les indicateurs des actions sont suivis et consolidés, par exemple dans un tableau de bord ou de pilotage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Plans d’action de réduction de l’empreinte environnementale&lt;/h3&gt;
+&lt;p&gt;En 2021, avec l’appui de la MiNumEco, chaque ministère a élaboré sa feuille de route pour 2022 autour de &lt;strong&gt;7 thématiques&lt;/strong&gt; (stratégie et gouvernance, sensibilisation, achats, conception de services numériques, salle serveur et centre de données, phase d’usage, fin d’usage) avec pour chaque action un &lt;strong&gt;niveau d’engagement cible&lt;/strong&gt; (réflexion, expérimentation, réalisation), en suivant une trame fournie par la MiNumEco.&lt;/p&gt;
+&lt;p&gt;La MiNumEco a procédé en fin d’année 2021 jusqu’à début 2022 au &lt;strong&gt;recensement&lt;/strong&gt; des plans d’action des ministères, à leur relecture &lt;strong&gt;active&lt;/strong&gt;, et émis des &lt;strong&gt;recommandations&lt;/strong&gt; relatives à ces plans. Une estimation des impacts évités a été réalisée pour chaque action-clé.&lt;/p&gt;
+&lt;h3&gt;Bilan des plans d’action 2022&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/bilan-2021-2022/3-3-accompagnement-bilan.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Plus de &lt;strong&gt;300&lt;/strong&gt; actions identifiés, dont &lt;strong&gt;30% réalisées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Des actions par thématique :&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stratégie et gouvernance&lt;/li&gt;
+&lt;li&gt;Sensibilisation et formation&lt;/li&gt;
+&lt;li&gt;Achats&lt;/li&gt;
+&lt;li&gt;Conception de service numérique&lt;/li&gt;
+&lt;li&gt;Salle serveurs et centre de données&lt;/li&gt;
+&lt;li&gt;Phase d’usage&lt;/li&gt;
+&lt;li&gt;Fin d’usage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Les ministères ont également été impliqués dans l’élaboration des documents cadre de la mission comme le guide de bonnes pratiques numérique responsable pour les organisations.&lt;/p&gt;
+&lt;h3&gt;Mesure d’impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition d’indicateurs communs à tous les ministères fin 2022&lt;/li&gt;
+&lt;li&gt;Collecte et consolidation des premiers résultats début 2023&lt;/li&gt;
+&lt;li&gt;Lancement d’un outil d’évaluation et de mesure réalisé par le ministère de la transition écologique : pilote avec un autre ministère prévu en 2023 avec un déploiement progressif aux ministères.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Les perspectives en 2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Poursuite ou accélération des actions en 2023, notamment grâce au &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/financement/&quot;&gt;guichet de financement&lt;/a&gt; prévu à cet effet.&lt;/li&gt;
+&lt;li&gt;Révision des plans d’actions ministères dans une perspective 2023-2025&lt;/li&gt;
+&lt;li&gt;Renforcement du partage de retours d’expérience et de la mutualisation entre ministères sur des actions communes.&lt;/li&gt;
+&lt;li&gt;Accélérer sur les actions en priorisant celles ayant le plus d’impact : allongement la durée de vie du matériel, par la réparation ou l’allongement d’usage, achats responsables, systématisation du réemploi des équipements fonctionnels, intégration de l’écoconception dans les nouveaux projets numériques, déploiement de l’évaluation d’empreinte environnementale du numérique et poursuite de la sensibilisation et la formation des agents.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Ouverture d&#39;un guichet de financement Numérique Ecoresponsable pour les administrations et opérateurs de l’État</title>
