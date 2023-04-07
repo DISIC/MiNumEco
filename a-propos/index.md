@@ -124,10 +124,10 @@ Les publications sont toutes en licence ouverte. Les publications majeures sont 
 Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
 
 <div class="fr-highlight">
+<a href="/posts/bilan-activites-2021-2022/">Bilan d’activité 2021 – 2022 de la MiNumEco</a>
+</div>
 
 Si vous êtes une administration, une direction ou une collectivité territoriale et que vous souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
-
-</div>
 
 
 <h2 id="pilotes">Les pilotes de la mission</h2>
