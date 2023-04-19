@@ -5,12 +5,25 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-04-06T00:00:00Z</updated>
+	<updated>2023-04-19T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Objectifs et modalités de réemploi et de réutilisation des matériels informatiques</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/decret-reemploi/"/>
+		<updated>2023-04-19T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/decret-reemploi/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/objectifs-de-reemploi.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L’État poursuit son engagement dans l’économie circulaire.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047439314&quot;&gt;décret fixant les objectifs et modalités de réemploi et de réutilisation des matériels informatiques réformés&lt;/a&gt; par l’Etat et les collectivités territoriales vient d’être publié. Ce décret est pris pour application de l’article 16 de la loi visant à réduire l’empreinte environnementale du numérique (REEN).&lt;/p&gt;
+&lt;p&gt;Pour faciliter le réemploi, rendez-vous sur le site des dons des biens réformés de l’Etat. Les administrations d’État et les établissements publics y proposent des matériels informatiques réformés, à destination d’autres organismes publics ou d’associations éligibles : &lt;a href=&quot;https://www.dons.encheres-domaine.gouv.fr/&quot;&gt;https://www.dons.encheres-domaine.gouv.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nous vous rappelons également l’ouverture d’un &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/financement&quot;&gt;guichet de financement FTAP&lt;/a&gt; dont l’un des objectifs est de « permettre l’optimisation de la fin de vie et de la fin d’usage ».&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Bilan d’activité 2021 – 2022 de la MiNumEco</title>

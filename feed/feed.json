@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/decret-reemploi/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/decret-reemploi/",
+      "title": "Objectifs et modalités de réemploi et de réutilisation des matériels informatiques",
+      "content_html": "<p><img src=\"/img/posts/objectifs-de-reemploi.png\" alt=\"\"></p>\n<p><strong>L’État poursuit son engagement dans l’économie circulaire.</strong></p>\n<p>Le <a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047439314\">décret fixant les objectifs et modalités de réemploi et de réutilisation des matériels informatiques réformés</a> par l’Etat et les collectivités territoriales vient d’être publié. Ce décret est pris pour application de l’article 16 de la loi visant à réduire l’empreinte environnementale du numérique (REEN).</p>\n<p>Pour faciliter le réemploi, rendez-vous sur le site des dons des biens réformés de l’Etat. Les administrations d’État et les établissements publics y proposent des matériels informatiques réformés, à destination d’autres organismes publics ou d’associations éligibles : <a href=\"https://www.dons.encheres-domaine.gouv.fr\">https://www.dons.encheres-domaine.gouv.fr</a></p>\n<p>Nous vous rappelons également l’ouverture d’un <a href=\"/financement\">guichet de financement FTAP</a> dont l’un des objectifs est de « permettre l’optimisation de la fin de vie et de la fin d’usage ».</p>\n",
+      "date_published": "2023-04-19T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/bilan-activites-2021-2022/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/bilan-activites-2021-2022/",
       "title": "Bilan d’activité 2021 – 2022 de la MiNumEco",
