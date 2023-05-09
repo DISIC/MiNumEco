@@ -167,11 +167,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
-    <lastmod>2021-11-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/labels/interministeriel/</loc>
     <lastmod>2021-11-23</lastmod>
   </url>
@@ -868,6 +863,11 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/numecodiag/</loc>
+    <lastmod>2022-11-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
     <lastmod>2022-11-29</lastmod>
   </url>
   
