@@ -962,11 +962,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/anctour-numerique-responsable/</loc>
-    <lastmod>2023-05-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
     <lastmod>2023-05-25</lastmod>
   </url>
@@ -1054,5 +1049,10 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/service-numerique/</loc>
     <lastmod>2023-05-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/formation-ecoconception-services-numeriques/</loc>
+    <lastmod>2023-05-27</lastmod>
   </url>
 </urlset>
