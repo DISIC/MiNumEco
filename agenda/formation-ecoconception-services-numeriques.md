@@ -1,7 +1,7 @@
 ---
 title: Formation écoconception de services numériques
 description: Mettre en œuvre une démarche d’écoconception et prendre en main le référentiel général d’écoconception de service numérique (RGESN).
-date: 2023-05-27
+date: 2023-06-27
 dateLabel: le 27 juin de 9h à 17h
 location: uniquement en présentiel à la Dinum, 20 avenue de Ségur, 75007 Paris
 link: https://www.demarches-simplifiees.fr/commencer/formation-minumeco-ecoconception-de-services-numer
