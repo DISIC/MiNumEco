@@ -867,11 +867,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
-    <lastmod>2022-11-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-15-deployer-strategie/</loc>
     <lastmod>2022-12-06</lastmod>
   </url>
@@ -963,6 +958,11 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/ecocode/</loc>
+    <lastmod>2023-05-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
     <lastmod>2023-05-30</lastmod>
   </url>
   
