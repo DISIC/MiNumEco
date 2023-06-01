@@ -35,16 +35,21 @@ Nombre de collectivités ont opté pour un modèle de territoire intelligent, so
 
 ### Impacts environnementaux
 •	Objets connectés : fabrication, infrastructures de communication des données, maintenance, réparabilité et durabilité, gestion des données générées, fin de vie des équipements. 
+
 •	Infrastructures réseaux et serveurs : nécessité d’augmenter la capacité de transmission, de stockage et de calcul.
+
 •	Risques d’effet rebond : par exemple explosion des usages numériques, remplacement des équipements mobiles pour être compatibles avec la dernière génération des technologies réseaux, regain des déplacements en voiture dû aux parkings intelligents et à la fluidification du trafic…
 
 ### Impacts éthiques
 •	Surveillance des citoyens, sécurité des données à caractère personnel (lieu de stockage des données et réglementation afférentes).
+
 •	Souveraineté et indépendance par rapport aux prestataires.
 
 ### Risques
 •	Dépendance au numérique pour l’accès au service public.
+
 •	Risques accrus de cybercriminalité (qui impacte parfois les procédures, comme pour les hôpitaux).
+
 •	Risque de vulnérabilité si les procédés non-numériques ne sont pas conservés (par exemple en cas de catastrophe naturelle qui empêche des communications numériques à l’échelle d’un territoire).
 
 ### Impacts économiques
