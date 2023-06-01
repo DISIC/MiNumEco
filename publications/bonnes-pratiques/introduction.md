@@ -42,7 +42,8 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 **Ce guide est en amélioration continue**
 
-N’hésitez pas à contribuer à l’améliorer. Nous contacter :
+N’hésitez pas à contribuer à l’améliorer. Nous contacter : 
+
 numerique-responsable.dinum@modernisation.gouv.fr
 
 
@@ -69,37 +70,37 @@ Pour faire converger la transition numérique et la transition écologique, plus
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables. Concernant le numérique, les mesures sont les suivantes :
 
-•	Mesure 8 : « afin de réduire les déplacements, l’État met à disposition de l’ensemble de ses agents une solution de visioconférence »
+- Mesure 8 : « afin de réduire les déplacements, l’État met à disposition de l’ensemble de ses agents une solution de visioconférence »
 
-•	Mesure 19 : « l’État met en place une plate-forme permettant à ses services de s’échanger des biens et de donner à des associations les biens matériels dont il n’a plus l’usage et s’engage dès juillet 2020 à systématiquement proposer aux associations et acteurs de l’économie sociale et solidaire le matériel dont il n’a plus l’usage. »
+- Mesure 19 : « l’État met en place une plate-forme permettant à ses services de s’échanger des biens et de donner à des associations les biens matériels dont il n’a plus l’usage et s’engage dès juillet 2020 à systématiquement proposer aux associations et acteurs de l’économie sociale et solidaire le matériel dont il n’a plus l’usage. »
 
-•	Mesure 20 : « l’État développe d’ici juillet 2020 une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné ».
+- Mesure 20 : « l’État développe d’ici juillet 2020 une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné ».
 
 #### 1.2 Loi relative à la lutte contre le gaspillage et à l’économie circulaire
 
 La [Loi du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041553759/) dite « Loi AGEC » apporte des avancées majeures pour lutter contre l'obsolescence, favoriser la réparation, mieux protéger le consommateur et mieux l'informer :
 
-•	Article 13 I : Information du consommateur sur les qualités et caractéristiques environnementales des produits. À partir du 1er janvier 2022, les producteurs ou importateurs de biens mettent à disposition des informations sur : la réparabilité et la durabilité, l’incorporation de matière recyclée, la recyclabilité, la présence de métaux précieux ou de terres rares, la présence de substances dangereuses, la compostabilité, l’emploi de ressources renouvelables, les possibilités de réemploi. Un décret en préparation prévoit la mise à disposition obligatoire par voie dématérialisée de ces informations, qui s’appliquent pour partie aux produits électriques et électroniques.
+- Article 13 I : Information du consommateur sur les qualités et caractéristiques environnementales des produits. À partir du 1er janvier 2022, les producteurs ou importateurs de biens mettent à disposition des informations sur : la réparabilité et la durabilité, l’incorporation de matière recyclée, la recyclabilité, la présence de métaux précieux ou de terres rares, la présence de substances dangereuses, la compostabilité, l’emploi de ressources renouvelables, les possibilités de réemploi. Un décret en préparation prévoit la mise à disposition obligatoire par voie dématérialisée de ces informations, qui s’appliquent pour partie aux produits électriques et électroniques.
 
-•	Article 13 III : à compter du 1er janvier 2022, les fournisseurs d’accès à Internet informent leurs abonnés de la quantité de données consommée et indiquent l’équivalent des émissions de gaz à effet de serre correspondant.  Les équivalents d'émissions de gaz à effet de serre correspondant à la consommation de données sont établis suivant une méthodologie mise à disposition par l’ADEME.
+- Article 13 III : à compter du 1er janvier 2022, les fournisseurs d’accès à Internet informent leurs abonnés de la quantité de données consommée et indiquent l’équivalent des émissions de gaz à effet de serre correspondant. Les équivalents d'émissions de gaz à effet de serre correspondant à la consommation de données sont établis suivant une méthodologie mise à disposition par l’ADEME.
 
-•	Article 16 : à partir du 1er janvier 2021, un indice de réparabilité est affiché sur certains produits électriques et électroniques de consommation courante. Une note sur 10 informe le consommateur sur le caractère plus ou moins réparable des produits concernés. Concernant les produits numériques, l’indice de réparabilité est défini pour les téléviseurs, les ordinateurs et les smartphones. Au 1er janvier 2024, un indice de durabilité remplacera ou complétera l’indice de réparabilité. Ce nouvel indice prendra en compte des critères tels que la fiabilité et la robustesse.
+- Article 16 : à partir du 1er janvier 2021, un indice de réparabilité est affiché sur certains produits électriques et électroniques de consommation courante. Une note sur 10 informe le consommateur sur le caractère plus ou moins réparable des produits concernés. Concernant les produits numériques, l’indice de réparabilité est défini pour les téléviseurs, les ordinateurs et les smartphones. Au 1er janvier 2024, un indice de durabilité remplacera ou complétera l’indice de réparabilité. Ce nouvel indice prendra en compte des critères tels que la fiabilité et la robustesse.
 
-•	Article 19 : obligation de mise à disposition de pièces détachées pendant au moins 5 ans pour certains équipements, notamment de petits équipements informatiques et de télécommunications, des écrans et des moniteurs.
+- Article 19 : obligation de mise à disposition de pièces détachées pendant au moins 5 ans pour certains équipements, notamment de petits équipements informatiques et de télécommunications, des écrans et des moniteurs.
 
-•	Article 22 : extension de la garantie légale de conformité de 6 mois pour les appareils ayant fait l’objet d’une réparation dans le cadre de la garantie légale de conformité (d’une durée initiale minimale de 2 ans pour les produits numériques).
+- Article 22 : extension de la garantie légale de conformité de 6 mois pour les appareils ayant fait l’objet d’une réparation dans le cadre de la garantie légale de conformité (d’une durée initiale minimale de 2 ans pour les produits numériques).
 
-•	Article 27 : 
+- Article 27 : 
 
   - obligation, pour les fabricants et les vendeurs de biens comportant des éléments numériques, d'informer sur la durée au cours de laquelle les mises à jour des logiciels fournis lors de l'achat du bien restent compatibles avec un usage normal de l'appareil.
  
-   - remise d’un rapport du gouvernement au Parlement sur la durée de vie des appareils numériques et connectés, sur l'obsolescence logicielle et sur les options pour allonger la durée de vie des équipements concernés.
+   - remise d’un [rapport du gouvernement au Parlement](https://www.ecologie.gouv.fr/numerique-et-environnement-remise-au-parlement-du-rapport-sur-lobsolescence-logicielle-prevu) sur la durée de vie des appareils numériques et connectés, sur l'obsolescence logicielle et sur les options pour allonger la durée de vie des équipements concernés.
  
-•	Article 37 : les conditions dans lesquelles un professionnel peut utiliser les termes « reconditionné » ou « produit reconditionné » sont fixées par le décret n° 2022-190 du 17 février 2022.
+- Article 37 : les conditions dans lesquelles un professionnel peut utiliser les termes « reconditionné » ou « produit reconditionné » sont fixées par le décret n° 2022-190 du 17 février 2022.
 
-•	Article 55 : à compter du 1er janvier 2021, l’administration publique, lors de ses achats, favorise le recours à des logiciels dont la conception permet de limiter la consommation énergétique associée à leur utilisation.
+- Article 55 : à compter du 1er janvier 2021, l’administration publique, lors de ses achats, favorise le recours à des logiciels dont la conception permet de limiter la consommation énergétique associée à leur utilisation.
 
-•	Article 58 : à compter du 10 mars 2021, les acheteurs de l’État, des collectivités territoriales et de leurs groupements ont l’obligation d’acquérir des biens issus du réemploi ou de la réutilisation ou comportant des matières recyclées, dans des proportions fixées entre 20 et 100 % selon le type de produit. Le décret n° 2021-254 du 9 mars 2021 fixe les objectifs d’achat, en particulier pour les produits numériques. L’arrêté du 3 décembre 2021 en application du décret précité fixe les modalités de déclaration à l’observatoire économique de la commande publique (OECP) de la part des dépenses annuelles relatives à l’acquisition de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées. 
+- Article 58 : à compter du 10 mars 2021, les acheteurs de l’État, des collectivités territoriales et de leurs groupements ont l’obligation d’acquérir des biens issus du réemploi ou de la réutilisation ou comportant des matières recyclées, dans des proportions fixées entre 20 et 100 % selon le type de produit. Le décret n° 2021-254 du 9 mars 2021 fixe les objectifs d’achat, en particulier pour les produits numériques. L’arrêté du 3 décembre 2021 en application du décret précité fixe les modalités de déclaration à l’observatoire économique de la commande publique (OECP) de la part des dépenses annuelles relatives à l’acquisition de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées. 
 
 Ces différents dispositifs sont complétés par la loi visant à réduire l’empreinte environnementale du numérique, dite loi REEN, adoptée le 15 novembre 2021. 
 
