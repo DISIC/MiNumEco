@@ -41,7 +41,7 @@ Ce guide rassemble des exemples de bonnes pratiques pour un numérique plus resp
 * Prendre en compte **tous les impacts environnementaux** et pas uniquement les émissions de gaz à effet de serre.
 * Prendre en considération les **aspects sociaux**.
 * S’inscrire dans une **logique de sobriété** : Refuser, Réduire, Réemployer, Recycler…
-* Se méfier des **effets rebond**, définis comme « l’augmentation de consommation liée à l’efficacité d’une technologie ».
+* Se méfier des **effets rebond**, définis comme « l’augmentation de consommation liée à l’efficacité d’une technologie » et des **impacts indirects**.
 * Préférer les résultats en **valeur absolue** plutôt qu’en relatif pour les objectifs quantitatifs.
 * **Ne pas négliger** les mesures dont on ne sait pas ou peu quantifier les gains.
 * **Hiérarchiser les bonnes pratiques** à mettre en place au vu de leur potentiel de réduction des impacts environnementaux.
