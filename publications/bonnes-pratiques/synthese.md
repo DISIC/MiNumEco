@@ -1,7 +1,7 @@
 ---
 layout: layouts/bonne-pratique/default.njk
 title: Synthèse
-date: 2022-02-17
+date: 2023-06-01
 image: /img/guide-achats/guide-achats-numerique-responsable.png
 ---
 
@@ -20,6 +20,8 @@ Les différentes études scientifiques actuelles estiment que [le numérique est
 ## Qu’est-ce qu’un numérique plus responsable ?
 
 Une utilisation plus responsable du numérique consiste à réduire significativement l’empreinte environnementale, sociale et économique du système d’information, de l’organisation et du métier. Un numérique plus responsable doit se focaliser en priorité sur les actions d’évitement et de réduction sans oublier de réduire les possibles effets rebonds.
+
+Un numérique plus responsable c’est aussi un numérique plus éthique, par exemple en prenant en compte les personnes en situation de handicap (accessibilité numérique), les enjeux d’inclusion et de diversité, etc.
 
 Ce guide rassemble des exemples de bonnes pratiques pour un numérique plus responsable sous neuf thématiques 
 
