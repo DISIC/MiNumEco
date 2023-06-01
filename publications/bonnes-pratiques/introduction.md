@@ -91,9 +91,9 @@ La [Loi du 10 février 2020 relative à la lutte contre le gaspillage et à l’
 
 •	Article 27 : 
 
- o	obligation, pour les fabricants et les vendeurs de biens comportant des éléments numériques, d'informer sur la durée au cours de laquelle les mises à jour des logiciels fournis lors de l'achat du bien restent compatibles avec un usage normal de l'appareil.
+  - obligation, pour les fabricants et les vendeurs de biens comportant des éléments numériques, d'informer sur la durée au cours de laquelle les mises à jour des logiciels fournis lors de l'achat du bien restent compatibles avec un usage normal de l'appareil.
  
- o	remise d’un rapport du gouvernement au Parlement sur la durée de vie des appareils numériques et connectés, sur l'obsolescence logicielle et sur les options pour allonger la durée de vie des équipements concernés.
+   - remise d’un rapport du gouvernement au Parlement sur la durée de vie des appareils numériques et connectés, sur l'obsolescence logicielle et sur les options pour allonger la durée de vie des équipements concernés.
  
 •	Article 37 : les conditions dans lesquelles un professionnel peut utiliser les termes « reconditionné » ou « produit reconditionné » sont fixées par le décret n° 2022-190 du 17 février 2022.
 
