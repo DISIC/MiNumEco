@@ -31,7 +31,7 @@ Benedetto-Meyer, Marie ;  Boboc, Anca
 Salle M - Sociologie - [306.36 BENE s]
 
 CREDOC (Centre de recherche pour l'étude et l'observation des conditions de vie)
-« Baromètre du numérique : enquête sur la diffusion des technologies de l’information et de la communication dans la société française. Édition 2021 »
+« Baromètre du numérique : enquête sur la diffusion des technologies de l’information et de la communication dans la société française. Édition 2022 »
 [Disponible en ligne](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2022-Rapport.pdf) (consulté le 24 avril 2023)
 
 Illich, Ivan
