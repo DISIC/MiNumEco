@@ -61,7 +61,7 @@ Pour chaque bonne pratique, vous trouverez :
 - **Priorité** : prioritaire, recommandée ou aller plus loin.
 
 
-<h2 id="contribution-collective">Contribution collective</h2>
+<h2 id="III-contribution-collective">III. Contribution collective</h2>
 
 Les contributrices et contributeurs principaux de ce guide sont les suivants.
 
