@@ -10,7 +10,7 @@ who:
   - Délégué au numérique responsable 
   - Direction ressources humaines 
 indicators:
-  - "Nombre de référents Numérique Responsable / nombre salariés"
+  - "Nombre  d’équivalents temps plein référents Numérique Responsable / nombre de collaborateurs"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 40
@@ -32,7 +32,3 @@ L’administration a développé ces dernières années des réseaux au sein des
 * Réseau de RMA, les référents marchés mis en place par la DAE (Direction des Achats de l’État) dans tous les ministères
 * Réseau des correspondants MAREVA2, outil de référence de remontée et d’analyse de la valeur des projets numériques (MAREVA2 a d’ailleurs été mis à jour dans son volet stratégique pour prendre en compte une dizaine indicateurs environnementaux)
 * Réseau de référent pour les SPE (Services Publics Ecoresponsables). 
-
-## Indicateur de pilotage : 
-Nombre  d’équivalents temps plein référents Numérique Responsable / nombre de collaborateurs 
-
