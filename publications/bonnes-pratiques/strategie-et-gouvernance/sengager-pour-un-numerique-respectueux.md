@@ -11,7 +11,9 @@ who:
 indicators:
   - "% des données localisées en France"
   - "% d’équipements ergonomiques"
-  - "% d’arrêts de travail liés à des pathologies liées au numérique ?"
+  - "% de services numériques au moins partiellement accessibles au sens du RGAA"
+  - "Existence d’un process de validation de respect du RGPD dans le cycle de conception des services numériques"
+  - "% d’arrêts de travail liés à des pathologies liées au numérique"
   - "Présence d’un comité d’éthique dans l’organisation"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
@@ -26,12 +28,3 @@ La démarche « Numérique Responsable » ne concerne pas seulement la réduct
 * **Le respect de la vie privée** des utilisateurs des services numériques en privilégiant un numérique souverain, c’est-à-dire en ayant la maîtrise totale de ses données (réversibilité des données auprès des fournisseurs, protection des données, localisation des données sur le territoire français, format ouvert des fichiers, etc.) mais également en étant libre de pouvoir changer de système informatique, que cela soit techniquement ou contractuellement.
 * La cohérence du modèle économique avec les enjeux environnementaux et sociaux : par exemple pour un site d’e-commerce, ne pas inciter à la surconsommation et proposer des alternatives plus vertueuses afin de limiter les effets rebond du numérique.
 * etc.
-
-## Exemples d’indicateurs de pilotage :
-*	% des données localisées en France
-*	% d’équipements ergonomiques
-*	% de services numériques au moins partiellement accessibles au sens du RGAA
-*	Existence d’un process de validation de respect du RGPD dans le cycle de conception des services numériques
-*	% d’arrêts de travail liés à des pathologies liées au numérique
-*	Présence d’un comité d’éthique dans l’organisation
-
