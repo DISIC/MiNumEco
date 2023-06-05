@@ -3,7 +3,7 @@ layout: layouts/bonne-pratique/thematique.njk
 title: Sensibilisation et formation
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 tags: guideBpNrThematique
-date: 2022-02-17
+date: 2023-06-01
 idThematique: b.
 eleventyNavigation:
   key: bonnes-pratiques-sensibilisation-et-formation
