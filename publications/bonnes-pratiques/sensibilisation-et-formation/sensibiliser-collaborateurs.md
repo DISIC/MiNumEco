@@ -9,8 +9,9 @@ difficulty: Facile
 who:
   - Délégué au numérique responsable
 indicators:
-  - "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC pour un numérique plus responsable."
-  - "sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
+  - "% des collaborateurs de l'organisation ayant suivi une sensibilisation ou un MOOC pour un numérique plus responsable."
+  - "Sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
+  - "Nombre d’actions de sensibilisation menées"
 eleventyNavigation:
   parent: bonnes-pratiques-sensibilisation-et-formation
   order: 10
@@ -23,11 +24,6 @@ L'idée est de communiquer sur les principaux impacts environnementaux du numér
 Cela peut prendre la forme de campagnes internes de sensibilisation pour un numérique plus responsable avec des conférences, des ateliers ou de la documentation. Pour les documentations, il convient de privilégier des supports didactiques, faciles et rapides à lire.
 
 Cette sensibilisation peut également être intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation.
-
-## Exemples d’indicateurs :
-* % des collaborateurs de l'organisation ayant suivi une sensibilisation ou un MOOC pour un numérique plus responsable.
-*	Sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non
-*	Nombre d’actions de sensibilisation menées
 
 ## En savoir plus
 
