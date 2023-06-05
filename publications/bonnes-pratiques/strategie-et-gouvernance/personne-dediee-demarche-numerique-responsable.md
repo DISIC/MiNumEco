@@ -9,9 +9,7 @@ difficulty: Moyenne
 who:
   - Direction générale
 indicators:
-  - "Certificat de formation ou de connaissances de la personne chargée de la démarche numérique responsable"
   - "Présence dans l'organisation d'une personne déléguée ou référente au numérique responsable : oui / non"
-  - "Place dans l'organigramme de cette personne"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 10
