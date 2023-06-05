@@ -11,6 +11,7 @@ who:
   - Direction des achats
 indicators:
   - "% d'équipements éco-labellisés (type I) achetés"
+  - "% montant achat d'équipements éco-labellisés (type I)"
 eleventyNavigation:
   parent: bonnes-pratiques-achat-durable
   order: 30
