@@ -18,7 +18,7 @@ eleventyNavigation:
 
 La mise en place d’une démarche numérique responsable doit être pilotée par la donnée. Les actions visant principalement à l’allongement de la durée de vie des équipements ou à réduire le suréquipement peuvent ainsi être estimées au regard des impacts évités.
 
-En Analyse du Cycle de Vie (ACV), la normation consiste à comparer des indicateurs sur une échelle de valeur comparable. Ici, les impacts évités sont comparés à ceux générés en moyenne par un européen sur une année (on parle d’« “équivalent européen »”), à savoir : 
+En Analyse du Cycle de Vie (ACV), la normation consiste à comparer des indicateurs sur une échelle de valeur comparable. Ici, les impacts évités sont comparés à ceux générés en moyenne par un européen sur une année (on parle d’« équivalent européen »), à savoir : 
 *	8,1 tonnes de CO2 eq pour l’indicateur de changement climatique.
 *	0,06 kg 0,06 kg Sb eq pour l’épuisement des ressources abiotiques (minérales et métalliques).
 
