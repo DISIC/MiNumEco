@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Mettre en place les bonnes pratiques d'impression
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: f.7
 priority: Recommandée
 difficulty: Facile
