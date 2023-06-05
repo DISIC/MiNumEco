@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Stratégie et gouvernance
 tags: guideBpNrThematique
-date: 2022-02-17
+date: 2023-06-01
 idThematique: a.
 eleventyNavigation:
   key: bonnes-pratiques-strategie-et-gouvernance
