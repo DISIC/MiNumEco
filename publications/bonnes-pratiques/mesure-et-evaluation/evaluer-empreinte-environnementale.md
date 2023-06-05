@@ -8,6 +8,9 @@ priority: Recommandée
 difficulty: Difficile 
 who:
   - Délégué au numérique responsable
+indicators:
+  - "Évaluation de l’empreinte environnementale du SI réalisée ? OUI/NON"
+  - "Quantification de l’empreinte du SI par collaborateur : à minima en GES (en kg eqCO2 par collaborateur)"
 eleventyNavigation:
   parent: bonnes-pratiques-mesure-evaluation
   order: 20
@@ -33,7 +36,3 @@ Un premier élément de mesure peut être obtenu à partir du volet numérique d
 EcoInfo propose l’outil [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) pour évaluer les impacts liés à la fabrication et au transport d’un parc d’équipements informatiques. Cet outil s’appuie sur les fiches PCF (Product Carbon Footprint) fournies par les constructeurs.
 
 L'INR propose un [outil d'évaluation de l'empreinte d'un SI : le WeNR](https://institutnr.org/wenr-2021). Des outils permettent une évaluation brique par brique, comme la [Base Impacts® de l'ADEME](http://www.base-impacts.ademe.fr/) (en monocritère GES). Des outils open source comme [OpenLCA](https://www.openlca.org/) sont également disponibles pour réaliser des ACV si vous avez les compétences. La connexion de ces outils à des bases de données comme la Base Empreinte® de l'ADEME permettent de réaliser une évaluation brique par brique.
-
-## Exemples d'indicateurs de pilotage
-*	Évaluation de l’empreinte environnementale du SI réalisée ? OUI/NON
-*	Quantification de l’empreinte du SI par collaborateur : à minima en GES (en kg eqCO2 par collaborateur)
