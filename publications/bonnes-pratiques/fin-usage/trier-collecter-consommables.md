@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Trier et collecter séparément les consommables
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: i.7
 priority: Prioritaire
 difficulty: Facile
@@ -10,9 +10,7 @@ who:
   - Direction du numérique
   - Direction logistique
 indicators:
-  - "Poids des consommables (par type de déchet) collectés séparément"
-  - "% du poids des consommables collectés séparément sur l’ensemble des déchets générés"
-  - "% du poids du papier collecté par rapport au poids du papier acheté"
+  - "Collecte séparée des consommables ? oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-fin-usage
   order: 70
