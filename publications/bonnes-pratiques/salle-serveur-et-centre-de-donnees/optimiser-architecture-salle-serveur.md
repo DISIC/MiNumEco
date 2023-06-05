@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Optimiser l’architecture de la salle serveur
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: h.3
 priority: Recommandée
 difficulty: Difficile
