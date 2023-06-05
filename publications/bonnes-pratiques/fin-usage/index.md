@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Fin d'usage
 tags: guideBpNrThematique
-date: 2022-02-17
+date: 2023-06-01
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 idThematique: i.
 eleventyNavigation:
@@ -18,8 +18,8 @@ La fin d’usage se caractérise par la fin d’utilisation d’un équipement d
 
 *	Le soin des équipements qui ne sont plus utilisés dans l’organisation, afin que les processus suivants puissent avoir lieu : un équipement doit être conservé dans des conditions correctes pour pouvoir être réutilisé en tout ou partie ensuite.
 *	La réparation, remise en état ou reconditionnement de l’équipement, qui consiste à restaurer sa fonctionnalité initiale, afin de continuer à l’utiliser dans la même organisation (en interne), ou dans une autre organisation (en externe) via un don ou une vente.
-  - Si l’équipement est directement réutilisé sans passer par un éco-organisme, on parlera de réemploi : cela concerne les réaffectations internes, les dons aux collaborateurs, les dons à des associations ou des tiers et la vente des équipements. 
-  - Dans le cas contraire, on parlera de réutilisation
+  - Si l’équipement est réutilisé (après restauration physique ou logicielle) sans passer par un éco-organisme, on parlera de réemploi : cela concerne les réaffectations internes, les dons aux collaborateurs, les dons ou les ventes à des associations ou des tiers.
+  - Dans le cas contraire, on parlera de réutilisation. Selon l’[Article L541-1-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042176087), on entend par réutilisation toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau.
 
 Lorsque l’équipement arrive en fin de vie, idéalement quand les opérations de réemploi ne sont plus possibles (équipements hors-service et non réparables, trop obsolètes, sans marché de destination…), il devient un déchet. Le producteur du déchet est tenu pour responsable de son élimination jusqu’à sa valorisation finale.
 
