@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Intégrer des clauses environnementales lors du choix d’un prestataire d’hébergement
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: h.1
 priority: Prioritaire
 difficulty: Moyenne
