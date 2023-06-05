@@ -24,22 +24,24 @@ En Analyse du Cycle de Vie (ACV), la normation consiste à comparer des indicate
 
 De premières évaluations d’ordre de grandeur issues d’une revue bibliographique, permettent d’envisager des gains environnementaux significatifs grâce à la mise en œuvre de bonnes pratiques numérique responsable.
 
-Achat d’équipements reconditionnés
-|impacts environnementaux évités pour l’achat de 1000 équipements reconditionnés au lieu du neuf…|En tonnes eq. CO2 évités|Soit en impact annuel d’Émissions de Gaz à Effet de Serre en “équivalent européen”|En kg eq. Sb évités|Soit en impact annuel d’Épuisement des Ressources Abiotiques en “équivalent européen”|
+## Achat d’équipements reconditionnés
+|Impacts environnementaux évités pour l’achat de 1000 équipements reconditionnés au lieu du neuf…|En tonnes eq. CO2 évités|Soit en impact annuel d’Émissions de Gaz à Effet de Serre en “équivalent européen”|En kg eq. Sb évités|Soit en impact annuel d’Épuisement des Ressources Abiotiques en “équivalent européen”|
 | --- | --- | --- | --- | --- |
-|ordinateurs portables|54,9|6,8|2,8|43,4|
-|smartphones|25,5|3,1|0,8|3,2|
+|Ordinateurs portables|54,9|6,8|2,8|43,4|
+|Smartphones|25,5|3,1|0,8|3,2|
 
+## Allongement de la durée de vie des équipements 
+|Impacts environnementaux évités en allongeant d’un an la durée de vie de 1000 équipements…|En tonnes eq. CO2|Soit en impact annuel d’Émissions de Gaz à Effet de Serre en “équivalent européen”|En kg eq. Sb évités|Soit en impact annuel d’Épuisement des Ressources Abiotiques en “équivalent européen”|
+| --- | --- | --- | --- | --- |
+|Ordinateurs portables|17,1|2,1|0,8|12,9|
+|Smartphones|7,3|0,9|0,3|4,2|
 
 ## Réduction du nombre d’équipements
-Les émissions de 50 tonnes équivalent CO2 sont évitées pour 1000 smartphones non achetés (et donc non fabriqués) si la mise à disposition d’un smartphone pour un usage professionnel n’est pas systématique lors de l’arrivée d’un nouveau collaborateur. Ces équipements, souvent en doublon peuvent être peu ou pas utilisés. 
+Les émissions de **50 tonnes équivalent CO2** sont évitées pour 1000 smartphones non achetés (et donc non fabriqués) si la mise à disposition d’un smartphone pour un usage professionnel n’est pas systématique lors de l’arrivée d’un nouveau collaborateur. Ces équipements, souvent en doublon peuvent être peu ou pas utilisés. 
 
 ## Autres sources de réduction
-D’autres sources de réduction des impacts environnementaux sont possibles, comme celles résultant de l’écoconception d’un service numérique. En effet cela permet à la fois de réduire la consommation de ressources et de retarder l’obsolescence des matériels. En retenant qu’un site web enregistre 1 millions de pages vues par an, une réduction du poids des pages de 2 Mo à 500 Ko permet d’éviter l’émission de 260 kg équivalent CO2. Cette économie ne tient pas compte des impacts indirects non quantifiables sur la réduction de l’obsolescence des terminaux utilisateurs.
+D’autres sources de réduction des impacts environnementaux sont possibles, comme celles résultant de l’**écoconception d’un service numérique**. En effet cela permet à la fois de réduire la consommation de ressources et de retarder l’obsolescence des matériels. En retenant qu’un site web enregistre 1 millions de pages vues par an, une réduction du poids des pages de 2 Mo à 500 Ko permet d’éviter l’émission de **260 kg équivalent CO2**. Cette économie ne tient pas compte des impacts indirects non quantifiables sur la réduction de l’obsolescence des terminaux utilisateurs.
 
 ## Sources
 *	Evaluation de l’impact environnemental d’un ensemble de produits reconditionnés - Synthèse intermédiaire Smartphone, ADEME
 *	Base Empreinte® ADEME
-
-
-
