@@ -27,7 +27,7 @@ Cette sensibilisation peut également être intégrée au kit de bienvenue des n
 
 ## En savoir plus
 
-	Sélection non-exhaustive de formations ou de documentations, en licence libre et en libre accès dédiées aux impacts environnementaux du numérique :
+Sélection non-exhaustive de formations ou de documentations, en licence libre et en libre accès dédiées aux impacts environnementaux du numérique :
 
 * [MOOC Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), proposé par l’Association Class’Code et l’INRIA.
 * [MOOC Numérique Responsable](https://www.academie-nr.org/) proposé par l'INR en partenariat avec l'Ademe.
