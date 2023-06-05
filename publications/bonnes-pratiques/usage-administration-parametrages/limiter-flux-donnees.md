@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Limiter le flux de données
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: f.3
 priority: Recommandée
 difficulty: Moyenne
@@ -11,7 +11,6 @@ who:
 indicators:
   - "Go téléchargés sur Internet de l’organisation par mois ramené au nombre de collaborateurs"
   - "Trafic par mois par les serveurs web des applications internes en Go ou To"
-  - "Taux de vidéos en basse résolution distribuées"
 eleventyNavigation:
   parent: bonnes-pratiques-usage
   order: 30
