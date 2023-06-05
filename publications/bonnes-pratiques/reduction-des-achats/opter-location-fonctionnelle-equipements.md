@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Opter pour la location fonctionnelle d'équipements
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: d.5
 priority: Aller plus loin
 difficulty: Moyenne
@@ -12,6 +12,7 @@ who:
 indicators:
   - "Nombre et type d’équipements en location fonctionnelle"
   - "% des achats en location fonctionnelle"
+  - "Durée de vie totale moyenne des équipements supportant la location fonctionnelle (indicateur à demander au prestataire)"
 eleventyNavigation:
   parent: bonnes-pratiques-reduction-achat
   order: 50
