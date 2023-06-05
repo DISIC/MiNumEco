@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Regrouper et rationaliser les serveurs
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: h.4
 priority: Recommandée
 difficulty: Moyenne
@@ -21,4 +21,6 @@ Bonne pratique présente dans le Code de conduite européen pour les centres de 
 
 Si les VM sont simples à déployer, elles doivent cependant aussi être configurées et dimensionnées avec précaution afin de ne pas entraver les performances du système.
 
-Il faut noter que la création d’une architecture spécifique doit résulter d’une étude approfondie du besoin. Ces architectures sont souvent utilisées pour toutes les tâches qui nécessitent une très forte puissance de calcul (outils de travail collaboratifs, prévisions météorologiques, modélisation moléculaire, simulations physiques ou financières, etc.).
+Il faut noter que la création d’une architecture spécifique doit résulter d’une étude approfondie du besoin, car tous les cas d’usages ne sont pas propices à la virtualisation. Ces architectures sont souvent utilisées pour toutes les tâches qui nécessitent une très forte puissance de calcul (outils de travail collaboratifs, prévisions météorologiques, modélisation moléculaire, simulations physiques ou financières, etc.).
+
+Attention à l’effet rebond de la virtualisation. Il est tellement facile de créer une machine virtuelle, que l’on peut rapidement démultiplier le nombre de VM inutiles si une gestion rigoureuse du cycle de vie n’est pas apportée (exemples : environnement de développement, de recette, clones, etc.).
