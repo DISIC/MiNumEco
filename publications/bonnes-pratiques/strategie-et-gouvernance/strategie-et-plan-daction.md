@@ -9,6 +9,10 @@ difficulty: Moyenne
 who:
   - Direction générale
   - Délégué au numérique responsable 
+indicators:
+  - "Plan d’action validé et communiqué dans l’organisation : OUI/NON"
+  - "Liste des actions : libellé, niveau d’engagement (réalisation, expérimentation, réflexion), état d’avancement (à faire, en cours, fini), date d’identification de l’action, date de mise en œuvre etc."
+  - "Fréquence des comités de pilotage"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 20
@@ -23,13 +27,6 @@ Chaque action peut avoir un niveau d’engagement différent :
 * Réflexion : étude de faisabilité d’une action donnée, en mobilisant toutes les parties prenantes. Il n’y a pas d’engagement sur sa mise en place mais un engagement sur un livrable final détaillant la démarche et le résultat obtenu par cette étude. Le résultat obtenu permet-il de passer à une généralisation de la réalisation (1er niveau d’engagement) ou au moins à une expérimentation à petite échelle (2ème niveau) ?
 * Expérimentation : engagement sur une expérimentation de l’action sur un périmètre choisi. Il s’agit alors de documenter la démarche et les résultats obtenus pour, le cas échéant, faire passer à l’échelle cette action.
 * Réalisation : engagement sur la réalisation, le passage à l’échelle et le suivi de l’action. Cela peut aussi être une action déjà mise en place : engagement sur son suivi, son développement ou son amélioration.
-
-## Exemples d’indicateurs de pilotage : 
-
--	Plan d’action validé et communiqué dans l’organisation : OUI/NON
--	Liste des actions : libellé, niveau d’engagement (réalisation, expérimentation, réflexion), état d’avancement (à faire, en cours, fini), date d’identification de l’action, date de mise en œuvre etc.
--	Fréquence des comités de pilotage
-
 
 ## Retour d’expérience
 
