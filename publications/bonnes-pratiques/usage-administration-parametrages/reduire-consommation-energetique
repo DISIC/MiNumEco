@@ -9,7 +9,7 @@ difficulty: Facile
 who:
   - Direction générale
   - Délégué au numérique responsable
-  Direction logistique
+  - Direction logistique
  indicators:
   - "MWh économisés"
   - "MWh décalés en heure creuse"
