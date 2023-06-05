@@ -1,7 +1,7 @@
 ---
 layout: layouts/bonne-pratique/default.njk
 title: Webographie
-date: 2022-02-17
+date: 2023-06-01
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
