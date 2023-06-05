@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Privilégier des équipements éco-labellisés
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: e.3
 priority: Prioritaire
 difficulty: Facile
@@ -40,4 +40,4 @@ La caution technique d’un label peut provenir d’un organisme public ou priv�
 
 ## En savoir plus 
 
-[Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)
+[Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/labels/produits/)
