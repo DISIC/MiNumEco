@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Réduction des achats
 tags: guideBpNrThematique
-date: 2022-02-17
+date: 2023-06-01
 idThematique: d.
 eleventyNavigation:
   key: bonnes-pratiques-reduction-achat
