@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réduire le volume de données stockées
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: f.5
 priority: Recommandée
 difficulty: Moyenne
