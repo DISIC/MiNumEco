@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réemployer en donnant les équipements fonctionnels
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: i.2
 priority: Prioritaire
 difficulty: Moyenne
@@ -10,9 +10,9 @@ who:
   - Direction du numérique
   - Délégué au numérique responsable
 indicators:
-  - "Nombre d’équipements donnés"
-  - "Poids des DEEE évités : poids des équipements donnés"
-  - "% des DEEE évités par les dons par rapport au poids total des DEEE générés"
+  - "Nombre de biens informatiques réformés en stock au 1er janvier de l’année"
+  - "Nombre de biens informatiques réformés orientés vers le réemploi et la réutilisation"
+  - "Nombre de biens informatiques réformés orientés vers le réemploi par le don"
 eleventyNavigation:
   parent: bonnes-pratiques-fin-usage
   order: 20
@@ -26,7 +26,7 @@ Il est donc préférable d’établir une convention de cession ou un acte de ve
 
 Cet acte de cession, permet d’attester de la sortie du parc d’équipement sans que celui-ci ne soit suivi comme déchet. Charge au nouveau propriétaire de s’assurer dans le futur de sa fin d’usage, soit par un nouveau don, soit par la gestion du déchet.
 
-Le don peut se faire en interne aux collaborateurs (dans ce cas, [des règles sont à respecter](https://lentreprise.lexpress.fr/gestion-fiscalite/impots-taxes/don-d-ordinateurs-aux-salaries-ce-qu-il-faut-savoir_1519124.html)) ou en externe à des tiers ou des associations. Le risque d’un don d’un détenteur vers une pluralité d’autres détenteurs est que ces derniers fassent aussi un don à leur tour et que de fil en aiguille, de changement de main en changement de main, l’équipement soit exporté hors de nos frontières. Dans le meilleur cas, il servira encore sur un territoire étranger (mais quel traitement local est prévu pour la fin de vie ?). Dans le pire des cas, à peine arrivé à destination, il finira dans une décharge à ciel ouvert avec les impacts néfastes qu’il est souhaitable d’éviter par appliquant les bonnes pratiques…
+Le don peut se faire en interne aux collaborateurs (dans ce cas, [des règles sont à respecter](https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/les-avantages-en-nature/les-outils-issus-des-nouvelles-t/la-remise-gratuite-par-un-employ.html) ou en externe à des tiers ou des associations. Le risque d’un don d’un détenteur vers une pluralité d’autres détenteurs est que ces derniers fassent aussi un don à leur tour et que de fil en aiguille, de changement de main en changement de main, l’équipement soit exporté hors de nos frontières. Dans le meilleur cas, il servira encore sur un territoire étranger (mais quel traitement local est prévu pour la fin de vie ?). Dans le pire des cas, à peine arrivé à destination, il finira dans une décharge à ciel ouvert avec les impacts néfastes qu’il est souhaitable d’éviter par appliquant les bonnes pratiques…
 
 Par ailleurs, certaines structures de l’ESS destinataires de ces dons organisent une redistribution solidaire, offrant ainsi aux personnes en difficulté la possibilité de disposer d’équipements qu’elles ne pourraient acquérir neufs.
 
