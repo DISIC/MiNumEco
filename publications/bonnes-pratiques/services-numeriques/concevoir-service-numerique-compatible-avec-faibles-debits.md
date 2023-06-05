@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Concevoir un service numérique compatible avec des faibles débits
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.6
 priority: Prioritaire
 difficulty: Moyenne
@@ -12,7 +12,6 @@ who:
 indicators:
   - "Test du service numérique en connexion bas débit intégré à la phase de recette des fonctionnalités : oui / non"
   - "Test du service numérique utilisable en bas débit (3G en contexte mobile, connexion 512 Kb en contexte fixe) : oui / non"
-  - "Mêmes indicateurs, à tester avec une machine de faible puissance."
 eleventyNavigation:
   parent: bonnes-pratiques-services-numeriques
   order: 60
