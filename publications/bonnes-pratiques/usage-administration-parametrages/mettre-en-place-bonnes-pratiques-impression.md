@@ -9,6 +9,11 @@ difficulty: Facile
 who:
   - Direction du numérique
   - Délégué au numérique responsable
+ indicators:
+  - "% d'imprimantes mutualisées"
+  - "% d’imprimantes écolabellisées"
+  - "Poids moyen de papier utilisé par collaborateur"
+  - "% d'imprimantes paramétrées en mode impression sécurisée (déclenchement de l'impression après identification)"
 eleventyNavigation:
   parent: bonnes-pratiques-usage
   order: 70
