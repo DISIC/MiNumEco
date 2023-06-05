@@ -9,6 +9,9 @@ difficulty: Moyenne
 who:
   - Direction générale
   - Délégué au numérique responsable
+indicators:
+  - "existence d’une charte Numérique Responsable : Oui / Non"
+  - "intégration de pratiques Numérique Responsable dans le livret d’accueil / charte informatique : Oui / Non"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 60
@@ -34,7 +37,3 @@ Un exemple de charte à adapter selon vos besoins. Avec la signature de la [char
 * Développer des offres de services accessibles pour tous, inclusives et durables.
 * Mettre en place des pratiques éthiques et responsables.
 * Favoriser l'émergence de nouveaux comportements et valeurs.
-
-## Indicateurs de pilotage
-* Existence d’une charte Numérique Responsable : Oui / Non
-* Intégration de pratiques Numérique Responsable dans le livret d’accueil / charte informatique : Oui / Non
