@@ -29,10 +29,6 @@ Pour aller plus loin, pour les salariés/agents ayant l’habilitation électriq
 
 Lorsque la réparation en interne n’est pas possible, privilégier les entreprises ou associations spécialisées et locales.
 
-## Indicateurs :
-*	% des salariés / agents du support formés aux réparations
-*	% du matériel réparé en interne / total matériel défectueux
-
 ## Retour d’expérience
 Certains acteurs associatifs proposent des "repairathon" permettant de remettre en service de vieux appareils (notamment des smartphones) tout en apprenant les arcanes de la réparation aux salariés qui souhaitent s’y confronter.
 
