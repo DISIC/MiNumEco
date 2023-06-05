@@ -10,6 +10,7 @@ who:
   - Direction ressources humaines
 indicators:
   - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
+  - "% des collaborateurs formés au « Numérique Responsable »"
 eleventyNavigation:
   parent: bonnes-pratiques-sensibilisation-et-formation
   order: 20
@@ -35,10 +36,6 @@ Afin de faire monter en compétences les équipes sur le sujet numérique et env
 Selon le public ou le service ciblé (achat, conception, opérationnel…), il vaut mieux adapter la formation pour appuyer davantage sur certains points (l’écoconception pour les équipes de conception par exemple).
 
 De plus, ces compétences à acquérir peuvent être intégrées dans la gestion prévisionnelle de l’emploi, des effectifs et des compétences (GPEEC) de l’organisation.
-
-## Indicateur de pilotage :
-*	Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non
-*	% des collaborateurs formés au « Numérique Responsable ».
 
 ## En savoir plus
 Lors de l’audit numérique responsable des ministères réalisé par la mission interministérielle Numérique écoresponsable, une grande majorité de répondants souhaite une formation courte (1 journée) sur ce sujet.
