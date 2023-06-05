@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Mettre en place et suivre des indicateurs de pilotage
 type: bpnr
-date: 2022-02-18
+date: 2023-06-01
 idbp: a.3
 priority: Prioritaire
 difficulty: Moyenne 
