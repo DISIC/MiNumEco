@@ -2,15 +2,14 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Anticiper le sourcing des fournisseurs d'équipements contenant des matériaux recyclés ou issus du réemploi
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: e.4
 priority: Prioritaire
 difficulty: Moyenne
 who:
   - Direction des achats
 indicators:
-  - "Nombre de fournisseurs identifiés proposant des produits reconditionnés"
-  - "% des achats annuels HT des catégories de produits concernés"
+  - "Sourcing des fournisseurs réalisé : oui/non et si oui, nombre de fournisseurs identifiés proposant des produits reconditionnés"
 eleventyNavigation:
   parent: bonnes-pratiques-achat-durable
   order: 40
