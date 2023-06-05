@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Évaluer collectivement la pertinence de la solution à apportée
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.1
 priority: Prioritaire
 difficulty: Moyenne
