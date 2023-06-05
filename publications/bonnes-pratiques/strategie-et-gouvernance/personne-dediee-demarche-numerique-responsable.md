@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Coordonner la démarche numérique responsable
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: a.1
 priority: Prioritaire
 difficulty: Moyenne
