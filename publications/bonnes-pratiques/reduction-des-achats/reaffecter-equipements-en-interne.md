@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réaffecter les équipements en interne
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: d.3
 priority: Recommandée
 difficulty: Moyenne
