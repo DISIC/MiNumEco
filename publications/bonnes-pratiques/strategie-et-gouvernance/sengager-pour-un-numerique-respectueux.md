@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: S’engager pour un numérique plus respectueux
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: a.7
 priority: Recommandée
 difficulty: Moyenne
