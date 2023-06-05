@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Obtenir et consacrer un budget spécifique
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: a.5
 priority: Recommandée
 difficulty: Moyenne
