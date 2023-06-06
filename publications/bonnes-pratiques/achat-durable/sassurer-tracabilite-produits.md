@@ -43,7 +43,7 @@ L’acheteur peut ainsi compléter la clause par les éléments suivants :
 ## En savoir plus
 
 * [Loi relative au devoir de vigilance des sociétés mères et des entreprises donneuses d’ordre](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/)
-* [La mise en œuvre de la diligence raisonnable relative aux droits humains et à l’environnement dans les marchés publics (par l’association Electronics Watch)](https://electronicswatch.org/fr/la-mise-en-%C5%93uvre-de-la-diligence-raisonnable_2595038)
+* [La mise en œuvre de la diligence raisonnable relative aux droits humains et à l’environnement dans les marchés publics](https://electronicswatch.org/fr/la-mise-en-%C5%93uvre-de-la-diligence-raisonnable_2595038) (par l’association Electronics Watch
 
 ## Retour d’expérience 
 
