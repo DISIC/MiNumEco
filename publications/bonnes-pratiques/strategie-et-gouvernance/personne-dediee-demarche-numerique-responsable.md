@@ -37,11 +37,6 @@ Un ensemble de compétences est requis pour ce poste :
 * Maîtrise des enjeux et bonnes pratiques liés à l'achat des équipements, à la gestion des Déchets d'équipements électriques et électroniques (DEEE) et au réemploi
 * Capacité à mener une campagne de sensibilisation en interne ou vis-à-vis des fournisseurs et des prestataires, etc.
 
-## Exemples d’indicateurs de pilotage :
-* Présence dans l'organisation d'une personne déléguée ou référente au numérique responsable : oui / non
-
-
 ## En savoir plus 
  
 Voir l’intitulé « Responsable Green IT » [dans la nomenclature des métiers du système d’information du CIGREF (2022)](https://www.cigref.fr/wp/wp-content/uploads/2022/09/cigref_nomenclature_rh_des_profils_metiers_du_si_version_complete_2022.4.pdf).
-
