@@ -9,6 +9,9 @@ difficulty: Moyenne
 who:
   - Direction du numérique
   - Responsable produit
+indicators:
+  - "Rapport coût / bénéfice d’un produit ou projet, en comparaison d’un scénario de référence actuel, en tenant compte de toutes les externalités"
+  - "Évaluation de l’impact lié à ce nouveau produit ou projet (en approche cycle de vie et a minima en équivalent CO2)"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 80
