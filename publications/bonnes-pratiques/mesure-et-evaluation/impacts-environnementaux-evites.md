@@ -43,5 +43,5 @@ Les émissions de **50 tonnes équivalent CO2** sont évitées pour 1000 smartph
 D’autres sources de réduction des impacts environnementaux sont possibles, comme celles résultant de l’**écoconception d’un service numérique**. En effet cela permet à la fois de réduire la consommation de ressources et de retarder l’obsolescence des matériels. En retenant qu’un site web enregistre 1 millions de pages vues par an, une réduction du poids des pages de 2 Mo à 500 Ko permet d’éviter l’émission de **260 kg équivalent CO2**. Cette économie ne tient pas compte des impacts indirects non quantifiables sur la réduction de l’obsolescence des terminaux utilisateurs.
 
 ## Sources
-*	Evaluation de l’impact environnemental d’un ensemble de produits reconditionnés - Synthèse intermédiaire Smartphone, ADEME
-*	Base Empreinte® ADEME
+*	[Evaluation de l’impact environnemental d’un ensemble de produits reconditionnés - Synthèse intermédiaire Smartphone, ADEME](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)
+*	[Base Empreinte® ADEME](https://base-empreinte.ademe.fr/)
