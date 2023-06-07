@@ -32,8 +32,6 @@ Se lancer dans une démarche « Numérique responsable » telle que présentée 
 
 Si la mise en place d’une démarche numérique responsable peut sembler onéreuse pour une organisation, son coût peut en général être compensé par les nombreuses possibilités d’économies (matériels, énergies...). Cette démarche peut s’accompagner, dans certains cas, d’une mutation du modèle économique : fin des offres illimitées et des incitations au renouvellement du matériel, début des offres en économie de la fonctionnalité et de la coopération, limitation des débits, promotion du reconditionné… C’est par ailleurs, un modèle plus résilient, du fait de la limitation de la dépendance à des ressources non disponibles sur le territoire et du transfert d’un modèle dépendant d’un fort capital matériel (équipements, réseau, …) à celui d’un plus grand capitale immatériel (ressources humaines).
 
-<h2 id="I-pourquoi-ce-guide-et-à-qui-s’adresse-t-il-?">I. Pourquoi ce guide et à qui s’adresse-t-il ?</h2>
-
 Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.
 
 L’objectif de ce guide est d’une part de sensibiliser les différents acteurs aux impacts de certaines pratiques rencontrées au sein des organisations, et d’autre part de partager des exemples de bonnes pratiques numérique responsable qui peuvent participer à la réduction de l’empreinte environnementale du numérique. Ce guide s’adresse à tout type d’organisation, du secteur public comme du secteur privé. Certains exemples de bonnes pratiques sont plus adaptés que d’autres suivant le contexte et la maturité de la démarche numérique responsable au sein des organisations.
@@ -47,7 +45,7 @@ N’hésitez pas à contribuer à l’améliorer. Nous contacter :
 numerique-responsable.dinum@modernisation.gouv.fr
 
 
-<h2 id="II-comment-utiliser-ce-guide">II. Comment utiliser ce guide</h2>
+<h2 id="comment-utiliser-ce-guide">Comment utiliser ce guide</h2>
 
 Chaque thématique de ce guide comporte un texte introductif qui décrit le contexte de mise en œuvre des bonnes pratiques.
 
@@ -61,7 +59,7 @@ Pour chaque bonne pratique, vous trouverez :
 - **Priorité** : prioritaire, recommandée ou aller plus loin.
 
 
-<h2 id="III-contribution-collective">III. Contribution collective</h2>
+<h2 id="contribution-collective">Contribution collective</h2>
 
 Les contributrices et contributeurs principaux de ce guide sont les suivants.
 
