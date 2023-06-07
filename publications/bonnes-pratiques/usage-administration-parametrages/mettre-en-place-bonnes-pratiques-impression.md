@@ -9,7 +9,7 @@ difficulty: Facile
 who:
   - Direction du numérique
   - Délégué au numérique responsable
- indicators:
+indicators:
   - "% d'imprimantes mutualisées"
   - "% d’imprimantes écolabellisées"
   - "Poids moyen de papier utilisé par collaborateur"
