@@ -22,7 +22,7 @@ eleventyNavigation:
 
 Les principaux impacts environnementaux du numérique sont liés à la fabrication des équipements (environ 90% pour un smartphone, 50% pour un serveur). L’énergie grise est l’énergie consommée lors de la fabrication des équipements. Cette énergie, fortement carbonée, liée à l’extraction des ressources et l’assemblage des matériels est généralement consommée à l’étranger. Réduire l’énergie grise du numérique consiste à réduire l’achat d’équipements neufs :
 
-*	par l’allongement de durée de vie des équipements par exemple en allongeant la durée d’usage ou d’amortissement au sein de l’organisation
+* par l’allongement de durée de vie des équipements par exemple en allongeant la durée d’usage ou d’amortissement au sein de l’organisation
 *	par l’achat d’équipements reconditionnés
 *	par le réemploi en interne ou en externe
 *	par la mise à jour les équipements au lieu de les remplacer
