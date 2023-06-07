@@ -10,7 +10,7 @@ who:
   - Direction générale
   - Délégué au numérique responsable
   - Direction logistique
- indicators:
+indicators:
   - "MWh économisés"
   - "MWh décalés en heure creuse"
 eleventyNavigation:
