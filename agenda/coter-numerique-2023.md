@@ -1,7 +1,7 @@
 ---
 title: "CoTer numérique - sobriété numérique"
 description: Congrès dédié à la sobriété numérique pour les collectivités
-date: 2023-06-22
+date: 2023-06-21
 dateLabel: 20 et 21 juin
 location: Deauville
 link: https://coter-numerique.org/congres-2023/index.html
