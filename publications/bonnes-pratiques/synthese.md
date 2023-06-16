@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: Synthèse
 date: 2023-06-01
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
 ## Principaux impacts environnementaux du numérique

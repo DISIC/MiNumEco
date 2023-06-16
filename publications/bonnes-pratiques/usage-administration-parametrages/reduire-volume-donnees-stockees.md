@@ -9,7 +9,7 @@ difficulty: Moyenne
 who:
   - Direction du numérique
   - Délégué à la protection des données
-  - Responsable Archives
+  - Responsable archives
 indicators:
   - "Volume total de données stockées (en To)"
   - "Volume total de données par nombre d’utilisateurs"

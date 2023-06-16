@@ -24,13 +24,13 @@
     "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/guide-pratique-pour-des-achats-numeriques-responsables/"
   },
   "guideBonnesPratiques": {
-    "version": "beta",
-    "versionTitle": "bêta",
+    "version": "v1",
+    "versionTitle": "1",
     "title": "Guide de bonnes pratiques numérique responsable pour les organisations",
     "description": "Guide proposé par la DINUM, le Ministère de la Transition Écologique et l’Institut du Numérique Responsable",
-    "updatedAt": "2022-02-17",
-    "documentUrl": "/docs/2022/guide-de-bonnes-pratiques-numerique-responsable-version-beta.pdf",
-    "documentWeightInMo": "3,5",
+    "updatedAt": "2023-06-01",
+    "documentUrl": "/docs/2023/guide-de-bonnes-pratiques-numerique-responsable-version-1.pdf",
+    "documentWeightInMo": "3,6",
     "consultationUrl": "https://purpoz.com/project/consultation-pour-etablir-un-guide-des-bonnes-pratiques-numerique-responsable/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions",
     "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/guide-de-bonnes-pratiques-numerique-responsable-pour-les-organisations/"
   },

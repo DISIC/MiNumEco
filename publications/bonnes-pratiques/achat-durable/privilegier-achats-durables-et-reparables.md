@@ -35,4 +35,5 @@ Il s’agit aussi de **s’assurer de la traçabilité** des matières première
 La réparation des équipements est à privilégier même si ce n'est pas économiquement rentable (coût en temps de réparation vs achat d’un nouveau matériel). La possibilité de réparations réalisées en interne (service ou personne dédiée dans l’entreprise) est à évaluer. Pour cela, il est nécessaire de former les équipes support à réparer les matériels en se basant par exemple sur les différents tutoriels de réparation des équipements. Cette bonne pratique doit être adoptée par toutes les organisations d'autant plus que les pièces détachées et d'occasions sont plus faciles à se procurer. Cela permet également d'éviter la pollution liée aux transports pour envoyer et récupérer les matériels en réparation à l’extérieur.
 
 ## Ressources
+
 [Prise en compte de l’indice de réparabilité dans les achats publics](https://ecoresponsable.numerique.gouv.fr/posts/guide-prise-en-compte-indice-reparabilite-achats-publics/)

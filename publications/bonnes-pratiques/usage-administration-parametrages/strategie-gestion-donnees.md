@@ -10,7 +10,7 @@ who:
   - Direction du numérique
   - Délégué à la protection des données
   - Délégué au numérique responsable
-  - Responsable Archives
+  - Responsable archives
   - Délégué aux données ouvertes
 indicators:
   - "% de données archivées par an"
@@ -32,12 +32,12 @@ Une stratégie d'archivage pérenne peut être mise en place afin de limiter le 
 
 ## En savoir plus
 
--	Durées de conservation : elles sont définies en collaboration avec les services d’archives au sein des tableaux de gestion et avec les délégués à la protection des données via le registre de traitement. Le guide pratique de conservation élaboré par le SIAF et la CNIL définit la manière de conjuguer les deux durées de conservation.
-- Ouverture des données : le principe [FAIR](https://fr.wikipedia.org/wiki/Fair_data) recouvre des principes de gestion des données de façon à ce qu’elles soient
+**Durées de conservation :** elles sont définies en collaboration avec les services d’archives au sein des tableaux de gestion et avec les délégués à la protection des données via le registre de traitement. Le guide pratique de conservation élaboré par le SIAF et la CNIL définit la manière de conjuguer les deux durées de conservation.
 
-* **F**acile à trouver,
-* **A**ccessible,
-* **I**nteropérable,
-* **R**éutilisable.
+**Ouverture des données :** le principe [FAIR](https://fr.wikipedia.org/wiki/Fair_data) recouvre des principes de gestion des données de façon à ce qu’elles soient
+- **F**acile à trouver,
+- **A**ccessible,
+- **I**nteropérable,
+- **R**éutilisable.
 
 Suivre cette méthode permet de réduire l'impact par la mise en place d'une meilleure interopérabilité et réutilisation des données. De plus, dans le cadre d’une démarche d’ouverture des données, le référentiel GreenData, proposé par OpenDataFrance, est destiné à accompagner les organisations (collectivités territoriales, institutions, associations…) dans leur maîtrise de l’impact environnemental de la donnée.

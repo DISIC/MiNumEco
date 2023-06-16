@@ -20,7 +20,7 @@ eleventyNavigation:
 L'obsolescence matérielle ou logicielle des équipements n'est pas l'unique raison d'un remplacement. La casse est également une des principales causes.
 
 C'est pourquoi, afin d'allonger la durée de vie des équipements, il est opportun de veiller à les protéger avec : 
-* Pour les téléphones portables et tablettes :une coque et une protection d'écran.
+* Pour les téléphones portables et tablettes : une coque et une protection d'écran.
 * Pour les ordinateurs portables : une coque et une housse de protection ou sacoche dédiée au transport.
 
 Il est aussi recommandé de brancher les équipements numériques en priorité sur des réseaux électriques ondulés et protégés des surtensions et d’utiliser des chargeurs appropriés.

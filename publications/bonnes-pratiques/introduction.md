@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: À propos du Guide de bonnes pratiques numérique responsable pour les organisations
 date: 2023-06-01
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
@@ -40,9 +40,7 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 **Ce guide est en amélioration continue**
 
-N’hésitez pas à contribuer à l’améliorer. Nous contacter : 
-
-numerique-responsable.dinum@modernisation.gouv.fr
+N’hésitez pas à contribuer à l’améliorer. [Nous contacter](/contact).
 
 
 <h2 id="comment-utiliser-ce-guide">Comment utiliser ce guide</h2>

@@ -9,7 +9,7 @@ difficulty: Facile
 who:
   - Direction du numérique
   - Délégué au numérique responsable
-  - Responsable Archives
+  - Responsable archives
 indicators:
   - "Nombre moyen de courriels envoyés par mois et par collaborateur"
   - "Poids moyen des courriels"

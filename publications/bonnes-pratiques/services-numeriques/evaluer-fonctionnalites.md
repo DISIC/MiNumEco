@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique/bonne-pratique.njk
-title: Évaluer collectivement la pertinence de la solution à apportée
+title: Évaluer collectivement la pertinence de la solution apportée
 type: bpnr
 date: 2023-06-01
 idbp: g.1
@@ -25,7 +25,9 @@ Il s’agit ensuite d’impliquer tous les métiers concernés en organisant par
 Pour favoriser ce travail collaboratif, les approches agile sont à privilégier. Elles permettent non seulement de favoriser les interactions et les implications des différents métiers de l'équipe, mais aussi de s’adapter au changement plutôt que de suivre un plan.
 
 Cette démarche de conception itérative afin de répondre au juste besoin de l'utilisateur,  permet aussi de limiter l'impact environnemental de la solution en évitant le gaspillage de ressources informatiques et énergétiques lors de son usage. 
+
 Afin de se poser les bonnes questions lors de la phase de conception, il est possible de se référer à la règle des 3U  : 
-*	**U**tile : à quel besoin répond ma solution ?
-*	**U**tilisable : ma solution est-elle simple et accessible facilement et par tous ?
-*	**U**tilisé : ma solution sera-t-elle utilisée régulièrement ? 
+
+* **Utile** : à quel besoin répond ma solution ?
+* **Utilisable** : ma solution est-elle simple et accessible facilement et par tous ?
+* **Utilisé** : ma solution sera-t-elle utilisée régulièrement ? 
