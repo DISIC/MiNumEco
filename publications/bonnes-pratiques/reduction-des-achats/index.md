@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Réduction des achats
 tags: guideBpNrThematique
-date: 2022-02-17
+date: 2023-06-01
 idThematique: d.
 eleventyNavigation:
   key: bonnes-pratiques-reduction-achat
@@ -19,4 +19,4 @@ Les bonnes pratiques permettant d'œuvrer à l'allongement de la durée d'utilis
 
 Au niveau du matériel, l'arbitrage entre achat et location en vue d'une optimisation de la gestion des différentes phases de la vie des équipements est un choix stratégique. Celui-ci implique néanmoins des bonnes pratiques similaires, par exemple prévoir des clauses garantissant la réparation durant une période suffisamment longue ou augmenter si besoin les capacités des matériels par l'ajout ou le remplacement de composants.
 
-Il est aussi possible d'agir au niveau des services numériques en évitant les mises à jour requérant plus de ressources que nécessaire.
+Pour limiter l'obsolescence des équipements, il est aussi possible d'agir au niveau des services numériques en limitant l'installation aux logiciels réellement nécessaires à l'utilisateur et en évitant les mises à jour requérant plus de ressources que nécessaire.

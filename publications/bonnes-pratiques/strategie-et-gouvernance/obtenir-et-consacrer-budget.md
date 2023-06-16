@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Obtenir et consacrer un budget spécifique
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: a.5
 priority: Recommandée
 difficulty: Moyenne
@@ -10,6 +10,7 @@ who:
   - Direction générale
 indicators:
   - "% du budget de la direction du numérique. Préciser l’allocation de ce budget"
+  - "Economies potentielles ou réalisées (financières, consommation d’énergie…)"
 eleventyNavigation:
   parent: bonnes-pratiques-strategie-et-gouvernance
   order: 50
@@ -25,7 +26,4 @@ Comme bonne pratique, on peut fixer une ambition budgétaire triennale en mixant
 
 Une autre bonne pratique est de réserver et de flécher un budget spécifique, piloté par le référent Numérique Responsable, au sein du budget RSE ou RSO de votre organisation.
 
-De manière similaire à l’accessibilité, une démarche numérique plus responsable améliore la stabilité et la sécurité du système d’information et donc à très court terme est générateur d’économies.
-
-
-
+De manière similaire à l’accessibilité, une démarche numérique plus responsable améliore la stabilité et la sécurité du système d’information et donc à très court terme est générateur d’économies. De même, les changements de comportement (diminution de la consommation d'énergie par des écogestes, achat de matériel reconditionné, ...) peuvent contribuer à réaliser des économies.

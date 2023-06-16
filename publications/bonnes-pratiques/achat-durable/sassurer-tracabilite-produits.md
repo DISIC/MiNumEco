@@ -1,17 +1,16 @@
 ---
 layout: layouts/bonne-pratique/bonne-pratique.njk
-title: S'assurer de la traçabilité des produits
+title: S'assurer de la traçabilité sociale et environnementale des chaînes d’approvisionnement
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: e.5
 priority: Prioritaire
 difficulty: Difficile
 who:
   - Direction des achats
 indicators:
-  - "Quelles sont les obligations précisées dans les cahiers de clauses administratives entre l'acheteur et le titulaire du marché ?"
-  - "Quelles sont les clauses sociales intégrées aux marchés ?"
-  - "Quels sont les outils de traçabilité et de contrôle mis en place ?"
+  - "Obligations précisées dans les cahiers de clauses administratives entre l'acheteur et le titulaire du marché : oui / non"
+  - "Outils de traçabilité et de contrôle mis en place : oui / non, si oui, lesquels"
 eleventyNavigation:
   parent: bonnes-pratiques-achat-durable
   order: 50
@@ -43,6 +42,14 @@ L’acheteur peut ainsi compléter la clause par les éléments suivants :
 
 ## En savoir plus
 
-* [Loi relative au devoir de vigilance des sociétés mères et des entreprises donneuses d'ordre](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/)
-* [La mise en œuvre de la diligence raisonnable relative aux droits humains et à l’environnement dans les marchés publics](https://electronicswatch.org/fr/la-mise-en-%C5%93uvre-de-la-diligence-raisonnable_2595038) (par l’association Electronics Watch)
+* [Loi relative au devoir de vigilance des sociétés mères et des entreprises donneuses d’ordre](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/)
+* [La mise en œuvre de la diligence raisonnable relative aux droits humains et à l’environnement dans les marchés publics](https://electronicswatch.org/fr/la-mise-en-%C5%93uvre-de-la-diligence-raisonnable_2595038) (par l’association Electronics Watch
+
+## Retour d’expérience 
+
+La direction des achats de l’État a décidé de s’affilier à Electronics Watch, organisation non gouvernementale spécialisée dans le monitoring des chaînes d’approvisionnement des matériels de télécommunication, information et communication. 
+
+Cette affiliation, nouvelle étape pour des achats de l’État responsables, confirme une volonté de promouvoir le respect des droits de l’Homme au travail et le devoir de vigilance dans les chaînes d’approvisionnement. Dans ce domaine, la DAE a en effet, en 2021, élaboré un guide thématique « Comment veiller au respect des droits de l’homme au travail dans les chaînes d’approvisionnement » et participé à l'édition d'un nouveau Guide pratique.
+[Affiliation de la Direction des Achats de l’Etat à Electronics Watch](https://www.economie.gouv.fr/dae/affiliation-de-la-direction-des-achats-de-letat-electronics-watch)
+
 

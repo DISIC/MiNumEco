@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Former en interne à la réparation des équipements hors garantie 
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: b.3
 priority: Aller plus loin
 difficulty: Difficile
@@ -26,3 +26,9 @@ D’un point de vue organisationnel, réparer soi-même permet de réduire le ta
 Comment se former ? Au-delà des formations privées, l’autoformation reste un bon moyen d’apprentissage. Des formations internes peuvent aussi être animées au sein des équipes support pour partager les connaissances.
 
 Pour aller plus loin, pour les salariés/agents ayant l’habilitation électrique, certaines pannes électroniques sont relativement faciles à réparer comme le remplacement des condensateurs défectueux dans les moniteurs, ce qui permettra d’allonger la durée de vie du matériel de quelques années encore.
+
+Lorsque la réparation en interne n’est pas possible, privilégier les entreprises ou associations spécialisées et locales.
+
+## Retour d’expérience
+Certains acteurs associatifs proposent des "repairathon" permettant de remettre en service de vieux appareils (notamment des smartphones) tout en apprenant les arcanes de la réparation aux salariés qui souhaitent s’y confronter.
+

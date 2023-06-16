@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Mettre à jour les équipements au lieu de les remplacer
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: d.2
 priority: Prioritaire
 difficulty: Moyenne
@@ -10,7 +10,8 @@ who:
   - Direction du numérique
 indicators:
   - "% du parc de postes informatiques mis à jour plutôt que renouvelés"
-  - "allongement moyen de la durée de vie (en année)"
+  - "durée de vie moyenne par type d’équipement (en mois)"
+  - "indice moyen de réparabilité des équipements informatiques"
 eleventyNavigation:
   parent: bonnes-pratiques-reduction-achat
   order: 20

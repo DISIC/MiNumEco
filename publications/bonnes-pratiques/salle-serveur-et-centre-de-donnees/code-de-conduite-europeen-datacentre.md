@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Utiliser un hébergement signataire du Code de Conduite européen des centres de données
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: h.2
 priority: Prioritaire
 difficulty: Facile

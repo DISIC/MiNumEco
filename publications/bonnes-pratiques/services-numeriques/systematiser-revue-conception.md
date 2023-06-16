@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Systématiser une revue de conception en amont et une revue de code orientées sobriété numérique
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.2
 priority: Recommandée
 difficulty: Moyenne
@@ -10,10 +10,8 @@ who:
   - Responsable produit
   - Responsable projet
 indicators:
-  - "% de fonctionnalités livrées avec revue de conception en amont et une revue de code en aval."
-  - "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité : oui / non"
-  - "Vérification de la conformité au Référentiel général d’écoconception de service numérique"
-  - "Compatibilité avec les systèmes d’exploitation et matériels anciens ou peu puissants"
+  - "Revue de conception en amont et revue de code en aval systématisées dans le process de conception : oui / non"
+  - "Intégration de critères environnementaux à la « définition de fini » d’une fonctionnalité (par exemple conformité au Référentiel général d’écoconception de service numérique) : oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-services-numeriques
   order: 20

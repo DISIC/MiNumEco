@@ -2,13 +2,14 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réduire le volume de données stockées
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: f.5
 priority: Recommandée
 difficulty: Moyenne
 who:
   - Direction du numérique
   - Délégué à la protection des données
+  - Responsable Archives
 indicators:
   - "Volume total de données stockées (en To)"
   - "Volume total de données par nombre d’utilisateurs"

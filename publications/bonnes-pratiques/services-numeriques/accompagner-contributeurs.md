@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Accompagner les contributeurs pour alléger les contenus multimédia
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.9
 priority: Prioritaire
 difficulty: Moyenne
@@ -11,7 +11,7 @@ who:
   - Direction du numérique
   - Responsable projet
 indicators:
-  - "Contenu (page web par exemple) total en incluant l’interface (html, css, js pour une page web) et toutes les ressources (images, vidéos, pdf) affiché à l’utilisateur : poids < x Ko (à définir selon votre contexte)"
+  - "Présence d’indications et de tâches automatiques ou semi-automatiques intégrées au système de gestion de contenu pour aider le contributeur à choisir le bon format et réduire le poids des contenus multimédia ? oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-services-numeriques
   order: 90
@@ -27,6 +27,6 @@ Quant aux documents à télécharger, il faut également bien choisir le format 
 
 Si c’est possible, il est recommandé de publier le document au format web (c’est-à-dire en texte et en incluant les illustrations), ce qui souvent est moins lourd qu’un fichier à télécharger.
 
-Des tâches automatiques intégrées au système de gestion de contenu permettront d’accompagner le contributeur : par exemple réduire automatiquement le poids et la taille des images.
+Des tâches automatiques ou semi-automatiques intégrées au système de gestion de contenu permettront d’accompagner le contributeur : par exemple réduire automatiquement le poids et la taille des images.
 
-Dans l’interface de contribution, il pourrait être envisagé d’indiquer le poids total du contenu qui sera visible par les utilisateurs et un score (par exemple un [ecoindex](http://www.ecoindex.fr/apropos/)).
+Dans l’interface de contribution, il pourrait être envisagé d’indiquer le poids total du contenu qui sera visible par les utilisateurs et un score (par exemple un [ecoindex](https://www.ecoindex.fr/).

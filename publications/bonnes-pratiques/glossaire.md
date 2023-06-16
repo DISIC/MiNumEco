@@ -1,11 +1,11 @@
 ---
 layout: layouts/bonne-pratique/default.njk
 title: Glossaire
-date: 2022-02-17
+date: 2023-06-01
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
-**Accessibilité Numérique** : consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles, c’est-à-dire 100 % conformes au RGAA, le Référentiel Général d’Amélioration de l’Accessibilité. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
+**Accessibilité Numérique** : Principe consistant à mettre à disposition de tous les individus, quels que soient leur matériel, logiciel ou infrastructure réseau ou leurs aptitudes physiques ou cognitives, des ressources numériques. Depuis 2012, tous les sites publics doivent être accessibles, c’est-à-dire 100 % conformes au RGAA, le Référentiel Général d’Amélioration de l’Accessibilité. L'objectif est ainsi de permettre à tous les usagers un égal accès à l'ensemble des services proposés afin de faire du numérique un levier d'inclusion.
 
 **ACV** : l’analyse du cycle de vie (ACV) est une méthode d’évaluation normalisée (ISO 14040 et 14044) permettant de réaliser un bilan environnemental multicritère et multi-étape d’un système (produit, service, entreprise ou procédé) sur l’ensemble de son cycle de vie.
 
@@ -31,7 +31,9 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 **COPE** : La démarche « *Corporate Owned, Personally Enabled* » consiste à utiliser ses équipements numériques professionnels dans un cadre personnel.
 
-**CPU** : *Central Processing Unit*
+**CPU** : *Central Processing Unit* (en français UCT : unité centrale de traitement).
+
+**CSRD** : *Corporate Sustainability Reporting Directive*. Directive européenne sur le rapport de durabilité des entreprises. Mise à jour de la directive existante sur le rapport extra-financier, qui modifie les exigences en étendant les obligations des entreprises . 
 
 **CUE** : qui signifie *Carbon Usage Effectiveness* mesure le rapport entre la quantité totale de gaz à effet de serre (exprimée en kg équivalent CO2) résultant de l’activité du centre de données et la quantité d'énergie utilisée par les équipements informatiques.
 
@@ -41,7 +43,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 **DNUM** : Direction du numérique
 
-**DPO** : Le DPO, Data Protection Officer ou Délégué à la protection des données est la personne chargée de la protection des données personnelles au sein d'une organisation.
+**DPO** : Le DPO, Data Protection Officer ou Délégué à la protection des données (DPD) est la personne chargée de la protection des données à caractère personnel au sein d'une organisation. Cette fonction a été instaurée par le Règlement Général sur la Protection des Données (RGPD), applicable depuis le 25 mai 2018.
 
 **DSI** : Direction des Systèmes d'Information
 
@@ -51,17 +53,21 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 **Écolabellisé** : qui bénéficie d’une reconnaissance officielle pour sa capacité à garantir un impact écologique réduit sur l’environnement.
 
+**Effet rebond** : augmentation de consommation liée à l’efficacité et/ou au prix d’une technologie. Les effets rebond peuvent limiter ou annuler les bénéfices environnementaux. Il existe différents types d'effets rebond (directs, indirects, systémiques). Par exemple, avec la miniaturisation des processeurs, leur fabrication requiert moins de matériaux, ce qui entraîne une baisse de prix et par conséquent une explosion de la demande. Cela provoque un effet rebond direct de la consommation des ressources initiales, qui peut aussi contribuer à accélérer l’obsolescence des terminaux  (source : EcoInfo)
+
 **Énergie grise** : l’énergie grise, ou énergie intrinsèque, est la quantité d'énergie consommée lors du cycle de vie d'un matériau ou d'un produit : la production, l'extraction, la transformation, la fabrication, le transport, la mise en œuvre, l'entretien et enfin la fin de vie, à l'exception notable de l'utilisation. L'énergie grise est en effet une énergie cachée, indirecte, au contraire de l'énergie liée à l'utilisation.
 
 **EPEAT** : pour *Electronic Product Environmental Assessment Tool* est un écolabel permettant au consommateur d’évaluer l’effet d’un produit informatique sur l’environnement.
 
-**EuP :** energy-using products
+**EuP :** energy-using products (en français : produits consommateurs d’énergie)
 
-**ErP :** energy-related products
+**ErP :** energy-related products (en français : produits liés à l’énergie)
 
 **ESAT** : Les établissements ou services d’aide par le travail (couramment encore appelés « centres d’aide par le travail » ou CAT) sont des établissements médico-sociaux qui relèvent, pour l’essentiel, des dispositions figurant dans le Code de l’action sociale et des familles. Ils offrent aux personnes handicapées des activités diverses à caractère professionnel et un soutien médico-social et éducatif en vue de favoriser leur épanouissement personnel et social.
 
 **ESS** : économie sociale et solidaire qui désigne un ensemble d’entreprises organisées sous forme de coopératives, mutuelles, associations, ou fondations, dont le fonctionnement interne et les activités sont fondés sur un principe de solidarité et d’utilité sociale. Ces organisations adoptent des modes de gestion démocratiques et participatifs. Elles encadrent strictement l’utilisation des bénéfices qu’elles réalisent : le profit individuel est proscrit et les résultats sont réinvestis. Elles bénéficient d’un cadre juridique renforcé par la loi n° 2014-856 du 31 juillet 2014 relative à l’économie sociale et solidaire.
+
+**Ethique** : concept qui fait référence aux valeurs morales qui régissent les comportements individuels et collectifs.
 
 **Framework** : ou cadriciel, désigne un ensemble cohérent de composants logiciels structurels, qui sert à créer les fondations ainsi que les grandes lignes de tout ou d’une partie d’un logiciel.
 
@@ -74,6 +80,8 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 **GPEEC :** gestion prévisionnelle de l’emploi, des effectifs et des compétences
 
 **GPO** : *Group Policy Objects*
+
+**Green IT** : *Green Information Technology*. Démarche visant à réduire l’empreinte environnementale, sociale et économique du numérique. Cette démarche qui a pour objectif d’économiser les ressources liées au numérique comprend notamment l’écoconception, les économies d’énergie, la gestion de la fin d’usage des terminaux, etc.
 
 **HDD** : Hard Disk Drive, en français disque dur
 
@@ -117,7 +125,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 **RGI** : Référentiel Général d’Interopérabilité
 
-**RGPD** : Référentiel Général sur la Protection des Données
+**RGPD** : Règlement Général sur la Protection des Données
 
 **RGS** : Référentiel Général de Sécurité
 
@@ -125,9 +133,9 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 **RoHS :** acronyme de la directive européenne sur la limitation de l’utilisation de substances chimiques dangereuses dans les équipements électriques et électroniques (Restriction of hazardous substances in electrical and electronic equipment) 
 
-**RSE** : Responsabilité Sociétale des Entreprises
+**RSE** : Responsabilité Sociétale (ou Sociale) des Entreprises
 
-**RSO** : Responsabilité Sociétale des Organisations
+**RSO** : Responsabilité Sociétale (ou Sociale) des Organisations
 
 **SCCM** : *System Center Configuration Manager*
 

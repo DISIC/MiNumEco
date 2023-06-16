@@ -2,18 +2,18 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Réduire le nombre d’équipements
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: d.1
 priority: Prioritaire
 difficulty: Moyenne
 who:
   - Direction du numérique
 indicators:
+  - "Existence d’un plan de rationalisation des équipements : Oui / Non"
   - "Nombre d’écrans par utilisateur"
   - "% d’agents équipés d’un smartphone professionnel"
-  - "Nombre d’imprimantes par utilisateur"
-  - "% d’imprimantes mutualisées avec identification"
-  - "% d’équipements en stock"
+  - "Nombre d’utilisateurs par imprimante"
+  - "% d'imprimantes mutualisées (imprimantes mutualisées vs individuelles)"
 eleventyNavigation:
   parent: bonnes-pratiques-reduction-achat
   order: 10

@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Concevoir un service numérique qui s’adapte à différents types de terminaux d’affichage
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.5
 priority: Recommandée
 difficulty: Moyenne
@@ -23,3 +23,5 @@ Aujourd'hui, en France ou même dans le monde, les internautes naviguent davanta
 Même s’il y a davantage d’enjeux à concevoir des applications fonctionnant sur des équipements les plus anciens possibles, concevoir d'abord pour petit écran permet de les rendre disponibles pour tous types de terminaux d’affichage.
 
 Cela revêt un second avantage déterminant pour réduire l'empreinte d'une application : les fonctionnalités proposées à l'écran sont forcément diminuées du fait de la taille écran disponible. Les concepteurs doivent alors réfléchir en incitant les utilisateurs à exprimer précisément leurs besoins et en éliminant les fonctionnalités inutiles.
+
+Cette bonne pratique peut néanmoins avoir un effet rebond en participant à l’explosion des usages en mobilité. 
