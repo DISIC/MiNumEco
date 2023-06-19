@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Intégrer les compétences Numérique Responsable dans le plan de formation
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: b.2
 priority: Recommandée
 difficulty: Moyenne 
@@ -10,15 +10,19 @@ who:
   - Direction ressources humaines
 indicators:
   - "Intégration des compétences « Numérique Responsable » dans le plan de formation : oui/non"
+  - "% des collaborateurs formés au « Numérique Responsable »"
 eleventyNavigation:
   parent: bonnes-pratiques-sensibilisation-et-formation
   order: 20
 ---
 
-Afin d’acculturer les équipes sur le sujet, le mieux est de les former ! Quelques exemples de compétences à acquérir en formation : 
+Afin de faire monter en compétences les équipes sur le sujet numérique et environnement, le mieux est de les former ! Quelques exemples de compétences à acquérir en formation : 
 
 * Compréhension des enjeux environnementaux globaux
 * Compréhension des impacts du numérique 
+* Capacité à interroger le numérique : sa place, ses impacts, son utilité, etc.
+* Maîtrise de lar la terminologie
+*	Développement de  l'esprit critique (afin de lutter activement contre toute forme de blanchiment : greenwashing, socialwashing, etc.) 
 * Notion de cycle de vie d'un appareil
 * Compréhension du cycle de vie d'un service numérique
 * Identification des facteurs de consommation sur une page web, dans un logiciel, etc.

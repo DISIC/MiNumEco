@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Concevoir à l’aide de technologies standard plutôt que de technologies propriétaires ou spécifiques à une plateforme
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: g.7
 priority: Recommandée
 difficulty: Moyenne
@@ -11,7 +11,7 @@ who:
   - Responsable produit
   - Responsable projet
 indicators:
-  - "% applications reposant sur des technologies standard / total gérées par l'organisation"
+  - "Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ? oui / non"
 eleventyNavigation:
   parent: bonnes-pratiques-services-numeriques
   order: 70

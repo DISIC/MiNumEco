@@ -2,18 +2,16 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Vérifier le professionnalisme des entreprises de collecte des DEEE
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: i.6
 priority: Prioritaire
 difficulty: Moyenne
 who:
   - Direction du numérique
   - Direction logistique
+  - Direction des achats
 indicators:
-  - "Poids des DEEE confiés à des opérateurs de traitement ou gestionnaires de déchets"
-  - "% des DEEE confiés à des opérateurs de traitement ou gestionnaires de déchets par rapport au poids total des DEEE générés"
-  - "Poids des matières recyclées à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets"
-  - "Poids des DEEE valorisés en énergie ou en substitution à l’issue des opérations confiées à des opérateurs de traitement ou gestionnaires de déchets"
+  - "Poids ou % des DEEE confiés à des opérateurs de traitement ou gestionnaires de déchets"
 eleventyNavigation:
   parent: bonnes-pratiques-fin-usage
   order: 60
@@ -49,4 +47,4 @@ Il est donc préférable de privilégier les éco-organismes agréés pour la ge
 
 ## Retour d'expérience 
 
-Au Ministère de l’Intérieur, dans le cadre de la collecte des DEEE (déchet d’équipement électrique et électronique) et piles gérées par la MDD (mission du développement durable), la gestion des BSDD (Bordereau de suivi des déchets dangereux) se fait par la MDD. En ce qui concerne les autres collectes cela incombe aux acheteurs et/ou au service sollicitant la collecte.
+Au Ministère de l’Intérieur, dans le cadre de la collecte des DEEE (déchets d’équipements électriques et électroniques) et piles gérées par la MDD (mission du développement durable), la gestion des BSDD (Bordereau de suivi des déchets dangereux) se fait par la MDD. En ce qui concerne les autres collectes cela incombe aux acheteurs et/ou au service sollicitant la collecte.

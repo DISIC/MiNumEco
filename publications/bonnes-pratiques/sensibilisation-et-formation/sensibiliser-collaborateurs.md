@@ -2,15 +2,16 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Sensibiliser les collaborateurs au numérique responsable
 type: bpnr
-date: 2022-02-17
+date: 2023-06-01
 idbp: b.1
 priority: Prioritaire
 difficulty: Facile
 who:
   - Délégué au numérique responsable
 indicators:
-  - "% des collaborateurs de l'organisation ayant suivi une formation, une sensibilisation ou un MOOC pour un numérique plus responsable."
-  - "sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
+  - "% des collaborateurs de l'organisation ayant suivi une sensibilisation ou un MOOC pour un numérique plus responsable."
+  - "Sensibilisation sur les impacts environnementaux du numérique intégrée au kit de bienvenue des nouveaux arrivants dans l'organisation : oui / non"
+  - "Nombre d’actions de sensibilisation menées"
 eleventyNavigation:
   parent: bonnes-pratiques-sensibilisation-et-formation
   order: 10
@@ -26,8 +27,9 @@ Cette sensibilisation peut également être intégrée au kit de bienvenue des n
 
 ## En savoir plus
 
+Sélection non-exhaustive de formations ou de documentations, en licence libre et en libre accès dédiées aux impacts environnementaux du numérique :
+
 * [MOOC Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), proposé par l’Association Class’Code et l’INRIA.
 * [MOOC Numérique Responsable](https://www.academie-nr.org/) proposé par l'INR en partenariat avec l'Ademe.
 * [Appliquez les principes du Green IT](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise) sur OpenClassrooms
 * [La Face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, janvier 2021.
-* [La fresque du numérique](https://www.fresquedunumerique.org/)

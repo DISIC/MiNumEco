@@ -1,9 +1,9 @@
 ---
 layout: layouts/bonne-pratique/thematique.njk
-title: Achat durable
+title: Achat durable et responsable
 tags: guideBpNrThematique
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
-date: 2022-02-17
+date: 2023-06-01
 idThematique: e.
 eleventyNavigation:
   key: bonnes-pratiques-achat-durable

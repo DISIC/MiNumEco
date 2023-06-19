@@ -1,7 +1,7 @@
 ---
 layout: layouts/bonne-pratique/default.njk
 title: Bibliographie sélective
-date: 2022-02-17
+date: 2023-06-01
 image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 ---
 
@@ -31,8 +31,8 @@ Benedetto-Meyer, Marie ;  Boboc, Anca
 Salle M - Sociologie - [306.36 BENE s]
 
 CREDOC (Centre de recherche pour l'étude et l'observation des conditions de vie)
-« Baromètre du numérique : enquête sur la diffusion des technologies de l’information et de la communication dans la société française. Édition 2021 »
-[Disponible en ligne](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf) (consulté le 27 janvier 2022)
+« Baromètre du numérique : enquête sur la diffusion des technologies de l’information et de la communication dans la société française. Édition 2022 »
+[Disponible en ligne](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2022-Rapport.pdf) (consulté le 24 avril 2023)
 
 Illich, Ivan
 [La convivialité](http://ark.bnf.fr/ark:/12148/cb43897048t). Paris : Éd. Points, 2014. ([Points. Série Essais](https://catalogue.bnf.fr/ark:/12148/cb342883538), 65). 158 p.
@@ -47,10 +47,6 @@ Stiegler, Bernard
 Salle C – Sciences de l’ingénieur – [609 STIE t]
 
 ## Impacts environnementaux du numérique
-
-ADEME (Agence de la transition écologique)
-« La face cachée du numérique : réduire les impacts du numérique sur l’environnement »*.* Édition  novembre 2019
-[Disponible en ligne sur](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false) (consulté le 27 janvier 2022) 
 
 ADEME (Agence de la transition écologique)
 « Les impacts du smartphone : un téléphone pas si « smart » pour l’environnement ». Édition décembre 2019

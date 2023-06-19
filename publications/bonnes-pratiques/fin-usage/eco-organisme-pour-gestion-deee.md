@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/bonne-pratique.njk
 title: Faire appel à un éco-organisme pour la gestion des DEEE
 type: bpnr
-date: 2022-11-14
+date: 2023-06-01
 idbp: i.4
 priority: Prioritaire
 difficulty: Facile
@@ -10,16 +10,15 @@ who:
   - Direction du numérique
   - Direction logistique
 indicators:
-  - "Poids des DEEE confiés aux éco-organismes"
-  - "% des DEEE confiés aux éco-organismes par rapport au poids total des DEEE générés"
-  - "Poids des matières recyclées à l’issue des opérations gérées par les éco-organisme"
-  - "Poids des DEEE valorisés en énergie ou en substitution"
+  - "Poids des DEEE total sur une année donnée"
+  - "Poids des DEEE par agent"
+  - "Poids ou % des DEEE confiés à des éco-organismes agréés"
 eleventyNavigation:
   parent: bonnes-pratiques-fin-usage
   order: 40
 ---
 
-Afin d'avoir l'assurance d'une traçabilité et la garantie de la filière agréée, et pour bénéficier du transfert de responsabilité dès la collecte sur site, confiez la gestion des Déchets d'Equipements Electriques et Electroniques (DEEE) à un éco-organisme agréé.
+Afin d'avoir l'assurance d'une traçabilité et la garantie de la filière agréée, et pour bénéficier du transfert de responsabilité dès la collecte sur site, il est nécessaire de confier la gestion des Déchets d'Equipements Electriques et Electroniques (DEEE) à un éco-organisme agréé.
 
 En effet l’article L541-10 du code de l’environnement crée l’exception à la responsabilité ci-dessus du détenteur de déchets vers l’éco-organisme qui le collecte :
 
@@ -37,6 +36,6 @@ Par ailleurs dans le cadre de leur mission, les éco-organismes doivent favorise
 
 Depuis le 1er janvier 2022, dans le cadre des nouveaux agréments délivrés fin 2021, ecosystem a rejoint Ecologic, agréé depuis 10 ans spécifiquement sur les équipements IT des entreprises et administrations, pour proposer la collecte et le traitement de tous les équipements IT.
 
-**Ecologic** fédère la quasi-totalité des fabricants de l’IT parmi ses adhérents et propose une solution dédiée en ligne [e-dechet.com](http://www.e-dechet.com/) pour gérer, suivre, tracer et archiver tous les éléments relatifs aux demandes d’enlèvement de DEEE sur site. Le service est gratuit à compter de 250 kg sur palettes filmées, à quai. Les équipements doivent être nus d’emballage. 
+**Ecologic** propose des solutions adaptées à tous les besoins des entreprises et administrations pour organiser la collecte sur les lieux de travail, proposer des solutions de réemploi, adapter les solutions logistiques d’enlèvement et de transport vers les sites de destination en vue de leur valorisation. Tous ces services sont accessibles via une solution web unique dédiée e-dechet.com. La plateforme permet de faire directement ses demandes d’enlèvement, gérer, suivre, tracer et archiver tous les éléments relatifs à une gestion conforme de ses DEEE. Une page de statistiques permet de faciliter son reporting et la mesure de ses indicateurs liés aux déchets. Le service est gratuit à compter de 250 kg d’équipements, nus d’emballage, sur palettes filmées et à quai. Ecologic offre une palette de services complémentaires, leur cotation est automatiquement proposée en ligne et s’adapte à tous les besoins des détenteurs.
 
 **ecosystem** a mis en place plusieurs solutions de collecte selon les besoins des détenteurs d’évacuer leurs DEEE (en fonction des volumes et des fréquences nécessaires) et ce, à partir de 500 kg soit 2,5 m3 de DEEE stockés. L’éco-organisme dispose d’accords nationaux de réemploi avec des réseaux de l’économie sociale et solidaire en vue de développer et professionnaliser les activités de réemploi et réutilisation en leur mettant à disposition des appareils réemployables en vue de les rénover et en prolonger la durée l’usage et en soutenant financièrement ces activités de réemploi (6M€ annuels). Ecosystem peut être contacté via son site internet [ecosystem.eco](https://www.ecosystem.eco/).
