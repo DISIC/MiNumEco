@@ -722,11 +722,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/journal-des-modifications/</loc>
-    <lastmod>2023-06-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/connaitre-son-si-pour-mieux-lexploiter/</loc>
     <lastmod>2023-06-01</lastmod>
   </url>
@@ -983,6 +978,11 @@
   
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/introduction/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/journal-des-modifications/</loc>
     <lastmod>2023-06-19</lastmod>
   </url>
   
