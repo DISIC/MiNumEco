@@ -211,18 +211,18 @@
                 
             
                 
-            
-                
-            
-                
-            
-                
                     <li>
                         <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/bonnes-pratiques/">Bonnes pratiques</a>
                     </li>
                     <li>
                         <a class="fr-breadcrumb__link" href="/publications/bonnes-pratiques/bonnes-pratiques/#bonnes-pratiques-salle-serveur-et-centre-de-donnees">Salle serveur et centre de données</a>
                     </li>
+                
+            
+                
+            
+                
+            
                 
             
                 
@@ -298,6 +298,9 @@
                                 <li class="fr-sidemenu__item ">
                                     <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/webographie/" >Webographie</a>
                                 </li>
+                                <li class="fr-sidemenu__item ">
+                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/journal-des-modifications/" >Journal des modifications</a>
+                                </li>
                             </ul>
                         </div>
                     </li>
@@ -315,7 +318,7 @@
         <h1>Regrouper et rationaliser les serveurs</h1>
 
         <p class="fr-text--sm">
-            Version bêta. Dernière mise à jour le <time datetime="2022-02-17">17/02/2022</time>
+            Version 1. Dernière mise à jour le <time datetime="2023-06-01">01/06/2023</time>
         </p>
 
         
@@ -324,13 +327,13 @@
         
     
         
-    
-        
-    
-        
-    
-        
             <a class="fr-tag fr-mb-1w" href="/publications/bonnes-pratiques/bonnes-pratiques/#bonnes-pratiques-salle-serveur-et-centre-de-donnees">Salle serveur et centre de données</a>
+        
+    
+        
+    
+        
+    
         
     
         
@@ -356,7 +359,8 @@
 <p>Une des bonnes pratiques pour réduire l’impact environnemental des serveurs est leur mutualisation.</p>
 <p>Bonne pratique présente dans le Code de conduite européen pour les centres de données, la virtualisation permet de répondre à la problématique de surdimensionnement de serveurs dédiés à des applications uniques. L’hébergement de plusieurs machines virtuelles (VM) sur un même serveur hôte réduit le nombre d’équipements et donc leur occupation au sol, ainsi que leur consommation énergétique à toutes les étapes du cycle de vie.</p>
 <p>Si les VM sont simples à déployer, elles doivent cependant aussi être configurées et dimensionnées avec précaution afin de ne pas entraver les performances du système.</p>
-<p>Il faut noter que la création d’une architecture spécifique doit résulter d’une étude approfondie du besoin. Ces architectures sont souvent utilisées pour toutes les tâches qui nécessitent une très forte puissance de calcul (outils de travail collaboratifs, prévisions météorologiques, modélisation moléculaire, simulations physiques ou financières, etc.).</p>
+<p>Il faut noter que la création d’une architecture spécifique doit résulter d’une étude approfondie du besoin, car tous les cas d’usages ne sont pas propices à la virtualisation. Ces architectures sont souvent utilisées pour toutes les tâches qui nécessitent une très forte puissance de calcul (outils de travail collaboratifs, prévisions météorologiques, modélisation moléculaire, simulations physiques ou financières, etc.).</p>
+<p>Attention à l’effet rebond de la virtualisation. Il est tellement facile de créer une machine virtuelle, que l’on peut rapidement démultiplier le nombre de VM inutiles si une gestion rigoureuse du cycle de vie n’est pas apportée (exemples : environnement de développement, de recette, clones, etc.).</p>
 
 
 <h2>Pilotage</h2>
