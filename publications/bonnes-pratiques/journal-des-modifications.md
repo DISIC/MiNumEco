@@ -7,7 +7,7 @@ image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
 
 ## Version 1
 
-01/06/2023 - Publication d'une version 1 du guide après prise en compte des retours de la consultation publique
+19/06/2023 - Publication d'une version 1 du guide après prise en compte des retours de la consultation publique
 
 **Principales modifications entre la version bêta et la version 1 :**
 
