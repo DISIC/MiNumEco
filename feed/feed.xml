@@ -5,12 +5,40 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-04-19T00:00:00Z</updated>
+	<updated>2023-06-22T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Publication du Guide de bonnes pratiques numérique responsable en version 1</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/publication-guide-bonnes-pratiques-v1/"/>
+		<updated>2023-06-22T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/publication-guide-bonnes-pratiques-v1/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/bonnes-pratiques/guide-bonnes-pratiques-v1.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Notre guide des bonnes pratiques numérique responsable pour les organisations, du secteur public comme du secteur privé, après consultation publique, est en ligne en version 1. Ce guide répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable.&lt;/p&gt;
+&lt;p&gt;Son objectif est double :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sensibiliser les différents acteurs aux impacts de certaines pratiques rencontrées au sein des organisations&lt;/li&gt;
+&lt;li&gt;partager des exemples de bonnes pratiques numérique responsable qui peuvent participer à la réduction de l’empreinte environnementale du numérique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le guide rassemble des exemples de bonnes pratiques pour un numérique plus responsable sous neuf thématiques :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a. Stratégie et gouvernance&lt;/li&gt;
+&lt;li&gt;b. Sensibilisation et formation&lt;/li&gt;
+&lt;li&gt;c. Mesure et évaluation&lt;/li&gt;
+&lt;li&gt;d. Réduction des achats&lt;/li&gt;
+&lt;li&gt;e. Achat durable&lt;/li&gt;
+&lt;li&gt;f. Phase d’usage, administration et paramétrages&lt;/li&gt;
+&lt;li&gt;g. Services numériques&lt;/li&gt;
+&lt;li&gt;h. Salle serveur et centre de données&lt;/li&gt;
+&lt;li&gt;i. Fin d’usage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/&quot;&gt;Consulter le guide des bonnes pratiques&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Objectifs et modalités de réemploi et de réutilisation des matériels informatiques</title>
