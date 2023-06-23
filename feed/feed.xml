@@ -5,12 +5,35 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-06-22T00:00:00Z</updated>
+	<updated>2023-06-23T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Entretien pour Acteurs Publics : « La sobriété numérique ne doit pas se résumer à la sobriété énergétique »</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/sobriete-numerique-itw-acteurs-publics/"/>
+		<updated>2023-06-23T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/sobriete-numerique-itw-acteurs-publics/</id>
+		<content type="html">&lt;p&gt;À l’occasion du 32è congrès du CoTer numérique, organisé à Deauville les 20 et 21 juin et consacré à la sobriété numérique, Richard Hanna, chargé de mission numérique écoresponsable à la Direction interministérielle du numérique (DINUM), est revenu sur la bonne méthode pour initier et mettre en œuvre une stratégie de numérique écoresponsable.&lt;/p&gt;
+&lt;p&gt;Dans un entretien vidéo accordé à Acteurs publics, il revient sur les leviers d’action possibles pour les collectivités et l’accompagnement prodigué par la MiNumÉco.&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;269&quot; src=&quot;https://player.vimeo.com/video/838266065?loop=false&amp;autoplay=true&amp;muted=false&amp;gesture=media&amp;playsinline=true&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=false&amp;customControls=true&quot; srcdoc=&quot;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://player.vimeo.com/video/838266065?loop=false&amp;autoplay=true&amp;muted=false&amp;gesture=media&amp;playsinline=true&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=false&amp;customControls=true&gt;&lt;img src=/img/posts/apercu-interview-ap-sobriete-numerique.webp alt=&#39;Voir l&#39;entretien de Richard Hanna avec Acteurs Publics&#39;&gt;&lt;span aria-hidden=&#39;true&#39;&gt;▶&lt;/span&gt;&lt;/a&gt;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot; title=&quot;Voir l&#39;entretien de Richard Hanna avec Acteurs Publics&quot;&gt;&lt;/iframe&gt;
+&lt;h2&gt;Transcription&lt;/h2&gt;
+&lt;h3&gt;C’est quoi la sobriété numérique ?&lt;/h3&gt;
+&lt;p&gt;La sobriété numérique est une part du numérique écoresponsable. Numérique écoresponsable, ce sont les dimensions environnementales, mais également les dimensions sociales, sociétales du numérique, c’est comment faire un numérique plus conscient des limites planétaires, des impacts environnementaux, mais également des impacts sociaux, notamment sur la fabrication, les usages, mais aussi la fin de vie des équipements, notamment mais de tous nos usages numériques.&lt;/p&gt;
+&lt;p&gt;Sur la sobriété numérique, en fait, déjà, il y a une erreur qui est faite tout le temps et je l’ai entendu encore aujourd’hui durant le CoTer. On parle de - j’entends beaucoup parler de - sobriété énergétique. En fait, la sobriété numérique, ce n’est pas qu’une question d’énergie. C’est surtout la question d’avoir un numérique plus sobre notamment en tenant compte de l’impact des matériels en fait. Donc, ce n’est pas qu’une question de consommation d’électricité lors de la phase d’usage, c’est une toute petite partie. Donc, la sobriété numérique, c’est comment faire en sorte de faire du numérique avec des équipements les plus anciens possibles, en réduisant le nombre d’équipements, en réduisant la taille des écrans… Vraiment sortir de l’ébriété numérique qu’on vit depuis des années.&lt;/p&gt;
+&lt;h3&gt;Quels leviers d’action ?&lt;/h3&gt;
+&lt;p&gt;Pour les collectivités, c’est difficile de leur demander d’allonger la durée de vie des équipements. C’est souvent le cas parce qu’elles ont peu de moyens. Donc, l’idée, c’est de travailler notamment, c’est ce qui est dit dans l’article 35 de la loi REEN, Réduction de l’empreinte environnementale du numérique, sur la gestion du cycle de vie des équipements en proximité, c’est-à-dire avec les différents acteurs du territoire, notamment via le réemploi.&lt;br /&gt;
+Et puis travailler sur l’écoconception des services numériques, c’est-à-dire toutes les démarches en ligne, tous les sites web, applications dédiées aux habitants de  la collectivité. Après, il y a beaucoup d’autres sujets pour aller un peu plus loin notamment sur la question du reconditionnement des équipements, l’achat reconditionné, l’achat durable, etc.&lt;/p&gt;
+&lt;h3&gt;Comment accompagnez-vous les acteurs publics ?&lt;/h3&gt;
+&lt;p&gt;Depuis un peu plus de deux ans, on a travaillé notamment sur le guide d’achat. C’est un guide qui contient un ensemble de clauses, de questions à poser lors des phases de sourcing, mais aussi ce qu’on peut intégrer dans les marchés, dans les commandes publiques. C’est disponible à la fois pour l’État, mais aussi pour les collectivités et même des entreprises qui nous ont dit qu’elles se sont appuyées sur ce guide d’achat. Donc, c’est à la fois sur l’achat de matériels, de prestations intellectuelles, cloud hébergement mais également on est en train de travailler avec la Direction des achats de l’État sur la fiche Logiciel, donc achat, conception logiciel.&lt;/p&gt;
+&lt;p&gt;Et puis on a travaillé sur un guide beaucoup plus large, le guide des bonnes pratiques. Je peux vous l’annoncer : il est publié en version 1 après phase en version bêta, avec consultation publique. Donc, ça y est, à l’occasion du CoTer, on a enfin finalisé une version 1. Je remercie d’ailleurs tout l’écosystème qui a travaillé sur ce guide, qui rassemble toutes les bonnes pratiques allant de l’achat jusqu’à la fin de vie, et puis les usages, bien sûr. Je ne parle pas que du matériel, mais aussi les usages, les conceptions des services numériques…&lt;/p&gt;
+&lt;p&gt;Et enfin une dernière publication majeure et qui commence à être pas mal déployée à la fois dans les collectivités et les administrations, mais aussi beaucoup dans les entreprises - j’ai beaucoup de retours d’expérience - c’est le référentiel d’écoconception de services numériques, qui a été publié en version 1 en novembre 2022, et qui commence à être déployé, même s’il n’y a pas d’obligation. J’ai souvent cette question-là : pour l’instant, pas d’obligation, mais ça reste une action volontariste des équipes qui souhaitent mettre en œuvre une démarche d’écoconception.&lt;/p&gt;
+&lt;p&gt;Et puis, juste pour dire également, on a un guichet de financement depuis quelques mois, peut-être pas pour les collectivités, mais en tout cas pour les administrations et opérateurs de l’État qui souhaitant mettre en place une démarche de réduction de leur empreinte environnementale du numérique, notamment sur la question des achats, sur la question de la conception des services numériques, etc.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Publication du Guide de bonnes pratiques numérique responsable en version 1</title>
