@@ -34,11 +34,11 @@ Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligatio
 
 Le bilan et la stratégie attendus doivent résulter d'un programme de travail avec les acteurs publics et privés concernés du territoire. 
 
-Pour vous aider à identifier les acteurs publics et privés de votre territoire à inclure dans ce programme de travail, vous pouvez vous appuyer sur les **[outils référencé dans ce catalogue](#)**.
+Pour vous aider à identifier les acteurs publics et privés de votre territoire à inclure dans ce programme de travail, vous pouvez vous appuyer sur les **[outils référencés dans ce catalogue](/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/)**.
 
 ### Réaliser un bilan de l'impact environnemental du numérique et de ses usages sur votre territoire
     
-Pour vous aider à réaliser le bilan d'impact du numérique sur votre territoire, vous pouvez vous appuyer sur plusieurs **[outils référencé dans ce catalogue](#)**.
+Pour vous aider à réaliser le bilan d'impact du numérique sur votre territoire, vous pouvez vous appuyer sur plusieurs **[outils référencés dans ce catalogue](/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/)**.
 
 ### Élaborer une synthèse des actions déjà engagées sur le territoire pour atténuer l'impact environnemental du numérique
 
