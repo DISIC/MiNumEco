@@ -36,14 +36,34 @@ layout: layouts/base.njk
             <div class="fr-collapse" id="fr-sidemenu-wrapper">
                 <ul class="fr-sidemenu__list">
                     <li class="fr-sidemenu__item {% if '/publications/strategie-numerique-responsable-des-collectivites/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/strategie-numerique-responsable-des-collectivites/" {% if '/publications/strategie-numerique-responsable-des-collectivites/' == page.url %}aria-current="page"{% endif %}>Traduction opérationnelle du décret de l'article 35 de la loi REEN</a>
+                        <a class="fr-sidemenu__link" href="/publications/strategie-numerique-responsable-des-collectivites/" {% if '/publications/strategie-numerique-responsable-des-collectivites/' == page.url %}aria-current="page"{% endif %}>À propos et prérequis</a>
                     </li>
 
-                    {% for item in collections.all | eleventyNavigation("strategieNumEcoCollectivites") %}
-                        <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
-                            <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
-                        </li>
+                    {% set subItems = collections.all | eleventyNavigation("strategieNumEcoCollectivites") %}
+                    {% set expanded = false %}
+
+                    {% for subItem in subItems %}
+                        {% if subItem.url == page.url %}
+                            {% set expanded = true %}
+                        {% endif %}
                     {% endfor %}
+
+                    <li class="fr-sidemenu__item">
+                        <button class="fr-sidemenu__btn" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-elaborer">Élaborer une stratégie numérique responsable</button>
+                        <div class="fr-collapse" id="fr-sidemenu-item-elaborer">
+                            <ul class="fr-sidemenu__list">
+                            {% for item in subItems %}
+                                <li class="fr-sidemenu__item {% if item.url == page.url %}fr-sidemenu__item--active{% endif %}">
+                                    <a class="fr-sidemenu__link" href="{{ item.url | url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+                                </li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                    </li>
+
+                    <li class="fr-sidemenu__item {% if '/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/' == page.url %}fr-sidemenu__item--active{% endif %}">
+                        <a class="fr-sidemenu__link" href="/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" {% if '/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/' == page.url %}aria-current="page"{% endif %}>Catalogue d'outils</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -59,6 +79,10 @@ layout: layouts/base.njk
         {% endif %}
 
         {{ content | safe }}
+
+        {% if page.url != '/publications/strategie-numerique-responsable-des-collectivites/' and page.url != '/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/' %}
+            {% include "pagination.njk" %}
+        {% endif %}
 
     </div>
 </div>

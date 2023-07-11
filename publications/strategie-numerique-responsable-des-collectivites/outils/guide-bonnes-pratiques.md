@@ -28,11 +28,6 @@ Guide de bonnes pratiques sous la forme de fiches recensant pour chacune d'elles
 
 ## Objectifs
 
-Accompagner la mise en œuvre des démarches et des actions pour un numérique responsable au sein des organisations 
-
-Sensibiliser les acteurs des organisations aux impacts environnementaux de certaines pratiques numériques
-
-Partager des exemples de bonnes pratiques pouvant participer à la réduction de l'empreinte environnementale du numérique"
-Utilisateurs cibles	"L'ensemble des administrations publiques (centrales, hospitalières, territoriales), notamment : 
-- les services transverses (achats, ressources humaines, communication, services généraux, etc.) ;
-- les agents en lien avec les systèmes d'information (directions infomatiques, administrateurs systèmes et réseaux, développeurs, etc.).
+- Accompagner la mise en œuvre des démarches et des actions pour un numérique responsable au sein des organisations 
+- Sensibiliser les acteurs des organisations aux impacts environnementaux de certaines pratiques numériques
+- Partager des exemples de bonnes pratiques pouvant participer à la réduction de l'empreinte environnementale du numérique

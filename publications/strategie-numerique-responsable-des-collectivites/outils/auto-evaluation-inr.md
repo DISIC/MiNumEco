@@ -23,6 +23,5 @@ Tableur de mesure de l'empreinte numérique d'une collectivité
 
 ## Objectifs
 
-Mesurer les impacts environnementaux du numérique au sein d'une collectivité et recenser ses actions réalisées
-
-Accompagner l'élaboration d'une feuille de route stratégique numérique responsable.
+- Mesurer les impacts environnementaux du numérique au sein d'une collectivité et recenser ses actions réalisées
+- Accompagner l'élaboration d'une feuille de route stratégique numérique responsable.
