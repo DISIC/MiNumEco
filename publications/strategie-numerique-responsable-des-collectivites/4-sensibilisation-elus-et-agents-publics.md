@@ -6,7 +6,7 @@ date: 2023-07-13
 image: /img/prise-en-compte-indice-reparabilite.png
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
-  title: "4. Sensibilisation au numérique responsable et à la sécurité informatique à destination des élus et agents publics"
+  title: "4. Sensibilisation des élus et agents publics au numérique responsable et à la sécurité informatique"
   date: 2023-07-13
   image: /img/prise-en-compte-indice-reparabilite.png
   order: 40

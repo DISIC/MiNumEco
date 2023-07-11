@@ -6,7 +6,7 @@ date: 2023-07-13
 image: /img/prise-en-compte-indice-reparabilite.png
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
-  title: "5. Sensibiliser les citoyens aux enjeux environnementaux du numérique et de l’inclusion numérique"
+  title: "5. Sensibilisation des citoyens aux enjeux environnementaux du numérique et de l’inclusion numérique"
   date: 2023-07-13
   image: /img/prise-en-compte-indice-reparabilite.png
   order: 50

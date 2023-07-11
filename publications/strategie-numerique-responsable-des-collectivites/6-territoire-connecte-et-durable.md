@@ -6,7 +6,7 @@ date: 2023-07-13
 image: /img/prise-en-compte-indice-reparabilite.png
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
-  title: "6. Démarche de territoire connecté et durable, ouverture et valorisation des données"
+  title: "6. Territoire connecté et durable, ouverture et valorisation des données"
   date: 2023-07-13
   image: /img/prise-en-compte-indice-reparabilite.png
   order: 60
