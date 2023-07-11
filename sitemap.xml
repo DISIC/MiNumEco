@@ -627,11 +627,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
-    <lastmod>2023-05-30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/achat-durable/anticiper-sourcing/</loc>
     <lastmod>2023-06-01</lastmod>
   </url>
@@ -994,6 +989,16 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/r%C3%A9glementations/</loc>
     <lastmod>2023-07-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/eleventy-dsfr/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/</loc>
+    <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
