@@ -1,6 +1,6 @@
 ---
 tags: collectivitesOutils
-layout: layouts/outilCollectivites.njk
+layout: layouts/outil-collectivites.njk
 title: Boîte à outils nationale pour l'élaboration d'une feuille de route numérique responsable
 description: Pas à pas méthodologique pour élaborer une feuille de route numérique responsable
 date: 2023-07-13

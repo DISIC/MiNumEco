@@ -1,6 +1,6 @@
 ---
 tags: collectivitesOutils
-layout: layouts/outilCollectivites.njk
+layout: layouts/outil-collectivites.njk
 title: Guide de bonnes pratiques numérique responsable pour les organisations
 description: Guide de bonnes pratiques sous la forme de fiches recensant pour chacune d'elles des exemples d'indicateurs de pilotage, des exemples de personnes pilotes, des retours d'expériences sur sa mise en œuvre, un indicateur de difficulté de mise en oeuvre et un niveau de priorité.
 date: 2023-07-13
