@@ -1,12 +1,12 @@
 ---
 layout: layouts/numerique-responsable-collectivites.njk
-title: "3. L’écoconception des sites et des services numériques"
+title: "3. Écoconception des sites et des services numériques"
 description: Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationelle des nouvelles obligations fixées par ce décret.
 date: 2023-07-13
 image: /img/prise-en-compte-indice-reparabilite.png
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
-  title: "3. L’écoconception des sites et des services numériques"
+  title: "3. Écoconception des services numériques"
   date: 2023-07-13
   image: /img/prise-en-compte-indice-reparabilite.png
   order: 30
@@ -35,6 +35,6 @@ eleventyNavigation:
 - [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 - [NumEcoDiag](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/) : diagnostic RGESN
 - [Formation initiation à l’écoconception de service numérique](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/formation/)
-- Guide de la communication responsable de l'ADEME (https://librairie.ademe.fr/consommer-autrement/5818-le-guide-de-la-communication-responsable-nouvelle-edition-enrichie-9791029715730.html)
-- [Sobriété éditoriale, Ferreole Lespinasse](https://www.sobriete-editoriale.fr/ressources-sobriete-editoriale/)
-- [Métacartes sur le numérique éthique et conception eco responsable](https://www.metacartes.cc/)
+- [Guide de la communication responsable](https://librairie.ademe.fr/consommer-autrement/5818-le-guide-de-la-communication-responsable-nouvelle-edition-enrichie-9791029715730.html), ADEME
+- [Sobriété éditoriale](https://www.sobriete-editoriale.fr/ressources-sobriete-editoriale/), Ferreole Lespinasse
+- [Métacartes sur le numérique éthique et conception écoresponsable](https://www.metacartes.cc/)
