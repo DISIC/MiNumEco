@@ -3,12 +3,12 @@ layout: layouts/numerique-responsable-collectivites.njk
 title: "2. Gestion durable et de proximité du cycle de vie du matériel informatique"
 description: Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationelle des nouvelles obligations fixées par ce décret.
 date: 2023-07-13
-image: /img/prise-en-compte-indice-reparabilite.png
+image: /img/strategie-numerique-responsable-collectivites.webp
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
   title: "2. Gestion durable et de proximité du matériel informatique"
   date: 2023-07-13
-  image: /img/prise-en-compte-indice-reparabilite.png
+  image: /img/strategie-numerique-responsable-collectivites.webp
   order: 20
 ---
 
