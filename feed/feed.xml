@@ -5,12 +5,28 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-06-23T00:00:00Z</updated>
+	<updated>2023-07-13T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Publication d&#39;un catalogue d&#39;outils et d&#39;une traduction opérationnelle pour la stratégie numérique responsable des collectivités</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/strategie-numerique-responsable-des-collectivites/"/>
+		<updated>2023-07-13T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/strategie-numerique-responsable-des-collectivites/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/strategie-numerique-responsable-collectivites.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Afin de faciliter l’élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret.&lt;/p&gt;
+&lt;p&gt;Lancé en février 2023 au sein du Programme TNT, le Groupe Projet dédié à l’accompagnement des collectivités vers la mise en œuvre d’un numérique responsable a pour objectif d’adresser la démarche à l’échelon local en proposant des ressources et outils pouvant servir à la mise en œuvre d’une stratégie en vue notamment des nouvelles obligations issues de l’article 35 de la loi REEN.&lt;/p&gt;
+&lt;p&gt;Dans ce cadre, les outils et travaux réalisés, en co-construction avec des agents de collectivités territoriales et d’administrations centrales, sont publiés :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/&quot;&gt;Une traduction opérationnelle des articles de la loi REEN&lt;/a&gt; (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/&quot;&gt;Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Entretien pour Acteurs Publics : « La sobriété numérique ne doit pas se résumer à la sobriété énergétique »</title>

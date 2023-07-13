@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/strategie-numerique-responsable-des-collectivites/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/strategie-numerique-responsable-des-collectivites/",
+      "title": "Publication d&#39;un catalogue d&#39;outils et d&#39;une traduction opérationnelle pour la stratégie numérique responsable des collectivités",
+      "content_html": "<p><img src=\"/img/posts/strategie-numerique-responsable-collectivites.webp\" alt=\"\"></p>\n<p>Afin de faciliter l’élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret.</p>\n<p>Lancé en février 2023 au sein du Programme TNT, le Groupe Projet dédié à l’accompagnement des collectivités vers la mise en œuvre d’un numérique responsable a pour objectif d’adresser la démarche à l’échelon local en proposant des ressources et outils pouvant servir à la mise en œuvre d’une stratégie en vue notamment des nouvelles obligations issues de l’article 35 de la loi REEN.</p>\n<p>Dans ce cadre, les outils et travaux réalisés, en co-construction avec des agents de collectivités territoriales et d’administrations centrales, sont publiés :</p>\n<ul>\n<li><a href=\"/publications/strategie-numerique-responsable-des-collectivites/\">Une traduction opérationnelle des articles de la loi REEN</a> (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences)</li>\n<li><a href=\"/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/\">Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable</a></li>\n</ul>\n",
+      "date_published": "2023-07-13T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/sobriete-numerique-itw-acteurs-publics/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/sobriete-numerique-itw-acteurs-publics/",
       "title": "Entretien pour Acteurs Publics : « La sobriété numérique ne doit pas se résumer à la sobriété énergétique »",
