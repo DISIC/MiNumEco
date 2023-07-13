@@ -7,6 +7,7 @@ eleventyNavigation:
   title: Appliquer les bonnes pratiques dans ma collectivité
   order: 200
 items:
+  - strategieNumEcoCollectivites
   - guideBpNrAccueil
   - videosVersUnNumeriqueEcoresponsableCollectivites
 ---
