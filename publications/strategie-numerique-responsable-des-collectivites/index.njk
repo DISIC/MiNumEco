@@ -2,14 +2,14 @@
 layout: layouts/numerique-responsable-collectivites.njk
 title: "Stratégie numérique responsable des collectivités : traduction opérationnelle du décret de l'article 35 de la loi REEN"
 description: Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret.
-date: 2023-07-13
+date: 2023-07-18
 image: /img/strategie-numerique-responsable-collectivites.webp
 type: publication
 eleventyNavigation:
   key: strategieNumEcoCollectivites
   parent: publications
   title: "Stratégie numérique responsable des collectivités : traduction opérationnelle du décret de l'article 35 de la loi REEN"
-  date: 2023-07-13
+  date: 2023-07-18
   image: /img/strategie-numerique-responsable-collectivites.webp
   order: 150
 ---
@@ -83,4 +83,12 @@ Listez les actions favorisant la réduction directe ou indirecte de l'empreinte 
 {% for item in collections.all | eleventyNavigation('strategieNumEcoCollectivites') %}
   <li><a href="{{ item.url | url }}">{{ item.title }}</a></li>
 {% endfor %}
+</ul>
+
+<h2>Retours d'expérience de collectivités</h2>
+
+<ul>
+  <li><a href="https://metropole.nantes.fr/files/pdf/numerique-innovation/2022-12%20Rapport%20Numerique%20Responsable%20Prog%20WEB.pdf" target="_blank">Programme de travail Numérique Responsable de Nantes Métropole, décembre 2022</a>
+  <li><a href="https://www.calameo.com/read/00129742498b58cfe56ad?page=1" target="_blank">Feuille de route Sobriété Numérique de l'Agglomération de La Rochelle, novembre 2022</a>
+  <li><a href="https://www.bretagne.bzh/app/uploads/PlanActions_label_Numerique_responsable_-avril_2021.pdf" target="_blank">Plan d'action de la Région Bretagne, avril 2021</a>
 </ul>
