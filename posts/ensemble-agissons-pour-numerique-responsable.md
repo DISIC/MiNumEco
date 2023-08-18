@@ -3,10 +3,10 @@ title: Ensemble, agissons pour un numérique plus responsable
 description: Série de visuels réalisés grâce au kit de sensibilisation sur la sobriété numérique produit par le Ministère de la Culture.
 image: /img/posts/numerique-plus-responsable/apercu-visuels.webp
 type: news
-date: 2023-07-18
+date: 2023-08-18
 ---
 
-Série de visuels réalisés grâce au kit de sensibilisation sur la sobriété numérique produit par le Ministère de la Culture. Ces visuels comme tous les publications sur ce site sont en licence libre.
+Série de visuels réalisés grâce au kit de sensibilisation sur la sobriété numérique produit par le Ministère de la Culture.
 
 ## Allonger la durée de vie des appareils et réduire la pression sur les ressources 
 
