@@ -17,7 +17,7 @@ retoursExperienceDeCollectivites: oui, conseils et témoignages des six collecti
 accompagnement: Méthodologique (mise à disposition des outils méthdologiques), Documentaire (mise à disposition d'autres ressources complémentaires) et Humain (retours d'expérience des collectivités et accompagnement proposé par l'ANCT)
 openSourceOpenData: oui
 disponibilite: en ligne
-url: https://labase.anct.gouv.fr/base/433?tab=collections&collection=108
+url: https://labase.anct.gouv.fr/base/433?tab=collections&collection=199
 ---
 
 Pas à pas méthodologique pour élaborer une feuille de route numérique responsable : description des étapes à suivre, d'outils et de supports à mobiliser à chaque étape, outils de diagnostic, inventaire et exemples d'actions à mettre en oeuvre, témoignages de collectivités, etc.
