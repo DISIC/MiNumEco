@@ -39,7 +39,7 @@ Prochaines sessions :
 
 Proposée par la mission interministérielle Numérique écoresponsable et le Pôle Design de la DINUM, cette formation s'est déroulée en ligne, le jeudi 16 décembre 2021.
 
-<a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Agenda de la MiNumEco">Consulter</a>
+<a href="https://design.numerique.gouv.fr/formations/ecoconception/introduction-ecoconception/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Formation sur design.gouv">Consulter</a>
 
 ## Numérique écoresponsable (MiNumEco sur la plateforme Mentor)
   
