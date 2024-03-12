@@ -31,7 +31,7 @@ Prochaines sessions :
 - 14 mai 2024
 - 13 juin 2024
 
-<a href="/publications/referentiel-general-ecoconception/formation/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir la vidéo enregistrée ou la retranscription de cette initiation">Consulter</a>
+<a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir les dates de formation disponibles">Consulter</a>
 
 ## Formation initiation à l’écoconception de service numérique
 
