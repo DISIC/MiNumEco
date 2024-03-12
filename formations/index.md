@@ -20,13 +20,26 @@ Une formation en licence libre manque dans cette liste ? Vous êtes une administ
 
 </div>
 
+## Formation à l'écoconception, 1/2 journée pour les agents publics
+
+<span class="fr-tag">Durée : 4 heures</span> <span class="fr-tag">[En présentiel](https://ecoresponsable.numerique.gouv.fr/agenda/)</span>
+
+Formations organisée par la Brigade d'Intervention du Numérique (BIN) de la Direction Interministérielle du Numérique (DINUM). Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
+Intervenante : Mélanie Raphaël, Experte numérique écoresponsable, DINUM
+
+Prochaines sessions : 
+- 14 mai 2024
+- 13 juin 2024
+
+<a href="/publications/referentiel-general-ecoconception/formation/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir la vidéo enregistrée ou la retranscription de cette initiation">Consulter</a>
+
 ## Formation initiation à l’écoconception de service numérique
 
 <span class="fr-tag">Durée : 2 heures</span> <span class="fr-tag">[Licence etalab-2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)</span>
 
 Proposée par la mission interministérielle Numérique écoresponsable et le Pôle Design de la DINUM, cette formation s'est déroulée en ligne, le jeudi 16 décembre 2021.
 
-<a href="/publications/referentiel-general-ecoconception/formation/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir la vidéo enregistrée ou la retranscription de cette initiation">Consulter</a>
+<a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Agenda de la MiNumEco">Consulter</a>
 
 ## Numérique écoresponsable (MiNumEco sur la plateforme Mentor)
   
