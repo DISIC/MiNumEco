@@ -12,9 +12,8 @@ eleventyNavigation:
 
 <div class="fr-highlight">
 
-Dans le cadre de la Brigade d'Intervention du Numérique, la MiNumEco propose des accompagnements et des formations aux administrations et agents publics. 
+Dans le cadre de la Brigade d'Intervention du Numérique, la MiNumEco propose des accompagnements à l'écoconception de services numériques et des formations aux enjeux du numérique responsable pour les administrations et agents publics. 
 
-Vous êtes une administration publique, nous vous accompagnons à l'écoconception de vos services numériques et nous vous proposons des formations aux enjeux du numérique responsable. 
 [Nous contacter](/contact).
 
 </div>
@@ -44,4 +43,4 @@ Le référencement de ces formations, volontairement limité en quantité pour e
 
 Une formation en licence libre manque dans cette liste ? Vous êtes une administration publique ou une collectivité, vous utilisez déjà certaines de ces formations ? [Nous contacter](/contact).
 
-<a href="https://design.numerique.gouv.fr/formations/ecoconception/introduction-ecoconception/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Formation sur design.gouv">Consulter</a>
+<a href="https://campus.numerique.gouv.fr/catalogue/?themes=1&themes=2" class="fr-btn" target="_blank" title="Nouvelle fenêtre : les formations au numérique responsable sur le campus du numérique public">Consulter</a>
