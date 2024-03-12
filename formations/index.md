@@ -20,20 +20,18 @@ Dans le cadre de la Brigade d'Intervention du Numérique, la MiNumEco propose de
 
 ## Formation à l'écoconception, 1/2 journée pour les agents publics
 
-<span class="fr-tag">Durée : 4 heures</span> <span class="fr-tag">[En présentiel](https://ecoresponsable.numerique.gouv.fr/agenda/)</span>
+<span class="fr-tag">Durée : 4 heures</span> <span class="fr-tag">[Présentiel](https://ecoresponsable.numerique.gouv.fr/agenda/)</span>
 
-Formations organisée par la Brigade d'Intervention du Numérique (BIN) de la Direction Interministérielle du Numérique (DINUM). Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
-Intervenante : Mélanie Raphaël, Experte numérique écoresponsable, DINUM
+Formations organisée par la Brigade d'Intervention du Numérique (BIN) de la Direction Interministérielle du Numérique (DINUM). 
+Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
 
-Prochaines sessions : 
-- 14 mai 2024
-- 13 juin 2024
+Intervenante : [Mélanie Raphaël, Experte numérique écoresponsable, DINUM](https://fr.linkedin.com/in/melanieraphael)
 
-<a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir les dates de formation disponibles">Consulter</a>
+<a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir les dates de formation disponibles">Prochaines sessions</a>
 
 ## Sélection de formation avec le Campus du Numérique Public
 
-<span class="fr-tag">Numérique Responsable</span> <span class="fr-tag">En ligne</span>
+<span class="fr-tag">Numérique Responsable</span> <span class="fr-tag">En ligne</span> <span class="fr-tag">Présentiel</span>
 
 Nous travaillons avec [le Campus du Numérique public ](https://campus.numerique.gouv.fr/catalogue/?themes=1&themes=2)au recensement des formations sur le numérique écoresponsable. 
 
