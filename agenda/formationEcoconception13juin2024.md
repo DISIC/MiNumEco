@@ -8,23 +8,23 @@ link: https://design.numerique.gouv.fr/formations/ecoconception/atelier-ecoconce
 linkTitle: Inscription
 ---
 
-**Programme**
+## Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique. 
 Vous découvrirez concrètement comment mettre en œuvre une démarche d’écoconception et comment prendre en main le référentiel général d’écoconception de service numérique (RGESN) dans votre contexte projet.
 
 Les ressources de cette formation proviennent des travaux de la DINUM et de la MiNumEco (co-pilotée avec le Ministère de la transition écologique et le Commissariat général au développement durable).
 
-**Objectif**
+## Objectif
 L’enjeu de cette formation est que vous adoptiez la bonne posture pour écoconcevoir vos services, trouviez les ressources pour l’évaluer et que vous mettiez en place des actions concrètes pour améliorer l’empreinte environnementale de vos projets numériques. 
 
-**Public**
+## Public
 Agent public.
 
 Quelque soit votre métier : chef de projet ou de produit, assistante et assistant à maîtrise d'ouvrage (AMOA), UX researcher, designer, développeur ou développeuse, devops, responsable de recette, rédacteur ou rédactrice web. 
 
-**Prérequis**
+## Prérequis
 Si vous avez accès à mentor : [suivez le court module ecoconception sur mentor.](https://mentor.gouv.fr/course/view.php?id=1237 )
 Aucun pré-requis nécessaire
 
-**Formatrice**
-Mélanie Raphaël, Experte Numérique Ecoresponsable, DINUM
+## Formatrice
+**Mélanie Raphaël**, Experte Numérique Ecoresponsable, DINUM
