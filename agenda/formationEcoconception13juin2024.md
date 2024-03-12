@@ -27,13 +27,4 @@ Si vous avez accès à mentor : [suivez le court module ecoconception sur mentor
 Aucun pré-requis nécessaire
 
 **Formatrice**
-<div>
-    <div style="float: left">
-        <img src="https://github.com/DISIC/MiNumEco/blob/main/img/PPMelanieRaphael.jpg?raw=true" alt="Photo Mélanie Raphaël" width="150" HSPACE="10"/>
-    </div>
-    <div>
-        Mélanie Raphaël
-        <br> Experte Numérique Ecoresponsable
-        <br>DINUM
-    </div>
-</div>
+Mélanie Raphaël, Experte Numérique Ecoresponsable, DINUM
