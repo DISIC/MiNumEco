@@ -15,8 +15,8 @@
     "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
   "author": {
-    "name": "Richard Hanna",
-    "email": "richard.hanna@modernisation.gouv.fr"
+    "name": "Mélanie RAPHAËL",
+    "email": "melanie.raphael@modernisation.gouv.fr"
   },
   "license": "Licence Ouverte Etalab v2.0",
   "homepage": "https://ecoresponsable.numerique.gouv.fr",
@@ -25,7 +25,7 @@
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "luxon": "^3.3.0",
+    "luxon": "^3.4.4",
     "markdown-it": "^13.0.1"
   }
 }
