@@ -1,5 +1,5 @@
 ---
-title: "Table ronde numérique responsable pour les collectivités"
+title: "Table ronde numérique responsable pour les collectivités le 28 mars"
 description: Formation cnfpt Lille
 date: 2024-03-28
 dateLabel: jeudi 28 mars de 14h à 17h
