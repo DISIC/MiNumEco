@@ -1,7 +1,7 @@
 {
   "name": "mission-numerique-ecoresponsable",
   "version": "0.1.0",
-  "description": "Mission interministérielle",
+  "description": "Mission interministérielle numérique écoresponsable",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
