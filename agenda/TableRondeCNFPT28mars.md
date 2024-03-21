@@ -1,11 +1,11 @@
 ---
-title: "Formation à l'écoconception 14 mai 2024"
-description: Formation d'1/2 journée pour les agents publics
+title: "Table ronde numérique responsable pour les collectivités"
+description: Formation cnfpt Lille
 date: 2024-03-28
-dateLabel: jeudi 29 mars de 14h à 17h
+dateLabel: jeudi 28 mars de 14h à 17h
 location: En présentiel à Lille
 link: https://www.cnfpt.fr/se-former/se-former-autrement/participer-a-nos-evenements/sengager-strategie-numerique-durable-responsable-theorie-a-pratique/hauts-france
-linkTitle: Inscription
+linkTitle: Programme sur le site cnfpt
 ---
 
 ## Programme de la table ronde
