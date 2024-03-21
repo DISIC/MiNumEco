@@ -7,27 +7,25 @@ eleventyNavigation:
   order: 20
 ---
 
-<!--
 <h2 id="equipe">L’équipe</h2>
 
 <div class="fr-grid-row fr-grid-row--gutters team">
   <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="">
+    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="photo Mélanie Raphaël">
     <h3 class="">Christophe Boutonnet</h3>
-    <p class="">Directeur adjoint du numérique, Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
+    <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - Co-pilote de la MiNumEco</p>
   </div>
   <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="">
+    <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
     <h3 class="">Claire Dorville</h3>
-    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable, Ministère de la Transition écologique</p>
+    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique</p>
   </div>
   <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="">
+    <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="Photo Thierry Lochon">
     <h3 class="">Thierry Lochon</h3>
     <p class="">Directeur du Programme Numérique et Écologie, Ministère de la Transition écologique</p>
   </div>
 </div>
--->
 
 <h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
 
