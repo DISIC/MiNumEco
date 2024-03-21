@@ -25,7 +25,7 @@ Dans le cadre de la Brigade d'Intervention du Numérique, la MiNumEco propose de
 Formations organisée par la Brigade d'Intervention du Numérique (BIN) de la Direction Interministérielle du Numérique (DINUM). 
 Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
 
-Intervenante : [Mélanie Raphaël, Experte numérique écoresponsable, DINUM](https://fr.linkedin.com/in/melanieraphael)
+Intervenante : <a href="https://fr.linkedin.com/in/melanieraphael" target="_blank" title="Nouvelle fenêtre : Page Linkedin de Mélanie Raphaël">Mélanie Raphaël, Experte numérique écoresponsable, DINUM</a>
 
 <a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir les dates de formation disponibles">Prochaines sessions</a>
 
@@ -33,7 +33,7 @@ Intervenante : [Mélanie Raphaël, Experte numérique écoresponsable, DINUM](ht
 
 <span class="fr-tag">Numérique Responsable</span> <span class="fr-tag">En ligne</span> <span class="fr-tag">Présentiel</span>
 
-Nous travaillons avec [le Campus du Numérique public ](https://campus.numerique.gouv.fr/catalogue/?themes=1&themes=2)au recensement des formations sur le numérique écoresponsable. 
+Nous travaillons avec <a href="https://campus.numerique.gouv.fr/catalogue/?themes=1&themes=2" target="_blank" title="Nouvelle fenêtre : Le campus du numérique thématique numérique écoresponsable">Le campus du numérique</a> au recensement des formations sur le numérique écoresponsable. 
 
 Sélection non-exhaustive de formations, en licence libre et en libre accès dédiées aux impacts environnementaux du numérique.
 
