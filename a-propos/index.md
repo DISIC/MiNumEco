@@ -1,7 +1,7 @@
 ---
 layout: layouts/a-propos.njk
 title: À propos
-date: 2023-03-07
+date: 2024-02-20
 eleventyNavigation:
   key: À propos
   order: 20
@@ -11,19 +11,19 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters team">
   <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël lien linkedin" href="https://fr.linkedin.com/in/melanieraphael" target="_blank">
+    <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël">
     <h3 class="">Mélanie Raphaël</h3>
     <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - Co-pilote de la MiNumEco</p>
   </div>
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
     <h3 class="">Claire Dorville</h3>
-    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique</p>
+    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
   </div>
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="Photo Thierry Lochon">
     <h3 class="">Thierry Lochon</h3>
-    <p class="">Directeur du Programme Numérique et Écologie, Ministère de la Transition écologique</p>
+    <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
   </div>
 </div>
 
@@ -117,7 +117,7 @@ Si vous êtes une administration, une direction ou une collectivité territorial
 
 <h2 id="pilotes">Les pilotes de la mission</h2>
 
-### La direction interministérielle du numérique (DINUM)
+### La Direction Interministérielle du Numérique (DINUM)
 
 La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent, sous tous ses aspects : modernisation du système d’information de l’État, qualité des services publics numériques, création de services innovants pour les citoyens, outils numériques de travail collaboratif pour les agents…
 
@@ -131,12 +131,12 @@ La DINUM est un service du Premier ministre, placé sous l’autorité de la min
 
 ### Le Ministère de la Transition écologique
 
-#### Le SNUM
+#### La Direction du Numérique du ministère de la Transition Ecologique
 
-Le sein du secrétariat général, le service du numérique initie et accompagne la transformation numérique du ministère. Il favorise l'évolution des pratiques numériques et en assure la gouvernance. Il veille à la mise en œuvre de la stratégie définie. Il s'assure de la qualité des produits et des services et conduit l'évolution du schéma d'urbanisation, dont il est garant, selon la logique de l'État plateforme. Il accompagne les directions et services du ministère pour l'élaboration, le déploiement, le maintien et l'évolution de leurs produits numériques, ainsi que pour la transformation des politiques publiques liées au numérique. Il industrialise et sécurise le socle technique et les plateformes d'infrastructure. Il assure la veille et la prospective sur les technologies émergentes et conduit les actions d'innovation. En lien avec les responsables des actions correspondantes, il contribue à la valorisation du patrimoine des données du ministère et des établissements publics placés sous sa tutelle, à l’évaluation des effets de la transformation numérique sur l'organisation des services, à la promotion des méthodes innovantes et à l'accompagnement du changement liées au numérique, au développement et à la valorisation des compétences et il élabore et met en œuvre la politique de sécurité des systèmes d'information.
+Le sein du secrétariat général, la direction du numérique initie et accompagne la transformation numérique du ministère. Il favorise l'évolution des pratiques numériques et en assure la gouvernance. Il veille à la mise en œuvre de la stratégie définie. Il s'assure de la qualité des produits et des services et conduit l'évolution du schéma d'urbanisation, dont il est garant, selon la logique de l'État plateforme. Il accompagne les directions et services du ministère pour l'élaboration, le déploiement, le maintien et l'évolution de leurs produits numériques, ainsi que pour la transformation des politiques publiques liées au numérique. Il industrialise et sécurise le socle technique et les plateformes d'infrastructure. Il assure la veille et la prospective sur les technologies émergentes et conduit les actions d'innovation. En lien avec les responsables des actions correspondantes, il contribue à la valorisation du patrimoine des données du ministère et des établissements publics placés sous sa tutelle, à l’évaluation des effets de la transformation numérique sur l'organisation des services, à la promotion des méthodes innovantes et à l'accompagnement du changement liées au numérique, au développement et à la valorisation des compétences et il élabore et met en œuvre la politique de sécurité des systèmes d'information.
 
 Avec le commissariat général du développement durable, il a élaboré la feuille de route ministérielle « numérique et écologie », participé au pilotage de l’action interministérielle numérique écoresponsable du programme TECH.GOUV de la direction interministérielle du numérique et a contribué aux travaux du Conseil national du numérique en vue de l’élaboration d’une feuille de route gouvernementale « numérique & environnement ».
 
-#### Commissariat général au développement durable (CGDD)
+#### Commissariat Général au Développement Durable (CGDD)
 
 Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
