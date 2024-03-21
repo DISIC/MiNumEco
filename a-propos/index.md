@@ -11,7 +11,7 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters team">
   <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/equipe/christophe-boutonnet.jpg" class="fr-responsive-img" alt="photo Mélanie Raphaël">
+    <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël lien linkedin" href="https://fr.linkedin.com/in/melanieraphael" target="_blank">
     <h3 class="">Christophe Boutonnet</h3>
     <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - Co-pilote de la MiNumEco</p>
   </div>
