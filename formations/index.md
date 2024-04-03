@@ -29,7 +29,7 @@ Intervenante : <a href="https://fr.linkedin.com/in/melanieraphael" target="_blan
 
 <a href="https://ecoresponsable.numerique.gouv.fr/agenda/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Voir les dates de formation disponibles">Prochaines sessions</a>
 
-## Sélection de formation avec le Campus du Numérique Public
+## Sélection de formations avec le Campus du Numérique Public
 
 <span class="fr-tag">Numérique Responsable</span> <span class="fr-tag">En ligne</span> <span class="fr-tag">Présentiel</span>
 
