@@ -5,12 +5,54 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2023-08-18T00:00:00Z</updated>
+	<updated>2024-04-09T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Plan de transition écologique des services publics</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/plan%20de%20transition%20%C3%A9cologique%20des%20services%20publics/"/>
+		<updated>2024-04-09T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/plan%20de%20transition%20%C3%A9cologique%20des%20services%20publics/</id>
+		<content type="html">&lt;p&gt;Test&lt;/p&gt;
+&lt;h2&gt;Allonger la durée de vie des appareils et réduire la pression sur les ressources&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/numerique-plus-responsable/1-allonger-duree-vie.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;S’il faut réduire le rythme de renouvellement des matériels informatiques, c’est parce que les impacts environnementaux du numérique viennent à plus de 75% de la fabrication des matériels.&lt;/p&gt;
+&lt;p&gt;Allonger la durée de vie, c’est par exemple tenir compte de l’indice de réparabilité à l’achat, prendre soin de son matériel et lui donner une seconde vie quand on le remplace.&lt;/p&gt;
+&lt;h2&gt;Dématérialisation est-il le mot le plus approprié sachant que le numérique n’est pas immatériel ?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/numerique-plus-responsable/2-dematerialisation.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Prenons conscience de la matérialité du numérique.&lt;/li&gt;
+&lt;li&gt;Prenons conscience des conséquences environnementales et sociales de la numérisation.&lt;br /&gt;
+Cette prise de conscience permet de nous poser les bonnes questions quand on envisage la numérisation d’un service ou d’une démarche : la solution retenue répond-elle aux problèmes et aux usages des utilisateurs et usagers ? Quels sont les leviers d’écoconception envisagés ?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Un numérique plus responsable doit s’inscrire dans une logique de sobriété&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/numerique-plus-responsable/3-sobriete.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Refuser, Réduire, Réemployer, Recycler…&lt;/p&gt;
+&lt;p&gt;Et éviter les effets rebond, définis comme « l’augmentation de consommation liée à l’efficacité d’une technologie ».&lt;/p&gt;
+&lt;h2&gt;Protéger, entretenir et prendre soin des matériels&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/numerique-plus-responsable/4-proteger-materiel.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;L’obsolescence matérielle ou logicielle des équipements n’est pas l’unique raison d’un remplacement. La casse est également une des principales causes.&lt;/p&gt;
+&lt;p&gt;C’est pourquoi, afin d’allonger la durée de vie des équipements, il est opportun de veiller à les protéger :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour les téléphones portables et tablettes : avec une coque et une protection d’écran.&lt;/li&gt;
+&lt;li&gt;Pour les ordinateurs portables : avec une coque et une housse de protection ou sacoche dédiée au transport.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En savoir plus : &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/reduction-des-achats/proteger-les-equipements/&quot;&gt;Bonne pratique Protéger, entretenir et prendre soin des équipements&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Chasser les sources d’obsolescence du matériel&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/numerique-plus-responsable/5-chasser-source-obsolescence.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Une grande majorité du matériel informatique quitte une organisation non pas parce qu’il ne fonctionne plus mais parce qu’il ralentit. Ce ralentissement s’explique par la lourdeur des systèmes d’exploitation et l’accumulation des logiciels installés et qui fonctionnent en arrière-plan.&lt;/p&gt;
+&lt;p&gt;Il est possible d’allonger la durée de vie des matériels :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;en réinitialisant le système d’exploitation (réinstallation),&lt;/li&gt;
+&lt;li&gt;en pratiquant une remise à niveau tant logicielle que matérielle,&lt;/li&gt;
+&lt;li&gt;en installant un système d’exploitation libre, moins consommateur de ressources informatiques et compatibles avec les plus anciens équipements (distributions Linux par exemple).&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Ensemble, agissons pour un numérique plus responsable</title>
