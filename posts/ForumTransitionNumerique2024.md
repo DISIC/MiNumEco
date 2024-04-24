@@ -15,6 +15,7 @@ La Gazette des Communes offre 20% de remise sur le tarif général HT de la conf
 
 ## Table ronde « Sobriété numérique », les mécanismes pour y parvenir 
 
+Date : 16 mai 2024
 Horaire : 14h à 14h45
 Intervenants : 
 * Mélanie Raphaël, DINUM
