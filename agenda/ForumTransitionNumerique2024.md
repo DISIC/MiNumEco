@@ -6,7 +6,7 @@ dateLabel: jeudi 16 mai 2024 de 14h00 à 14h45
 location: En ligne
 link: https://forum-transition-numerique.eventmaker.io/programme/6606910c711fca00964b79ca
 linkTitle: Programme de la table ronde
-image: /img/VisuelForumTransitionNumerique.png
+image: /img/posts/VisuelForumTransitionNumerique.png
 
 ---
 
