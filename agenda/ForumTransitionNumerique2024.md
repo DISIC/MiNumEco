@@ -10,6 +10,8 @@ image: /img/VisuelForumTransitionNumerique.png
 
 ---
 
+![Visuel du forum de la transition numérique](/img/VisuelForumTransitionNumerique.png)
+
 ## Forum de la transition numérique
 La DINUM partenaire de la 7e édition du forum de la transition numérique.
 
