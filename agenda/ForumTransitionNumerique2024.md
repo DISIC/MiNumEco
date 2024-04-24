@@ -6,6 +6,8 @@ dateLabel: jeudi 16 mai 2024 de 14h00 à 14h45
 location: En ligne
 link: https://forum-transition-numerique.eventmaker.io/programme/6606910c711fca00964b79ca
 linkTitle: Programme de la table ronde
+image: /img/VisuelForumTransitionNumerique.png
+
 ---
 
 ## Forum de la transition numérique
@@ -32,5 +34,5 @@ Un événement dédié aux décideurs pour les accompagner dans leur transition 
 ## Inscriptions 
 La Gazette des Communes offre 20% de remise sur le tarif général HT de la conférence grâce au code promo NUM24DN.
 
-(Inscription sur le site du forum de la transition numérique) [https://forum-transition-numerique.eventmaker.io/inscription]
+(Inscription sur le site du forum de la transition numérique)[https://forum-transition-numerique.eventmaker.io/inscription]
 
