@@ -20,9 +20,6 @@ eleventyNavigation:
     <h3 class="">Claire Dorville</h3>
     <p class="">Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique - Co-responsable de la MiNumEco</p>
   </div>
-</div>
-
-<div class="fr-grid-row fr-grid-row--gutters team">
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
     <h3 class="">Claire Dorville</h3>
@@ -34,6 +31,7 @@ eleventyNavigation:
     <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) - Co-pilote de la MiNumEco</p>
   </div>
 </div>
+
 
 <h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
 
