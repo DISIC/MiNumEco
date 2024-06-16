@@ -65,19 +65,8 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
       <div class="fr-collapse" id="accordion-{{ item.numero }}">
         <p><b>Objectif</b></p>
 
-        <div class="fr-highlight">{{ item.objectif | markdown | safe }}</div>
+        <div class="fr-highlight">{{ item.objectif | markdown | safeHTML }}</div>
 
         <p><b>Mise en œuvre</b></p>
 
-        <div class="fr-highlight">{{ item.miseEnOeuvre | markdown | safe }}</div>
-
-        <p><b>Moyen de test ou de contrôle</b></p>
-
-        <div class="fr-highlight">{{ item.controle | markdown | safe }}</div>
-
-        <p><a href="/publications/referentiel-general-ecoconception/critere/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
-      </div>
-    </section>
-  </li>
-{% endfor -%}
-</ul>
+        <div class="fr-highlig
