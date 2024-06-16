@@ -15,11 +15,10 @@ eleventyNavigation:
     <h3 class="">Mélanie Raphaël</h3>
     <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - Co-responsable de la MiNumEco</p>
   </div>
-    <div class="fr-col-12 fr-col-md-4">
+  <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/Catherine-Ferreol.jpg" class="fr-responsive-img" alt="photo Catherine Ferreol">
-    <h3 class="">Catherine Ferreol</h3>
-    <p class="">Directrice Adjointe du Numérique, Ministère de la Transition Ecologique et Cohésion des Territoires (MTECT) - Co-responsable de la MiNumEco</p>
-  </div>
+    <h3 class="">Claire Dorville</h3>
+    <p class="">Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique - Co-responsable de la MiNumEco</p>
   </div>
 </div>
 
@@ -32,7 +31,7 @@ eleventyNavigation:
   <div class="fr-col-12 fr-col-md-4">
     <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="Photo Thierry Lochon">
     <h3 class="">Thierry Lochon</h3>
-    <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique - Co-pilote de la MiNumEco</p>
+    <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) - Co-pilote de la MiNumEco</p>
   </div>
 </div>
 
