@@ -12,7 +12,7 @@ pagination:
   alias: critere
 eleventyNavigation:
   parent: referentiel-ecoconception
-  title: RGESN v1
+  title: Referentiel V1
   order: 05
 ---
 
@@ -34,10 +34,10 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
     <ol class="fr-summary__list">
-    {% assign thematique = null %}
+    {% set thematique = null %}
     {%- for item in pagination.items %}
       {% if item.thematique != thematique %}
-        {% assign thematique = item.thematique %}
+        {% set thematique = item.thematique %}
         <li>
           <a class="fr-summary__link" href="#{{ thematique | slug }}">{{ thematique }}</a>
         </li>
@@ -46,12 +46,12 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
     </ol>
 </nav>
 
-{% assign thematique = null %}
+{% set thematique = null %}
 
 {%- for item in pagination.items %}
   {% if item.thematique != thematique %}
     {% if null != thematique %}</ul>{% endif %}
-    {% assign thematique = item.thematique %}
+    {% set thematique = item.thematique %}
     <h2 id="{{ thematique | slug }}">{{ thematique }}</h2>
     <p class="fr-text--sm">{{ metadata.referentielEcoconception.thematique[thematique | slug].description }}</p>
     <ul class="fr-accordions-group">
@@ -65,8 +65,19 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
       <div class="fr-collapse" id="accordion-{{ item.numero }}">
         <p><b>Objectif</b></p>
 
-        <div class="fr-highlight">{{ item.objectif | markdown | safeHTML }}</div>
+        <div class="fr-highlight">{{ item.objectif | markdown | safe }}</div>
 
         <p><b>Mise en œuvre</b></p>
 
-        <div class="fr-highlig
+        <div class="fr-highlight">{{ item.miseEnOeuvre | markdown | safe }}</div>
+
+        <p><b>Moyen de test ou de contrôle</b></p>
+
+        <div class="fr-highlight">{{ item.controle | markdown | safe }}</div>
+
+        <p><a href="/publications/referentiel-general-ecoconception/critere/{{ item.numero | slug }}/" class="fr-link fr-fi-arrow-right-line fr-link--icon-left">Permalien</a></p>
+      </div>
+    </section>
+  </li>
+{% endfor -%}
+</ul>
