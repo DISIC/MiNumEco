@@ -517,6 +517,11 @@
   </url>
   
   <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/referentiel-V1/</loc>
+    <lastmod>2022-11-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/retour-experience/</loc>
     <lastmod>2022-11-28</lastmod>
   </url>
@@ -1102,96 +1107,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/nouveautes/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/achats/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/centre-de-donnees/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/collectivites/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/dechets/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/evaluation/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/reemploi/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/sensibilisation-formation/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/service-numerique/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/agenda/formationEcoconception14mai2024/</loc>
     <lastmod>2024-05-14</lastmod>
   </url>
@@ -1209,5 +1124,95 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/agenda/formationEcoconception13juin2024/</loc>
     <lastmod>2024-06-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/LICENSE/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/actualit%C3%A9s/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/agenda/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/contact/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/mentions-legales/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/nouveautes/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/plan-du-site/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/publications/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/achats/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/centre-de-donnees/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/collectivites/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/dechets/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/evaluation/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/reemploi/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/sensibilisation-formation/</loc>
+    <lastmod>2024-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/thematiques/service-numerique/</loc>
+    <lastmod>2024-06-16</lastmod>
   </url>
 </urlset>
