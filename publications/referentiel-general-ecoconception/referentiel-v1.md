@@ -34,10 +34,10 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
     <ol class="fr-summary__list">
-    {% set thematique = null %}
+    {% assign thematique = null %}
     {%- for item in pagination.items %}
       {% if item.thematique != thematique %}
-        {% set thematique = item.thematique %}
+        {% assign thematique = item.thematique %}
         <li>
           <a class="fr-summary__link" href="#{{ thematique | slug }}">{{ thematique }}</a>
         </li>
@@ -46,12 +46,12 @@ le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numéri
     </ol>
 </nav>
 
-{% set thematique = null %}
+{% assign thematique = null %}
 
 {%- for item in pagination.items %}
   {% if item.thematique != thematique %}
     {% if null != thematique %}</ul>{% endif %}
-    {% set thematique = item.thematique %}
+    {% assign thematique = item.thematique %}
     <h2 id="{{ thematique | slug }}">{{ thematique }}</h2>
     <p class="fr-text--sm">{{ metadata.referentielEcoconception.thematique[thematique | slug].description }}</p>
     <ul class="fr-accordions-group">
