@@ -7,7 +7,7 @@ type: publication
 focus: true
 date: 2022-11-28
 pagination:
-  data: referentiel-ecoconception
+  data: referentiel-ecoconception-v1
   size: 1000
   alias: critere
 eleventyNavigation:
