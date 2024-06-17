@@ -3,7 +3,7 @@ layout: layouts/a-propos.njk
 title: À propos
 date: 2024-06-17
 eleventyNavigation:
-  key: A propos
+  key: À propos
   order: 20
 ---
 
@@ -42,14 +42,13 @@ La commande publique est reconnue comme un moyen efficace pour soutenir les poli
 C'est pourquoi depuis 2020, l'évaluation et l'amélioration de l'impact environnemental du numérique de l'administration publique sont inscrits dans les actions de la DINUM et de la MiNumEco. Le pilotage de cette mission est confié au [Ministère de la Transition écologique et de la cohésion des territoires (MTECT)](https://www.ecologie.gouv.fr/) et à la [Direction Interministérielle du Numérique (DINUM)](https://www.numerique.gouv.fr/dinum/).
 
 Dans cette [feuille de route du gouvernement en 2021](https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route) les axes d'actions fondateurs de la mission de la MiNumEco:
-<ul>
-    <li>Développer la connaissance de l’empreinte environnementale numérique; </li>
-    <li>Affermir le corpus de données servant de base aux évaluations de l’empreinte écologique du numérique;</li>
-    <li>Réduire l’empreinte environnementale du numérique : Achats numériques responsables et écoconception de services numériques; </li>
-    <li>Sensibilisation et suivi de la réglementation;</li>
-    <li>Ancrer l’engagement du MTE : adapter et proposer une labellisation type "Numérique responsable";</li> 
-    <li>Faire du numérique un levier de la transition écologique et solidaire avec la gestion des DEEE (déchets des équipements électriques et électroniques) et développement de l'économie circulaire.</li>
-</ul>
+
+- Développer la connaissance de l’empreinte environnementale numérique;
+- Affermir le corpus de données servant de base aux évaluations de l’empreinte écologique du numérique;
+- Réduire l’empreinte environnementale du numérique : Achats numériques responsables et écoconception de services numériques;
+- Sensibilisation et suivi de la réglementation;
+- Ancrer l’engagement du MTE : adapter et proposer une labellisation type "Numérique responsable";
+- Faire du numérique un levier de la transition écologique et solidaire avec la gestion des DEEE (déchets des équipements électriques et électroniques) et développement de l'économie circulaire.
 
 ### Publications
 
