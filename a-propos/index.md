@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 20
 ---
 
-<h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
+<h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable </h2>
 
 Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre.
 
