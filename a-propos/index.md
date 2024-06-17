@@ -10,22 +10,22 @@ eleventyNavigation:
 <h2 id="equipe">L’équipe</h2>
 
 <div class="fr-grid-row fr-grid-row--gutters team">
-  <div class="fr-col-12 fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-3">
     <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël">
     <h3 class="">Mélanie Raphaël</h3>
-    <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - <b>Co-responsable de la MiNumEco</b></p>
+    <p class=""><b>Co-responsable de la MiNumEco</b> <br>Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - </p>
   </div>
-  <div class="fr-col-12 fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-3">
     <img src="/img/equipe/Catherine-Ferreol.jpg" class="fr-responsive-img" alt="photo Catherine Ferreol">
     <h3 class="">Catherine Ferreol</h3>
-    <p class="">Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique - <b>Co-responsable de la MiNumEco</b></p>
+    <p class=""><b>Co-responsable de la MiNumEco</b> <br>Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique</p>
   </div>
-  <div class="fr-col-12 fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-3">
     <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
     <h3 class="">Claire Dorville</h3>
     <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique</p>
   </div>
-  <div class="fr-col-12 fr-col-md-6">
+  <div class="fr-col-12 fr-col-md-3">
     <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="Photo Thierry Lochon">
     <h3 class="">Thierry Lochon</h3>
     <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT)</p>
