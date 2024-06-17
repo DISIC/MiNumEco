@@ -3,7 +3,7 @@ layout: layouts/a-propos.njk
 title: À propos
 date: 2024-06-17
 eleventyNavigation:
-  key: À propos
+  key: A propos
   order: 20
 ---
 
