@@ -1,13 +1,13 @@
 ---
 layout: layouts/a-propos.njk
 title: À propos
-date: 2024-06-17
+date: 2024-06-217
 eleventyNavigation:
   key: À propos
   order: 20
 ---
 
-## La MiNumEco, la mission interministérielle numérique écoresponsable
+<h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
 
 Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre.
 
@@ -53,23 +53,19 @@ Dans cette [feuille de route du gouvernement en 2021](https://www.ecologie.gouv.
 ### Publications
 
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
-
 - Un [guide de bonnes pratiques numérique responsable](/publications/bonnes-pratiques/), publié en version bêta en février 2022.
-- Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/), publié en version bêta en avril 2021.
+- Un [guide pratique pour des achats numériques responsables](/publications/guide-pratique-achats-numeriques-responsables/),publié en version bêta en avril 2021.
 - Un [référentiel pour l’écoconception de service numérique](/publications/referentiel-general-ecoconception/), publié en version 1 en novembre 2022.
 - Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destinations des agents, initiée en octobre 2021 et en constante mise à jour.
 - Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable" (en cours).
 - Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique (en cours).
 
-Les publications sont toutes en licence ouverte. Les publications majeures sont soumises à une consultation publique.
-
-Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6 thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
-
-[Bilan d’activité 2021 – 2022 de la MiNumEco](/posts/bilan-activites-2021-2022/)
+Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6  thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
 
 Si vous êtes une administration, une direction ou une collectivité territoriale et que vous souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
 
-## Les pilotes de la mission
+
+<h2 id="pilotes">Les pilotes de la mission</h2>
 
 ### La Direction Interministérielle du Numérique (DINUM)
 
@@ -85,39 +81,29 @@ Le Ministère de la Transition écologique et de la Cohésion des territoires me
 
 Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
 
-## L’équipe
+<h2 id="equipe">L’équipe</h2>
 
 <div class="fr-grid-row fr-grid-row--gutters team">
   <div class="fr-col-12 fr-col-md-3">
-    <!-- Navigation column taking 1/3 of the page -->
-    <!-- Insert your navigation content here -->
+    <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël">
+    <h3 class="">Mélanie Raphaël</h3>
+    <p class=""><b>Co-responsable de la MiNumEco</b>
+    <br>Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - </p>
   </div>
-  <div class="fr-col-12 fr-col-md-9">
-    <!-- The team members' grid -->
-    <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-12 fr-col-md-3">
-        ![Mélanie Raphaël](/img/equipe/melanie-raphael.png)
-        #### Mélanie Raphaël
-        **Co-responsable de la MiNumEco**
-        Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM)
-      </div>
-      <div
-      <div class="fr-col-12 fr-col-md-3">
-        ![Catherine Ferreol](/img/equipe/Catherine-Ferreol.jpg)
-        #### Catherine Ferreol
-        **Co-responsable de la MiNumEco**
-        Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT)
-      </div>
-      <div class="fr-col-12 fr-col-md-3">
-        ![Claire Dorville](/img/equipe/claire-dorville.jpg)
-        #### Claire Dorville
-        Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique
-      </div>
-      <div class="fr-col-12 fr-col-md-3">
-        ![Thierry Lochon](/img/equipe/thierry-lochon.jpg)
-        #### Thierry Lochon
-        Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT)
-      </div>
-    </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/Catherine-Ferreol.jpg" class="fr-responsive-img" alt="photo Catherine Ferreol">
+    <h3 class="">Catherine Ferreol</h3>
+    <p class=""><b>Co-responsable de la MiNumEco</b>
+    <br>Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
+    <h3 class="">Claire Dorville</h3>
+    <p class="">Chargée de mission numérique responsable, Commissariat Général au Développement Durable (CGDD), Ministère de la Transition écologique</p>
+  </div>
+  <div class="fr-col-12 fr-col-md-3">
+    <img src="/img/equipe/thierry-lochon.jpg" class="fr-responsive-img" alt="Photo Thierry Lochon">
+    <h3 class="">Thierry Lochon</h3>
+    <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT)</p>
   </div>
 </div>
