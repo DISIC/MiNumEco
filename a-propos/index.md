@@ -13,12 +13,12 @@ eleventyNavigation:
   <div class="fr-col-12 fr-col-md-6">
     <img src="/img/equipe/melanie-raphael.png" class="fr-responsive-img" alt="photo Mélanie Raphaël">
     <h3 class="">Mélanie Raphaël</h3>
-    <p class="">Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) - <b>Co-responsable de la MiNumEco</b></p>
+    <p class=""> <b>Co-responsable de la MiNumEco</b> - Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM)</p>
   </div>
   <div class="fr-col-12 fr-col-md-6">
     <img src="/img/equipe/Catherine-Ferreol.jpg" class="fr-responsive-img" alt="photo Catherine Ferreol">
     <h3 class="">Catherine Ferreol</h3>
-    <p class="">Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique - <b>Co-responsable de la MiNumEco</b></p>
+    <p class=""> <b>Co-responsable de la MiNumEco</b> - Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT) , Ministère de la Transition écologique </p>
   </div>
   <div class="fr-col-12 fr-col-md-6">
     <img src="/img/equipe/claire-dorville.jpg" class="fr-responsive-img" alt="photo Claire Dorville">
