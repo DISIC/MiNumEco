@@ -15,13 +15,13 @@ En s'appuyant sur [la circulaire services publics écoresponsables de novembre 2
 
 ### Les objectifs pour le numérique public :
 
-- Développer le numérique responsable;
-- Allonger la durée de vie du matériel;
-- Suivre les performances des Data Center;
-- 20% de matériel réemployé dans le parc informatique des ministères;
-- Don 50% du matériel informatique de moins de 10 ans.
+- Développer le numérique responsable
+- Allonger la durée de vie du matériel
+- Suivre les performances des Data Center
+- 20% de matériel réemployé dans le parc informatique des ministères
+- Don 50% du matériel informatique de moins de 10 ans
 
-Pour réussir cette mobilisation, [la formation des agents publics](https://ecoresponsable.numerique.gouv.fr/formations/) est le préalable à l’action.
+Pour réussir cette mobilisation, [la formation des agents publics](https://ecoresponsable.numerique.gouv.fr/formations/) est un préalable à l’action des agents.
 
 ### L'action de la MiNumEco
 
