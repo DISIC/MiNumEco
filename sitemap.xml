@@ -1072,11 +1072,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
-    <lastmod>2024-02-20</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/formations/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
@@ -1119,6 +1114,11 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/agenda/formationEcoconception13juin2024/</loc>
     <lastmod>2024-06-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecoresponsable.numerique.gouv.fr/a-propos/</loc>
+    <lastmod>2024-06-17</lastmod>
   </url>
   
   <url>
