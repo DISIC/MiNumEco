@@ -5,7 +5,7 @@ title: Mentions légales
 
 ## Éditeur
 
-Le site `ecoresponsable.numerique.gouv.fr` est édité par la mission MiNumEco au sein de la direction interministérielle du numérique (DINUM).
+Le site `ecoresponsable.numerique.gouv.fr` est édité par la mission Mission Interministérielle du Numérique Écoresponsable - MiNumEco au sein de la direction interministérielle du numérique (DINUM).
 
 Coordonnées :
 Adresse : DINUM, 20 avenue de Ségur, 75007 Paris
