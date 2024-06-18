@@ -2,7 +2,7 @@
     {
       "numero": "1.1",
       "thematique": "Stratégie",
-      "critere-v1": "Le service numérique a-t-il été évalué favorablement en termes d'utilité en tenant compte de ses impacts environnementaux ?",
+      "critere": "Le service numérique a-t-il été évalué favorablement en termes d'utilité en tenant compte de ses impacts environnementaux ?",
       "objectif": "Éviter le service numérique inutile : si le service numérique ne s'inscrit pas dans au moins l'un des objectifs de développement durable (ODD), l'un des enjeux de limites planétaires ou tout autre référentiel du même type, l'intégralité des impacts environnementaux qu'il génère est futile, donc à éviter.",
       "miseEnOeuvre": "Pour évaluer l'utilité du service, se référer à des référentiels et déterminer en amont du projet si son utilité est avéré, comme par exemple :\n- les [17 ODD de l'ONU](https://fr.wikipedia.org/wiki/Objectifs_de_d%C3%A9veloppement_durable)\n- les [9 limites planétaires](https://fr.wikipedia.org/wiki/Limites_plan%C3%A9taires)\n- autre ?\n\nSi l'utilité du service ne s'inscrit pas dans ces référentiels, justifier en quoi le service est utile, participe à l'intérêt général ou est en appui à une politique publique.\n\nAfficher dans la déclaration d'écoconception (se référer aux critères dédiés) ou dans les mentions légales, les ODD dans lequel le service s'inscrit.\nVérifier par exemple un ou plusieurs de ces points : sa pertinence, son utilité, sa création de valeur, son bien fondé, son service pour l'intéret général, sa réponse à des besoins essentiels, sa participation à la mise en place de commun numérique, etc.",
       "controle": "Comment a été évalué le service, par exemple dans quels objectifs de développement durables s'inscrit le service, quelles sont les réponses aux enjeux de limites planétaires ou autre référentiel utilisé (précisé lequel), et leur pertinence dans la déclaration d'écoconception de ce service numérique."
@@ -10,7 +10,7 @@
     {
       "numero": "1.2",
       "thematique": "Stratégie",
-      "critere-v1": "Le service numérique a-t-il défini ses cibles utilisatrices ?",
+      "critere": "Le service numérique a-t-il défini ses cibles utilisatrices ?",
       "objectif": "Pour répondre au plus juste aux utilisatrices et utilisateurs du service numérique, il est indispensable de connaître ses cibles, leurs usages, leurs besoins et leurs comportements, afin de ne pas surcharger les applicatifs numériques en fonctionnalités et contenus, ni les appauvrir au point qu'ils ne répondent pas aux attentes. Ni TROP, ni TROP PEU.\nSans l'identification des catégories d'utilisateurs primaires et secondaires, il est difficile de dimensionner correctement le service numérique.",
       "miseEnOeuvre": "Outils et composants de la phase de Recherche UX (UX research) : étude concurrentielle, analyse de l'existant, définition des personas, réalisation d'entretiens ou de sondages avec les utilisateurs, observation, etc.",
       "controle": "Avoir accès à ces documents de référence de la phase de recherche : entretiens utilisateurs, étude UX, benchmark, personas, étude marketing, etc. permettant de définir précisément les utilisateurs cibles."

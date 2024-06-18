@@ -7,24 +7,24 @@ image: /img/referentiel-ecoconception.png
 pagination:
     data: referentiel-ecoconception-v1
     size: 1
-    alias: critere
-permalink: "/publications/referentiel-general-ecoconception/critere-v1/{{ critere.numero | slug }}/"
+    alias: critere-v1
+permalink: "/publications/referentiel-general-ecoconception/critere-v1/{{ critere-v1.numero | slug }}/"
 eleventyComputed:
-    title: "{{ critere.critere | safe }}"
+    title: "{{ critere-v1.critere | safe }}"
 ---
 
 <p>
-    <a href="/publications/referentiel-general-ecoconception/#{{ critere.thematique | slug }}" class="fr-tag">{{ critere.thematique }}</a>
+    <a href="/publications/referentiel-general-ecoconception/#{{ critere-v1.thematique | slug }}" class="fr-tag">{{ critere.thematique }}</a>
 </p>
 
 <h2>Objectif</h2>
 
-<p>{{ critere.objectif | markdown | safe }}</p>
+<p>{{ critere-v1.objectif | markdown | safe }}</p>
 
 <h2>Mise en œuvre</h2>
 
-<p>{{ critere.miseEnOeuvre | markdown | safe }}</p>
+<p>{{ critere-v1.miseEnOeuvre | markdown | safe }}</p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p>{{ critere.controle | markdown | safe }}</p>
+<p>{{ critere-v1.controle | markdown | safe }}</p>
