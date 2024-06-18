@@ -13,18 +13,35 @@ eleventyComputed:
     title: "{{ critere-v1.critere | string | safe }}"
 ---
 
+{% set thematique = critere-v1.thematique | string %}
+
 <p>
-    <a href="/publications/referentiel-general-ecoconception/#{{ critere-v1.thematique | string | slug }}" class="fr-tag">{{ critere-v1.thematique | string }}</a>
+    {% if thematique %}
+        <a href="/publications/referentiel-general-ecoconception-v1/#{{ thematique | slug }}" class="fr-tag">{{ thematique }}</a>
+    {% endif %}
 </p>
 
-<h2>Objectif</h2>
+{% set objectif = critere-v1.objectif | string %}
+{% set miseEnOeuvre = critere-v1.miseEnOeuvre | string %}
+{% set controle = critere-v1.controle | string %}
 
-<p>{{ critere-v1.objectif | string | markdown | safe }}</p>
+<h2>Objectif</h2>
+{% if objectif %}
+    <p>{{ objectif | markdown | safe }}</p>
+{% else %}
+    <p>Non disponible</p>
+{% endif %}
 
 <h2>Mise en œuvre</h2>
-
-<p>{{ critere-v1.miseEnOeuvre | string | markdown | safe }}</p>
+{% if miseEnOeuvre %}
+    <p>{{ miseEnOeuvre | markdown | safe }}</p>
+{% else %}
+    <p>Non disponible</p>
+{% endif %}
 
 <h2>Moyen de test ou de contrôle</h2>
-
-<p>{{ critere-v1.controle | string | markdown | safe }}</p>
+{% if controle %}
+    <p>{{ controle | markdown | safe }}</p>
+{% else %}
+    <p>Non disponible</p>
+{% endif %}
