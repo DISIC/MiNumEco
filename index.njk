@@ -11,36 +11,58 @@ eleventyNavigation:
         <div class="fr-col-lg-8 fr-col-offset-lg-2">
             <h1 class="fr-mt-3w fr-mt-md-5w fr-mb-5w">Réduire l’empreinte environnementale du numérique public</h1>
             <p class="fr-mb-3w">
-                La MiNumEco, la Mission Interministérielle Numérique Écoresponsable, accompagne les administrations dans la réduction de l'empreinte environnementale du numérique public. Elle met à disposition de toutes les organisations publiques ou privées, des guides, des référentiels et des outils pour les accompagner dans cette démarche.
+                Achat durable, réemploi et allongement de la durée de vie des équipements, écoconception des services numériques publics... la MiNumEco œuvre pour un numérique public écoresponsable en accompagnant les administrations dans cette démarche. Nous mettons à disposition de toutes les organisations publiques ou privées, des guides, des référentiels et des outils pour les accompagner dans cette démarche.
             </p>
-            <p class="fr-mb-5w"><a class="fr-btn" href="/a-propos/">En savoir plus sur la MiNumEco</a></p>
+            <p class="fr-mb-5w"><a class="fr-btn" href="/a-propos/">En savoir plus sur la mission interministérielle</a></p>
         </div>
     </div>
 </div>
+
 
 <section class="mise-en-avant fr-px-4w fr-py-1w fr-my-3w">
-<h2>Actualités</h2>
 
-<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
-{% for post in collections.posts | head(-) | reverse %}
-    <div class="fr-col-12 fr-col-md-4">
-        <div class="fr-card fr-enlarge-link">
-            <div class="fr-card__body">
-                <h2 class="fr-card__title">
-                    <a href="{{ post.url }}" class="fr-card__link">{{ post.data.title }}</a>
-                </h2>
-                <p class="fr-card__detail ">{{ post.data.date | readableDate }}</p>
+    <h2>Notre mission</h2>
+
+    <p>Évaluer et améliorer l’impact environnemental du numérique du service public.</p>
+
+    <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+        <div class="fr-col-12 fr-col-md-6">
+            <div class="fr-tile">
+                <div class="fr-tile__body">
+                    <h4 class="fr-tile__title">Évaluer l’empreinte du numérique du service public</h4>
+                </div>
             </div>
-            <div class="fr-card__img">
-                <img src="{{ post.data.image }}" alt="">
+        </div>
+        <div class="fr-col-12 fr-col-md-6">
+            <div class="fr-tile">
+                <div class="fr-tile__body">
+                    <h4 class="fr-tile__title">Identifier les bonnes pratiques et les axes d’amélioration</h4>
+                </div>
+            </div>
+        </div>
+        <div class="fr-col-12 fr-col-md-6">
+            <div class="fr-tile fr-enlarge-link">
+                <div class="fr-tile__body">
+                    <h4 class="fr-tile__title">
+                        Définir des objectifs et des engagements
+                    </h4>
+                </div>
+            </div>
+        </div>
+        <div class="fr-col-12 fr-col-md-6">
+            <div class="fr-tile fr-enlarge-link">
+                <div class="fr-tile__body">
+                    <h4 class="fr-tile__title">
+                        Accompagner l’administration et les collectivités dans la mise en œuvre et le suivi des actions
+                    </h4>
+                </div>
             </div>
         </div>
     </div>
-{% endfor %}
-</div>
 
-<p><a href="/actualités/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir plus d'actualités</a></p>
 </section>
+
+
 
 <h2>Publications</h2>
 
@@ -87,3 +109,37 @@ eleventyNavigation:
 
 <p><a href="/publications/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir toutes les publications</a></p>
 
+
+<h2>Actualités</h2>
+
+<div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+{% for post in collections.posts | head(-3) | reverse %}
+    <div class="fr-col-12 fr-col-md-4">
+        <div class="fr-card fr-enlarge-link">
+            <div class="fr-card__body">
+                <h2 class="fr-card__title">
+                    <a href="{{ post.url }}" class="fr-card__link">{{ post.data.title }}</a>
+                </h2>
+                <p class="fr-card__detail ">{{ post.data.date | readableDate }}</p>
+            </div>
+            <div class="fr-card__img">
+                <img src="{{ post.data.image }}" alt="">
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
+
+<p><a href="/actualités/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir plus d'actualités</a></p>
+
+<section class="mise-en-avant fr-px-4w fr-py-1w fr-my-7w">
+    <h2>Vos besoins</h2>
+
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle fr-py-3w">
+        {%- for thematique in collections.all | eleventyNavigationExtended('thematiques') %}
+        <div class="fr-col-12 fr-col-md-6">
+            <a href="{{ thematique.url | url }}" class="fr-btn" style="display:block; width:70%; text-align:center; margin: 0 auto;">{{ thematique.title }}</a>
+        </div>
+        {%- endfor %}
+    </div>
+</section>
