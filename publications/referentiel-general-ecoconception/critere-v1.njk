@@ -7,41 +7,24 @@ image: /img/referentiel-ecoconception.png
 pagination:
     data: referentiel-ecoconception-v1
     size: 1
-    alias: critere-v1
-permalink: "/publications/referentiel-general-ecoconception/critere-v1/{{ critere-v1.numero | string | slug }}/"
+    alias: critere
+permalink: "/publications/referentiel-general-ecoconception/critere-v1/{{ critere.numero | slug }}/"
 eleventyComputed:
-    title: "{{ critere-v1.critere | string | safe }}"
+    title: "{{ critere.critere | safe }}"
 ---
 
-{% set thematique = critere-v1.thematique | string %}
-
 <p>
-    {% if thematique %}
-        <a href="/publications/referentiel-general-ecoconception-v1/#{{ thematique | slug }}" class="fr-tag">{{ thematique }}</a>
-    {% endif %}
+    <a href="/publications/referentiel-general-ecoconception/#{{ critere.thematique | slug }}" class="fr-tag">{{ critere.thematique }}</a>
 </p>
 
-{% set objectif = critere-v1.objectif | string %}
-{% set miseEnOeuvre = critere-v1.miseEnOeuvre | string %}
-{% set controle = critere-v1.controle | string %}
-
 <h2>Objectif</h2>
-{% if objectif %}
-    <p>{{ objectif | markdown | safe }}</p>
-{% else %}
-    <p>Non disponible</p>
-{% endif %}
+
+<p>{{ critere.objectif | markdown | safe }}</p>
 
 <h2>Mise en œuvre</h2>
-{% if miseEnOeuvre %}
-    <p>{{ miseEnOeuvre | markdown | safe }}</p>
-{% else %}
-    <p>Non disponible</p>
-{% endif %}
+
+<p>{{ critere.miseEnOeuvre | markdown | safe }}</p>
 
 <h2>Moyen de test ou de contrôle</h2>
-{% if controle %}
-    <p>{{ controle | markdown | safe }}</p>
-{% else %}
-    <p>Non disponible</p>
-{% endif %}
+
+<p>{{ critere.controle | markdown | safe }}</p>
