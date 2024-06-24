@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 permalink: /agenda/
 title: Agenda
-description: Les évènements auxquels la MiNumEco participe.
+description: Formations, événements, en cours et à venir
 eleventyNavigation:
   key: agenda
   title: Agenda
@@ -15,5 +15,5 @@ eleventyNavigation:
 
 <p>{{ description }}</p>
 
-{% set postslist = collections.agenda %}
+{% set postslist = collections.agenda % | reverse %}
 {% include "postslist.njk" %}
