@@ -18,4 +18,5 @@ Pour simplifier le quotidien de tous les Français et accélérer l’efficacit�
 Investies dans cet objectif, 14 entités engagées dans la transformation numérique de l’État seront présentes au salon VivaTechnology pour la deuxième fois afin de présenter, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
 ## Pitch sur le Numérique Écoresponsable
-* Dates et horaires à venir : Performance des Data Center, Ecoconception de Services Numériques, mesure, etc
+Performance des Data Center, Ecoconception de Services Numériques, mesure, etc
+Vendredi et samedi

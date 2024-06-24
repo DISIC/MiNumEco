@@ -1,5 +1,5 @@
 ---
-title: "Formation à l'écoconception 13 juin 2024"
+title: "Formation à l'écoconception 8 octobre 2024"
 description: Formation d'1/2 journée pour les agents publics
 date: 2024-10-08
 dateLabel: mardi 8 octobre 2024 de 09h00 à 12h30
@@ -8,7 +8,7 @@ link: https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoco
 linkTitle: Inscription
 ---
 
-![Visuel de la formation](/img/formation_banniere.png)
+![Visuel de la formation](/img/formationbanniere.png)
 
 ## Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.
