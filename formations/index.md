@@ -23,12 +23,16 @@ Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco prop
 <span class="fr-tag">Numérique Responsable</span> <span class="fr-tag">Durée : 4 heures</span> <span class="fr-tag">[Présentiel](https://ecoresponsable.numerique.gouv.fr/agenda/)</span>
 
 Formations organisées par la Brigade d'Intervention du Numérique (BIN) de la Direction Interministérielle du Numérique (DINUM). 
+
 Formatrice : <a href="https://fr.linkedin.com/in/melanieraphael" target="_blank" title="Nouvelle fenêtre : Page Linkedin de Mélanie Raphaël">Mélanie Raphaël, Experte numérique écoresponsable, DINUM</a>
+
 Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
 
 ### Prochaines dates :
 - 17 septembre 2024, 9h00 à 12h30
 - 8 octobre 2024, 9h00 à 12h30
+
+<a href="https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
 
 ### Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.
@@ -48,8 +52,6 @@ C'est un module de sensibilisation, si vous recherchez une formation plus approf
 
 ### Lieu 
 En présentiel au 20 avenue de Ségur 75007 
-
-### Inscriptions
 
 <a href="https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
 
