@@ -9,7 +9,7 @@ linkTitle: Inscription
 image: /img/formationbanniere.jpg
 ---
 
-![Visuel de la formation](/img/formationbanniere.png)
+![Visuel de la formation](/img/formationbanniere.pngjpg)
 
 ## Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.

@@ -6,10 +6,10 @@ dateLabel: mardi 17 septembre 2024 de 09h00 à 12h30
 location: En présentiel au 20 avenue de Ségur 75007
 link: https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024
 linkTitle: Inscription
-image: /img/formationbanniere.png
+image: /img/formationbanniere.jpg
 ---
 
-![Visuel de la formation](/img/formationbanniere.png)
+![Visuel de la formation](/img/formationbanniere.jpg)
 
 ## Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.
