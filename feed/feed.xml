@@ -5,12 +5,50 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-04-24T00:00:00Z</updated>
+	<updated>2024-07-01T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Publication de l&#39;AFNOR SPEC IA frugale</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/afnor-spec-iafrugale/"/>
+		<updated>2024-07-01T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/afnor-spec-iafrugale/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/afnorspecIAfrugale.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Si les usages d’IA (Intelligences Artificielles) augmentent considérablement, ils vont de pair avec des attentes de mesure et de réduction de l’empreinte environnementale.&lt;br /&gt;
+Les IA sont consommatrices de ressources numériques importantes et de nombreux clients, à commencer par les services publics, ont des exigences pour en limiter l’impact environnemental.&lt;br /&gt;
+Ecolab met à votre disposition le Référentiel Général pour l’IA Frugale et sa synthèse opérationnelle afin que vous puissiez vous saisir rapidement des informations clés de la méthodologie d’évaluation des systèmes d’IA.&lt;/p&gt;
+&lt;h2&gt;Ecolab&lt;/h2&gt;
+&lt;p&gt;Ecolab est le laboratoire de l’innovation au service de la transition écologique est situé au sein du Commissariat Général du Développement Durable (CGDD). Le CGDD, acteur interministériel et direction transversale du ministère en charge de l’environnement, et co-pilote de la MiNumEco, éclaire et alimente, par la production de données et d’analyses, l’action du ministère.&lt;/p&gt;
+&lt;p&gt;Il agit comme catalyseur de projets innovants publics et privés répondant à la double urgence&lt;br /&gt;
+des transformations écologique et numérique.&lt;br /&gt;
+Ecolab active deux leviers principaux : le soutien à l’innovation entrepreneuriale privée (entreprises greentech) et la mobilisation de la donnée et de l’intelligence&lt;br /&gt;
+artificielle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://greentechinnovation.fr/&quot;&gt;Pour en savoir plus&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;IA frugale&lt;/h2&gt;
+&lt;p&gt;La frugalité d’un service d’IA vise à réduire globalement les besoins en ressources matérielles et&lt;br /&gt;
+énergétiques et les impacts environnementaux associés via une redéfinition des usages ou des&lt;br /&gt;
+exigences de performance, ou encore via une réorientation des besoins du producteur du système&lt;br /&gt;
+d’IA au fournisseur du service considéré. Un service frugal d’IA est donc un service pour lequel :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La nécessité de recourir à un système d’IA plutôt qu’à une autre solution moins consommatrice&lt;br /&gt;
+pour répondre au même objectif a été démontrée ;&lt;/li&gt;
+&lt;li&gt;De bonnes pratiques sont adoptées par le producteur, le fournisseur et le client d’IA pour diminuer&lt;br /&gt;
+les impacts environnementaux du service d’IA ;&lt;/li&gt;
+&lt;li&gt;Les usages et les besoins visent à rester dans les limites planétaires et ont été préalablement&lt;br /&gt;
+questionnés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Le Référentiel&lt;/h2&gt;
+&lt;p&gt;Le référentiel contient une méthodologie pour évaluer l’impact environnemental de l’IA sur plusieurs catégories d’impact et recense les bonnes pratiques qui peuvent être mises en œuvre par les organisations pour réduire l’impact. Les administrations et entreprises peuvent ainsi communiquer sur le caractère frugal de leurs systèmes d’IA, et se différencier en se basant sur un cadre de référence reconnu et partagé.&lt;/p&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;h2&gt;Téléchargements&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140&quot;&gt;Le référentiel sur le site de l’Afnor&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://greentechinnovation.fr/storage/2024/06/Referentiel-general-pour-lIA-frugale.pdf&quot;&gt;La synthèse sur Ecolab&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Table ronde Sobriété Numérique au Forum de la transition numérique</title>
