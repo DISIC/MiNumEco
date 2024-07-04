@@ -3,7 +3,7 @@ title: Formations
 description: Sélection non-exhaustive de formations libres d’accès dédiés aux impacts environnementaux du numérique
 layout: layouts/post.njk
 date: 2024-06-24
-image: /img/formationbanniere.png
+image: /img/formationbanniere.jpg
 eleventyNavigation:
   key: formations
   title: Formations

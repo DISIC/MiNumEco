@@ -6,7 +6,7 @@ dateLabel: mardi 8 octobre 2024 de 09h00 à 12h30
 location: En présentiel au 20 avenue de Ségur 75007
 link: https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024
 linkTitle: Inscription
-image: /img/formationbanniere.png
+image: /img/formationbanniere.jpg
 ---
 
 ![Visuel de la formation](/img/formationbanniere.png)

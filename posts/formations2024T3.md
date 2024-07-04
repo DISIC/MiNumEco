@@ -1,7 +1,7 @@
 ---
 title: "Formations septembre et octobre 2024"
 description: "Les prochaines dates de sensibilisation à l'écoconception de services numériques"
-image: /img/formationbanniere.png
+image: /img/formationbanniere.jpg
 type: news
 date: 2024-06-29
 ---
