@@ -26,15 +26,10 @@ Table ronde “Sobriété Numérique” lors du Forum de la Transition Numériqu
 * Approches stratégiques pour une transition réussie
 * Initiatives locales et résultats obtenus
 
-## Replay 
+## Table Ronde Vidéo
+
+Extrait de 2mn hébergé sur LinkedIn : 
+
+[![capture d'écran de la table ronde, avec un lien vers un extrait](/img/posts/capture-ecran-table-ronde-vidéo.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1)
 
 [Accessible en intégralité aux abonnés de la Gazette.](https://forum-transition-numerique.eventmaker.io/fr).
-
-Extrait de la table ronde hébergé sur linkedin : 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1" 
-        height="600" 
-        width="800" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
