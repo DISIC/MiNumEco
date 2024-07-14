@@ -32,11 +32,4 @@ Table ronde “Sobriété Numérique” lors du Forum de la Transition Numériqu
 
 Extrait de la table ronde hébergé sur linkedin : 
 
-<iframe
-  width="710"
-  height="399"
-  src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1"
-  allowfullscreen
-  allow="autoplay"
-  title="Voir la table ronde « Sobriété Numérique »"
-></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433" height="1030" width="504" frameborder="0" allowfullscreen="" title="Post linkedin table ronde"></iframe>
