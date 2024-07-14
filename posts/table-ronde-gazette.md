@@ -30,6 +30,13 @@ Table ronde “Sobriété Numérique” lors du Forum de la Transition Numériqu
 
 [Accessible en intégralité aux abonnés de la Gazette.](https://forum-transition-numerique.eventmaker.io/fr).
 
-Extrait de la table ronde : 
+Extrait de la table ronde hébergé sur linkedin : 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+<iframe
+  width="710"
+  height="399"
+  src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1"
+  allowfullscreen
+  allow="autoplay"
+  title="Voir la table ronde « Sobriété Numérique »"
+></iframe>
