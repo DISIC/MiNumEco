@@ -1,5 +1,5 @@
 ---
-title: France 2030 : 4 projets lauréats
+title: "France 2030 : 4 projets lauréats"
 description: France 2030 : 4 projets lauréats pour le soutien au développement d'une économie numérique innovante, circulaire et à moindre impact environnemental financés à hauteur de 6,5 millions d'euros
 image: /img/posts/econum-juillet2024.jpg
 type: news
