@@ -5,12 +5,39 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-07-01T00:00:00Z</updated>
+	<updated>2024-07-12T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Table ronde Sobriété Numérique, la Gazette</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/table-ronde-gazette/"/>
+		<updated>2024-07-12T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/table-ronde-gazette/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/table-ronde-sobriete-numerique-gazette.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Table ronde “Sobriété Numérique” lors du Forum de la Transition Numérique 2024, jeudi 14 mai 2024&lt;/p&gt;
+&lt;h2&gt;Conférenciers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vincent COURBOULAY - Ingénieur et maître de conférences en informatique à La Rochelle Université, spécialiste en Numérique responsable et membre - INR (Institut du Numérique Responsable)&lt;/li&gt;
+&lt;li&gt;Mélanie RAPHAEL - Experte Numérique Ecoresponsable - Direction Interministérielle du Numérique&lt;/li&gt;
+&lt;li&gt;Jean-Marie SEGURET - DSI - VILLE DE LYON&lt;/li&gt;
+&lt;li&gt;Philippe WALTER - Directeur de la transformation numérique sur le secteur public - SALESFORCE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://forum-transition-numerique.eventmaker.io/fr/programme&quot;&gt;Pour en savoir plus&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Sujets abordés&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;État des lieux des 4 R : réduction, réutilisation, réemploi et recyclage&lt;/li&gt;
+&lt;li&gt;Approches stratégiques pour une transition réussie&lt;/li&gt;
+&lt;li&gt;Initiatives locales et résultats obtenus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Replay&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://forum-transition-numerique.eventmaker.io/fr&quot;&gt;Accessible en intégralité aux abonnés de la Gazette.&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Extrait de la table ronde :&lt;/p&gt;
+&lt;iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1&quot; height=&quot;399&quot; width=&quot;710&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Post intégré&quot;&gt;&lt;/iframe&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Publication de l&#39;AFNOR SPEC IA frugale</title>
