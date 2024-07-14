@@ -102,16 +102,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/guide-achats-numerique-responsable-version-beta/</loc>
-    <lastmod>2021-04-30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/</loc>
-    <lastmod>2021-06-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/journee-dpsi-nr/</loc>
     <lastmod>2021-10-01</lastmod>
   </url>
@@ -217,11 +207,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/open-source-experience-2021/</loc>
-    <lastmod>2021-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/mesure-et-evaluation/</loc>
     <lastmod>2022-02-17</lastmod>
   </url>
@@ -247,18 +232,8 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/veille-2022-02-23/</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/empreinte-environnementale-du-numerique-en-france/</loc>
     <lastmod>2022-03-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/top5-bonnes-pratiques-numerique-responsable/</loc>
-    <lastmod>2022-03-21</lastmod>
   </url>
   
   <url>
@@ -292,18 +267,8 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/loi3ds-dons-informatiques/</loc>
-    <lastmod>2022-04-04</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/</loc>
     <lastmod>2022-04-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/cee-sobriete-numerique/</loc>
-    <lastmod>2022-04-20</lastmod>
   </url>
   
   <url>
@@ -342,16 +307,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/fonds-reparation-lancement-du-label-qualirepar/</loc>
-    <lastmod>2022-04-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/afnor-spec-ecoconception/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-1-les-impacts-environnementaux-du-numerique/</loc>
     <lastmod>2022-05-12</lastmod>
   </url>
@@ -377,11 +332,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/hop-mois-numerique-durable/</loc>
-    <lastmod>2022-06-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-5-lutter-obsolescence-grace-au-logiciel-libre/</loc>
     <lastmod>2022-06-09</lastmod>
   </url>
@@ -389,11 +339,6 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-6-achats-numeriques-responsables/</loc>
     <lastmod>2022-06-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/chargeur-universel/</loc>
-    <lastmod>2022-06-20</lastmod>
   </url>
   
   <url>
@@ -452,16 +397,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/note-france-strategie-climat-reseau/</loc>
-    <lastmod>2022-07-08</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/implications-loi-reen-collectivites/</loc>
-    <lastmod>2022-09-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-9-loi-reen-et-collectivites-territoriales/</loc>
     <lastmod>2022-09-01</lastmod>
   </url>
@@ -489,11 +424,6 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-13-impact-numerique-sante/</loc>
     <lastmod>2022-10-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/plan-sobriete-energetique/</loc>
-    <lastmod>2022-10-06</lastmod>
   </url>
   
   <url>
@@ -527,11 +457,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/guide-prise-en-compte-indice-reparabilite-achats-publics/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-achat-indice-reparabilite/comprendre-indice-reparabilite/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
@@ -557,11 +482,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/publications-donnees-negaoctet/</loc>
-    <lastmod>2023-01-20</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/fiches-pratiques/logiciels/</loc>
     <lastmod>2023-02-20</lastmod>
   </url>
@@ -582,11 +502,6 @@
   </url>
   
   <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/guichet-financement-ftap-numerique-ecoresponsable/</loc>
-    <lastmod>2023-03-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/fin-usage/faq/</loc>
     <lastmod>2023-04-03</lastmod>
   </url>
@@ -594,11 +509,6 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/posts/bilan-activites-2021-2022/</loc>
     <lastmod>2023-04-06</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/decret-reemploi/</loc>
-    <lastmod>2023-04-19</lastmod>
   </url>
   
   <url>
@@ -954,16 +864,6 @@
   <url>
     <loc>https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/journal-des-modifications/</loc>
     <lastmod>2023-06-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/publication-guide-bonnes-pratiques-v1/</loc>
-    <lastmod>2023-06-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecoresponsable.numerique.gouv.fr/posts/sobriete-numerique-itw-acteurs-publics/</loc>
-    <lastmod>2023-06-23</lastmod>
   </url>
   
   <url>
