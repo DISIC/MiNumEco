@@ -10,12 +10,21 @@ date: 2024-07-18
 
 La MiNumEco lance une mini série pour faire connaître les référents numériques écoresponsables auprès des agents des ministères et pour expliquer le rôle de la MiNumEco et de la DINUM.
 
-## Référents Numériques Ecoresponsable
+## Référents Numérique Ecoresponsable
 
 Chaque ministère s'est doté d'une feuille de route ministérielle numérique responsable et d'un référent pour suivre la mise en oeuvre de ces feuilles de route. 
 Ces référents sont les ambassadeurs du numérique responsable dans leur ministère.
 
 [Découvrez-les](lien).
+
+## La série de vidéos
+
+5 vidéos pour savoir comment solliciter la MiNumEco, un accompagnement de la DINUM ou son référent numérique responsable : 
+* présentation du réseau des référents ;
+* quels sont les enjeux du numérique responsable dans votre ministère ;
+* une action numérique responsable dans votre ministère ;
+* comment solliciter un financement du guichet numérique responsable ;
+* les missions de la DINUM, MiNumEco et du réseau des référents.
 
 ## La MiNumEco
 
@@ -28,6 +37,6 @@ La mission interministérielle numérique écoresponsable (MiNumEco), copilotée
 Ressources
 
 * [CP de la DINUM](/docs/2024/CP_NUMERIQUE_ECORESPONSABLE_REFERENTS_MINISTERIELS_SERIE_VIDEO.docx)
-* [L'ensemble des vidéos](a venir)
+* A venir le 22 juillet : l'ensemble des vidéos
 
 </div>
