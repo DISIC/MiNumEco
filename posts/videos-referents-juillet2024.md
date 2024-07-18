@@ -17,6 +17,8 @@ Ces référents sont les ambassadeurs du numérique responsable dans leur minist
 
 [Découvrez-les sur la chaine dailymotion de la DINUM](https://www.dailymotion.com/video/x92eo5e).
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x92eo5e" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe> </div>
+
 ## La série de vidéos
 
 5 vidéos pour savoir comment solliciter la MiNumEco, un accompagnement de la DINUM ou son référent numérique responsable : 
