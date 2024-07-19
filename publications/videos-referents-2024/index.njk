@@ -14,7 +14,7 @@ eleventyNavigation:
   order: 160
 ---
 
-{% include "breadcrumb.njk" %}
+{{% include "breadcrumb.njk" %}
 
 <h1>{{ title }}</h1>
 
@@ -22,8 +22,7 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
-{% set seriesToDisplay = "referents" %}
-{% set postslist = collections.video | filter("series", seriesToDisplay) %}
+{% set postslist = collections.video %}   
 {% for post in postslist %}
   <div class="fr-col-12 fr-col-md-3">
     <div class="fr-card fr-enlarge-link">
