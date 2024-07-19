@@ -6,6 +6,8 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
+<h2>Nos publications</h2>
+
 {% set postslist = collections.all | eleventyNavigationExtended("publications") %}
 
 <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
