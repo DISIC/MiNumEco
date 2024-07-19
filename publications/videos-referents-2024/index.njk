@@ -22,7 +22,8 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
-{% set postslist = collections.video %}
+{% set seriesToDisplay = "referents" %} <!-- Changer cette valeur pour afficher une autre série -->
+{% set postslist = collections.video | filter("series", seriesToDisplay) %}
 {% for post in postslist %}
   <div class="fr-col-12 fr-col-md-3">
     <div class="fr-card fr-enlarge-link">
