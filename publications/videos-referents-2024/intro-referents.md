@@ -7,7 +7,7 @@ image: /img/videos/vignette-referents-intro.png
 apercu: /img/videos/vignette-referents-intro.png
 embedVideoUrl: https://www.dailymotion.com/video/x92eo5e
 tags: ["video"]
-type: videoReferents
+type: "videoreferents"
 ---
 
 **Présentation du réseau des référents ministériels numérique écoresponsable par Mélanie RAPHAËL**

@@ -22,7 +22,7 @@ eleventyNavigation:
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
-{% set postslist = collections.video | filter: (post) => post.data.type == "videoReferents" %}
+{% set postslist = collections.video | filter: "type", "videoreferents" %}
 {% for post in postslist %}
   <div class="fr-col-12 fr-col-md-3">
     <div class="fr-card fr-enlarge-link">
