@@ -1,7 +1,7 @@
 ---
 title: "Série de vidéos sur les référents Numérique Responsable"
 description: "La MiNumEco a produit une série de vidéos "
-image: /img/posts/video-referents-1-2024.jpg
+image: /img/posts/video-intro-referents-juillet2024.jpg
 type: news
 date: 2024-07-18
 ---
