@@ -5,12 +5,38 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-07-25T00:00:00Z</updated>
+	<updated>2024-07-29T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Podcast MiNumEchos : épisode 1 innovation et empreinte environnementale</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-juillet2024/"/>
+		<updated>2024-07-29T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-juillet2024/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/banniere-podcast.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Podcast sur acast&lt;/h2&gt;
+&lt;p&gt;Ne nécessite pas de téléchargement ou de compte;&lt;/p&gt;
+&lt;iframe src=&quot;https://embed.acast.com/$/669e18c83847f8c1a590bc69/66a250708f24d109f2184ec7?&quot; frameBorder=&quot;0&quot; width=&quot;100%&quot; height=&quot;110px&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+&lt;h3&gt;Episode 1 : Innovation et empreinte environnementale&lt;/h3&gt;
+&lt;p&gt;Table ronde enregistrée le 3 juin 2024, avec :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virginie Rozière, Directrice du numérique du ministère des Affaires Etrangères&lt;/li&gt;
+&lt;li&gt;Juliette Fropier, Cheffe de projet IA, Ecolab&lt;/li&gt;
+&lt;li&gt;Bastien Guerry, responsable de la mission logiciels libres, DINUM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;et animée par Mélanie Raphaël, Experte Numérique Ecoresponsable de la DINUM.&lt;/p&gt;
+&lt;iframe src=&quot;https://embed.acast.com/$/669e18c83847f8c1a590bc69/66a250708f24d109f2184ec7?&quot; frameBorder=&quot;0&quot; width=&quot;100%&quot; height=&quot;110px&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+&lt;h3&gt;Episode Bonus : Questions au panel&lt;/h3&gt;
+&lt;p&gt;Questions posées par les référents numérique écoresponsable, lors de la table ronde enregistrée le 3 juin 2024.&lt;/p&gt;
+&lt;iframe src=&quot;https://embed.acast.com/$/669e18c83847f8c1a590bc69/66a250f88f24d109f2186db2?&quot; frameBorder=&quot;0&quot; width=&quot;100%&quot; height=&quot;110px&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+&lt;h3&gt;Lire sur apple podcast&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/fr/podcast/minumechos-initiatives-pour-un-num%C3%A9rique-public/id1759375669&quot;&gt;Pour lire les épisodes sur apple podcast&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Vidéo référents numérique écoresponsable quels sont les enjeux</title>
@@ -46,7 +72,7 @@ A venir, en septembre :&lt;/li&gt;
 		<link href="https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-juillet2024/"/>
 		<updated>2024-07-18T00:00:00Z</updated>
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-juillet2024/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/video-referents-1-2024.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/video-intro-referents-juillet2024.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;La MiNumEco lance une mini série pour faire connaître les référents numériques écoresponsables auprès des agents des ministères et pour expliquer le rôle de la MiNumEco et de la DINUM.&lt;/p&gt;
 &lt;h2&gt;Référents Numérique Ecoresponsable&lt;/h2&gt;
 &lt;p&gt;Chaque ministère s’est doté d’une feuille de route ministérielle numérique responsable et d’un référent pour suivre la mise en oeuvre de ces feuilles de route.&lt;br /&gt;
