@@ -2,3 +2,10 @@ _site/
 node_modules/
 package-lock.json
 a-propos/.DS_Store
+_includes/layouts/videoreferents.njk
+publications/videos-referents-2024/episode-15-deployer-strategie.md
+publications/videos-referents-2024/index.njk
+publications/videos-referents-2024/intro.md
+_includes/layouts/videoreferents.njk
+publications/videos-referents-2024/episode-15-deployer-strategie.md
+_includes/layouts/videoreferents.njk
