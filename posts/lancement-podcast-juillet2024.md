@@ -12,8 +12,6 @@ date: 2024-07-29
 
 Ne nécessite pas de téléchargement ou de compte;
 
-<iframe src="https://embed.acast.com/$/669e18c83847f8c1a590bc69/66a250708f24d109f2184ec7?" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
-
 ### Episode 1 : Innovation et empreinte environnementale 
 
 Table ronde enregistrée le 3 juin 2024, avec :
@@ -31,6 +29,6 @@ Questions posées par les référents numérique écoresponsable, lors de la tab
 
 <iframe src="https://embed.acast.com/$/669e18c83847f8c1a590bc69/66a250f88f24d109f2186db2?" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
 
-### Lire sur apple podcast
+## Lire sur apple podcast
 
 [Pour lire les épisodes sur apple podcast](https://podcasts.apple.com/fr/podcast/minumechos-initiatives-pour-un-num%C3%A9rique-public/id1759375669)
