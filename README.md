@@ -61,3 +61,7 @@ Les pages du RGESN sont générées à partir de [referentiel-ecoconception.json
 Les codes sources de ce dépôt sont placés sous licence MIT.
 
 Les contenus humainement lisibles sont placés sous [licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+
+## Analytics
+
+[Suivi des statistiques de fréquentation, sur Matomo](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=281&period=day&date=yesterday#?period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1&idSite=281).
