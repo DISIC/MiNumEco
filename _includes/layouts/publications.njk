@@ -6,27 +6,40 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
-<h2>Nos publications</h2>
-
+{# définit une variable postslist qui contient toutes les publications récupérées depuis la collection collections.all.  #}
+{# Le filtre eleventyNavigationExtended("publications") permet de filtrer ou de structurer ces éléments en fonction de la catégorie "publications". #}
 {% set postslist = collections.all | eleventyNavigationExtended("publications") %}
 
 <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
 
+{# parcourt chaque élément de la liste postslist en ordre inverse #}
+{# (c'est-à-dire du plus récent au plus ancien). #}
 {% for post in postslist | reverse %}
+
+  {# vérifie si une publication a la propriété focus définie à true. #}
+  {# Si c'est le cas, cette publication est affichée de manière plus remarquable : #}
   {% if post.data.focus %}
-  <div class="fr-col-12">
-    <div class="fr-card fr-card--horizontal fr-enlarge-link">
+
+  {# La publication est affichée sur toute la largeur  #}
+  <div class="fr-col-12 fr-col-md-4">
+
+    {# sous forme d'une carte horizontale #}
+    <div class="fr-card fr-enlarge-link">
         <div class="fr-card__body">
+            {# affiche le titre #}
             <h2 class="fr-card__title">
+                {# lien vers l'article #}
                 <a href="{{ post.url | url }}" class="fr-card__link">{{ post.title }}</a>
             </h2>
             {% if post.data.description %}
             <p class="fr-card__desc">
+              {# description #}
               {{ post.data.description }}
             </p>
             {% endif %}
         </div>
         <div class="fr-card__img">
+            {# image #}
             <img src="{{ post.image }}" loading="lazy" alt="">
         </div>
     </div> 
@@ -36,13 +49,21 @@ layout: layouts/base.njk
 
 </div>
 
-<h2>Autres ressources</h2>
+{# indiquer le début de l'affichage des autres publications qui n'ont pas la propriété focus #}
+<h2>Ressources utiles par thématiques</h2>
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
 {% for post in postslist | reverse %}
+
+  {# Un second bloc conditionnel s'assure que seules les publications 
+  sans la propriété focus sont affichées dans cette section. #}
   {% if not post.data.focus %}
+
+  {# Ces publications sont affichées en colonnes sur un tiers de la largeur de la page 
+  pour les écrans de taille moyenne #}
   <div class="fr-col-12 fr-col-md-4">
+    {# sous forme de cartes verticales #}
     <div class="fr-card fr-enlarge-link">
         <div class="fr-card__body">
             
