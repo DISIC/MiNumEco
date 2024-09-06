@@ -10,11 +10,11 @@ date: 2024-07-29
 
 ## Podcast sur acast
 
-Ne nécessite pas de téléchargement ou de compte;
+Ne nécessite pas de téléchargement ou de compte.
 
 ### Episode 1 : Innovation et empreinte environnementale 
 
-Table ronde enregistrée le 3 juin 2024, avec :
+Table ronde enregistrée le 3 juin 2024, avec l'intervention de :
 * Virginie Rozière, Directrice du numérique du ministère des Affaires Etrangères
 * Juliette Fropier, Cheffe de projet IA, Ecolab
 * Bastien Guerry, responsable de la mission logiciels libres, DINUM
