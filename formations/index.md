@@ -9,7 +9,6 @@ eleventyNavigation:
   title: Formations
   order: 60
 ---
-![Visuel de la formation](/img/formations/formations-banniere.webp)
 
 <div class="fr-highlight">
 
@@ -18,6 +17,31 @@ Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco prop
 [Nous contacter](/contact).
 
 </div>
+<!-- section pour afficher les actualités de l'agenda qui portent la condition "type : formation" -->
+<section class="mise-en-avant fr-px-4w fr-py-1w fr-my-3w">
+  <h2>Actualités</h2>
+
+  <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+    {% for post in collections.posts | reverse %}
+      {% if post.data.type == "formation" %}
+        <div class="fr-col-12 fr-col-md-4">
+          <div class="fr-card fr-enlarge-link">
+            <div class="fr-card__body">
+              <h2 class="fr-card__title">
+                <a href="{{ post.url }}" class="fr-card__link">{{ post.data.title }}</a>
+              </h2>
+              <p class="fr-card__detail">{{ post.data.date | readableDate }}</p>
+            </div>
+            <div class="fr-card__img">
+              <img src="{{ post.data.image }}" alt="">
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <p><a href="/actualités/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir plus d'actualités</a></p>
+</section>
 
 ## Formation : sensibilisation à l'écoconception de services numériques, 1/2 journée pour les agents publics
 
