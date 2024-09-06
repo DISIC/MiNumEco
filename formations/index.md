@@ -9,7 +9,7 @@ eleventyNavigation:
   title: Formations
   order: 60
 ---
-![Visuel de la formation](/img/formationbanniere.jpg)
+![Visuel de la formation](/img/formations/formations-banniere.webp)
 
 <div class="fr-highlight">
 
