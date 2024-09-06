@@ -1,7 +1,7 @@
 ---
 title: "Podcast MiNumEchos : épisode 1 innovation et empreinte environnementale"
 description: "Podcast MiNumEchos : épisode 1 innovation et empreinte environnementale"
-image: /img/banniere-podcast.jpg
+image: /img/podcast/banniere-podcast.webp
 type: news
 date: 2024-07-29
 ---
