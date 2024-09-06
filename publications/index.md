@@ -1,7 +1,7 @@
 ---
 title: Guides et référentiels
 layout: layouts/publications.njk
-permalink: /ressources/
+permalink: /publications/
 eleventyNavigation:
   key: publications
   title: Nos ressources
