@@ -1,5 +1,5 @@
 ---
-title: "Formation à l'écoconception 8 octobre 2024"
+title: "Formation à l'écoconception 10 décembre 2024"
 description: Formation d'1/2 journée pour les agents publics
 date: 2024-10-08
 dateLabel: mardi 8 octobre 2024 de 09h00 à 12h30
