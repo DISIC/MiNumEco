@@ -1,5 +1,5 @@
 ---
-title: Nos ressources
+title: Guides et référentiels
 layout: layouts/publications.njk
 permalink: /publications/
 eleventyNavigation:
