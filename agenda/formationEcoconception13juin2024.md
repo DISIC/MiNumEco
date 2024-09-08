@@ -7,6 +7,7 @@ location: En présentiel au 20 avenue de Ségur 75007
 link: https://design.numerique.gouv.fr/formations/ecoconception/atelier-ecoconception/
 linkTitle: Inscription
 image: /img/formations/formation-ecoconception.webp
+type: formation
 ---
 
 ![Visuel de la formation](/img/formations/formation-ecoconception.webp)

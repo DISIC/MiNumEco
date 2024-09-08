@@ -7,7 +7,7 @@ location: En ligne
 link: https://forum-transition-numerique.eventmaker.io/programme/6606910c711fca00964b79ca
 linkTitle: Voir en replay
 image: /img/posts/VisuelForumTransitionNumerique.png
-
+type: event
 ---
 
 ![Visuel du forum de la transition numérique](/img/VisuelForumTransitionNumerique.png)

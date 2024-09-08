@@ -6,6 +6,7 @@ dateLabel: jeudi 28 mars de 14h à 17h
 location: En présentiel à Lille
 link: https://www.cnfpt.fr/se-former/se-former-autrement/participer-a-nos-evenements/sengager-strategie-numerique-durable-responsable-theorie-a-pratique/hauts-france
 linkTitle: Programme sur le site cnfpt
+type: event
 ---
 
 ## Programme de la table ronde

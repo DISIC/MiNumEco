@@ -7,6 +7,7 @@ location: 378, rue de Vaugirard, 75015 Paris, France
 link: https://vivatechnology.com/
 linkTitle: Site du salon Vivatch
 image: /img/VivaTechPavillonNumeriqueEtat.png
+type: event
 
 ---
 
