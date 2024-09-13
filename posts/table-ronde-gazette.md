@@ -1,7 +1,7 @@
 ---
 title: Table ronde Sobriété Numérique, la Gazette
 description: Table ronde Sobriété Numérique, lors du forum de la transition numérique 2024 organisé par la Gazette en partenariat avec la DINUM
-image: /img/posts/table-ronde-sobriete-numerique-gazette.jpg
+image: /img/posts/table-ronde-gazette/table-ronde-sobriete-numerique-gazette.webp
 type: news
 date: 2024-07-12
 ---
@@ -30,6 +30,6 @@ Table ronde “Sobriété Numérique” lors du Forum de la Transition Numériqu
 
 Extrait de 2mn hébergé sur LinkedIn : 
 
-[![capture d'écran de la table ronde, avec un lien vers un extrait](/img/posts/capture-ecran-table-ronde-vidéo.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1)
+[![capture d'écran de la table ronde, avec un lien vers un extrait](/img/posts/table-ronde-gazette/table-ronde-gazette.webp)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7216867854837522433?compact=1)
 
 [Accessible en intégralité aux abonnés de la Gazette.](https://forum-transition-numerique.eventmaker.io/fr).

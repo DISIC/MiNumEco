@@ -1,7 +1,7 @@
 ---
 title: "Publication d'un catalogue d'outils et d'une traduction opérationnelle pour la stratégie numérique responsable des collectivités"
 description: "Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret."
-image: /img/posts/strategie-numerique-responsable-collectivites.webp
+image: /img/posts/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
 type: news
 date: 2023-07-13
 ---

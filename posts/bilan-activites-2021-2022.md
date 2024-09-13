@@ -1,7 +1,7 @@
 ---
 title: Bilan d’activité 2021 – 2022 de la MiNumEco
 description: Depuis 2020, la mission interministérielle numérique écoresponsable œuvre pour réduire l’empreinte environnementale du numérique public.
-image: /img/posts/bilan-2021-2022/1-1-chiffres-cles.png
+image: /img/posts/bilan-activites-2021-2022/1-1-chiffres-cles.webp
 type: news
 date: 2023-04-06
 ---
@@ -10,7 +10,7 @@ Depuis 2020, la mission interministérielle numérique écoresponsable œuvre po
 
 ## Les chiffres clés
 
-![](/img/posts/bilan-2021-2022/1-1-chiffres-cles.png)
+![](/img/posts/bilan-activites-2021-2022/1-1-chiffres-cles.webp)
 
 ### Publications
 
@@ -30,11 +30,11 @@ Participation de l’équipe à **47** événements ayant touchés plus de **460
 
 ### Site Internet
 
-![](/img/posts/bilan-2021-2022/1-2-chiffres-cles.png)
+![](/img/posts/bilan-activites-2021-2022/1-2-chiffres-cles.webp)
 
 Lancé en avril 2021, le site a reçu plus de **67000** visiteurs uniques en 2022, soit un trafic multiplié par 2,5 par rapport à 2021 (au prorata).
 
-![](/img/posts/bilan-2021-2022/1-3-chiffres-cles.png)
+![](/img/posts/bilan-activites-2021-2022/1-3-chiffres-cles.webp)
 
 <section class="fr-accordion">
     <h3 class="fr-accordion__title">
@@ -85,7 +85,7 @@ Lancé en avril 2021, le site a reçu plus de **67000** visiteurs uniques en 202
 
 ### Réseaux sociaux
 
-![](/img/posts/bilan-2021-2022/1-4-chiffres-cles.png)
+![](/img/posts/bilan-activites-2021-2022/1-4-chiffres-cles.webp)
 
 Présence sur **4** réseaux sociaux (données au 24 mars 2023) :
 
@@ -98,14 +98,14 @@ Présence sur **4** réseaux sociaux (données au 24 mars 2023) :
 
 #### 2021
 
-![](/img/posts/bilan-2021-2022/2-1-faits-marquants-2021.png)
+![](/img/posts/bilan-activites-2021-2022/2-1-faits-marquants-2021.webp)
 
 - Lancement du site Internet et publication du guide d'achats numérique responsable (avril 2021)
 - Publication du RGESN, le référentiel général d’écoconception de service numérique, en version bêta (octobre 2021)
 
 #### 2022
 
-![](/img/posts/bilan-2021-2022/2-2-faits-marquants-2022.png)
+![](/img/posts/bilan-activites-2021-2022/2-2-faits-marquants-2022.webp)
 
 - Publication du guide de bonnes pratiques numérique responsable pour les organisations (février 2022)
 - Début de diffusion du programme de capsules vidéo "Vers un numérique écoresponsable" (mai 2022)
@@ -118,7 +118,7 @@ Présence sur **4** réseaux sociaux (données au 24 mars 2023) :
 
 ## Un accompagnement au plus près des ministères
 
-![](/img/posts/bilan-2021-2022/3-2-accompagnement-plans-actions.png)
+![](/img/posts/bilan-activites-2021-2022/3-2-accompagnement-plans-actions.webp)
 
 **11** ministères accompagnés sur leur feuille de route
 
@@ -138,7 +138,7 @@ La MiNumEco a procédé en fin d’année 2021 jusqu’à début 2022 au **recen
 
 ### Bilan des plans d’action 2022
 
-![](/img/posts/bilan-2021-2022/3-3-accompagnement-bilan.png)
+![](/img/posts/bilan-activites-2021-2022/3-3-accompagnement-bilan.webp)
 
 Plus de **300** actions identifiés, dont **30% réalisées** 
 

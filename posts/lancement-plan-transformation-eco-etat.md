@@ -1,14 +1,14 @@
 ---
 title: "Lancement du plan de transformation écologique de l'État"
 description: Lancement par le Premier Ministre, Gabriel Attal et le Ministre de la Fonction Publique, Stanislas Guerini, du plan de transformation écologique de l'État. Pour réduire l'empreinte environnementale de l'Administration et des agents publics. Lancement le 28 mars 2024, au museum d'Histoire Naturelle. 
-image: /img/posts/lancement-plan-transfoeco-museum.jpg
+image: /img/posts/lancement-plan-transformation-eco-etat/lancement-plan-transfoeco-museum.webp
 type: news
 date: 2024-03-29
 ---
 
 ![Photographie du lancement du plan de transformation écologique de l'État par le Premier Ministre, le 28 mars 2024]({{ image }})
 
-Lancement du plan de transformaiton écologique de l'État par le Premier Ministre, Gabriel Attal, et le ministre de la Transformation Publique, Stanislas Guerini. 
+Lancement du plan de transformation écologique de l'État par le Premier Ministre, Gabriel Attal, et le ministre de la Transformation Publique, Stanislas Guerini. 
 28 mars 2024, Museum d'Histoire Naturelle, Paris. 
 
 ## Le plan de transformation écologique de l'État
@@ -31,7 +31,7 @@ Pour réussir la mobilisation, une formation massive de tous les agents publics 
 
 ## La place du numérique dans le plan de transformation écologique 
 
-![Mesure 8 du plan de transformation écologique pour un nuémrique responsable.](/img/posts/Engagement8PlanTransfoEcoEtat.jpg)
+![Mesure 8 du plan de transformation écologique pour un nuémrique responsable.](/img/posts/lancement-plan-transformation-eco-etat/Engagement8PlanTransfoEcoEtat.webp)
 
 - Développer le numérique responsable;
 - Allonger la durée de vie du matériel;
@@ -46,7 +46,7 @@ Pour réussir la mobilisation, une formation massive de tous les agents publics 
 - Mieux gérer nos bâtiments publics : Réduire les consommations et émissions des bâtiments grâce à une stratégie de rénovation.
 - Mieux protéger nos environnements de travail : Développer le jardinage écoresponsable en supprimant des espaces goudronnés pour y installer des zones de désimperméabilisassions, dans le but de laisser passer l’eau dans les sols.
 
-![Infographie avec les 15 engagements services publics écoresponsables](/img/posts/SPE-1920x1080-vertical-HD.jpg)
+![Infographie avec les 15 engagements services publics écoresponsables](/img/posts/lancement-plan-transformation-eco-etat/SPE-1920x1080-vertical-HD.png)
 
 ## Documents 
 - [Discours du premier ministre](https://www.vie-publique.fr/discours/293553-gabriel-attal-28032024-plan-de-transformation-ecologique-de-l-etat)

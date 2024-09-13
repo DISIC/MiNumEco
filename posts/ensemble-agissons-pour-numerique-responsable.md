@@ -1,7 +1,7 @@
 ---
 title: Ensemble, agissons pour un numérique plus responsable
 description: Série de visuels réalisés grâce au kit de sensibilisation sur la sobriété numérique produit par le Ministère de la Culture.
-image: /img/posts/numerique-plus-responsable/apercu-visuels.webp
+image: /img/posts/ensemble-agissons-pour-numerique-responsable/apercu-visuels.webp
 type: news
 date: 2023-08-18
 ---
@@ -10,7 +10,7 @@ Série de visuels réalisés grâce au kit de sensibilisation sur la sobriété 
 
 ## Allonger la durée de vie des appareils et réduire la pression sur les ressources 
 
-![](/img/posts/numerique-plus-responsable/1-allonger-duree-vie.webp)
+![](/img/posts/ensemble-agissons-pour-numerique-responsable/1-allonger-duree-vie.webp)
 
 S’il faut réduire le rythme de renouvellement des matériels informatiques, c’est parce que les impacts environnementaux du numérique viennent à plus de 75% de la fabrication des matériels.
 
@@ -19,7 +19,7 @@ Allonger la durée de vie, c’est par exemple tenir compte de l’indice de ré
 
 ## Dématérialisation est-il le mot le plus approprié sachant que le numérique n'est pas immatériel ?
 
-![](/img/posts/numerique-plus-responsable/2-dematerialisation.webp)
+![](/img/posts/ensemble-agissons-pour-numerique-responsable/2-dematerialisation.webp)
 
 1. Prenons conscience de la matérialité du numérique.
 2. Prenons conscience des conséquences environnementales et sociales de la numérisation.
@@ -28,7 +28,7 @@ Cette prise de conscience permet de nous poser les bonnes questions quand on env
 
 ## Un numérique plus responsable doit s'inscrire dans une logique de sobriété
 
-![](/img/posts/numerique-plus-responsable/3-sobriete.webp)
+![](/img/posts/ensemble-agissons-pour-numerique-responsable/3-sobriete.webp)
 
 Refuser, Réduire, Réemployer, Recycler…
 
@@ -37,7 +37,7 @@ Et éviter les effets rebond, définis comme « l’augmentation de consommation
 
 ## Protéger, entretenir et prendre soin des matériels
 
-![](/img/posts/numerique-plus-responsable/4-proteger-materiel.webp)
+![](/img/posts/ensemble-agissons-pour-numerique-responsable/4-proteger-materiel.webp)
 
 L’obsolescence matérielle ou logicielle des équipements n’est pas l’unique raison d’un remplacement. La casse est également une des principales causes.
 
@@ -50,7 +50,7 @@ En savoir plus : [Bonne pratique Protéger, entretenir et prendre soin des équi
 
 ## Chasser les sources d'obsolescence du matériel
 
-![](/img/posts/numerique-plus-responsable/5-chasser-source-obsolescence.webp)
+![](/img/posts/ensemble-agissons-pour-numerique-responsable/5-chasser-source-obsolescence.webp)
 
 Une grande majorité du matériel informatique quitte une organisation non pas parce qu’il ne fonctionne plus mais parce qu’il ralentit. Ce ralentissement s’explique par la lourdeur des systèmes d’exploitation et l’accumulation des logiciels installés et qui fonctionnent en arrière-plan.
 
