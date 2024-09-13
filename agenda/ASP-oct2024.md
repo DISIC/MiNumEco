@@ -11,3 +11,6 @@ linkTitle: Inscription
 ---
 
 ![Visuel de la conference ASP](/img/agenda/billet-asp-oct2024.webp)
+
+
+<a href="https://www.canva.com/design/DAGQj744L0Q/qhErLx5OEbHN0OQRwbEDGg/view?utm_content=DAGQj744L0Q&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" target="_blank">Programme en PDF</a>
