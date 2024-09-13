@@ -1,6 +1,6 @@
 ---
 layout: layouts/video.njk
-title: "Épisode #2 : les enjeux d'un numérique responsable"
+title: "Épisode #2 : Les enjeux d'un numérique responsable"
 description: Quels sont les enjeux d'un numérique plus responsable ? Réponse des référents ministériels numérique responsable
 date: 2024-07-21
 image: /img/videos/miniserie/vignette-miniserie-episode2.webp
