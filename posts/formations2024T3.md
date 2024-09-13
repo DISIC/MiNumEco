@@ -25,6 +25,7 @@ Aucun
 C’est un module de sensibilisation, si vous recherchez une formation plus approfondie ou un accompagnement, contactez-nous.
 
 <div class="fr-highlight">
+
 ## Dates
 * 17 septembre
 * 8 octobre
