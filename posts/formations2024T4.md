@@ -1,9 +1,9 @@
 ---
-title: "Formations septembre et octobre 2024"
+title: "Formations décembre 2024"
 description: "Les prochaines dates de sensibilisation à l'écoconception de services numériques"
 image: /img/formations/formation-ecoconception.webp
 type: news
-date: 2024-06-29
+date: 2024-09-13
 ---
 
 ![]({{ image }})
@@ -28,6 +28,7 @@ C’est un module de sensibilisation, si vous recherchez une formation plus appr
 ## Dates
 * 17 septembre
 * 8 octobre
+* 10 décembre
 
 ## Informations pratiques
 * 9h00 à 12h30
