@@ -2,17 +2,17 @@
 layout: layouts/impact-bonnes-pratiques.njk
 title: 4. Limiter les flux de données
 date: 2021-11-23
-image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
 type: publication
 eleventyNavigation:
   parent: impact-bonnes-pratiques
   title: 4. Limiter les flux de données
   date: 2021-11-23
-  image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+  image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
   order: 70
 ---
 
-<img src="/img/impact-bonnes-pratiques/sd/BPN4-LimiterLesFluxDeDonnees.png" class="fr-responsive-img" alt="" />
+<img src="/img/publications/impact-bonnes-pratiques/sd/BPN4-LimiterLesFluxDeDonnees.png" class="fr-responsive-img" alt="" />
 
 <section class="fr-accordion">
   <h2 class="fr-accordion__title">

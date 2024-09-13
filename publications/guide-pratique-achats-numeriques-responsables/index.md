@@ -3,7 +3,7 @@ layout: layouts/guide-achats.njk
 title: Guide pratique pour des achats numériques responsables
 description: Ce guide consigne de nombreuses recommandations à l’adresse des acteurs publics, recommandations également ouvertes aux acteurs du secteur privé qui peuvent se les approprier dans leur propre démarche d’achat.
 date: 2021-04-29
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
 type: publication
 focus: true
 eleventyNavigation:
@@ -11,7 +11,7 @@ eleventyNavigation:
   parent: publications
   title: Guide pratique pour des achats numériques responsables
   date: 2021-04-29
-  image: /img/guide-achats/guide-achats-numerique-responsable.png
+  image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
   order: 30
 ---
 
@@ -34,7 +34,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-ordinateur.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-ordinateur.svg" alt="">
       </div>
     </div> 
   </div>
@@ -46,7 +46,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-imprimante.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-imprimante.svg" alt="">
       </div>
     </div> 
   </div>
@@ -58,7 +58,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-reseau.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-reseau.svg" alt="">
       </div>
     </div> 
   </div>
@@ -70,7 +70,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-serveur.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-serveur.svg" alt="">
       </div>
     </div> 
   </div>
@@ -82,7 +82,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-prestations-intellectuelles.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-prestations-intellectuelles.svg" alt="">
       </div>
     </div> 
   </div>
@@ -94,7 +94,7 @@ Vous y trouverez plusieurs familles d’achats avec pour chacune, des recommanda
         </h3>
       </div>
       <div class="fr-card__img">
-        <img src="/img/guide-achats/picto-logiciels.svg" alt="">
+        <img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-logiciels.svg" alt="">
       </div>
     </div> 
   </div>
@@ -124,7 +124,7 @@ Publié sous [licence ouverte Etalab version 2.0](https://github.com/etalab/lice
 
   </div>
   <div class="fr-col-12 fr-col-md-6">
-    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/guide-achats/couverture-guide-achats-numerique-responsable.png" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
+    <a target="_self" href="/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf" title="Télécharger le Guide pratique pour des achats numériques responsables (pdf 1,8 Mo)"><img src="/img/publications/guide-pratique-achats-numeriques-responsables/couverture-guide-achats-numerique-responsable.webp" class="fr-responsive-img" alt="" style="border: 1px solid #ccc"></a>
   </div>
 </div>
 

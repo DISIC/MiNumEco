@@ -3,14 +3,14 @@ layout: layouts/impact-bonnes-pratiques.njk
 title: L'impact des bonnes pratiques numériques écoresponsables au sein de votre organisation
 description:  Quel est l’impact réel des éco-gestes individuels dans un cadre professionnel ? Quelles sont les bonnes pratiques à mettre en œuvre à l’échelle de l’organisation ? Comment prioriser les bonnes pratiques ?
 date: 2021-11-23
-image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
 type: publication
 eleventyNavigation:
   key: impact-bonnes-pratiques
   parent: publications
   title: L'impact des bonnes pratiques numériques écoresponsables au sein de votre organisation
   date: 2021-11-23
-  image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+  image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
   order: 80
 ---
 
@@ -24,7 +24,7 @@ Sensibiliser les individus en promouvant les éco-gestes est une première étap
 
 Nous tentons de répondre à ces questions à travers cette série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
 
-<p><img src="/img/impact-bonnes-pratiques/sd/impact-bonnes-pratiques.png" class="fr-responsive-img" alt="" /></p>
+<p><img src="/img/publications/impact-bonnes-pratiques/sd/impact-bonnes-pratiques.png" class="fr-responsive-img" alt="" /></p>
 
 <nav>
   <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right" href="/publications/impact-bonnes-pratiques/bonne-pratique-7-adapter-sa-communication-ecrite/">Commencer le parcours :<br />7. Adapter sa communication écrite</a>
@@ -34,7 +34,7 @@ Nous tentons de répondre à ces questions à travers cette série d’infograph
 
 <a href="/docs/2021/impact-bonnes-pratiques-numeriques-ecoresponsables.pdf" class="fr-link fr-fi-download-line fr-link--icon-left">Télécharger l'impact des bonnes pratiques numériques écoresponsables (pdf, 14 Mo)</a>
 
-<a href="/img/impact-bonnes-pratiques/hd/impact-bonnes-pratiques-numeriques-ecoresponsables.zip" class="fr-link fr-fi-download-line fr-link--icon-left">Télécharger les illustrations en haute-définition (zip, 4 Mo)</a>
+<a href="/img/publications/impact-bonnes-pratiques/hd/impact-bonnes-pratiques-numeriques-ecoresponsables.zip" class="fr-link fr-fi-download-line fr-link--icon-left">Télécharger les illustrations en haute-définition (zip, 4 Mo)</a>
 
 ## Licence
 

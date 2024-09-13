@@ -2,7 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Logiciels
 date: 2023-02-20
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
 eleventyNavigation:
   key: guideachat-fiches-pratiques-logiciels
   parent: guideachat-fiches-pratiques
@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 60
 ---
 
-<p><img src="/img/guide-achats/picto-logiciels.svg" alt="" style="max-width: 200px" /></p>
+<p><img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-logiciels.svg" alt="" style="max-width: 200px" /></p>
 
 En raison des spécificités du domaine logiciel (pur produit immatériel et préexistence à l’acte d’achat), la fiche pratique relative à l’achat responsable des logiciels sera traitée dans la version 1 de ce guide prévue en 2023. La fiche pratique logiciel traitera l’achat de logiciel dans le cas de l’acquisition d’un exécutable et dans le cas d’un service (Saas-Software as a service).
 

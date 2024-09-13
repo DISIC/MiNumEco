@@ -2,7 +2,7 @@
 layout: layouts/referentiel-ecoconception.njk
 title: Retours d'expérience
 description: Quelques exemples de mise en œuvre d'une démarche d'écoconception de service numérique.
-image: /img/referentiel-ecoconception.png
+image: /img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp
 date: 2022-11-28
 eleventyNavigation:
   parent: referentiel-ecoconception
@@ -46,7 +46,7 @@ La start-up d'État [Territoires en Transition](https://territoiresentransitions
 
 L'équipe a mis en place un outil de suivi sur des indicateurs importants en écoconception mais aussi pour d'autres pratiques (poids page, nombre de requêtes, nombre d'éléments dans le DOM HTML - _Document Object Model_, temps de chargement de la _First Meaninful Paint_ et du _Time to Interactive_, etc.). Toutes les pages sont testées à la fin de chaque sprint (toutes les 2 semaines) pour suivre l'évolution du produit sur le temps long et orienter les choix si nécessaire.
 
-![Outil de suivi du projet sur des indicateurs en écoconception](/img/ecoconception/outil-monitoring.png)
+![Outil de suivi du projet sur des indicateurs en écoconception](/img/publications/referentiel-general-ecoconception/outil-monitoring.webp)
 
 L'équipe du projet a pu comparé son cheminement avec celui proposé par le référentiel général d'écoconception de services numériques. Elle considère qu'elle applique "nativement" la moitié des critères et un quart des critères sont en cours de traitement. Certains critères n'ont pas pu être appliqués car des choix techniques différents ont été réalisés. Par exemple, en fonction des librairies utilisées, il n'est pas possible de s'assurer des critères environnementaux. Les critères du RGESN ne sont parfois pas applicables parce que le projet hérite de choix des institutions qui encadrent le projet (authentification keycloak, système de design de l'État, etc.). Le point positif du référentiel est qu'il aide concrètement à structurer la mission du chargé d'écoconception. Ce dernier doit généralement naviguer de la stratégie, à l'UI, à l'hébergement. Il est facile d'oublier des éléments en route. Reprendre le référentiel a permis de rappeler des tâches ou les questions qui avaient été laissées de côté.
 

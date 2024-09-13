@@ -3,14 +3,14 @@ layout: layouts/post.njk
 title: Vidéos de la journée DPSI - Numérique responsable
 description: Le 9 février 2021, s'est tenue à la DINUM, une journée de sensibilisation sur le thème du Numérique responsable pour les DPSI, les directeurs et directrices des Projets des Système d'Information de l'État.
 date: 2021-10-01
-image: /img/journee-dpsi/journee-dpsi.jpg
+image: /img/publications/journee-dpsi/journee-dpsi.webp
 type: publication
 eleventyNavigation:
   key: videos-dpsi-nr
   parent: publications
   title: Vidéos de la journée DPSI - Numérique responsable
   date: 2021-10-01
-  image: /img/journee-dpsi/journee-dpsi.jpg
+  image: /img/publications/journee-dpsi/journee-dpsi.webp
   order: 50
 ---
 
@@ -30,7 +30,7 @@ Intervenants (dans l'ordre) :
   width="480"
   height="269"
   src="https://www.dailymotion.com/embed/video/x81ez8a"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81ez8a?autoplay=1><img src=/img/journee-dpsi/video-1.jpg alt='Présentation du numérique responsable : enjeux, réalisations'><span aria-hidden='true'>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81ez8a?autoplay=1><img src=/img/publications/journee-dpsi/video-1.webp alt='Présentation du numérique responsable : enjeux, réalisations'><span aria-hidden='true'>▶</span></a>"
   allowfullscreen
   title="Présentation du numérique responsable : enjeux, réalisations"
 ></iframe>
@@ -47,7 +47,7 @@ Intervenants (dans l'ordre) :
   width="480"
   height="269"
   src="https://www.dailymotion.com/embed/video/x81dlxv"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81dlxv?autoplay=1><img src=/img/journee-dpsi/video-2.jpg alt='Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet'><span aria-hidden='true'>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.dailymotion.com/embed/video/x81dlxv?autoplay=1><img src=/img/publications/journee-dpsi/video-2.webp alt='Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet'><span aria-hidden='true'>▶</span></a>"
   allowfullscreen
   title="Retour d'expérience – Mise en œuvre d’une stratégie numérique responsable au sein d’une organisation ou d’un projet"
 ></iframe>

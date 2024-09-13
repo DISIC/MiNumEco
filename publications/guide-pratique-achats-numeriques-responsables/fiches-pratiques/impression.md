@@ -2,7 +2,7 @@
 layout: layouts/guide-achats.njk
 title: Solutions d’impression
 date: 2021-04-29
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
 eleventyNavigation:
   key: guideachat-fiches-pratiques-impression
   parent: guideachat-fiches-pratiques
@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 20
 ---
 
-<p><img src="/img/guide-achats/picto-imprimante.svg" alt="" style="max-width: 200px" /></p>
+<p><img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-imprimante.svg" alt="" style="max-width: 200px" /></p>
 
 **Périmètre :** Solutions d’impression multifonctions de proximité, systèmes d’impression haut-volume, imprimantes ultra-portables, consommables d’encrage, papiers professionnels
 

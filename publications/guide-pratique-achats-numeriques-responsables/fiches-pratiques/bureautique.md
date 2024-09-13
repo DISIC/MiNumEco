@@ -2,7 +2,7 @@
 layout: layouts/guide-achats.njk
 title: "Matériels bureautiques : PC fixes - portables - écrans - tablettes"
 date: 2021-04-29
-image: /img/guide-achats/guide-achats-numerique-responsable.png
+image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
 eleventyNavigation:
   key: guideachat-fiches-pratiques-bureautique
   parent: guideachat-fiches-pratiques
@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 10
 ---
 
-<p><img src="/img/guide-achats/picto-ordinateur.svg" alt="" style="max-width: 200px" /></p>
+<p><img src="/img/publications/guide-pratique-achats-numeriques-responsables/picto-ordinateur.svg" alt="" style="max-width: 200px" /></p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Comment lire chaque fiche ?</div>

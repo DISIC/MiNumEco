@@ -2,13 +2,13 @@
 layout: layouts/impact-bonnes-pratiques.njk
 title: Équipe projet
 date: 2021-11-23
-image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
 type: publication
 eleventyNavigation:
   parent: impact-bonnes-pratiques
   title: Équipe projet
   date: 2021-11-23
-  image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+  image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
   order: 200
 ---
 

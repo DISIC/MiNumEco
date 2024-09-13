@@ -4,7 +4,7 @@ layout: layouts/outil-collectivites.njk
 title: Traduction opérationnelle de la loi REEN
 description: Notice d'explication et de traduction opérationnelle de la loi REEN et de ses différents articles
 date: 2023-07-13
-image: /img/strategie-numerique-responsable-collectivites.webp
+image: /img/publications/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
 auteur: Programme TNT, MinNumÉco, Les Interconnectés
 perimetre: Organisation, Territoire
 utilisateursCibles: Élus et agents de collectivités territoriales

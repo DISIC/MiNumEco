@@ -3,12 +3,12 @@ layout: layouts/numerique-responsable-collectivites.njk
 title: "5. Mise en place d’une démarche numérique responsable auprès de tous afin de sensibiliser les citoyens aux enjeux environnementaux du numérique et de l’inclusion numérique"
 description: Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret.
 date: 2023-07-13
-image: /img/strategie-numerique-responsable-collectivites.webp
+image: /img/publications/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
 eleventyNavigation:
   parent: strategieNumEcoCollectivites
   title: "5. Sensibilisation des citoyens aux enjeux environnementaux du numérique et de l’inclusion numérique"
   date: 2023-07-13
-  image: /img/strategie-numerique-responsable-collectivites.webp
+  image: /img/publications/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
   order: 50
 ---
 
@@ -34,5 +34,5 @@ eleventyNavigation:
 - [Kit de communication de l'Ademe](https://longuevieauxobjets.gouv.fr/entreprise/numerique-responsable/kit)
 - [Impacts environnementaux du numérique (INRIA)](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
 - [MOOC Numérique Responsable (INR)](https://www.academie-nr.org/)
-- [Vidéos : Vers un numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/)
+- [Vidéos de 2022 : Vers un numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/)
 - [Pix](https://pix.fr/)

@@ -3,7 +3,7 @@ layout: layouts/referentiel-ecoconception.njk
 title: NumEcoDiag
 description: NumEcoDiag vous permet d’évaluer facilement l’écoconception de votre service ou produit numérique. Développé par la MiNumEco, il se base sur les 79 critères du Référentiel Général d’Écoconception de Services Numériques (RGESN).
 date: 2023-02-28
-image: /img/referentiel-ecoconception.png
+image: /img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp
 eleventyNavigation:
   parent: referentiel-ecoconception
   title: NumEcoDiag

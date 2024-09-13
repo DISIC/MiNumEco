@@ -2,17 +2,17 @@
 layout: layouts/impact-bonnes-pratiques.njk
 title: 2. Éco-concevoir les services numériques
 date: 2021-11-23
-image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
 type: publication
 eleventyNavigation:
   parent: impact-bonnes-pratiques
   title: 2. Éco-concevoir les services numériques
   date: 2021-11-23
-  image: /img/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.png
+  image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
   order: 90
 ---
 
-<img src="/img/impact-bonnes-pratiques/sd/BPN2-EcoConcevoirServicesNumeriques.png" class="fr-responsive-img" alt="" />
+<img src="/img/publications/impact-bonnes-pratiques/sd/BPN2-EcoConcevoirServicesNumeriques.png" class="fr-responsive-img" alt="" />
 
 <section class="fr-accordion">
   <h2 class="fr-accordion__title">

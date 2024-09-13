@@ -2,18 +2,18 @@
 layout: layouts/guide-indice-reparabilite.njk
 title: Comprendre l’indice de réparabilité
 date: 2023-01-05
-image: /img/prise-en-compte-indice-reparabilite.png
+image: /img/publications/guide-achat-indice-reparabilite/prise-en-compte-indice-reparabilite.webp
 type: publication
 eleventyNavigation:
   parent: guideIndiceReparabilite
   title: Comprendre l’indice de réparabilité
-  image: /img/prise-en-compte-indice-reparabilite.png
+  image: /img/publications/guide-achat-indice-reparabilite/prise-en-compte-indice-reparabilite.webp
   order: 10
 ---
 
 L’indice de réparabilité de chaque produit est noté sur 10. Plus un produit est réparable, plus la note sera élevée. Afin de faciliter la lecture de l’indice, un code couleur accompagne la notation, allant du rouge vif pour les produits non réparables au vert foncé pour les produits réparables aisément.
 
-![L’indice de réparabilité](/img/indice-reparabilite/indice-reparabilite.png)
+![L’indice de réparabilité](/img/publications/guide-achat-indice-reparabilite/indice-reparabilite.webp)
 
 Le calcul de l’indice de réparabilité de chaque modèle de produit repose sur cinq critères :
 
