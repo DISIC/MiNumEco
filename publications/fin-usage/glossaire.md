@@ -2,12 +2,12 @@
 layout: layouts/fin-usage.njk
 title: Glossaire
 date: 2022-04-20
-image: /img/fin-usage/atelier-fin-usage.png
+image: /img/publications/fin-usage/atelier-fin-usage.webp
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Glossaire
-  image: /img/fin-usage/atelier-fin-usage.png
+  image: /img/publications/fin-usage/atelier-fin-usage.webp
   order: 60
 ---
 

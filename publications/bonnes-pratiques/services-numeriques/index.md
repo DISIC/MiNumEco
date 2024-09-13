@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Services numériques
 tags: guideBpNrThematique
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
+image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 date: 2022-02-17
 idThematique: g.
 eleventyNavigation:

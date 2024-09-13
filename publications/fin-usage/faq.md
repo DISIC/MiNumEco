@@ -2,12 +2,12 @@
 layout: layouts/fin-usage.njk
 title: Foire aux questions
 date: 2023-04-03
-image: /img/fin-usage/atelier-fin-usage.png
+image: /img/publications/fin-usage/atelier-fin-usage.webp
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: Foire aux questions
-  image: /img/fin-usage/atelier-fin-usage.png
+  image: /img/publications/fin-usage/atelier-fin-usage.webp
   order: 40
 ---
 

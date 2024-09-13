@@ -2,12 +2,12 @@
 layout: layouts/ecoconception-securite.njk
 title: Ressources complémentaires
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Ressources complémentaires
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 70
 ---
 

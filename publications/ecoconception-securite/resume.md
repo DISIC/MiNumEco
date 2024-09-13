@@ -2,11 +2,11 @@
 layout: layouts/ecoconception-securite.njk
 title: Résumé des synergies entre écoconception, cybersécurité et protection des données
 date: 2022-07-06
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Résumé
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 5
 ---
 
@@ -30,7 +30,7 @@ Mais les enjeux environnementaux se heurtent parfois à des injonctions contradi
 
 Des points communs et synergies ont émergé lors de l’atelier. En voici la liste résumée.
 
-![](/img/ecoconception-securite/syntheses-des-synergies.png)
+![](/img/publications/ecoconception-securite/syntheses-des-synergies.webp)
 
 - **« *By design* »** : securité, protection des données et écoconception très en amont, intégrés à la conception.
 - **Minimisation** : moindre-privilège, moindre-donnée, moindre-fonctionnalité ou fonctionnalités essentielles.

@@ -2,12 +2,12 @@
 layout: layouts/ecoconception-securite.njk
 title: Cadre de la cybersécurité, la protection des données et l’écoconception
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Cadres
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 20
 ---
 
@@ -19,7 +19,7 @@ _« Il faut penser l’écoconception le plus largement possible. Au-delà de l
 
 ## Cybersécurité
 
-![](/img/ecoconception-securite/mindmap-cybersecurite.png)
+![](/img/publications/ecoconception-securite/mindmap-cybersecurite.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -62,7 +62,7 @@ _« Pour le RGPD, la majorité des organisations ont en tête les cookies et le
 
 Comme le souligne un participant, la protection des données à caractère personnel peut être perçue comme se résumant au consentement, or il s’agit d’un sujet bien plus vaste et surtout faisant l’objet d’une réglementation (RGPD), applicable à tous les pays européens, qui a entraîné en 2019 une mise à jour de la loi Informatiques et Libertés de 1978.
 
-![](/img/ecoconception-securite/mindmap-protection-des-donnees.png)
+![](/img/publications/ecoconception-securite/mindmap-protection-des-donnees.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -91,7 +91,7 @@ Comme le souligne un participant, la protection des données à caractère perso
 
 ## Écoconception
 
-![](/img/ecoconception-securite/mindmap-ecoconception.png)
+![](/img/publications/ecoconception-securite/mindmap-ecoconception.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">

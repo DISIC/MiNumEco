@@ -2,18 +2,18 @@
 layout: layouts/ecoconception-securite.njk
 title: Définitions
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Définitions
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 10
 ---
 
 ## Écoconception
 
-![](/img/ecoconception-securite/definition-ecoconception.png)
+![](/img/publications/ecoconception-securite/definition-ecoconception.webp)
 
 ### L’écoconception vue par les experts de la cybersécurité et de la protection des données
 
@@ -67,7 +67,7 @@ Le cycle de vie :
 
 Un service numérique est constitué de l’ensemble des matériels, logiciels et infrastructures qui permettent de réaliser une action numérique : par exemple Partager un fichier avec mes collègues.
 
-![](/img/ecoconception-securite/service-numerique-trois-tiers.png)
+![](/img/publications/ecoconception-securite/service-numerique-trois-tiers.webp)
 
 L’écoconception est une démarche d’amélioration continue visant à réduire les impacts environnementaux d’un produit ou d’un service. Elle prend en compte tout le cycle de vie et fait l’objet d’une norme, la [Norme IEC 62430](https://www.iso.org/fr/standard/79064.html) (anciennement ISO/TR 14062), qui décrit les principes, exigences et recommandations associées à l’écoconception.
 
@@ -87,7 +87,7 @@ L’écoconception est une démarche d’amélioration continue visant à rédui
 
 ## Cybersécurité et protection des données
 
-![](/img/ecoconception-securite/definition-cybersecurite.png)
+![](/img/publications/ecoconception-securite/definition-cybersecurite.webp)
 
 ### La cybersécurité et la protection des données vues par les experts de l’écoconception
 

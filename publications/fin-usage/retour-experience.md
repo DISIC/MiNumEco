@@ -2,12 +2,12 @@
 layout: layouts/fin-usage.njk
 title: "Retour d’expérience : la démarche d’économie circulaire à Pôle Emploi"
 date: 2022-04-20
-image: /img/fin-usage/atelier-fin-usage.png
+image: /img/publications/fin-usage/atelier-fin-usage.webp
 type: publication
 eleventyNavigation:
   parent: finUsage
   title: "Retour d’expérience : la démarche d’économie circulaire à Pôle Emploi"
-  image: /img/fin-usage/atelier-fin-usage.png
+  image: /img/publications/fin-usage/atelier-fin-usage.webp
   order: 30
 ---
 
@@ -60,7 +60,7 @@ La démarche est organisée par la Direction des Systèmes d'Information (DSI) m
 
 ### Processus
 
-![](/img/fin-usage/process-pole-emploi.png)
+![](/img/publications/fin-usage/process-pole-emploi.webp)
 
 <div class="fr-accordions-group">
 <section class="fr-accordion">

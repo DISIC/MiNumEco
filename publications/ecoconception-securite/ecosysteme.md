@@ -2,12 +2,12 @@
 layout: layouts/ecoconception-securite.njk
 title: Ecosystème
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Ecosystème
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 50
 ---
 

@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: À propos du Guide de bonnes pratiques numérique responsable pour les organisations
 date: 2023-06-19
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
+image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 ---
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">

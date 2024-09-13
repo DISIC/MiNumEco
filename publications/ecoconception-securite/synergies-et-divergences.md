@@ -2,12 +2,12 @@
 layout: layouts/ecoconception-securite.njk
 title: Synergies et divergences
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Synergies et divergences
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 30
 ---
 
@@ -38,7 +38,7 @@ eleventyNavigation:
 
 Des bonnes pratiques ainsi que des synergies peu évidentes entre écoconception, cybersécurité et protection des données ont été identifiées.
 
-![](/img/ecoconception-securite/syntheses-des-synergies.png)
+![](/img/publications/ecoconception-securite/syntheses-des-synergies.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -237,40 +237,40 @@ Enfin, il est essentiel d’internaliser les compétences sur ces sujets.
 <h3 id="focus-autres-pratiques-synergetiques">Focus sur d’autres pratiques synergétiques</h3>
 
 **Domaines :**
-* <img src="/img/ecoconception-securite/icone-reduction-impact-environnemental.png" style="display:inline; vertical-align: middle" /> écoconception
-* <img src="/img/ecoconception-securite/icone-cybersecurite.png" style="display:inline; vertical-align: middle" /> cybersécurité
-* <img src="/img/ecoconception-securite/icone-protection-des-donnees.png" style="display:inline; vertical-align: middle" /> protection des données
+* <img src="/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp" style="display:inline; vertical-align: middle" /> écoconception
+* <img src="/img/publications/ecoconception-securite/icone-cybersecurite.webp" style="display:inline; vertical-align: middle" /> cybersécurité
+* <img src="/img/publications/ecoconception-securite/icone-protection-des-donnees.webp" style="display:inline; vertical-align: middle" /> protection des données
 
 <div class="fr-table">
 
 |Domaine|Principe|Description du principe / Impact|
 | :- | :- | :- |
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Questionnement des besoins|Pourquoi on produit tel service ? À quoi sert-il ? Est-il pertinent ? Désirable ? Faut-il numériser ?|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Ajustement au besoin|Comprendre les besoins, pourquoi on crée ou non un service|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Analyse de risques|Pour optimiser la mise en place des mesures de sécurité au bon niveau et au bon coût financier mais aussi environnemental.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Architecture |Limiter les redondances dans l’architecture des bases de données|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Site web statique|Architecture de développement sans base de données ni backend. Les pages sont générées une seule fois et l’application (base de données comprise) n’est généralement pas exposée, ce qui réduit la surface d’attaque (modèle JamStack).|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Code sur mesure|Code sur mesure plutôt que code sur étagère, éviter les surcouches logicielles. Attention aussi aux technologies de compilation et transpilation.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Logiciel libre / open source|Encourager l'utilisation de briques libres et open source, permet de mettre en place des règles de bonne conduite et assurer une transparence et une pérennité du code favorable à la maintenance longue pour réduire l’obsolescence induite sur le matériel. La mutualisation du code partagé permet également de réduire les coûts de développement.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Choix du langage de programmation le plus adapté au besoin.|Il n’y a pas d’étude sérieuse sur l’impact énergétique ou le potentiel de performance de tel ou tel langage de programmation. Il est indispensable alors, pour des questions de sécurité et d’optimisation des ressources, de choisir de façon éclairée et raisonnée, le langage de programmation qui s’adapte le mieux au besoin, sans suivre la dernière tendance, mais plutôt de privilégier des solutions robustes, documentées, maintenues et maitrisées.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Choix d’une technologie appropriée|Concept de « Low tech » ou « Wise tech », technologie appropriée, adéquate, judicieuse, rationnelle.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Privilégier les applications web aux applications natives pour mobiles|Une application web ne dépend pas d’une plateforme en particulier et n’a pas besoin d’une installation. Elle s’adapte plus facilement aux différents terminaux donc en réduit l’obsolescence. Les applications natives peuvent en revanche poser des problèmes de cybersécurité et de protection des données en utilisant les capteurs du téléphone des utilisateurs. Voir le critère du RGESN « [Le service numérique a-t-il été conçu avec des technologies standards plutôt que des technologies propriétaires ou spécifiques à une plateforme ou à un système d’exploitation ? ](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.7/)»|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Conception sans base de données|Ou bien ne pas exposer une base de données. Voir aussi la bonne pratique « site web statique »|
-|![Protection des données](/img/ecoconception-securite/icone-protection-des-donnees.png)|Conception sans dépôt de cookie|Le service numérique ne dépend pas d’un traçage ni d’un profilage des utilisateurs.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Limiter les appels à des services tiers|[Voir le critère du RGESN « Le service numérique permet-il à l’utilisateur de décider de l’activation d’un service tiers ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.5/)|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Privilégier les réseaux filaires|Privilégier les réseaux filaires permet une meilleure sécurité du système d’information et aussi une réduction de la consommation énergétique liée au transfert de données.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Minimiser les dépendances logicielles|S’assurer que les dépendances soient bien conçues. [Voir le critère du RGESN « Le service numérique utilise-t-il des ressources ou des composants existants minimisant leurs impacts environnementaux ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.1/)|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Compatibilité ascendante|La compatibilité des nouvelles versions avec les anciennes peut permettre de limiter l’obsolescence du matériel|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Interopérabilité|Capacité à fonctionner avec d’autres produits ou systèmes informatiques, existants ou futurs, sans restriction d’accès ou de mise en œuvre.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Automatisation des tests de sécurité et d’impact en phase de développement|Cela évite d’attendre la mise en production pour les corriger.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Achats|Responsabilité des prestataires et éditeurs de logiciels. Privilégier les prestataires européens|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Mesure dès la conception|Être en capacité de mesurer les impacts dès la conception. Capacité à travailler en ACV multicritère.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Optimisation|Performances, code, compression, revue de code et relecture croisées entre équipes|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Mesure|Mesure des impacts sur tout le cycle de vie à condition d’avoir des données adaptées au périmètre et aux hypothèses|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Supervision|Les outils de supervision peuvent détecter à la fois des anomalies de sécurité et de consommation de ressources. Mutualiser les deux pourrait être une source de réduction des impacts.|
-|![écoconception](/img/ecoconception-securite/icone-reduction-impact-environnemental.png)|Audit d’écoconception / Affichage environnemental|L’audit peut aider à identifier du code couteux et générer des gains financiers sur certaines opérations. Permet d’afficher un score de consommation énergétique d’un site par exemple, de façon transparente et compréhensible.|
-|![Protection des données](/img/ecoconception-securite/icone-protection-des-donnees.png)|Archivage intermédiaire|L’archivage intermédiaire permet de limiter l’accès aux données à un nombre restreint de personnes et donc de réduire la surface d’attaque|
-|![Protection des données](/img/ecoconception-securite/icone-protection-des-donnees.png)|Durée de conservation|La durée de conservation des données à caractère personnel limitée dans le temps permet de libérer de la place sur les serveurs et de réduire le coût énergétique de stockage, mais aussi la surface d’attaque|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Questionnement des besoins|Pourquoi on produit tel service ? À quoi sert-il ? Est-il pertinent ? Désirable ? Faut-il numériser ?|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Ajustement au besoin|Comprendre les besoins, pourquoi on crée ou non un service|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Analyse de risques|Pour optimiser la mise en place des mesures de sécurité au bon niveau et au bon coût financier mais aussi environnemental.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Architecture |Limiter les redondances dans l’architecture des bases de données|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Site web statique|Architecture de développement sans base de données ni backend. Les pages sont générées une seule fois et l’application (base de données comprise) n’est généralement pas exposée, ce qui réduit la surface d’attaque (modèle JamStack).|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Code sur mesure|Code sur mesure plutôt que code sur étagère, éviter les surcouches logicielles. Attention aussi aux technologies de compilation et transpilation.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Logiciel libre / open source|Encourager l'utilisation de briques libres et open source, permet de mettre en place des règles de bonne conduite et assurer une transparence et une pérennité du code favorable à la maintenance longue pour réduire l’obsolescence induite sur le matériel. La mutualisation du code partagé permet également de réduire les coûts de développement.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Choix du langage de programmation le plus adapté au besoin.|Il n’y a pas d’étude sérieuse sur l’impact énergétique ou le potentiel de performance de tel ou tel langage de programmation. Il est indispensable alors, pour des questions de sécurité et d’optimisation des ressources, de choisir de façon éclairée et raisonnée, le langage de programmation qui s’adapte le mieux au besoin, sans suivre la dernière tendance, mais plutôt de privilégier des solutions robustes, documentées, maintenues et maitrisées.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Choix d’une technologie appropriée|Concept de « Low tech » ou « Wise tech », technologie appropriée, adéquate, judicieuse, rationnelle.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Privilégier les applications web aux applications natives pour mobiles|Une application web ne dépend pas d’une plateforme en particulier et n’a pas besoin d’une installation. Elle s’adapte plus facilement aux différents terminaux donc en réduit l’obsolescence. Les applications natives peuvent en revanche poser des problèmes de cybersécurité et de protection des données en utilisant les capteurs du téléphone des utilisateurs. Voir le critère du RGESN « [Le service numérique a-t-il été conçu avec des technologies standards plutôt que des technologies propriétaires ou spécifiques à une plateforme ou à un système d’exploitation ? ](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.7/)»|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Conception sans base de données|Ou bien ne pas exposer une base de données. Voir aussi la bonne pratique « site web statique »|
+|![Protection des données](/img/publications/ecoconception-securite/icone-protection-des-donnees.webp)|Conception sans dépôt de cookie|Le service numérique ne dépend pas d’un traçage ni d’un profilage des utilisateurs.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Limiter les appels à des services tiers|[Voir le critère du RGESN « Le service numérique permet-il à l’utilisateur de décider de l’activation d’un service tiers ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.5/)|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Privilégier les réseaux filaires|Privilégier les réseaux filaires permet une meilleure sécurité du système d’information et aussi une réduction de la consommation énergétique liée au transfert de données.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Minimiser les dépendances logicielles|S’assurer que les dépendances soient bien conçues. [Voir le critère du RGESN « Le service numérique utilise-t-il des ressources ou des composants existants minimisant leurs impacts environnementaux ? »](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.1/)|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Compatibilité ascendante|La compatibilité des nouvelles versions avec les anciennes peut permettre de limiter l’obsolescence du matériel|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Interopérabilité|Capacité à fonctionner avec d’autres produits ou systèmes informatiques, existants ou futurs, sans restriction d’accès ou de mise en œuvre.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Automatisation des tests de sécurité et d’impact en phase de développement|Cela évite d’attendre la mise en production pour les corriger.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Achats|Responsabilité des prestataires et éditeurs de logiciels. Privilégier les prestataires européens|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Mesure dès la conception|Être en capacité de mesurer les impacts dès la conception. Capacité à travailler en ACV multicritère.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Optimisation|Performances, code, compression, revue de code et relecture croisées entre équipes|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Mesure|Mesure des impacts sur tout le cycle de vie à condition d’avoir des données adaptées au périmètre et aux hypothèses|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Supervision|Les outils de supervision peuvent détecter à la fois des anomalies de sécurité et de consommation de ressources. Mutualiser les deux pourrait être une source de réduction des impacts.|
+|![écoconception](/img/publications/ecoconception-securite/icone-reduction-impact-environnemental.webp)|Audit d’écoconception / Affichage environnemental|L’audit peut aider à identifier du code couteux et générer des gains financiers sur certaines opérations. Permet d’afficher un score de consommation énergétique d’un site par exemple, de façon transparente et compréhensible.|
+|![Protection des données](/img/publications/ecoconception-securite/icone-protection-des-donnees.webp)|Archivage intermédiaire|L’archivage intermédiaire permet de limiter l’accès aux données à un nombre restreint de personnes et donc de réduire la surface d’attaque|
+|![Protection des données](/img/publications/ecoconception-securite/icone-protection-des-donnees.webp)|Durée de conservation|La durée de conservation des données à caractère personnel limitée dans le temps permet de libérer de la place sur les serveurs et de réduire le coût énergétique de stockage, mais aussi la surface d’attaque|
 
 </div>
 
@@ -282,11 +282,11 @@ La mise en application des principes de cybersécurité et de protection des don
 
 |Domaine|Principe|Description du principe / Impact|
 | :- | :- | :- |
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Défense en profondeur|Doctrine de cybersécurité dans laquelle une série de mécanismes défensifs sont superposés afin de protéger des données et des informations sensibles. Si un mécanisme échoue, un autre intervient immédiatement pour déjouer une attaque.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Déploiement de logiciels liés à la sécurité|Le déploiement et l’usage de logiciels de protection impactent potentiellement de façon importantes la consommation de ressources informatiques et énergétiques.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png) ![Protection des données](/img/ecoconception-securite/icone-protection-des-donnees.png)|Chiffrement|Les données ne sont pas stockées ou échangées en clair. Des clés de chiffrement et de déchiffrement sont nécessaires pour les lire.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Disponibilité|La haute disponibilité amène des complexités, et de la duplication d'infrastructure, d’information, une surcouche  architecturale, etc. Mais elle peut aussi conduire à repenser l’architecture et donc à innover.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Cloisonnement / Redondance|Recommandé dans certains contextes de cybersécurité et pour la sauvegarde des données (« [règle du 3-2-1](https://www.nextinpact.com/article/30278/109000-quest-ce-que-strategie-sauvegarde-3-2-1) »), cela implique de multiplier les environnements plutôt que de rationaliser.|
-|![cybersécurité](/img/ecoconception-securite/icone-cybersecurite.png)|Contrôle des entrées utilisateur|Cela est bénéfique d’un point de vue cybersécurité mais implique un traitement plus consommateur d’un point de vue applicatif|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Défense en profondeur|Doctrine de cybersécurité dans laquelle une série de mécanismes défensifs sont superposés afin de protéger des données et des informations sensibles. Si un mécanisme échoue, un autre intervient immédiatement pour déjouer une attaque.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Déploiement de logiciels liés à la sécurité|Le déploiement et l’usage de logiciels de protection impactent potentiellement de façon importantes la consommation de ressources informatiques et énergétiques.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp) ![Protection des données](/img/publications/ecoconception-securite/icone-protection-des-donnees.webp)|Chiffrement|Les données ne sont pas stockées ou échangées en clair. Des clés de chiffrement et de déchiffrement sont nécessaires pour les lire.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Disponibilité|La haute disponibilité amène des complexités, et de la duplication d'infrastructure, d’information, une surcouche  architecturale, etc. Mais elle peut aussi conduire à repenser l’architecture et donc à innover.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Cloisonnement / Redondance|Recommandé dans certains contextes de cybersécurité et pour la sauvegarde des données (« [règle du 3-2-1](https://www.nextinpact.com/article/30278/109000-quest-ce-que-strategie-sauvegarde-3-2-1) »), cela implique de multiplier les environnements plutôt que de rationaliser.|
+|![cybersécurité](/img/publications/ecoconception-securite/icone-cybersecurite.webp)|Contrôle des entrées utilisateur|Cela est bénéfique d’un point de vue cybersécurité mais implique un traitement plus consommateur d’un point de vue applicatif|
 
 </div>

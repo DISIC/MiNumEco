@@ -2,12 +2,12 @@
 layout: layouts/ecoconception-securite.njk
 title: Conclusion et perspectives
 date: 2022-09-08
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   parent: ecoconceptionSecurite
   title: Conclusion et perspectives
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 35
 ---
 

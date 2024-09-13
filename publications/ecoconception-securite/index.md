@@ -3,14 +3,14 @@ layout: layouts/ecoconception-securite.njk
 title: Écoconception, cybersécurité et protection des données, quelles synergies ?
 description: La MiNumEco organise des ateliers avec des experts et des agents publics afin d’approfondir certaines thématiques, éclairer des points précis. Cette restitution est le résultat d’un atelier consacré aux convergences entre écoconception, cybersécurité et protection des données.
 date: 2022-07-01
-image: /img/ecoconception-securite/ecoconception-securite.png
+image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
 eleventyNavigation:
   key: ecoconceptionSecurite
   parent: publications
   title: Écoconception, cybersécurité et protection des données, quelles synergies ?
   date: 2022-07-01
-  image: /img/ecoconception-securite/ecoconception-securite.png
+  image: /img/publications/ecoconception-securite/ecoconception-securite.webp
   order: 120
 ---
 

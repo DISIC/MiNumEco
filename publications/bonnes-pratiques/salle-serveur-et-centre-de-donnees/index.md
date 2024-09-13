@@ -3,7 +3,7 @@ layout: layouts/bonne-pratique/thematique.njk
 title: Salle serveur et centre de données
 tags: guideBpNrThematique
 date: 2022-02-17
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
+image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 idThematique: h.
 eleventyNavigation:
   key: bonnes-pratiques-salle-serveur-et-centre-de-donnees

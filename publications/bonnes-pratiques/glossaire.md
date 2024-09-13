@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/default.njk
 title: Glossaire
 date: 2023-06-01
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
+image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 ---
 
 **Accessibilité Numérique** : Principe consistant à mettre à disposition de tous les individus, quels que soient leur matériel, logiciel ou infrastructure réseau ou leurs aptitudes physiques ou cognitives, des ressources numériques. Depuis 2012, tous les sites publics doivent être accessibles, c’est-à-dire 100 % conformes au RGAA, le Référentiel Général d’Amélioration de l’Accessibilité. L'objectif est ainsi de permettre à tous les usagers un égal accès à l'ensemble des services proposés afin de faire du numérique un levier d'inclusion.

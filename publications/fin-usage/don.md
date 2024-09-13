@@ -2,14 +2,14 @@
 layout: layouts/fin-usage.njk
 title: Focus sur le don
 date: 2022-03-22
-image: /img/fin-usage/atelier-fin-usage.png
+image: /img/publications/fin-usage/atelier-fin-usage.webp
 type: publication
 eleventyNavigation:
   parent: finUsage
   key: focusSurLeDon
   title: Focus sur le don
   date: 2022-03-22
-  image: /img/fin-usage/atelier-fin-usage.png
+  image: /img/publications/fin-usage/atelier-fin-usage.webp
   order: 20
 ---
 
@@ -17,7 +17,7 @@ eleventyNavigation:
 
 La démarche de réforme des biens informatiques doit s’inscrire dans le cadre de la réglementation et de la démarche des [services publics écoresponsables](https://www.ecologie.gouv.fr/services-publics-ecoresponsables). L’objectif est d’optimiser la valorisation et la gestion durable de ce patrimoine.
 
-![](/img/fin-usage/frise-chrono-lois.png)
+![](/img/publications/fin-usage/frise-chrono-lois.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -41,7 +41,7 @@ Loi relative à la différenciation, décentralisation, déconcentration et port
 
 ### Quatre cas de cessions
 
-![](/img/fin-usage/conditions-don.png)
+![](/img/publications/fin-usage/conditions-don.webp)
 
 <section class="fr-accordion">
 <h3 class="fr-accordion__title">
@@ -111,9 +111,9 @@ En dehors du transfert à d’autres administrations, la réglementation des don
 
 </div>
 
-![](/img/fin-usage/don-40-informatique.png)
+![](/img/publications/fin-usage/don-40-informatique.webp)
 
-![](/img/fin-usage/don-stats.png)
+![](/img/publications/fin-usage/don-stats.webp)
 
 <div class="fr-table">
 

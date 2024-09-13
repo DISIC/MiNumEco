@@ -2,7 +2,7 @@
 layout: layouts/bonne-pratique/thematique.njk
 title: Achat durable et responsable
 tags: guideBpNrThematique
-image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.png
+image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 date: 2023-06-01
 idThematique: e.
 eleventyNavigation:
