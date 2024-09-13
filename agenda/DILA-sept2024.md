@@ -8,7 +8,7 @@ image: /img/agenda/plaque-dila-sept2024.webp
 type: event
 ---
 
-![Visuel du GreenTech Forum](/img/agenda/plaque-dila-sept2024.webp)
+![Visuel de la DILA](/img/agenda/plaque-dila-sept2024.webp)
 
 ## Evenement DILA
 
