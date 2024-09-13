@@ -5,12 +5,45 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-07-29T00:00:00Z</updated>
+	<updated>2024-09-13T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Formations décembre 2024</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formations2024T4/"/>
+		<updated>2024-09-13T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/formations2024T4/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/formations/formation-ecoconception.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Programme&lt;/h2&gt;
+&lt;p&gt;Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.&lt;br /&gt;
+A travers des exercices et quizz, vous découvrirez comment mettre en œuvre une démarche d’écoconception et comment prendre en main le référentiel général d’écoconception de service numérique (RGESN) dans votre contexte projet.&lt;br /&gt;
+Les ressources de cette formation proviennent des travaux de la DINUM et de la MiNumEco (co-pilotée avec le Ministère de la transition écologique et le Commissariat général au développement durable).&lt;/p&gt;
+&lt;h2&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;L’enjeu de cette formation est que vous adoptiez la bonne posture pour écoconcevoir vos services, trouviez les ressources pour l’évaluer et que vous mettiez en place des actions concrètes pour améliorer l’empreinte environnementale de vos projets numériques.&lt;/p&gt;
+&lt;h2&gt;Public&lt;/h2&gt;
+&lt;p&gt;Agent public d’État travaillant dans le numérique&lt;br /&gt;
+Quelque soit votre métier : chef de projet ou de produit, MOA, AMOA, UX researcher, designer, développeuse ou développeur, devops, responsable de recette, rédacteur ou rédactrice web, etc.&lt;/p&gt;
+&lt;h2&gt;Prérequis&lt;/h2&gt;
+&lt;p&gt;Aucun&lt;br /&gt;
+C’est un module de sensibilisation, si vous recherchez une formation plus approfondie ou un accompagnement, contactez-nous.&lt;/p&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+## Dates
+* 17 septembre
+* 8 octobre
+* 10 décembre
+&lt;h2&gt;Informations pratiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;9h00 à 12h30&lt;/li&gt;
+&lt;li&gt;au 20 avenue de Ségur 75007 Paris&lt;/li&gt;
+&lt;li&gt;Formatrice : &lt;a href=&quot;https://fr.linkedin.com/in/melanieraphael&quot;&gt;&lt;strong&gt;Mélanie Raphaël&lt;/strong&gt;, Experte Numérique Ecoresponsable, DINUM &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024&quot;&gt;&lt;strong&gt;Inscription&lt;/strong&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Podcast MiNumEchos : épisode 1 innovation et empreinte environnementale</title>
@@ -209,7 +242,7 @@ questionnés.&lt;/li&gt;
 		<link href="https://ecoresponsable.numerique.gouv.fr/posts/formations2024T3/"/>
 		<updated>2024-06-29T00:00:00Z</updated>
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/formations2024T3/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/formationbanniere.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/formations/formation-ecoconception.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Programme&lt;/h2&gt;
 &lt;p&gt;Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.&lt;br /&gt;
 A travers des exercices et quizz, vous découvrirez comment mettre en œuvre une démarche d’écoconception et comment prendre en main le référentiel général d’écoconception de service numérique (RGESN) dans votre contexte projet.&lt;br /&gt;
