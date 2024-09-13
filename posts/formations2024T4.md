@@ -3,7 +3,7 @@ title: "Formations décembre 2024"
 description: "Les prochaines dates de sensibilisation à l'écoconception de services numériques"
 image: /img/formations/formation-ecoconception.webp
 type: news
-date: 2024-09-13
+date: 2024-09-12
 ---
 
 ![]({{ image }})
