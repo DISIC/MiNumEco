@@ -1,7 +1,7 @@
 ---
 title: "Vidéo référents numérique écoresponsable quels sont les enjeux"
 description: "Vidéo des référents numérique écoresponsable sur les enjeux des ministères "
-image: /img/video/miniserie/vignette-miniserie-episode2.webp
+image: /img/videos/miniserie/vignette-miniserie-episode2.webp
 type: news
 date: 2024-07-25
 ---
