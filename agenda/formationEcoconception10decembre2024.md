@@ -10,7 +10,6 @@ image: /img/formations/formation-ecoconception.webp
 type: formation
 ---
 
-![Visuel de la formation](/img/formations/formation-ecoconception.webp)
 
 ## Programme
 Au cours de cette formation, nous aborderons les enjeux environnementaux du numérique responsable et comment agir sur l'obsolescence matérielle avec l'éconception d’un service numérique.
