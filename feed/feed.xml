@@ -5,12 +5,30 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-09-13T00:00:00Z</updated>
+	<updated>2024-09-15T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Vidéo : présentation des actions des ministères par les référents numérique écoresponsable</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-15sept2024/"/>
+		<updated>2024-09-15T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-15sept2024/</id>
+		<content type="html">&lt;p&gt;La MiNumEco lance une mini série pour faire connaître les référents numériques écoresponsables auprès des agents des ministères et pour expliquer le rôle de la MiNumEco et de la DINUM.&lt;/p&gt;
+&lt;!-- bouton pour accéder à la page ressources où se trouvent la série de vidéos--&gt;
+&lt;p&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/publications/videos-serie-referents/&quot; class=&quot;fr-btn&quot; target=&quot;_blank&quot; title=&quot;Nouvelle fenêtre : Inscription&quot;&gt;Toutes les vidéos&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Quels sont les enjeux du numérique responsable ? Par les référents ministériels du numérique responsable.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dailymotion.com/video/x92eo5e&quot;&gt;Découvrez-les sur la chaine dailymotion de la DINUM&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- intégraton vidéo dailymotion de la chaine DINUM--&gt;
+&lt;div style=&quot;position:relative;padding-bottom:56.25%;height:0;overflow:hidden;&quot;&gt; &lt;iframe style=&quot;width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden&quot; frameborder=&quot;0&quot; type=&quot;text/html&quot; src=&quot;https://www.dailymotion.com/embed/video/x95ly1e&quot; width=&quot;100%&quot; height=&quot;100%&quot; allowfullscreen=&quot;&quot; title=&quot;Dailymotion Video Player&quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;h2&gt;Référents Numérique Ecoresponsable&lt;/h2&gt;
+&lt;p&gt;Chaque ministère s’est doté d’une feuille de route ministérielle numérique responsable et d’un référent pour suivre la mise en oeuvre de ces feuilles de route.&lt;br /&gt;
+Ces référents sont les ambassadeurs du numérique responsable dans leur ministère.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Podcast MiNumEchos : épisode 2 enjeux du numérique responsable</title>

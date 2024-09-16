@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-15sept2024/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-15sept2024/",
+      "title": "Vidéo : présentation des actions des ministères par les référents numérique écoresponsable",
+      "content_html": "<p>La MiNumEco lance une mini série pour faire connaître les référents numériques écoresponsables auprès des agents des ministères et pour expliquer le rôle de la MiNumEco et de la DINUM.</p>\n<!-- bouton pour accéder à la page ressources où se trouvent la série de vidéos-->\n<p><a href=\"https://ecoresponsable.numerique.gouv.fr/publications/videos-serie-referents/\" class=\"fr-btn\" target=\"_blank\" title=\"Nouvelle fenêtre : Inscription\">Toutes les vidéos</a></p>\n<h2>Quels sont les enjeux du numérique responsable ? Par les référents ministériels du numérique responsable.</h2>\n<p><a href=\"https://www.dailymotion.com/video/x92eo5e\">Découvrez-les sur la chaine dailymotion de la DINUM</a>.</p>\n<!-- intégraton vidéo dailymotion de la chaine DINUM-->\n<div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;\"> <iframe style=\"width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden\" frameborder=\"0\" type=\"text/html\" src=\"https://www.dailymotion.com/embed/video/x95ly1e\" width=\"100%\" height=\"100%\" allowfullscreen title=\"Dailymotion Video Player\" > </iframe> </div>\n<h2>Référents Numérique Ecoresponsable</h2>\n<p>Chaque ministère s’est doté d’une feuille de route ministérielle numérique responsable et d’un référent pour suivre la mise en oeuvre de ces feuilles de route.<br>\nCes référents sont les ambassadeurs du numérique responsable dans leur ministère.</p>\n",
+      "date_published": "2024-09-15T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-septembre2024/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-septembre2024/",
       "title": "Podcast MiNumEchos : épisode 2 enjeux du numérique responsable",
