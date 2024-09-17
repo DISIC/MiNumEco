@@ -5,12 +5,88 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-09-15T00:00:00Z</updated>
+	<updated>2024-09-18T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Challenge SEDD 2024</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/challengeSEDD2024/"/>
+		<updated>2024-09-18T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/challengeSEDD2024/</id>
+		<content type="html">&lt;h1&gt;Challenge inter-ministériel SEDD 2024 : Agir pour un numérique responsable&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;À l’occasion de la Semaine Européenne du Développement Durable 2024, la DINUM et la MiNumEco lancent un challenge inter-ministériel sur la plateforme Mentor. Venez défier vos collègues et sensibilisez-vous au numérique responsable à travers un serious game immersif !&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Challenge : Du 23 septembre au 18 octobre&lt;/li&gt;
+&lt;li&gt;Format : serious game&lt;/li&gt;
+&lt;li&gt;module d’1 heure sur mentor&lt;/li&gt;
+&lt;li&gt;Sensibilisation aux enjeux du numérique responsable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://lienmentorenattente.fr/&quot; class=&quot;fr-btn&quot; target=&quot;_blank&quot; title=&quot;Nouvelle fenêtre : Inscription&quot;&gt;Participer&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;la Semaine Européenne du Développement Durable&lt;/h3&gt;
+&lt;p&gt;Du &lt;strong&gt;18 septembre au 8 octobre 2024&lt;/strong&gt;, la &lt;strong&gt;&lt;a href=&quot;https://www.service-public.fr/particuliers/actualites/A16744&quot;&gt;Semaine Européenne du Développement Durable (SEDD)&lt;/a&gt;&lt;/strong&gt; revient pour sensibiliser les citoyens européens aux enjeux environnementaux, sociaux et économiques, tout en promouvant les &lt;strong&gt;17 Objectifs de Développement Durable (ODD)&lt;/strong&gt; de &lt;a href=&quot;https://www.agenda-2030.fr/agenda-2030/&quot;&gt;l’Agenda 2030&lt;/a&gt;. Lancée en France en 2003 et devenue un événement européen en 2015, la SEDD a pour mission d’inciter les citoyens, les organisations et les institutions à agir pour un monde plus durable. Chaque année, des milliers de projets sont organisés autour de ces objectifs, afin de favoriser la prise de conscience et le passage à l’action.&lt;/p&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.agenda-2030.fr/agenda-2030/&quot;&gt;L’Agenda 2030&lt;/a&gt;, l’objectif de transformation de notre monde pour renforcer la paix, en éradiquant la pauvreté et en assurant sa transition vers un développement durable&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.agenda-2030.fr/agenda-2030/presentation/article/presentation-origines-et-principes&quot;&gt;Les objectifs de développement durable&lt;/a&gt; les objectifs pour atteindre un monde durable&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.agenda-2030.fr/rosace/index2023.html&quot;&gt;Datavisualisation des avancées de la France en matière d’ODD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ensemble, engageons-nous pour un numérique plus vert, aligné sur les objectifs de l’Agenda 2030 !&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Cette année, la &lt;strong&gt;DINUM&lt;/strong&gt; (Direction interministérielle du numérique) et la &lt;strong&gt;MiNumEco&lt;/strong&gt; (Mission numérique écoresponsable) se joignent à cet effort en organisant un &lt;strong&gt;challenge inter-ministériel&lt;/strong&gt; autour d’un serious game dédié au &lt;strong&gt;numérique responsable&lt;/strong&gt;. Ce défi, qui se déroulera du &lt;strong&gt;23 septembre au 18 octobre 2024&lt;/strong&gt;, est ouvert à tous les agents publics, dans le but de sensibiliser aux enjeux environnementaux du numérique et de promouvoir des pratiques plus respectueuses de la planète.&lt;/p&gt;
+&lt;h2&gt;Le numérique responsable : un levier pour un développement durable&lt;/h2&gt;
+&lt;p&gt;Le &lt;strong&gt;numérique&lt;/strong&gt; est omniprésent dans nos vies, mais son impact environnemental est souvent ignoré ou minimisé. Pourtant, de la production des appareils électroniques à leur consommation d’énergie, en passant par la gestion des déchets électroniques, l’empreinte environnementale du numérique est significative. La réduction de cet impact fait partie intégrante des &lt;strong&gt;Objectifs de Développement Durable (ODD)&lt;/strong&gt;, qui visent à établir des modes de consommation et de production plus durables, à protéger l’environnement et à lutter contre les changements climatiques.&lt;/p&gt;
+&lt;p&gt;En France, le &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/posts/lancement-plan-transformation-eco-etat/&quot;&gt;plan de transition écologique des services publics&lt;/a&gt;, nous engage à réduire notre empreinte environnementale de 22% d’ici 2027. L’objectif 8 de ce plan de transition porte sur un numérique public plus responsable, à travers l’allongement de la durée de vie du matériel, le suivi des performances des data center et la dotation en matériel issu du réemploi.&lt;/p&gt;
+&lt;p&gt;C’est dans ce contexte que le &lt;strong&gt;challenge SEDD 2024&lt;/strong&gt; invite les agents ministériels à explorer les solutions pour un &lt;strong&gt;numérique plus responsable&lt;/strong&gt;, en adoptant une compréhension des pratiques qui réduisent les émissions de gaz à effet de serre, économisent les ressources naturelles et favorisent la sobriété numérique.&lt;/p&gt;
+&lt;h2&gt;Le Challenge SEDD 2024 : un serious game pour sensibiliser au numérique écoresponsable&lt;/h2&gt;
+&lt;p&gt;Le &lt;strong&gt;Challenge inter-ministériel SEDD 2024&lt;/strong&gt; se déroule sous la forme d’un &lt;strong&gt;serious game&lt;/strong&gt; intitulé &lt;strong&gt;The Impact Agency&lt;/strong&gt;, où les participants deviennent des détectives privés qui enquêtent sur une entreprise de technologies qui fabriqueraient des téléphones « zéro carbone ». Ce jeu immersif vise à sensibiliser les participants aux pratiques numériques qui impactent l’environnement.&lt;/p&gt;
+&lt;h2&gt;Scénario&lt;/h2&gt;
+&lt;p&gt;Une grande entreprise high-tech est sur le point de lancer LE smartphone révolutionnaire de l’année… jusqu’à ce qu’un message mystérieux apparaisse sur tous leurs écrans, semant la panique. 😱 C’est là que vous entrez en scène, aux côtés de vos partenaires détectives Axel, Joy et Hank. Votre mission : découvrir la vérité cachée derrière ce lancement qui pourrait bien avoir des conséquences inattendues. 🌍&lt;/p&gt;
+&lt;p&gt;Votre enquête vous mènera à explorer les impacts sociaux, environnementaux et éthiques du numérique. Attention, rien n’est aussi simple qu’il n’y paraît. Seriez-vous capable de déjouer les apparences et de mettre à jour ce qui se cache derrière cette innovation soi-disant “zéro carbone” ? 🔍&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Jeu développé par Dowino et better for good.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Un challenge entre agents publics&lt;/h3&gt;
+&lt;p&gt;En participant au challenge, chaque agent peut contribuer à faire gagner des points à son ministère. En répondant correctement à au moins 80 % des questions, les participants recevront :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le &lt;strong&gt;badge SEDD 2024&lt;/strong&gt;, témoignant de leur maîtrise des enjeux du numérique responsable.&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;attestation de réussite&lt;/strong&gt; via la plateforme &lt;strong&gt;Mentor&lt;/strong&gt;, valorisant leur engagement dans cette démarche écoresponsable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le module est accessible via la plateforme de formation des agents publics LIEN MENTOR. Les inscriptions sont ouvertes à partir du 18 septembre et vous pourrez participer au &lt;strong&gt;challenge du 23 septembre au 18 octobre&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://enattentedulienmentor/&quot;&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/SEDD2024/mentor-moduleTIA2.webp&quot; alt=&quot;Module mentor&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Les résultats du challenge seront publiés à l’issue de la période, désignant le ministère vainqueur. Cependant, l’objectif final est de mobiliser l’ensemble des agents pour un &lt;strong&gt;numérique plus durable&lt;/strong&gt;, en lien avec les grandes orientations de l’Agenda 2030.&lt;/p&gt;
+&lt;h3&gt;Le serious game : une formation ludique et engageante&lt;/h3&gt;
+&lt;p&gt;Dans &lt;strong&gt;The Impact Agency&lt;/strong&gt;, les participants sont confrontés à une intrigue où ils doivent :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Déjouer le greenwashing&lt;/strong&gt; et identifier les vraies pratiques écoresponsables.&lt;/li&gt;
+&lt;li&gt;Comprendre les &lt;strong&gt;impacts environnementaux du numérique&lt;/strong&gt;, depuis la production des appareils jusqu’à leur utilisation.&lt;/li&gt;
+&lt;li&gt;Découvrir des &lt;strong&gt;solutions concrètes&lt;/strong&gt; pour adopter quelques gestes numérique responsable et une posture de questionnement des pratiques en fonction de leur impact environnemental.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le jeu est structuré en trois chapitres, chacun axé sur un aspect spécifique du numérique responsable :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Usages numériques&lt;/strong&gt; : Explorer les bonnes pratiques pour réduire son empreinte numérique quotidienne.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matériel&lt;/strong&gt; : Comprendre l’impact écologique des équipements numériques.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacts globaux&lt;/strong&gt; : Prendre conscience des répercussions tant environnementales que sociales de la surconsommation technologique.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/posts/SEDD2024/seriousgameTIAcaptureecran.webp&quot; alt=&quot;Image du jeu&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Comment participer ?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date du challenge&lt;/strong&gt; : Du 23 septembre au 18 octobre 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inscription&lt;/strong&gt; : &lt;a href=&quot;https://enattentedulienmentor/&quot;&gt;Inscrivez-vous dès à présent sur Mentor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Durée du jeu&lt;/strong&gt; : Moins d’une heure pour compléter l’ensemble des chapitres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://lienmentorenattente.fr/&quot; class=&quot;fr-btn&quot; target=&quot;_blank&quot; title=&quot;Nouvelle fenêtre : Inscription&quot;&gt;Participer&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;h3&gt;Informations clés&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semaine Européenne du Développement Durable&lt;/strong&gt; : Du 18 septembre au 8 octobre 2024 - &lt;a href=&quot;https://www.service-public.fr/particuliers/download-echeance-actu-ics-calendar/A16744&quot;&gt;Ajouter à son agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenge inter-ministériel&lt;/strong&gt; : Serious Game sur le numérique responsable du 23 septembre au 18 octobre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ensemble, engageons-nous pour un numérique plus vert, aligné sur les objectifs de l’Agenda 2030 !&lt;/p&gt;
+&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Vidéo : présentation des actions des ministères par les référents numérique écoresponsable</title>
