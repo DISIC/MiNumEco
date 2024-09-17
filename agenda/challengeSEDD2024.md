@@ -34,4 +34,4 @@ Votre enquête vous mènera à explorer les impacts sociaux, environnementaux et
 
 Ensemble, adoptons un numérique plus responsable !
 
-[Plus d'informations dans l'article sur le challenge The Impact Agency](/posts/challengeSEDD2024.md)
+[Plus d'informations dans l'article sur le challenge The Impact Agency](https://ecoresponsable.numerique.gouv.fr/posts/challengeSEDD2024/)
