@@ -6,7 +6,7 @@ dateLabel: du 23 septembre au 18 ocobre
 image: /img/posts/SEDD2024/banniere-sedd-2024.webp
 type: event
 location : plateforme Mentor
-link: https://mentorlien
+link: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825
 linkTitle: Inscription
 ---
 
@@ -22,7 +22,7 @@ Pour la semaine du développement durable 2024, la DINUM et la MiNumEco vous pro
 * 3 chapitres de 15 minutes
 * Sensibilisation aux enjeux du numérique responsable
 
-<a href="https://LIENMENTORENATTENTE.fr" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
+<a href="https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
 
 ## Scénario
 
