@@ -15,7 +15,8 @@ date: 2024-09-18
 * module d'1 heure sur mentor
 * Sensibilisation aux enjeux du numérique responsable
 
-<a href="https://LIENMENTORENATTENTE.fr" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
+<a href="https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825
+" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
 
 ### la Semaine Européenne du Développement Durable
 
@@ -61,7 +62,8 @@ En participant au challenge, chaque agent peut contribuer à faire gagner des po
 
 Le module est accessible via la plateforme de formation des agents publics LIEN MENTOR. Les inscriptions sont ouvertes à partir du 18 septembre et vous pourrez participer au **challenge du 23 septembre au 18 octobre**.
 
-[![Module mentor](/img/posts/SEDD2024/mentor-moduleTIA2.webp)](https://enattentedulienmentor)
+[![Module mentor](/img/posts/SEDD2024/mentor-moduleTIA2.webp)](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825)
+
 
 Les résultats du challenge seront publiés à l’issue de la période, désignant le ministère vainqueur. Cependant, l'objectif final est de mobiliser l’ensemble des agents pour un **numérique plus durable**, en lien avec les grandes orientations de l’Agenda 2030.
 
@@ -85,14 +87,14 @@ Le jeu est structuré en trois chapitres, chacun axé sur un aspect spécifique 
 - **Inscription** : [Inscrivez-vous dès à présent sur Mentor](https://enattentedulienmentor)
 - **Durée du jeu** : Moins d’une heure pour compléter l’ensemble des chapitres
 
-<a href="https://LIENMENTORENATTENTE.fr" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
+<a href="https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Participer</a>
 
 ---
 <div class="fr-highlight">
 
 ### Informations clés
 - **Semaine Européenne du Développement Durable** : Du 18 septembre au 8 octobre 2024 - [Ajouter à son agenda](https://www.service-public.fr/particuliers/download-echeance-actu-ics-calendar/A16744)
-- **Challenge inter-ministériel** : Serious Game sur le numérique responsable du 23 septembre au 18 octobre
+- **Challenge inter-ministériel** : [Serious Game sur le numérique responsable du 23 septembre au 18 octobre](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=2825)
 
 Ensemble, engageons-nous pour un numérique plus vert, aligné sur les objectifs de l'Agenda 2030 !
 </div>
