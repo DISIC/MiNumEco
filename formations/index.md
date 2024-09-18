@@ -30,10 +30,10 @@ Formatrice : <a href="https://fr.linkedin.com/in/melanieraphael" target="_blank"
 Formation d'1/2 journée en présentiel au 20 avenue de Ségur 75007 Paris. 
 
 ### Prochaines dates :
-- 17 septembre 2024, 9h00 à 12h30
-- 8 octobre 2024, 9h00 à 12h30
+- 8 octobre 2024, 9h00 à 13h00
+- 10 décembre 2024, 9h00 à 13h00
 
-<a href="https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
+<a href="https://ecoresponsable.numerique.gouv.fr/posts/formulaireinscriptionformations/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
 
 ### Programme
 Au cours de cette formation, vous comprendrez quels sont les enjeux environnementaux de la conception d’un service numérique.
@@ -54,7 +54,7 @@ C'est un module de sensibilisation, si vous recherchez une formation plus approf
 ### Lieu 
 En présentiel au 20 avenue de Ségur 75007 
 
-<a href="https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
+<a href="https://ecoresponsable.numerique.gouv.fr/posts/formulaireinscriptionformations/" class="fr-btn" target="_blank" title="Nouvelle fenêtre : Inscription">Inscription</a>
 
 
 

@@ -35,5 +35,5 @@ C’est un module de sensibilisation, si vous recherchez une formation plus appr
 * 9h00 à 12h30
 * au 20 avenue de Ségur 75007 Paris
 * Formatrice : [**Mélanie Raphaël**, Experte Numérique Ecoresponsable, DINUM ](https://fr.linkedin.com/in/melanieraphael)
-* [**Inscription** ](https://www.demarches-simplifiees.fr/commencer/inscription-formation-ecoconception-2024)
+* [**Inscription** ](https://ecoresponsable.numerique.gouv.fr/posts/formulaireinscriptionformations/)
 </div>
