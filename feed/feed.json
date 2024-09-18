@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/formulaireinscriptionformations/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/formulaireinscriptionformations/",
+      "title": "formulaire d&#39;inscription aux formations",
+      "content_html": "<iframe style=\"border: none; width: 640px; height: 1553px\" src=\"https://grist.numerique.gouv.fr/o/docs/forms/2Ch5VD2Z7oU1eh8f9YsSMA/4\"> \n",
+      "date_published": "2024-09-18T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/challengeSEDD2024/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/challengeSEDD2024/",
       "title": "Challenge SEDD 2024",
