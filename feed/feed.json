@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/lancement-lettre-linkedin-sept2024/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/lancement-lettre-linkedin-sept2024/",
+      "title": "Lancement de la &quot;lettre de la MiNumEco sur linkedIn",
+      "content_html": "<p><img src=\"/img/publications/lettre-linkedin/lettre-1.webp\" alt=\"\"></p>\n<h2>Lettre de la MiNumEco</h2>\n<p>Pour suivre les dernières actualités de la MiNumEco, suivez nos actus avec la lettre de la MiNumEco sur linkedIn</p>\n<style>\n      .libutton {\n        display: flex;\n        flex-direction: column;\n        justify-content: center;\n        padding: 7px;\n        text-align: center;\n        outline: none;\n        text-decoration: none !important;\n        color: #ffffff !important;\n        width: 200px;\n        height: 32px;\n        border-radius: 16px;\n        background-color: #0A66C2;\n        font-family: \"SF Pro Text\", Helvetica, sans-serif;\n      }\n    </style>\n<p><a class=\"libutton\" href=\"https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7242864226900279296\" target=\"_blank\">S’abonner sur LinkedIn</a></p>\n<h2>Sommaire de la première lettre de la MiNumEco</h2>\n<ul>\n<li>🏆 Challenge : Agents publics, votre mission si vous l’acceptez… #SEDD2024</li>\n<li>🎓 Formation : Jouons le sérieux : The Impact Agency !</li>\n<li>🎓 Formation : Formez-vous à l’écoconception de services numériques, en octobre et décembre !</li>\n<li>📚 Ressources : Un podcast pour les gouverner tous 🎙️</li>\n<li>📚 Ressources : Nos référents, ces héros 🦸</li>\n<li>📰 Article : Les achats durables : les guichets verts accompagnent les collectivités.</li>\n<li>📅 Evénement : IA et éthique, l’événement du programme 10% (DINUM)</li>\n<li>📅 Evénement : Forum transformation numérique des territoires (DINUM, ANSSI, ANCT)</li>\n</ul>\n",
+      "date_published": "2024-09-21T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-20septembre2024/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/videos-referents-20septembre2024/",
       "title": "Vidéo référents numérique écoresponsable, le rôle de la DINUM",

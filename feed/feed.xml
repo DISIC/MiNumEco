@@ -5,12 +5,52 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-09-20T00:00:00Z</updated>
+	<updated>2024-09-21T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Lancement de la &quot;lettre de la MiNumEco sur linkedIn</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/lancement-lettre-linkedin-sept2024/"/>
+		<updated>2024-09-21T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/lancement-lettre-linkedin-sept2024/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://ecoresponsable.numerique.gouv.fr/img/publications/lettre-linkedin/lettre-1.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Lettre de la MiNumEco&lt;/h2&gt;
+&lt;p&gt;Pour suivre les dernières actualités de la MiNumEco, suivez nos actus avec la lettre de la MiNumEco sur linkedIn&lt;/p&gt;
+&lt;style&gt;
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: &quot;SF Pro Text&quot;, Helvetica, sans-serif;
+      }
+    &lt;/style&gt;
+&lt;p&gt;&lt;a class=&quot;libutton&quot; href=&quot;https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7242864226900279296&quot; target=&quot;_blank&quot;&gt;S’abonner sur LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Sommaire de la première lettre de la MiNumEco&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🏆 Challenge : Agents publics, votre mission si vous l’acceptez… #SEDD2024&lt;/li&gt;
+&lt;li&gt;🎓 Formation : Jouons le sérieux : The Impact Agency !&lt;/li&gt;
+&lt;li&gt;🎓 Formation : Formez-vous à l’écoconception de services numériques, en octobre et décembre !&lt;/li&gt;
+&lt;li&gt;📚 Ressources : Un podcast pour les gouverner tous 🎙️&lt;/li&gt;
+&lt;li&gt;📚 Ressources : Nos référents, ces héros 🦸&lt;/li&gt;
+&lt;li&gt;📰 Article : Les achats durables : les guichets verts accompagnent les collectivités.&lt;/li&gt;
+&lt;li&gt;📅 Evénement : IA et éthique, l’événement du programme 10% (DINUM)&lt;/li&gt;
+&lt;li&gt;📅 Evénement : Forum transformation numérique des territoires (DINUM, ANSSI, ANCT)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Vidéo référents numérique écoresponsable, le rôle de la DINUM</title>
