@@ -9,6 +9,8 @@ eleventyNavigation:
   order: 10
 ---
 
+*page en cours de mise à jour*
+
 Recommandé dans le [rapport sur l’obsolescence logicielle](https://ecoresponsable.numerique.gouv.fr/posts/rapport-obsolescence-logicielle/) que le Gouvernement a remis au Parlement en juin 2021, ce référentiel général d’écoconception de service numérique est un engagement de la [feuille de route gouvernementale «  Numérique et Environnement »](https://www.gouvernement.fr/numerique-et-environnement-la-feuille-de-route-du-gouvernement) publiée en février 2021.
 
 **L'écoconception des services numériques n'est pas uniquement une recherche d’optimisation, d’efficience ou de performance** mais une réflexion plus globale sur l'usage des technologies. Il est important d’intégrer les impacts environnementaux du numérique dans la conception des services numériques en visant directement ou indirectement à allonger la durée des vies des équipements numériques, à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données.
