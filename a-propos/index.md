@@ -2,9 +2,6 @@
 layout: layouts/a-propos.njk
 title: À propos
 date: 2024-06-17
-eleventyNavigation:
-  key: À propos
-  order: 20
 ---
 
 <h2 id="mission">La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
