@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ? - Numérique écoresponsable</title>
+    <title>Le service numérique duplique-t-il les données uniquement lorsque cela est nécessaire ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?">
+    <meta property="og:title" content="Le service numérique duplique-t-il les données uniquement lorsque cela est nécessaire ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?" />
+    <meta property="twitter:title" content="Le service numérique duplique-t-il les données uniquement lorsque cela est nécessaire ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?</h1>
+        <h1>Le service numérique duplique-t-il les données uniquement lorsque cela est nécessaire ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,25 @@
 
 <h2>Objectif</h2>
 
-<p><p>Les données chaudes sont des données très utilisées alors que les données froides sont des données archivées. Utiliser des hébergements différents (bases de données différentes par exemple) permettrait de réduire les impacts environnementaux.</p>
+<p><p>Réduire les ressources informatiques et les ressources de stockage utilisées.</p>
+<p>Il s’agit de se poser la question du bon niveau de service sélectionné par rapport au besoin. Plus le taux de disponibilité demandé est haut, plus cela mobilise une infrastructure financièrement et environnementalement coûteuse.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Séparer les données chaudes des données froides en utilisant des solutions techniques adaptées au contexte d'utilisation.
-Il convient d'avoir une réflexion sur le mode de stockage des données froides : il existe plusieurs technologies sur le marché, toutes n'ont pas nécessairement le même impact.</p>
+<p><p>Ne pas systématiquement dupliquer toutes les données mais identifier les données nécessaires à être dupliquées (données critiques ou données très sollicitées par exemple). Un équilibre est à trouver entre sécurisation (pour éviter les pertes de données) et dissémination (en avoir trop partout).</p>
+<p>Se questionner sur la pertinence de la redondance du service, pour en établir le bon dosage. Est-ce critique si l’une des fonctionnalités du service n’est pas disponible pendant un certain temps ?</p>
+<ul>
+<li>Le Backup &amp; Restore est ce qu’il y a de moins cher, parfaitement adapté aux applications qui ont un RTO (Recovery Time Objective) ou RPO (Recovery Point Objective) de quelques heures.</li>
+<li>Le Pilot Light, à savoir par exemple une base de données « mirrorée » / dupliquée mais avec des machines virtuelles éteintes. Procédé un peu plus cher qu’un Backup &amp; Restore, il fonctionne pour la plupart des applications qui n’ont pas d’exigences SLA (Service Level Agreement) extrêmes (inférieures à 1 heure).</li>
+<li>Le Warm Standby, lorsque les VMs tournent déjà mais dans une scalabilité limitée, presque en temps réel mais potentiellement en qualité légèrement dégradée s’il y a un incident.</li>
+<li>Le Hot Standby multisite : résilience totale pour des SLAs (Service Level Agreements) temps réel. Aucune perte de service n’est tolérée, mais cela a nécessairement un coût.</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérification de la mise en œuvre</p>
+<p><p>Pour valider ce critère, vérifier la présence d’un SLA (Service Level Agreement) ajusté selon les besoins.</p>
 </p>
     </div>
 </div>

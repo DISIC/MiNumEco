@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique permet-il de mettre en pause les animations, défilement ou clignotement ? - Numérique écoresponsable</title>
+    <title>Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique permet-il de mettre en pause les animations, défilement ou clignotement ?">
+    <meta property="og:title" content="Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique permet-il de mettre en pause les animations, défilement ou clignotement ?" />
+    <meta property="twitter:title" content="Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique permet-il de mettre en pause les animations, défilement ou clignotement ?</h1>
+        <h1>Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,21 @@
 
 <h2>Objectif</h2>
 
-<p><p>Donner le contrôle à l'utilisateur pour limiter l'usage de ressources non nécessaires.</p>
+<p><p>Une partie de l’empreinte énergétique des services numériques est liée à la volumétrie des données échangées sur les réseaux. L’objectif est donc de réduire la volumétrie de données pour le service en évitant de réaliser des requêtes client/serveur inutiles (par exemple dans un contexte de formulaire, de suggestion de résultats, etc.). Dans la plupart des cas, cette réduction pourra se faire sans dégradation de l’expérience utilisateur.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Proposer systématiquement une possibilité à l'utilisateur de mettre en pause les animations.</p>
+<p><p>Pour réduire les échanges entre serveurs et utilisateurs, il est important que les services numériques réduisent les appels à des API, scripts, librairies ou polices de caractères tiers.</p>
+<p>Il est conseillé de limiter la complétion automatique en ligne. Ces mécanismes d’autocomplétion ou de suggestion qui visent à compléter automatiquement ou suggérer des options nécessitent beaucoup de requêtes vers le serveur. Si un tel mécanisme est mis en place car justifié du point de vue utilisateur, il est préconisé d’attendre par exemple d’avoir trois caractères et 500 ms après chaque saisie avant de lancer une requête réseau. Alternativement, il est possible de laisser le choix à l’utilisateur d’activer l’autocomplétion s’il le souhaite (opt in) via un élément de configuration.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Contrôler la mise en œuvre</p>
+<p><p>Pour valider le critère, s’assurer que le service ne propose pas d’autocomplétion ; dans le cas contraire, vérifier que l’autocomplétion est justifiée du point de vue de l’utilisateur et contrôler périodiquement que l’autocomplétion attend un délai d’au moins 500 ms avant de s’activer et au moins 3 caractères saisis. L’interface utilisateur permet de désactiver l’autocomplétion.</p>
+<p>Le nombre de requêtes HTTP entre client et serveur est à contrôler et à suivre dans le temps.</p>
+<p>De même, examiner périodiquement l’absence de requêtes identiques et redondantes.</p>
+<p>Vérifier que les requêtes externes effectuées en appelant le site (en vidant le cache ou en utilisant une extension appropriée) sont effectivement celles nécessaires à l’exécution du service.</p>
 </p>
     </div>
 </div>

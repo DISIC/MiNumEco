@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il pris en compte les impacts environnementaux des composants d&#39;interface prêts à l&#39;emploi utilisés ? - Numérique écoresponsable</title>
+    <title>Le service numérique est-il utilisable sur d’anciennes versions de système d’exploitation et de navigateurs web ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il pris en compte les impacts environnementaux des composants d&#39;interface prêts à l&#39;emploi utilisés ?">
+    <meta property="og:title" content="Le service numérique est-il utilisable sur d’anciennes versions de système d’exploitation et de navigateurs web ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il pris en compte les impacts environnementaux des composants d&#39;interface prêts à l&#39;emploi utilisés ?" />
+    <meta property="twitter:title" content="Le service numérique est-il utilisable sur d’anciennes versions de système d’exploitation et de navigateurs web ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il pris en compte les impacts environnementaux des composants d&#39;interface prêts à l&#39;emploi utilisés ?</h1>
+        <h1>Le service numérique est-il utilisable sur d’anciennes versions de système d’exploitation et de navigateurs web ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,28 @@
 
 <h2>Objectif</h2>
 
-<p><p>Connaitre les impacts environnementaux des composants d'interface (bouton, formulaires...), des systèmes de design qui sont des surcouches aux interfaces du système d'exploitation, utilisés dans le service numérique.</p>
+<p><p>L’objectif est de permettre à des systèmes d’exploitation ou navigateurs web anciens d’être utilisés, afin d’allonger leur durée de vie. Les systèmes d’exploitation et les navigateurs étant parfois liés à un terminal, cette pratique peut donc partiellement permettre de réduire la contribution du service numérique à leur obsolescence. Ce critère prend en compte les dispositions européennes visant à garantir la mise à disposition de mises à jour correctives pour les systèmes d’exploitation de cinq ans.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Mesurer par exemple le poids de ces composants d'interface pour mieux faire un choix.</p>
+<p><p>Si le service numérique est une application native, il doit prendre en charge les dernières versions des systèmes d’exploitation supportés et être utilisable sur les versions anciennes de ces systèmes d’exploitation (hors mises à jour correctives), jusqu’à cinq ans, en prenant en compte la première date de mise à disposition en version stable.</p>
+<p>Si le service numérique fonctionne sur un navigateur web, il doit prendre en charge les dernières versions des navigateurs web (hors mises à jour correctives) et être utilisable sur les versions anciennes des principaux navigateurs web, jusqu’à deux ans, en prenant en compte la première date de mise à disposition en version stable.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Ces composants d'interface sont-ils conçus afin de réduire leurs impacts environnementaux ?
-Des mesures comparatives entre composants similaires existent-elles ?</p>
+<p><p>Vérifier la mise en œuvre selon la nature du service en vérifiant les points suivants :</p>
+<ul>
+<li>Si le service numérique est une application native : tester les fonctionnalités critiques du service numérique sur les systèmes d’exploitation supportés ayant cinq ans, en prenant en compte la première date de mise à disposition en version stable.</li>
+<li>Si le service numérique fonctionne sur un navigateur web : s’assurer que les fonctionnalités critiques fonctionnent sur les principaux navigateurs web dans une version datée d’au moins deux ans, en prenant en compte la première date de mise à disposition en version stable.</li>
+</ul>
+<p>La déclaration d’écoconception du service numérique devrait spécifier :</p>
+<ul>
+<li>Si le service numérique est une application native : les versions minimales des systèmes d’exploitation supportés.</li>
+<li>Si le service numérique fonctionne sur un navigateur web : lister les prérequis logiciels et les versions minimales des navigateurs web compatibles et leur année de sortie. Il est pertinent de rajouter la cause de l’incompatibilité de la version précédente, s’il est possible d’en diagnostiquer la cause.</li>
+</ul>
+<p>Si certaines fonctionnalités requièrent une version plus récente, indiquer les versions minimales avec et sans support de ces fonctionnalités.</p>
 </p>
     </div>
 </div>

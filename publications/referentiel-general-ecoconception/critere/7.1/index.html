@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -289,7 +281,7 @@
     <div class="fr-col-12 fr-col-md-8">
         <h1>Le service numérique a-t-il recours à un système de cache serveur pour les données les plus utilisées ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -303,12 +295,19 @@
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Identifier les données, entrées API, ressources les plus utilisées à mettre en cache afin d'éviter de les regénérer. Prévoir une durée d'expiration pour les rafraichir.</p>
+<p><p>Identifier les données, entrées API, ressources les plus utilisées à mettre en cache afin d’éviter de les régénérer. Configurer une durée d’expiration pour les rafraîchir par exemple en invalidant automatiquement le cache après une durée déterminée ou en utilisant des mécanismes de purge du cache lorsqu'une mise à jour des données est effectuée.</p>
+<p>Le critère 7.1 concerne le cache côté serveur, à ne pas confondre avec le critère 6.2 qui traite du cache côté client.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Quels sont les caches serveur mis en place ?</p>
+<p><p>Pour valider ce critère :</p>
+<ul>
+<li>Vérifier la configuration des systèmes de cache serveurs utilisés et s’assurer que les ressources les plus utilisées sont mises en cache ;</li>
+<li>Examiner la présence et les règles d’expiration qui doivent être correctement paramétrées en fonction des caractéristiques de chaque fonctionnalité ;</li>
+<li>S’assurer de la présence d’un mécanisme de rafraîchissement du cache.</li>
+</ul>
+<p>Expliquer la stratégie de gestion de cache côté serveur dans la déclaration d’écoconception du service.</p>
 </p>
     </div>
 </div>

@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique vérifie-t-il les saisies et les formats de données obligatoires à la soumission d&#39;un formulaire sans requête serveur lorsque c&#39;est possible ? - Numérique écoresponsable</title>
+    <title>Le service numérique limite-t-il le recours aux notifications, tout en laissant la possibilité à l’utilisateur de les désactiver ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique vérifie-t-il les saisies et les formats de données obligatoires à la soumission d&#39;un formulaire sans requête serveur lorsque c&#39;est possible ?">
+    <meta property="og:title" content="Le service numérique limite-t-il le recours aux notifications, tout en laissant la possibilité à l’utilisateur de les désactiver ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique vérifie-t-il les saisies et les formats de données obligatoires à la soumission d&#39;un formulaire sans requête serveur lorsque c&#39;est possible ?" />
+    <meta property="twitter:title" content="Le service numérique limite-t-il le recours aux notifications, tout en laissant la possibilité à l’utilisateur de les désactiver ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique vérifie-t-il les saisies et les formats de données obligatoires à la soumission d&#39;un formulaire sans requête serveur lorsque c&#39;est possible ?</h1>
+        <h1>Le service numérique limite-t-il le recours aux notifications, tout en laissant la possibilité à l’utilisateur de les désactiver ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,26 @@
 
 <h2>Objectif</h2>
 
-<p><p>L'objectif est d'éviter les requêtes serveur inutiles. Dans certains cas il n'est pas possible de vérifier côté client en fin de formulaire, la vérification sera alors du côté serveur.</p>
+<p><p>De nombreuses applications sont configurées par défaut pour adresser à l’utilisateur des notifications sur leur terminal. Il s’agit d’incitations à l’usage du service et du terminal associé (le cas échéant). L’objectif est donc de réduire l’usage de ressources informatiques en évitant d’attirer inutilement l’attention de l’utilisateur ou en consommant inutilement des ressources informatiques.</p>
+<p>Il convient donc de minimiser le nombre de notifications, de réfléchir à leur inclusion par défaut dans le design du service numérique et de donner à l’utilisateur la possibilité de les désactiver.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Valider les saisies et les formats de données obligatoires à la soumission d'un formulaire sans requête serveur lorsque cela est possible. Attention : pré-valider les données côté frontend n'exempt pas la validation côté backend.</p>
+<p><p>Les notifications envisagées par le service numérique sont dans l’intérêt de l’utilisateur en termes de besoin. Les notifications évitent également la multiplication sur différents canaux redondants (SMS, mail, notification d’application, notification d’interface, pop-in, etc.).</p>
+<p>Il s’agit donc de proposer une configuration par défaut limitant les notifications.</p>
+<p>L’utilisateur peut désactiver les notifications ou choisir la fréquence de réception de ces notifications.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Contrôler la mise en œuvre</p>
+<p><p>Suivre la fréquence et la quantité des notifications, en se fixant des objectifs chiffrés en la matière.</p>
+<p>Documenter les choix faits en matière de réduction au strict minimum des notifications dans la déclaration d’écoconception.</p>
+<p>Le critère est validé si le service numérique :</p>
+<ul>
+<li>Ne propose pas de notification ou propose par défaut un nombre de notifications limité (un seuil inférieur à cinq par jour devrait être visé);</li>
+<li>Donne à l’utilisateur la possibilité de désactiver et de réduire, via son interface, les notifications proposées par le service de façon simple et rapide (par exemple, un bouton directement visible sur l’interface utilisateur). Les possibilités de suppression ou de réduction des notifications doivent être mises en évidence dans le service numérique.</li>
+</ul>
 </p>
     </div>
 </div>

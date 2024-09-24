@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il pris en compte l&#39;évolution technique des protocoles ? - Numérique écoresponsable</title>
+    <title>Le service numérique est-il en mesure de supporter l’évolution technique des protocoles ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il pris en compte l&#39;évolution technique des protocoles ?">
+    <meta property="og:title" content="Le service numérique est-il en mesure de supporter l’évolution technique des protocoles ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il pris en compte l&#39;évolution technique des protocoles ?" />
+    <meta property="twitter:title" content="Le service numérique est-il en mesure de supporter l’évolution technique des protocoles ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il pris en compte l&#39;évolution technique des protocoles ?</h1>
+        <h1>Le service numérique est-il en mesure de supporter l’évolution technique des protocoles ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,30 +290,56 @@
 
 <h2>Objectif</h2>
 
-<p><p>Limiter l’obsolescence du service induite par l'obsolescence du protocole utilisé, par exemple :</p>
+<p><p>Le choix des protocoles sous-jacents aux échanges réseaux associés au service numérique développé a un impact sur la sollicitation des infrastructures, mais aussi sur la durée de vie du service numérique. En effet, les évolutions techniques des protocoles non supportées par le service numérique peuvent conduire à des dysfonctionnements de certains modules ou fonctionnalités de celui-ci. Prendre en compte ces risques d’obsolescence pour faire les meilleurs choix en matière de protocole permettra de limiter les mises à jour/modernisations nécessaires, et rendra ainsi le service numérique plus durable et pérenne. L’objectif est donc de limiter l’obsolescence du service induite par l’obsolescence des protocoles utilisés, en tenant compte particulièrement des éléments suivants :</p>
 <ul>
-<li>face à la pénurie d'IPv4 et la généralisation d'IPv6 (à moyen terme, certains accès internet ne proposeront plus de connectivité IPv4) en garantissant son interopérabilité et sa pérennité,</li>
-<li>les navigateurs tendent vers le blocage du protocole HTTP et l'obligation d'utiliser HTTPS.</li>
+<li>Protocole d’adressage : face à la pénurie d’IPv4 et la généralisation d’IPv6 (à moyen terme, certains accès à internet ne proposeront plus de connectivité IPv4), un service disponible en IPv6 en assure sa pérennité. Ce choix permet aussi de limiter le nombre de plateformes nécessaires et la consommation d’énergie associée chez les opérateurs ayant recours à du partage d’IPv4 entre clients. L’IPv6 n’a pas besoin de passer par la plateforme CG-Nat qui est coûteuse en matériel et en énergie. (<a href="https://www.dailymotion.com/video/x8qpqtz">voir la présentation vidéo « Adressage et transition IPv6 » de décembre 2023</a>).</li>
+<li>Protocole de chiffrement/d’authentification : les navigateurs tendent vers le blocage du protocole HTTP et l’obligation d’utiliser HTTPS, qui devient donc le choix le plus pérenne. En outre, la couche de chiffrement TLS doit être adaptée à l’évolution de ce protocole puisque les anciennes versions de TLS (TLS v1.0 et TLS v1.1) ne sont plus prises en charge par les navigateurs web.</li>
+<li>Protocole d’échanges de données : s’assurer de l’adéquation entre le choix du protocole et le type des contenus échangés.</li>
 </ul>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par exemple :</p>
+<p><p>Vérifier que le choix des protocoles sous-jacents au service – protocole d’adressage, d’authentification et chiffrement et d’échanges de données – favorisent la pérennité du service. Considérer en particulier les actions suivantes selon les fonctionnalités du service :</p>
 <ul>
-<li>Définir une stratégie de test IPv6 qui inclut des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif : déceler du code ou des fonctions qui ne fonctionnent qu'en IPv4 only, qui seront inutilisables à moyen terme, avec le retrait d'IPv4,</li>
-<li>Dans un contexte où l'utilisateur accède au service numérique par son navigateur, il est obligatoire d'utiliser HTTPS au lieu de HTTP.</li>
+<li>
+<p>Vérifier que le service est accessible en IPv6 et définir une stratégie de test IPv6 incluant des tests depuis un équipement où la connectivité IPv4 est désactivée. Objectif : déceler du code ou des fonctions qui ne fonctionnent qu’en IPv4-only, qui seront inutilisables à moyen terme, avec le retrait d’IPv4.</p>
+</li>
+<li>
+<p>Utiliser le protocole d’authentification et de chiffrement HTTPS. Dans un contexte où l’utilisateur accède au service numérique par son navigateur, il est le plus souvent obligatoire d’utiliser HTTPS au lieu de HTTP (l’utilisation d’un moyen sécurisé pour le  transfert  de  données  personnelles  est  une obligation de l’article 32 du RGPD).</p>
+</li>
+<li>
+<p>Pour le protocole de sécurité, la version de TLS utilisée doit prendre en charge la version la plus récente (au moment de la rédaction : TLS v1.3). Par exemple, avec Apache, la ligne de configuration recommandée est « SSLProtocol al -SSLv3 -TLSv1 -TLSv1.1 », ce qui permet d’activer les nouvelles versions de TLS quand elles sont disponibles et de désactiver les versions de TLS problématiques d’un point de vue sécurité.</p>
+</li>
+<li>
+<p>Pour  les  protocoles  d’échanges  de  données,  il  est recommandé de comparer les protocoles disponibles en fonction des types  de  contenu et des fonctionnalités recherchées. Cette évaluation devrait prendre en considération des critères tels que l'efficacité de transfert des données, la latence, la  compatibilité  avec  les  technologies  utilisées,  ainsi  que  l'impact  environnemental  de  chaque protocole. Par exemple :</p>
+<ul>
+<li>Pour la vidéo : Multicast, HTTP Live Streaming (HLS), Real-Time Messaging Protocol (RTMP), Web Real-Time Communications (WebRTC)...</li>
+<li>Pour les API : REST, SOAP, GraphQL, Protocol Buffers...</li>
+</ul>
+</li>
 </ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier que les différents composants du service numérique fonctionnent bien :</p>
+<p><p>Vérifier la mise en œuvre en s’assurant :</p>
 <ul>
-<li>en IPv6 et ne font appel à aucun service IPv4 only,</li>
-<li>en HTTPS et non en HTTP.</li>
+<li>Que les différents composants du service numérique fonctionnent bien :
+<ul>
+<li>En IPv6 et ne font appel à aucun service tiers IPv4-only.</li>
+<li>En HTTPS et non en HTTP.</li>
 </ul>
-<p>Il sera sans doute complexe de vérifier ces cas depuis un audit externe. Demander à l'équipe si certains composants utilisent des IP ou des urls en http &quot;en dur&quot;.</p>
+</li>
+<li>Que la dernière version de TLS (au moment de la rédaction : TLS v1.3) est bien supportée.</li>
+<li>De l’adéquation du protocole utilisé par rapport au contenu transféré en tenant compte de son empreinte environnementale, ce qui peut être réalisé en :
+<ul>
+<li>Analysant les caractéristiques techniques du protocole dans le contexte des besoins du service, voire en réalisant des scénarios-tests ou des comparaisons de performances ;</li>
+<li>Prenant en compte l'impact environnemental du protocole utilisé, notamment la consommation d'énergie et les ressources informatiques sous-jacentes à son usage.</li>
+</ul>
+</li>
+</ul>
+<p>Le critère est validé si le choix des protocoles nécessaires au fonctionnement du service en assure sa pérennité, en respectant, selon ses fonctionnalités, les conditions susmentionnées. Documenter les protocoles utilisés dans la déclaration d’écoconception.</p>
 </p>
     </div>
 </div>

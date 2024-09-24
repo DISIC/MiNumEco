@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique est-il configuré pour transmettre depuis le serveur des contenus compressés au client qui les accepte ? - Numérique écoresponsable</title>
+    <title>Le service numérique met-il en place des durées de conservation sur les données et documents en vue de leur suppression ou archivage passé ce délai ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique est-il configuré pour transmettre depuis le serveur des contenus compressés au client qui les accepte ?">
+    <meta property="og:title" content="Le service numérique met-il en place des durées de conservation sur les données et documents en vue de leur suppression ou archivage passé ce délai ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique est-il configuré pour transmettre depuis le serveur des contenus compressés au client qui les accepte ?" />
+    <meta property="twitter:title" content="Le service numérique met-il en place des durées de conservation sur les données et documents en vue de leur suppression ou archivage passé ce délai ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique est-il configuré pour transmettre depuis le serveur des contenus compressés au client qui les accepte ?</h1>
+        <h1>Le service numérique met-il en place des durées de conservation sur les données et documents en vue de leur suppression ou archivage passé ce délai ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,21 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire la quantité de ressources transférées sur le réseau.</p>
+<p><p>Le stockage des données n'est ni illimité, ni gratuit, il a un impact environnemental et doit être optimisé. Certains services traitent de grandes quantités de données qui ne sont jamais consultées, car l'utilisateur a cessé d'utiliser le produit (mais n'a, par exemple, pas supprimé le compte) ou parce que les données sont obsolètes depuis longtemps. La limitation des durées de conservation des données personnelles figure d’ailleurs dans les obligations du RGPD.</p>
+<p>L’objectif est d’alléger les bases de données et les serveurs physiques de données non utiles.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Mettre en place une compression de bout en bout (par exemple : https://developer.mozilla.org/fr/docs/Web/HTTP/Compression)</p>
+<p><p>Définir des dates d’expiration sur les données (fichiers, entrées en base de données...) permettant par la suite d’archiver et/ou de supprimer ces données. Implémenter des fonctionnalités qui aident les utilisateurs à identifier des données obsolètes grâce à des indicateurs et ou des suggestions de localisation où les données peuvent être supprimées.</p>
+<p>Mettre en place un processus (de préférence automatique) d’archivage ou de suppression des données (fichiers, entrées en base de données...) dont la durée de conservation est dépassée.</p>
+<p>Dans la mesure du possible, archiver les informations rarement consultées et intégrer une interface de « récupération à partir de l'archive » dans les interactions de l'utilisateur. Supprimer les archives inutilisées après une durée communiquée à l’utilisateur.</p>
+<p>Déplacer le cas échéant les archives (données « froides ») sur un autre support que celui utilisé pour les données actives (données « chaudes »), voir critère 8.8.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier la mise en place d'une compression des données</p>
+<p><p>Pour valider ce critère, définir des dates d’expiration pour les informations obsolètes et mettre en place un mécanisme d’archivage ou de suppression des données dépassant la durée de conservation définie. Un suivi de l’évolution du poids des fichiers stockés et des bases de données.</p>
 </p>
     </div>
 </div>

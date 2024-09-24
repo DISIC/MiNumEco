@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique se limite-t-il au chargement des composants utilisés au sein des bibliothèques lorsque cela est possible ? - Numérique écoresponsable</title>
+    <title>Le service numérique héberge-t-il toutes les ressources statiques transférées dont il est l’émetteur sur un même domaine ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique se limite-t-il au chargement des composants utilisés au sein des bibliothèques lorsque cela est possible ?">
+    <meta property="og:title" content="Le service numérique héberge-t-il toutes les ressources statiques transférées dont il est l’émetteur sur un même domaine ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique se limite-t-il au chargement des composants utilisés au sein des bibliothèques lorsque cela est possible ?" />
+    <meta property="twitter:title" content="Le service numérique héberge-t-il toutes les ressources statiques transférées dont il est l’émetteur sur un même domaine ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique se limite-t-il au chargement des composants utilisés au sein des bibliothèques lorsque cela est possible ?</h1>
+        <h1>Le service numérique héberge-t-il toutes les ressources statiques transférées dont il est l’émetteur sur un même domaine ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,21 @@
 
 <h2>Objectif</h2>
 
-<p><p>N'utiliser que ce dont il est nécessaire pour le fonctionnement du service et économiser ainsi de la ressource informatique.</p>
+<p><p>Permettre de diminuer la taille des échanges et de requêtes en utilisant HTTP/2 ou HTTP/3 à la place de HTTP/1.1 et en limitant le nombre de domaines différents pour les ressources utilisées. Il s’agit ainsi d’optimiser la sollicitation des serveurs.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Charger uniquement les composants nécessaires. Certaines bibliothèques rendent disponibles les composants pour une utilisation unitaire (par exemple <a href="https://getbootstrap.com/">Bootstrap</a>. Autre exemple, le <a href="https://www.systeme-de-design.gouv.fr/">système de design de l'Etat</a> est disponible sous forme packagée (feuilles de style et scripts) avec tous les composants. Il est rarement nécessaire d'utiliser tous les composants. Il est possible de ne charger que les fichiers CSS et javascript des composants nécessaires.</p>
+<p><p>Activer HTTP/2 ou HTTP/3 et limiter le nombre de domaines différents pour les ressources utilisées afin notamment de profiter du multiplexage proposé par HTTP/2 ou HTTP/3.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier le contenu des bibliothèques chargées et leur utilisation effective.</p>
+<p><p>Le critère est validé si (conditions cumulatives) :</p>
+<ul>
+<li>L’ensemble de ses ressources prennent en charge HTTP/2 ou HTTP/3 ;</li>
+<li>Les ressources statiques, hors services tiers, sont transférées via un seul nom de domaine à un instant « t ».</li>
+</ul>
 </p>
     </div>
 </div>

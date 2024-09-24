@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d&#39;écoute de chaque contenu audio ? - Numérique écoresponsable</title>
+    <title>Le service numérique propose-t-il un mode « écoute seule » pour ses vidéos ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d&#39;écoute de chaque contenu audio ?">
+    <meta property="og:title" content="Le service numérique propose-t-il un mode « écoute seule » pour ses vidéos ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d&#39;écoute de chaque contenu audio ?" />
+    <meta property="twitter:title" content="Le service numérique propose-t-il un mode « écoute seule » pour ses vidéos ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d&#39;écoute de chaque contenu audio ?</h1>
+        <h1>Le service numérique propose-t-il un mode « écoute seule » pour ses vidéos ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,34 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>Une partie significative du trafic vidéo sur internet est constitué de vidéos qui sont écoutées (source : <a href="https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300627">étude de Chris Priest, de l’université de Bristol au Royaume-Uni sur l’usage d’un bouton « audio-seul » sur l’application YouTube</a> de mai 2019) :</p>
+<ul>
+<li>Vidéos musicales utilisées en fond sonore ;</li>
+<li>Podcasts filmés écoutés et non visionnés ;</li>
+<li>Émissions écoutées pendant une autre activité.</li>
+</ul>
+<p>Le premier objectif est de réduire le trafic en permettant à l’utilisateur de couper son flux vidéo via une option « écoute seule », « audio only », ou « zéro pixel » afin de réduire le trafic généré par la vidéo qui n’est pas regardée.</p>
+<p>Le second objectif est de réduire la consommation d’énergie des terminaux en leur permettant d’activer l’écoute de la piste audio d’une vidéo lorsque l’écran est éteint.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Utiliser par exemple le MP3, OGG ou AAC au lieu du FLAC, AIFF ou WAV.</p>
+<p><p>Proposer une option permettant à l’utilisateur de basculer en mode « écoute seule » simplement sur le lecteur vidéo (et si possible de repasser en mode vidéo, s’il souhaite regarder de nouveau la vidéo). En mode « écoute seule », le flux vidéo n’est plus téléchargé par le lecteur vidéo, qui se limite au flux audio.</p>
+<p>Basculer automatiquement les vidéos en « écoute seule » quand le service numérique détecte que le média n’est plus visualisé ou que l’utilisateur éteint son écran. Par exemple :</p>
+<ul>
+<li>Utilisation de service numérique sur smartphone / tablette / équipement connecté (application native ou via un navigateur web) : le fait d’appuyer sur le bouton de mise en veille doit basculer la vidéo en mode audio seul, de façon à permettre à l’utilisateur de continuer à écouter la vidéo en limitant fortement la consommation d’énergie, l’écran étant éteint et seules les données nécessaires à l’audio étant transférées.</li>
+<li>Si le service numérique est utilisé dans un navigateur web, le fait de passer dans un autre onglet que celui de la vidéo doit déclencher le mode « écoute seule ». Quand l’utilisateur affiche de nouveau l’onglet de la vidéo, celle-ci peut rebasculer en mode vidéo.</li>
+</ul>
+<p>Dans le cas d’un service numérique qui utilise une plateforme de vidéo ne proposant pas de mode « écoute seule », une alternative est de proposer sous la vidéo un lien vers la version audio, afin de permettre à l’utilisateur de choisir son mode de diffusion.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la pertinence du format de fichier audio par rapport au contenu proposé : musique, parlé, etc.</p>
+<p><p>Le critère est validé si :</p>
+<ul>
+<li>Le service propose un mode « écoute seule » sur les vidéos, activable à la demande de l’utilisateur et qui s’enclenche lorsqu’il peut être détecté que la vidéo n’est pas affichée sur le terminal (par exemple : changement d’onglet dans un navigateur ou d’application sur un terminal, fermeture d’écran, etc.). Dans l’éventualité où les vidéos du service sont déjà hébergées par un service tiers qui ne propose pas ce mode « écoute seule », il est possible de valider le critère en proposant un enregistrement « écoute seule » sous chaque vidéo (sans préchargement de la vidéo associée).</li>
+<li>Sont documentés dans la déclaration d’écoconception du service numérique l’emplacement et le fonctionnement du mode « écoute seule ».</li>
+</ul>
 </p>
     </div>
 </div>

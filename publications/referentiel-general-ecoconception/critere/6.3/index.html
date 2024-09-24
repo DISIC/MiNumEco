@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ? - Numérique écoresponsable</title>
+    <title>Le service numérique a-t-il mis en place des techniques de compression pour les ressources transférées dont il a le contrôle ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ?">
+    <meta property="og:title" content="Le service numérique a-t-il mis en place des techniques de compression pour les ressources transférées dont il a le contrôle ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ?" />
+    <meta property="twitter:title" content="Le service numérique a-t-il mis en place des techniques de compression pour les ressources transférées dont il a le contrôle ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ?</h1>
+        <h1>Le service numérique a-t-il mis en place des techniques de compression pour les ressources transférées dont il a le contrôle ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,20 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des données échangées.</p>
+<p><p>Réduire la quantité de ressources transférées sur le réseau via la compression des données.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>La stratégie de cache doit être adaptée au contexte d'application et au scénario d'usage. La gestion du mode déconnecté (offline) est parfois très pertinent, parfois non. Mettre en place un mécanisme de cache côté utilisateur, en frontend (cache HTTP par exemple).</p>
+<p><p>Mettre en place la compression, minification (réduction de la taille du code) des fichiers de scripts. Attention toutefois à ne pas générer de la consommation de ressources s’il y a besoin de puissance de calcul pour « décompresser » les fichiers : la compression systématique de type « .tgz » par exemple pour des petits fichiers peut être contreproductive. Ce critère s’applique uniquement aux fichiers texte (HTML, CSS, JavaScript par exemple).</p>
+<p>Veiller à mettre en place une compression de bout en bout (exemple : <a href="https://developer.mozilla.org/fr/docs/Web/HTTP/Compression">Documentation Mozilla sur la compression dans HTTP</a>). Il faudra faire appel à des mécanismes de compression de flux pour minimiser le volume du trafic échangé. Favoriser, lorsque cela est possible, le mécanisme de compression le plus efficace.</p>
+<p>Par exemple, pour HTTP plusieurs protocoles de compression existent, tels en particulier Brotli et GZIP.
+Ne pas confondre avec le critère 5.2 sur la compression des images (qui n’aborde pas la compression lors du transfert).</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier la mise en œuvre</p>
+<p><p>Le critère est validé si les requêtes du service numérique utilisent un mécanisme de compression des données au niveau du frontend. Pour le protocole HTTP et la compression HTML, les mécanismes de compression Brotli ou GZIP sont conseillés.</p>
 </p>
     </div>
 </div>

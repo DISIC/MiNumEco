@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ? - Numérique écoresponsable</title>
+    <title>Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ?">
+    <meta property="og:title" content="Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ?" />
+    <meta property="twitter:title" content="Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ?</h1>
+        <h1>Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,23 @@
 
 <h2>Objectif</h2>
 
-<p><p>L'objectif est d'éviter une architecture surdimensionnée et de privilégier une architecture capable de passer à l'échelle.</p>
+<p><p>L’objectif est d’éviter une architecture surdimensionnée et de privilégier une architecture capable d'ajuster dynamiquement la quantité de ressources utilisées en fonction de la demande du service, et passer à l’échelle. Cela contribue à optimiser l'efficacité énergétique et à éviter le gaspillage de ressources inutiles.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Évaluer finement le besoin, le nombre d'utilisateurs pour adapter les ressources informatiques nécessaires.</p>
+<p><p>Dans un premier temps, évaluer finement le besoin, le nombre d’utilisateurs pour adapter les ressources informatiques nécessaires. Dans un second temps, s’assurer que l’architecture peut s'adapter de manière optimale afin que soient allouées les ressources informatiques strictement nécessaires pour répondre à la demande fluctuante du service.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Obtenir par exemple un comparatif entre les ressources allouées et celles consommées sur une période de temps.</p>
+<p><p>Le service numérique fonctionne sur une architecture qui peut adapter les ressources allouées à la demande. Afin de s’en assurer, plusieurs moyens de test peuvent être envisagés, par exemple :</p>
+<ul>
+<li>Suivi de l’évolution du ratio entre ressources allouées et consommées : construire un comparatif entre les ressources allouées et celles consommées sur une période de temps et corriger les défauts existants en termes d’adaptation. Des outils de surveillance des ressources peuvent aussi être mis en place pour collecter des données sur l'utilisation du processeur, de la mémoire, de la bande passante, etc.</li>
+<li>Simulation de montées en charge : vérifier si l'architecture est capable de détecter automatiquement l'augmentation de la demande et d'allouer dynamiquement les ressources nécessaires pour maintenir les performances. Des tests de montée en charge réelle en situation réelle sont également utiles.</li>
+<li>Mécanismes d'auto-ajustement : ces mécanismes se déclenchent automatiquement en fonction des conditions de charge (par exemple : utilisation de mécanismes d'auto-scaling pour créer dynamiquement des instances du service en fonction de la demande).</li>
+</ul>
+<p>Démontrer dans la déclaration d’écoconception l’adaptation de la consommation en ressources de l’architecture en fonction des besoins du service.</p>
 </p>
     </div>
 </div>

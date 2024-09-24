@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique s&#39;astreint-il à un poids maximum par écran ? - Numérique écoresponsable</title>
+    <title>Le service numérique s’astreint-il à un poids maximum et une limite de requête par écran ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique s&#39;astreint-il à un poids maximum par écran ?">
+    <meta property="og:title" content="Le service numérique s’astreint-il à un poids maximum et une limite de requête par écran ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique s&#39;astreint-il à un poids maximum par écran ?" />
+    <meta property="twitter:title" content="Le service numérique s’astreint-il à un poids maximum et une limite de requête par écran ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique s&#39;astreint-il à un poids maximum par écran ?</h1>
+        <h1>Le service numérique s’astreint-il à un poids maximum et une limite de requête par écran ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,26 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire ou limiter les données téléchargées</p>
+<p><p>Réduire ou limiter les données téléchargées.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par écran, il est entendu ici &quot;écran virtuel&quot; et non physique. Si le service numérique est un site web, l'écran désigne la page, pour une API, l'écran désigné la réponse du serveur.
-Définir et suivre un indicateur poids maximum par écran, en tenant compte de toutes les ressources téléchargées (composants d'interface, données, contenus, scripts, feuilles de style...). Par exemple pour une page web (avec toutes les ressources chargées) qui pèse 2 Mo, l'objectif serait de descendre à 500 Ko. Selon le contexte, cet objectif peut être beaucoup plus bas.</p>
+<p><p>Par écran, il est entendu ici « écran virtuel » et non physique. Si le service numérique est un site web, l’écran désigne la page, pour une API, l’écran désigne la réponse du serveur.</p>
+<p>Définir et suivre des indicateurs de :</p>
+<ul>
+<li>Poids maximum par écran, en tenant compte de toutes les ressources téléchargées (composants d’interface, données, contenus, scripts, feuilles de style...). Par exemple pour une page web (avec toutes les ressources chargées) qui pèse 2 Mo, l’objectif serait de descendre à 1 Mo. Selon le contexte, cet objectif peut être beaucoup plus bas.</li>
+<li>Requêtes client/serveur maximum par écran, en tenant compte de toutes les ressources téléchargées (composants d’interface, données, contenus, scripts, feuilles de style...). Par exemple, pour un site web, il serait intéressant d’avoir moins de 30 requêtes par page au lieu de 100.</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Quel est le poids maximum par écran défini ?</p>
+<p><p>Afficher dans la déclaration d’écoconception :</p>
+<ul>
+<li>Le poids maximum par écran défini et proportionné, et respecter cette limite ;</li>
+<li>Le nombre de requêtes maximum par écran défini, en précisant si la limitation du nombre de requêtes porte sur le seul chargement de la page web ou également sur son fonctionnement (par exemple : pour une page web comportant un formulaire de saisie ; est-ce que le nombre de requêtes intègre les requêtes de contrôle de champs ?).</li>
+</ul>
 </p>
     </div>
 </div>

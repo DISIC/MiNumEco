@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique est-il utilisable via une connexion bas débit ? - Numérique écoresponsable</title>
+    <title>Le service numérique comporte-t-il uniquement des animations, vidéos et sons dont la lecture automatique est désactivée ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique est-il utilisable via une connexion bas débit ?">
+    <meta property="og:title" content="Le service numérique comporte-t-il uniquement des animations, vidéos et sons dont la lecture automatique est désactivée ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique est-il utilisable via une connexion bas débit ?" />
+    <meta property="twitter:title" content="Le service numérique comporte-t-il uniquement des animations, vidéos et sons dont la lecture automatique est désactivée ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique est-il utilisable via une connexion bas débit ?</h1>
+        <h1>Le service numérique comporte-t-il uniquement des animations, vidéos et sons dont la lecture automatique est désactivée ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,19 +290,23 @@
 
 <h2>Objectif</h2>
 
-<p><p>Si le service numérique s'adresse à un large public, vous ne maitrisez donc pas le niveau de connectivité. Il est nécessaire de veiller à ne pas exclure certains publics qui n'ont pas accès à de hauts débits.
-Tout en permettant de réduire la fracture numérique, il s'agit aussi d'une bonne pratique pour l'environnement. En effet, les utilisateurs n'ont pas toujours conscience de ce qui ralentit un service numérique : la connexion réseau, le service numérique ou le terminal utilisé ?
-Un service numérique plus léger a, par conséquent, beaucoup moins besoin de ressources réseaux pour fonctionner.</p>
+<p><p>Plus un utilisateur passe de temps sur un site ou une application, plus l’empreinte environnementale associée à cet usage sera élevée, les ressources réseaux et systèmes sur le terminal étant mobilisées plus longtemps. S’il appartient bien entendu à l’utilisateur de décider quel temps il souhaite consacrer à tel ou tel usage, les pratiques de développement du site ou de l’application concernée peuvent avoir un impact direct sur cette durée d’utilisation, en particulier par l’exploitation de pratiques de captation de l’attention.</p>
+<p>Le lancement automatique de contenus, en particulier de vidéos, fait partie des mécanismes mis en place pour garder l'utilisateur en état d'attention. Le déclenchement de contenus et leur pré-chargement sans consentement de l’utilisateur doit être évité dans une perspective de sobriété des usages.</p>
+<p>Ce critère permet de donner le contrôle à l’utilisateur pour limiter l’usage de ressources non nécessaires.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Tester l'utilisabilité du service avec des connexions bas débit, mesurer et améliorer le temps de réponse. Les contenus peuvent être servis en qualité dégradées lorsque cela s'avère nécessaire.</p>
+<p><p>Désactiver par défaut le chargement et la lecture automatiques de contenus vidéo et/ou sonores dans les paramètres du service. Si ce n’est pas possible, permettre à l’utilisateur de supprimer ces fonctionnalités avec un bouton ou une interface directement accessible et visible.</p>
+<p>Autant que possible, ne pas utiliser de graphismes animés non contrôlables, ou encore partiellement contrôlables par l’utilisateur (images gif animées notamment). Les fonds vidéo et/ou audio en lecture automatique devront en particulier être évités, s’ils sont à visée purement esthétique.</p>
+<p>Pour les animations jugées essentielles vis-à-vis des fonctionnalités du service, proposer une possibilité à l’utilisateur de mettre en pause ces éléments. Lorsque l’animation visuelle a une durée de plus de 4 secondes ou qu’un son a une durée de plus de 2 secondes, doter systématiquement l’objet multimédia des moyens de contrôle nécessaires : démarrage, arrêt, muet ou volume. Permettre de les désactiver simplement dès lors que ces contenus dépassent 4 secondes et minimiser leur taille.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Tester l'utilisabilité du service avec des connexions bas débit (3G en mobilité et 512 Kbs en fixe).</p>
+<p><p>Vérifier que le service n’inclut pas de lecture automatique de contenu par défaut. Si ce n’est pas possible, s’assurer que le service numérique donne la possibilité à l’utilisateur de supprimer facilement le chargement ou le lancement automatique de vidéos ou contenus audios. Les possibilités de suppression doivent être mises en évidence dans le service numérique (par exemple, avec un bouton de désactivation apparent dans l’interface utilisateur).</p>
+<p>Il conviendra également de limiter au strict nécessaire le nombre d’animations visuelles non contrôlables et de fixer des objectifs quantitatifs à ne pas dépasser. Les animations non contrôlables jugées essentielles vis-à-vis des fonctionnalités du service devront pouvoir être mises en pause par l’utilisateur dès qu’elles dépassent 4 secondes pour l’animation visuelle et 2 secondes pour l’audio.</p>
+<p>Le critère est validé si le service ne repose pas sur une fonctionnalité de lecture automatique par défaut et incontrôlée, limite le recours à des animations visuelles, clignotements ou défilements automatiques non contrôlables, en suivant les conditions susmentionnées.</p>
 </p>
     </div>
 </div>

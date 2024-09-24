@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique propose-t-il d&#39;installer des mises à jour correctives indépendamment des mises à jour évolutives ? - Numérique écoresponsable</title>
+    <title>Le service numérique propose-t-il les mises à jour incrémentielles, afin de ne pas remplacer tout le code à chaque mise à jour ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique propose-t-il d&#39;installer des mises à jour correctives indépendamment des mises à jour évolutives ?">
+    <meta property="og:title" content="Le service numérique propose-t-il les mises à jour incrémentielles, afin de ne pas remplacer tout le code à chaque mise à jour ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique propose-t-il d&#39;installer des mises à jour correctives indépendamment des mises à jour évolutives ?" />
+    <meta property="twitter:title" content="Le service numérique propose-t-il les mises à jour incrémentielles, afin de ne pas remplacer tout le code à chaque mise à jour ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique propose-t-il d&#39;installer des mises à jour correctives indépendamment des mises à jour évolutives ?</h1>
+        <h1>Le service numérique propose-t-il les mises à jour incrémentielles, afin de ne pas remplacer tout le code à chaque mise à jour ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,19 +290,18 @@
 
 <h2>Objectif</h2>
 
-<p><p>Limiter la contribution à l'obsolescence des équipements utilisateurs.
-Promouvoir les politiques de support à long terme (&quot;Long term support&quot;).</p>
+<p><p>La mise à jour des applications peut consommer beaucoup de données si l’ensemble du code du service numérique est mis à jour. Ce critère vise à réduire drastiquement la quantité de données nécessaire pour une mise à jour. Cela implique de limiter les mises à jour aux ajouts incrémentaux.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Ce critère est applicable surtout pour un service numérique de type api / composants / bibliothèque / framework / outils open source et beaucoup plus rarement un produit destiné à des utilisateurs finaux.
-Par exemple, une stratégie de gestion de versions avec des versions &quot;Long term support&quot; est mise en place et un changelog (journal des modifications) indique-t-il correctement les changements effectués par les mises à jour ?</p>
+<p><p>Favoriser les mises à jour incrémentielles (seules les données modifiées sont transférées) ou la séparation du code binaire en petites entités qui ne sont téléchargées que si leur code a changé. L’objectif est de ne pas remplacer tout le code du programme à chaque fois qu'une mise à jour est livrée.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérification de la mise en œuvre</p>
+<p><p>Il faut utiliser, lorsque cela est possible, un mécanisme de mise à jour qui ne nécessite pas de remplacer tout le code du programme à chaque mise à jour. Le cas échéant, il est possible de proposer une mise à jour complète du code du programme pour les fonctionnalités de « réinitialisation » ou « d’autoréparation ».</p>
+<p>Le critère est validé si les mises à jour incrémentielles sont favorisées pour le service numérique, en dehors des fonctionnalités de « réinitialisation » et « d’autoréparation ».</p>
 </p>
     </div>
 </div>

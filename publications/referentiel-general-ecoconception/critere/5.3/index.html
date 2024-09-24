@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation pour chaque vidéo ? - Numérique écoresponsable</title>
+    <title>Le service numérique utilise-t-il, pour chaque vidéo, une définition adaptée au contenu et au contexte de visualisation ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation pour chaque vidéo ?">
+    <meta property="og:title" content="Le service numérique utilise-t-il, pour chaque vidéo, une définition adaptée au contenu et au contexte de visualisation ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation pour chaque vidéo ?" />
+    <meta property="twitter:title" content="Le service numérique utilise-t-il, pour chaque vidéo, une définition adaptée au contenu et au contexte de visualisation ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation pour chaque vidéo ?</h1>
+        <h1>Le service numérique utilise-t-il, pour chaque vidéo, une définition adaptée au contenu et au contexte de visualisation ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,52 @@
 
 <h2>Objectif</h2>
 
-<p><p>Il arrive parfois que le contenu vidéo soit en haute définition alors que le contexte de visualisation n'en a pas besoin. L'objectif est de réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>Il arrive parfois que le contenu vidéo soit en haute définition alors que le contexte de visualisation n’en a pas besoin, ce qui a pour effet d’augmenter la consommation énergétique du terminal et la quantité de données transférées. Il est donc important d’ajuster précisément la définition vidéo par défaut au terminal utilisé et de donner de l’autonomie à l’utilisateur pour limiter les impacts environnementaux de ses usages en lui permettant de réduire ou d’augmenter la définition de la vidéo.</p>
+<p>L’objectif est ainsi de limiter les ressources informatiques et la consommation énergétique associée au visionnage de vidéos.</p>
+<ul>
+<li>Le critère est applicable aux vidéos diffusées en unicast, terme définissant une connexion réseau point à point, c'est-à-dire d'un hôte vers un (seul) autre hôte. C’est le mode de diffusion utilisé sur internet.</li>
+<li>Le critère n’est pas applicable au multicast/broadcast, puisque cela engendrerait une multiplication des flux contreproductive. Les diffusions de type multicast/broadcast concernent uniquement certains modes de diffusion TV (par exemple : TNT, certains flux transmis via le décodeur TV) et désigne une forme de diffusion d’un émetteur unique vers un groupe de récepteurs.</li>
+</ul>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par exemple, éviter les vidéos avec une définition de 1080p ou plus affichées sur le site web quand le terminal cible ou détecté est un smartphone. S'il n'est pas possible de mettre en place cette adaptation selon le terminal cible, utiliser un contenu vidéo avec la plus faible définition possible sans que cela n'altère sa compréhension.</p>
+<p><p>La mise en œuvre diffère selon le fait que le service numérique est en mesure ou pas de proposer de multiples définitions vidéo pour un même contenu.</p>
+<p>Si le service numérique est en mesure de proposer de multiples définitions vidéo pour un même contenu :</p>
+<ul>
+<li>Etablir une définition par défaut ne doit pas dépasser les définitions du mode « qualité standard » défini ci-après.</li>
+<li>Définir un mode « sobriété énergétique » (qui peut également être appelé « économie de données ») qui doit être facilement accessible sur l’interface. Son activation baisse la définition, de manière à ne pas dépasser les définitions du mode « sobriété énergétique » défini ci-après. Le service numérique doit être en mesure de mémoriser ce choix et de l’appliquer pour les prochaines lectures de vidéos.</li>
+<li>De manière optionnelle, proposer un mode « haute qualité », utilisé uniquement sur demande de l’utilisateur (en l’informant le cas échéant que le recours à ce mode « haute qualité » peut avoir un impact sur la quantité de données transmises et la consommation énergétique).</li>
+</ul>
+<p>Définition maximum selon le terminal et le mode :</p>
+<p>Mode « sobriété énergétique » :</p>
+<ul>
+<li>Smartphone : 480p maximum</li>
+<li>Tablette : 720p maximum</li>
+<li>PC : 720p maximum</li>
+<li>TV : 1080p maximum</li>
+<li>Type d’écran inconnu : 720p maximum</li>
+</ul>
+<p>Mode « qualité standard » :</p>
+<ul>
+<li>Smartphone : 720p maximum</li>
+<li>Tablette : 1080p maximum</li>
+<li>PC : 1080p maximum</li>
+<li>TV : 1440p maximum</li>
+<li>Type d’écran inconnu : 1080p maximum</li>
+</ul>
+<p>Mode « haute qualité » :</p>
+<ul>
+<li>Pas de contrainte.</li>
+</ul>
+<p>Si le service numérique unicast qui ne peut pas gérer de multiples définitions vidéo pour un même contenu, choisir la plus faible définition possible sans que cela altère sa  compréhension ou l’expérience utilisateur : définition vidéo de 720p pouvant être portée à 1080p pour un contenu difficilement lisible (par exemple : vidéos avec du texte dans une petite police de caractères).</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Tester la lecture des vidéos sur différents terminaux et vérifier que ces vidéos ont un format adapté.</p>
+<p><p>Tester, y compris périodiquement, la lecture des vidéos sur différents terminaux afin de vérifier que ces vidéos en mode « qualité standard » et « sobriété énergétique » ont un format adapté à ces terminaux.</p>
+<p>Contrôler la facilité d’accès au mode « sobriété énergétique » (qui peut également être appelé « économie de données ») tel que décrit dans la partie « Mise en œuvre ».</p>
+<p>Pour valider ce critère, documenter dans la déclaration d’écoconception les définitions proposées selon les types de terminaux, l’action du mode « sobriété énergétique », son emplacement et sa capacité à mémoriser le choix de l’utilisateur.</p>
 </p>
     </div>
 </div>

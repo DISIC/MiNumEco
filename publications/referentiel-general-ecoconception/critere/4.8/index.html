@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il du texte ou de l&#39;image au lieu de contenu vidéo, audio ou animé lorsque cela est possible ? - Numérique écoresponsable</title>
+    <title>Le service numérique limite-t-il le nombre des polices de caractères téléchargées ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il du texte ou de l&#39;image au lieu de contenu vidéo, audio ou animé lorsque cela est possible ?">
+    <meta property="og:title" content="Le service numérique limite-t-il le nombre des polices de caractères téléchargées ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il du texte ou de l&#39;image au lieu de contenu vidéo, audio ou animé lorsque cela est possible ?" />
+    <meta property="twitter:title" content="Le service numérique limite-t-il le nombre des polices de caractères téléchargées ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il du texte ou de l&#39;image au lieu de contenu vidéo, audio ou animé lorsque cela est possible ?</h1>
+        <h1>Le service numérique limite-t-il le nombre des polices de caractères téléchargées ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,22 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des ressources utilisées, sachant qu'une vidéo pèse généralement beaucoup plus lourd qu'un texte contenant des images.</p>
+<p><p>Le téléchargement de polices de caractères peut alourdir un service numérique et les ressources informatiques nécessaires à son fonctionnement. Minimiser le nombre de polices téléchargées permet d’accélérer le chargement du service numérique, de potentiellement diminuer les transferts de données à des tiers et de réduire l’empreinte environnementale du service.</p>
+<p>L’objectif est donc de limiter le nombre de polices de caractères utilisées pour privilégier, lorsque cela est possible, des polices nativement disponibles, afin de ne pas avoir besoin d’un téléchargement spécifique de la police utilisée. Il s’agit également de réduire la taille des polices téléchargées.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Questionner le besoin d'afficher un média (vidéo, animation ou enregistrement audio), très en amont et choisir la solution la plus sobre possible tout en répondant au besoin utilisateur.</p>
+<p><p>Se fixer comme objectif de n’utiliser au maximum que deux polices différentes et au maximum quatre variantes au total par page ou « unité d’affichage » si la pagination n’est pas utilisée (ou si un seuil par taille de fichier est plus adapté, viser une taille maximale de 400 Ko pour les polices téléchargées). Vérifier la compression des polices ou l’usage des glyphes nécessaires. Dans un contexte de site web, prêter aussi attention sur le mode de chargement : bloquant, non bloquant...</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la pertinence du choix d'affichage d'une vidéo, d'une animation ou d'un enregistrement audio.</p>
+<p><p>Le nombre et le poids des polices de caractères utilisées sont à évaluer. Le critère est validé si les polices téléchargées pour le service respectent au moins l’une de ces conditions :</p>
+<ul>
+<li>Le nombre de polices téléchargées est limité à deux (avec au maximum quatre variantes au total) par page ou « unité d’affichage » (si la pagination n’est pas utilisée pour le service) ;</li>
+<li>La taille des polices téléchargées ne dépasse pas 400 Ko par page ou « unité d’affichage ».</li>
+</ul>
 </p>
     </div>
 </div>

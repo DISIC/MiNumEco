@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ? - Numérique écoresponsable</title>
+    <title>Le service numérique informe-t-il l’utilisateur, avant le transfert, des poids et formats de fichier attendus ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?">
+    <meta property="og:title" content="Le service numérique informe-t-il l’utilisateur, avant le transfert, des poids et formats de fichier attendus ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?" />
+    <meta property="twitter:title" content="Le service numérique informe-t-il l’utilisateur, avant le transfert, des poids et formats de fichier attendus ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?</h1>
+        <h1>Le service numérique informe-t-il l’utilisateur, avant le transfert, des poids et formats de fichier attendus ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,26 @@
 
 <h2>Objectif</h2>
 
-<p><p>Éviter de réaliser des requêtes clients / serveurs inutiles. Par exemple dans un contexte de formulaire, de suggestion de résultats, etc.</p>
+<p><p>Limiter les échanges client/serveur de fichiers volumineux en informant l’utilisateur des prérequis attendus.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Pour une aide à la saisie (&quot;autocompletion&quot;), attendre par exemple d'avoir 3 caractères et 200 ms après saisie avant de lancer une requête réseau.</p>
+<p><ul>
+<li>Fichiers téléchargés : Indiquer clairement à l’utilisateur, au minimum pour les fichiers de plus de 10 Mo et avant le transfert, des poids et des formats de fichier attendus : un type de fichier, une taille maximale d’image, etc.</li>
+<li>Fichiers téléversés (ou upload) : la soumission du formulaire n’est pas possible si les prérequis indiqués de poids et de format de fichier ne sont pas respectés. La limite mise en place doit toutefois prendre en compte tous les usages, y compris ceux nécessitant un envoi des fichiers volumineux, car bloquer la démarche numérique de l’utilisateur serait contreproductif. Il est important également de prendre en charge les nouveaux formats de fichiers (exemple : images WebP et AVIF en plus des images JPEG et PNG) afin d’éviter d’imposer à l’utilisateur de passer par une étape de conversion contreproductive.
+À noter : les limitations devront être définies de façon proportionnée afin de ne pas engendrer d’effet de bord négatif sur l’accessibilité du service, en tenant compte des cibles utilisatrices.</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Contrôler la mise en œuvre</p>
+<p><p>Le critère est validé si :</p>
+<ul>
+<li>Fichiers téléchargés : les informations sur les poids et formats de fichier attendus pour le service sont correctement affichées à l'utilisateur avant le transfert, au minimum pour les fichiers de plus de 10 Mo. Un moyen de test peut consister à vérifier cet affichage préalable au transfert de fichier avec différents types et tailles de fichiers.</li>
+<li>Fichiers téléversés ou upload : des limitations de poids et de formats de fichiers sont mises en œuvre et sont affichées clairement pour l’utilisateur du service numérique (hors situation spécifique où de telles limitations nuiraient à l’utilisation du service).</li>
+</ul>
+<p>Contrôler la mise en œuvre en vérifiant que les limites de poids et de formats de fichiers sont spécifiées puis correctement appliquées lors de la soumission du formulaire.</p>
 </p>
     </div>
 </div>

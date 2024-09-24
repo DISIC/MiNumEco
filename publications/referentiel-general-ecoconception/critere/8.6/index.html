@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il un hébergement dont son WUE (Water Usage Effectiveness) est communiqué ? - Numérique écoresponsable</title>
+    <title>Le service numérique utilise-t-il un hébergement dont la localisation géographique est cohérente avec ses activités et qui minimise son empreinte environnementale ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il un hébergement dont son WUE (Water Usage Effectiveness) est communiqué ?">
+    <meta property="og:title" content="Le service numérique utilise-t-il un hébergement dont la localisation géographique est cohérente avec ses activités et qui minimise son empreinte environnementale ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il un hébergement dont son WUE (Water Usage Effectiveness) est communiqué ?" />
+    <meta property="twitter:title" content="Le service numérique utilise-t-il un hébergement dont la localisation géographique est cohérente avec ses activités et qui minimise son empreinte environnementale ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il un hébergement dont son WUE (Water Usage Effectiveness) est communiqué ?</h1>
+        <h1>Le service numérique utilise-t-il un hébergement dont la localisation géographique est cohérente avec ses activités et qui minimise son empreinte environnementale ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,21 +290,19 @@
 
 <h2>Objectif</h2>
 
-<p><p>Connaitre le WUE de son hébergement, indicateur souvent peu pris en compte.
-Réduire ou limiter la consommation d'eau nécessaire au refroidissement des serveurs.
-Éviter le stress hydrique (c’est-à-dire de pénurie d’eau potable). On peut également prendre en compte notamment le stress hydrique local : un WUE élevé dans une zone sans stress hydrique sera moins problématique.</p>
+<p><p>L’objectif est d’abord de privilégier un hébergement dans le pays où l’intensité carbone est peu élevée, et secondairement, dans une région où se situent la majorité des clients, afin de réduire la distance parcourue par les données et donc réduire l’infrastructure réseau mobilisée et son empreinte environnementale.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Sélectionner un hébergeur qui indique son WUE. Cet indicateur est un ratio entre la quantité d'eau consommée et l'énergie totale utilisé par le centre de données. Il est mesuré en L/kWh.
-NB : actuellement, il y a peu ou pas de données ouvertes sur le sujet du stress hydrique local.
-Comme pour le PUE, améliorer cet indicateur peut dégrader d'autres indicateurs, sans que cela réduise ni l’impact global, ni la consommation d’énergie, d'où l'intérêt de suivre plusieurs indicateurs (consommation d'énergie, consommation d'eau, politique de gestion du matériel, etc.).</p>
+<p><p>Privilégier un hébergeur dont les serveurs sont situés dans un pays avec une électricité bas carbone (source : <a href="https://app.electricitymaps.com/map">Electricity Maps</a>). Dans la mesure du possible, il est également pertinent de privilégier un hébergeur qui soit proche des utilisateurs ou des activités identifiées (cela ne correspond pas à adopter les technologies Edge Computing mais à choisir un centre de données proche des utilisateurs).</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Quel est le WUE de l'hébergeur du service numérique ?</p>
+<p><p>Identifier la localisation des utilisateurs et celle des serveurs de l’hébergement.</p>
+<p>Pour valider ce critère, il conviendra de vérifier que l’hébergeur du service numérique est situé dans un pays où l’intensité carbone de la consommation électrique est minimale. Pour cela, vérifier que cette intensité est en dessous du seuil annuel de 100 gCO₂eq/kWh, en lien avec la trajectoire de réduction des émissions de gaz à effet de serre telle que définie par l’initiative Science-Based Targets (SBTi) et conformément aux objectifs de l’Accord de Paris (à partir de 2030, le seuil à respecter est de 80 gCO₂eq/kWh puis 0 gCO₂eq/kWh à partir de 2050 – source : <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sciencebasedtargets.org/resources/legacy/2020/06/SBTi-Power-Sector-15C-guide-FINAL.pdf">Quick start guide for electric utilities (PDF – 2 Mo)</a>). De façon complémentaire (pas nécessaire pour la validation de ce critère), favoriser le choix d’un hébergement dans le pays où la majorité de ses utilisateurs sont localisés...</p>
+<p>Documenter dans la déclaration d’écoconception, la localisation (pays, ville) de l’hébergement du service numérique.</p>
 </p>
     </div>
 </div>

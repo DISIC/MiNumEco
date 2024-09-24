@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ? - Numérique écoresponsable</title>
+    <title>Le service numérique a-t-il recours à un niveau de chiffrement adapté à ses besoins ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?">
+    <meta property="og:title" content="Le service numérique a-t-il recours à un niveau de chiffrement adapté à ses besoins ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?" />
+    <meta property="twitter:title" content="Le service numérique a-t-il recours à un niveau de chiffrement adapté à ses besoins ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?</h1>
+        <h1>Le service numérique a-t-il recours à un niveau de chiffrement adapté à ses besoins ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,19 +290,24 @@
 
 <h2>Objectif</h2>
 
-<p><p>L'objectif est de lutter contre l'obsolescence des équipements induite par le logiciel. Par exemple, les applications natives ont besoin des dernières versions d'OS (système d'exploitation) ou même les dernières versions des équipements pour fonctionner ce qui induit une obsolescence des matériels. Peu d'applications natives fonctionnent sur des équipements au-delà de 7 ans. Alors que des services numériques web par exemple sont a priori disponibles dans tout navigateur et pour tout type d'équipement. Ce qui leur assure une bonne interopérabilité et une bonne longévité.</p>
+<p><p>Dans la plupart des situations, le recours à des mécanismes cryptographiques est absolument essentiel pour protéger les systèmes informatiques, ainsi que les données – notamment personnelles – collectées ou traitées. Ces mécanismes ont une empreinte environnementale à considérer. Par exemple, le chiffrement augmente automatiquement la consommation énergétique, d'abord par le calcul nécessaire à cette opération et au déchiffrement, mais aussi par le stockage et la charge pour les réseaux de communication. Néanmoins, ils peuvent dans certains cas permettre d'alléger les systèmes informatiques (par la compression des archives en parallèle du chiffrement, ou en évitant de conserver ou de faire circuler certains fichiers). Cette pratique vise donc à promouvoir la minimisation du coût environnemental du chiffrement, en tenant compte des contraintes de sécurité à respecter. Le chiffrement contribue par ailleurs à la protection et à la sécurité des données, et réduit le risque de faille et de fuite de données, dont les traitements ultérieurs ont une empreinte énergétique.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Bien en amont du développement, évaluer la faisabilité avec des technologies standard (par exemple, web plutôt que des applications propriétaires) pour répondre au besoin des utilisateurs et des métiers.
-Il s'agit aussi de s'assurer que les API utilisées sont standard et sont bien supportées (API javascript dans les navigateurs web par exemple).
-S'appuyer sur des technologies interopérables permet de lutter contre l'obsolescence logicielle. De même, construire son service à partir de composants open source permet de garder la main sur la maintenance du code utilisé, par conséquent améliorer la durabilité du code et de réduire le risque d'obsolescence induite par le logiciel sur le matériel.</p>
+<p><p>Chercher, pour un niveau de sécurité donné, les choix optimaux pour la préservation des ressources :</p>
+<ul>
+<li>En réalisant des mesures comparatives de différents algorithmes de chiffrement, afin de sélectionner celui qui introduit la plus faible quantité de ressources processeurs pour une même performance ;</li>
+<li>En évaluant la pertinence du chiffrement au regard de la nature des données et des risques associés ;</li>
+<li>Dans le cas où le chiffrement est envisagé, mettre en œuvre, quand cela est possible, un algorithme et une implémentation qui minimisent l'empreinte environnementale du service (sans préjudice du niveau de sécurité requis).</li>
+</ul>
+<p>Avoir recourt à des mécanismes cryptographiques qui permettent de générer des preuves sans nécessité de conserver ou de divulguer le fichier à prouver (par exemple : preuve de fourniture de pièce d'identité, etc.).</p>
+<p>Conserver des archives chiffrées et compressées (des outils gratuits comme 7zip ou Zed! fonctionnent sur ce principe).</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Si c'est le cas, évaluer la nécessité d'avoir choisi de développer une application propriétaire : contrainte technique, matériel cible maitrisé ?</p>
+<p><p>Si le service repose sur des mécanismes de chiffrement, documenter dans la déclaration d'écoconception du service la pertinence du choix de mise en œuvre des mécanismes cryptographiques en fonction des risques de sécurité informatique du service et de la minimisation de l'empreinte environnementale associée.</p>
 </p>
     </div>
 </div>

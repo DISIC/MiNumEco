@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique propose-t-il des vidéos dont le niveau de compression est adapté au contenu et au contexte de visualisation ? - Numérique écoresponsable</title>
+    <title>Le service numérique propose-t-il des vidéos dont le mode de compression est efficace et adapté au contenu et au contexte de visualisation ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique propose-t-il des vidéos dont le niveau de compression est adapté au contenu et au contexte de visualisation ?">
+    <meta property="og:title" content="Le service numérique propose-t-il des vidéos dont le mode de compression est efficace et adapté au contenu et au contexte de visualisation ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique propose-t-il des vidéos dont le niveau de compression est adapté au contenu et au contexte de visualisation ?" />
+    <meta property="twitter:title" content="Le service numérique propose-t-il des vidéos dont le mode de compression est efficace et adapté au contenu et au contexte de visualisation ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique propose-t-il des vidéos dont le niveau de compression est adapté au contenu et au contexte de visualisation ?</h1>
+        <h1>Le service numérique propose-t-il des vidéos dont le mode de compression est efficace et adapté au contenu et au contexte de visualisation ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,32 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>La majeure partie du trafic sur internet est liée au visionnage de vidéos (la vidéo représente près de 68 % du trafic internet en 2023 selon le <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sandvine.com/hubfs/Sandvine_Redesign_2019/Downloads/2024/GIPR/GIPR%202024.pdf">rapport de Sandvine The Global Internet Phenomena Report</a>). Or le transport de données numériques s’appuie sur des infrastructures ainsi que l’usage d’équipements et de terminaux qui ont une empreinte environnementale à minimiser. L’emploi d’un codec vidéo efficace (à date : AV1, VP9 et HEVC) permet de réduire significativement la bande passante utilisée.</p>
+<p>Par ailleurs, le mode de décodage du codec vidéo par le terminal influe directement sur la consommation énergétique de l’appareil. Si le codec n’est pas accéléré matériellement par le processeur graphique (GPU), la lecture vidéo sera possible, mais via le microprocesseur (CPU). Dans ce cas, la consommation d’énergie du terminal sera plus importante, ce qui va diminuer l’autonomie d’un terminal sur batterie et possiblement sa durée de vie.</p>
+<p>L’objectif est donc d’optimiser la taille des flux téléchargés par les utilisateurs et les ressources mobilisées grâce à l’utilisation d’un codec et d’un encodage efficaces.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par exemple, optimisation du Bitrate (débit) au sein du format.</p>
+<p><p>Les vidéos sont proposées avec au moins un codec performant (à date : AV1, VP9 et HEVC) tenant compte de l’efficacité de compression du codec et son accélération matérielle dans les définitions 720p et au-delà. H.264 peut être proposé en complément du codec performant.</p>
+<p>Pour économiser de la bande passante sur les scènes simples à encoder, un encodage à débit variable doit être préféré. Ce mode d’encodage peut dans certains cas être associé à un plafond pour le débit maximal afin d’assurer que les contenus plus complexes restent lisibles avec une connexion internet à bas débit.</p>
+<p>Par ailleurs, la qualité d’encodage de la vidéo devrait être adaptée au besoin de l’utilisateur. Par exemple, utiliser le niveau de qualité le plus faible sans dégrader la vidéo visuellement dans le contexte d’utilisation.
+La qualité d’encodage des flux audio devrait être adaptée au besoin de l’utilisateur :</p>
+<ul>
+<li>Optimisation du bitrate (débit), du ratio (taux de compression) et de la fréquence d’échantillonnage au sein du format ;</li>
+<li>Choix adapté de nombre de canaux : stéréo pour de la musique ou mono pour des dialogues (voir critère 5.6. dédié à l’audio).</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la qualité et le poids de la vidéo proposée.</p>
+<p><p>Le critère est validé si le service remplit les conditions suivantes :</p>
+<ul>
+<li>Les vidéos sont encodées avec un débit variable, quel que soit le codec vidéo utilisé. Ce mode d’encodage peut dans certains cas être associé à un plafond pour le débit maximal afin d’assurer que les contenus plus complexes restent lisibles avec une connexion internet à bas débit.</li>
+<li>Les vidéos disponibles sur le service numérique ont une définition inférieure à 720p ou sont proposées avec un codec vidéo efficace, à date AV1, VP9 ou HEVC. Le codec H.264 peut être utilisé en secours, en cas d’incompatibilité, à condition qu’un codec plus performant soit proposé aux terminaux compatibles.</li>
+<li>Le ou les codecs utilisés sont accélérés matériellement par la majorité du parc des terminaux.</li>
+<li>Sont documentés dans la déclaration d’écoconception du service numérique le(s) codec(s) vidéo et audio utilisé(s) pour chaque définition vidéo, le type d’encodage vidéo : débit fixe, variable, variable avec débit maximum/présence de HDR, et le type d’encodage audio : débit, nombre de canaux.</li>
+</ul>
 </p>
     </div>
 </div>

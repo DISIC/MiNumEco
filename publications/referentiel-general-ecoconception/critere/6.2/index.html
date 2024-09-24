@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique s&#39;astreint-il à une limite de requêtes par écran ? - Numérique écoresponsable</title>
+    <title>Le service numérique utilise-t-il des mécanismes de mise en cache pour la totalité des contenus transférés dont il a le contrôle ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique s&#39;astreint-il à une limite de requêtes par écran ?">
+    <meta property="og:title" content="Le service numérique utilise-t-il des mécanismes de mise en cache pour la totalité des contenus transférés dont il a le contrôle ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique s&#39;astreint-il à une limite de requêtes par écran ?" />
+    <meta property="twitter:title" content="Le service numérique utilise-t-il des mécanismes de mise en cache pour la totalité des contenus transférés dont il a le contrôle ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique s&#39;astreint-il à une limite de requêtes par écran ?</h1>
+        <h1>Le service numérique utilise-t-il des mécanismes de mise en cache pour la totalité des contenus transférés dont il a le contrôle ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,19 +290,21 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire ou limiter les échanges client - serveur.</p>
+<p><p>L’objectif est de réduire le poids des données échangées. Une partie de l’empreinte énergétique des services numériques est liée à la volumétrie des données échangées sur les réseaux, en particulier lorsque les données sont transmises sur des réseaux radio (réseaux mobiles par exemple). La réduction de la volumétrie des données échangées sur les réseaux pour une application donnée est donc un axe important d’écoconception. Dans la plupart des cas, cette réduction pourra se faire sans dégradation de l’expérience utilisateur.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par écran, il est entendu ici &quot;écran virtuel&quot; et non physique. Si le service numérique est un site web, l'écran désigne la page, pour une API, l'écran désigné la réponse du serveur.
-Définir et suivre un indicateur nombre de requêtes client/serveur maximum par écran, en tenant compte de toutes les ressources téléchargées (composants d'interface, données, contenus, scripts, feuilles de style...). Par exemple, pour une site web, il serait intéressant d'avoir moins de 30 requêtes par page au lieu de 100.
-Attention, le nombre de requêtes seul ne peut être garant de la sobriété du service numérique, puisqu'une seule suffit à charger plusieurs dizaines de mégaoctets. Il faut bien veiller à valider tous les critères de ce référentiel, notamment le critère 6.1 sur la limitation du poids maximum par écran.</p>
+<p><p>La stratégie de cache doit être adaptée au contexte d’application, au type de contenus (images, fichiers CSS, JavaScript, etc.) qui sont transférés fréquemment depuis le serveur vers le client et au scénario d’usage. Mettre en place un mécanisme de cache côté utilisateur, en frontend (cache HTTP par exemple). La gestion du mode déconnecté (offline) est parfois très pertinente, parfois non.</p>
+<p>Lorsqu’une même information est susceptible d’être requêtée plusieurs fois, privilégier un stockage temporaire local pour éviter un trafic réseau inutile. Par exemple, il est possible de stocker des données souvent utilisées dans le navigateur web, afin de limiter les échanges avec le serveur.</p>
+<p>Vérifier qu’aucune des données destinées à être échangées n’est superflue et que les informations transmises ne sont pas redondantes.</p>
+<p>Le critère 6.2 traite du cache côté client. Le cache côté serveur est, quant à lui, traité dans le critère 7.1.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Quel est le nombre de requêtes maximum par écran défini ?</p>
+<p><p>Pour valider ce critère, un mécanisme de cache côté utilisateur est mis en place, quand la solution est pertinente. En termes de moyens de test, accéder à plusieurs reprises au service et vérifier si les contenus sont récupérés à partir du cache plutôt que du serveur.</p>
+<p>Expliciter dans la déclaration d’écoconception du service la stratégie de cache frontend, y compris son optimisation au regard du type de contenu, du contexte d’application et des scénarios d’usage.</p>
 </p>
     </div>
 </div>

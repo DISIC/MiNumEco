@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ? - Numérique écoresponsable</title>
+    <title>Le service numérique affiche-t-il majoritairement des images dont les dimensions d’origine correspondent aux dimensions du contexte d’affichage ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ?">
+    <meta property="og:title" content="Le service numérique affiche-t-il majoritairement des images dont les dimensions d’origine correspondent aux dimensions du contexte d’affichage ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ?" />
+    <meta property="twitter:title" content="Le service numérique affiche-t-il majoritairement des images dont les dimensions d’origine correspondent aux dimensions du contexte d’affichage ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ?</h1>
+        <h1>Le service numérique affiche-t-il majoritairement des images dont les dimensions d’origine correspondent aux dimensions du contexte d’affichage ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,24 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire ou limiter les données téléchargées.</p>
+<p><p>Réduire ou limiter les données téléchargées en proposant un redimensionnement côté serveur pour les images dans une définition trop importante. Il s’agit également de minimiser la consommation d’énergie du terminal.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Compression, minification des fichiers de scripts par exemple. Attention toutefois à ne pas générer de la consommation de ressource si il y a besoin de puissance de calcul pour &quot;décompresser&quot; les fichiers : la compression systématique de type .tgz par exemple pour des petits fichiers peut être contre-productif.
-Ce critère s'applique uniquement aux fichiers texte (HTML, CSS, javascript par exemple). Ne pas confondre avec le critère 5.2 sur la compression des images.</p>
+<p><p>Les images matricielles (ou images bitmap) proposées par un service numérique sont soit affichées dans leur taille d’origine, soit proposées dans de multiples définitions, afin de ne pas charger une image avec une définition significativement supérieure à celle du contexte d’affichage utilisé par le client.</p>
+<p>Lors de l’ajout des images matricielles au service numérique, les dimensions d’affichage sont requises ou un redimensionnement est réalisé côté serveur, lors de l’ajout du fichier par un contributeur.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérifier que les fichiers téléchargés sont compressés.</p>
+<p><p>Pour être validé ce critère, les images du service numérique doivent entrer dans une des trois catégories suivantes :</p>
+<ul>
+<li>Images vectorielles ;</li>
+<li>Images matricielles, affichées dans leur taille d’origine (pas de redimensionnement) ;</li>
+<li>Dans le cas d'images fluides (l'image occupe un pourcentage de la largeur du parent), plusieurs variantes d'images existent avec des définitions différentes, et la meilleure est proposée à l'écran, en fonction du contexte d’affichage.</li>
+</ul>
+<p>Si le service numérique permet à un contributeur d’ajouter des images, un redimensionnement doit être réalisé côté serveur pour les images qui dépasseraient une certaine taille ou définition d’image.</p>
 </p>
     </div>
 </div>

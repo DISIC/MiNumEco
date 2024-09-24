@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -289,7 +281,7 @@
     <div class="fr-col-12 fr-col-md-8">
         <h1>Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation de chaque image ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,23 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>La réduction des volumes de données transmises associées aux images matricielles (ou images bitmap) est un levier d’optimisation du trafic internet et de minimisation de la consommation en ressources associée. L’objectif est donc d’optimiser le poids des fichiers téléchargés par les utilisateurs en utilisant des formats d’image performants.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Choisir le format image adapté à la typologie d'image et au contexte d'affichage : utiliser le format vectoriel comme le svg lorsque cela est possible (illustrations, icones, logos, graphes...), le format jpg pour des photos et le format png pour des illustrations avec aplats de couleurs.</p>
+<p><p>Choisir le format image adapté à la typologie d’image et au contexte d’affichage :</p>
+<ul>
+<li>Format vectoriel (exemple SVG) : utiliser ce format lorsque cela est possible (illustrations, icônes, logos, graphes...);</li>
+<li>Format matriciel, compression sans perte ou « lossless » (c’est le mode de compression du PNG) : pour des illustrations avec aplats de couleur (remplacer le PNG peu efficace par des images WebP ou JPEG XL, en mode « compression sans perte »);</li>
+<li>Format matriciel, compression avec perte (c’est le mode de compression du JPEG) : pour des photos ou des illustrations avec des milliers de couleurs (remplacer le JPEG peu efficace par des images WebP, AVIF ou JPEG XL en mode « compression avec perte »).</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la pertinence du format de l'image affichée.</p>
+<p><p>Vérifier périodiquement que les images matricielles ne sont plus dans les formats JPEG, PNG ou GIF. Utiliser WebP, AVIF, JPEG XL ou un format d’image plus performant pour les images matricielles. Le critère est validé si plus de 75 % des images matricielles utilisées pour le service numérique sont dans un format efficace (WebP, AVIF, JPEG XL ou un format d’image plus performant).</p>
+<p>Un service numérique qui propose chaque image dans deux formats (exemple : JPEG XL avec un fallback vers JPEG / PNG pour les navigateurs non compatibles) valide également le critère si un des formats est WebP, AVIF, JPEG XL ou un format d’image plus performant.</p>
 </p>
     </div>
 </div>

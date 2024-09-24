@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ? - Numérique écoresponsable</title>
+    <title>Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ?">
+    <meta property="og:title" content="Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ?" />
+    <meta property="twitter:title" content="Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il identifié des indicateurs pour mesurer ses impacts environnementaux ?</h1>
+        <h1>Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,24 +290,19 @@
 
 <h2>Objectif</h2>
 
-<p><p>Connaître les impacts environnementaux du service numérique. Avoir une vision globale des conséquences du service numérique, à chaque phase (début, usage, fin) et en intégrant les impacts environnementaux des équipements matériels utilisés, dans la production et dans l'usage de ce service numérique.</p>
+<p><p>L'objectif est de lutter contre l'obsolescence des équipements induite par le logiciel. Tout service numérique qui s'attachera à être le plus stable et pérenne dans le temps permettra l'allongement de la durée pendant laquelle les terminaux restent utilisables. Typiquement, le recours à de nouvelles interfaces de programmation (API) ou de nouveaux standards non supportés par les terminaux plus anciens sont susceptibles de favoriser une obsolescence rapide des terminaux. Ainsi, l'interopérabilité des standards est un vecteur pour allonger la durée d'utilisation et de vie de ces derniers. De même, les applications natives peuvent avoir besoin des dernières versions d'OS (système d'exploitation) ou même les dernières versions des équipements pour fonctionner, ce qui induit une obsolescence des matériels.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Faire un diagnostic basé sur une méthodologie ACV, une analyse de cycle de vie (screening, simplifiée ou ISO) multicritère. Les indicateurs d'impacts environnementaux à considérer à minima la consommation d'énergie primaire, les émissions GES, la consommation d'eau bleue et l'épuisement des ressources abiotiques.
-Le périmètre de l'analyse de cycle de vie peut être élargi par exemple en tenant compte des moyens de productions : impacts environnementaux des équipements de conception, les services en ligne mobilisés (environnement de test, de QA...), les déplacements des équipes, etc.</p>
+<p><p>Evaluer, bien en amont du développement, la faisabilité de concevoir le service avec des technologies standard (par exemple, web plutôt que des applications natives) pour répondre au besoin des utilisateurs et des métiers. Il s'agit aussi de s'assurer que les API utilisées sont standard et bien supportées (API JavaScript dans les navigateurs web par exemple). S'appuyer sur des technologies interopérables permet de lutter contre l'obsolescence logicielle. De même, construire son service à partir de composants open source permet de garder la main sur la maintenance du code utilisé, par conséquent d'améliorer la durabilité du code et de réduire le risque d'obsolescence induite par le logiciel sur le matériel.</p>
+<p>Dans le cas où une application native est nécessaire (par exemple, si le service numérique nécessite des traitements de données particulièrement sensibles), s'assurer qu'elle utilise des standards compatibles avec les principaux systèmes d'exploitation.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Un document de référence (Analyse de cycle de vie - ACV - par exemple) des actions à entreprendre ou déjà entreprises, classées par phase projet.</p>
-<ul>
-<li>Quels sont les indicateurs définis ?</li>
-<li>Comment sont suivis ces indicateurs ?</li>
-<li>Sont-ils publiés / ouverts et si oui, où ?</li>
-<li>Quel est le rythme de mesure ?</li>
-</ul>
+<p><p>Vérifier que le service numérique est utilisable par une même interface sur l'ensemble des terminaux pertinents (par exemple : une Web App). Si le service numérique est une application native, évaluer la nécessité d'avoir choisi de développer une application native : contraintes techniques, matériel cible maîtrisé ?</p>
+<p>Le critère est validé si le service s'appuie sur des standards interopérables communs aux principaux écosystèmes (terminaux, systèmes d'exploitation, navigateurs...).</p>
 </p>
     </div>
 </div>

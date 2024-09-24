@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -289,7 +281,7 @@
     <div class="fr-col-12 fr-col-md-8">
         <h1>Le service numérique repose-t-il sur une architecture, des ressources ou des composants conçus pour réduire leurs propres impacts environnementaux ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,24 @@
 
 <h2>Objectif</h2>
 
-<p><p>Le service numérique peut dépendre de composants qui ne sont pas développés par la même équipe ou qui sont fournis par des frameworks de production. Il s'agit alors de s'assurer que ces dépendances soient également conçues de manière à réduire leurs propres impacts environnementaux.</p>
+<p><p>Le service numérique peut dépendre d’une architecture, de composants qui ne sont pas développés par la même équipe ou qui sont fournis par des frameworks de production. Il s’agit alors de s’assurer que ces dépendances sont également conçues de manière à réduire leurs propres impacts environnementaux. Certains composants sont particulièrement intensifs en termes de consommation énergétique et en ressources, et devraient être évités (par exemple : minage, réalité virtuelle/augmentée requérant l’acquisition d’un terminal dédié, certains algorithmes d’apprentissage...).</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Évaluer la façon dont ont été conçus les composants existants. Sont-ils eux-mêmes soumis à ce référentiel ?
-Voir aussi les critères 2.4 et 2.5 pour la prise en compte des impacts des composants d'interface et des services tiers.</p>
+<p><p>S'assurer que l'architecture, les ressources et les composants utilisés dans le service numérique, notamment les frameworks pour le frontend et backend, sont délibérément conçus pour minimiser leurs impacts environnementaux. Ceux-ci respectent-ils les critères du référentiel ? Plus spécifiquement :</p>
+<ul>
+<li>Évaluation des frameworks : Examiner les frameworks utilisés pour le développement du frontend et du backend en termes d'écoconception. L’analyse pourra notamment prendre en compte : l’utilisation efficace des ressources matérielles et énergétiques, l’utilisation de technique de compression efficace, l’optimisation des requêtes client-serveur.</li>
+<li>Évaluation des composants : Vérifier si les composants, qu'ils soient internes ou externes, suivent des principes d’écoconception. L’analyse pourra notamment prendre en compte : l’utilisation efficace des ressources matérielles et énergétiques, l’utilisation de technique de compression efficace, l’optimisation des requêtes client-serveur.</li>
+</ul>
+<p>Voir aussi les critères 2.9 et 2.10 pour la prise en compte des impacts des composants d’interface et des services tiers.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Vérification de la mise en œuvre</p>
+<p><p>Vérification de la mise en œuvre en analysant et optimisant l'empreinte environnementale pour évaluer la performance énergétique des composants et des frameworks. S’assurer notamment que le service ne s’appuie pas sur des briques technologiques particulièrement énergivores et consommatrices en ressources (apprentissage automatique, minage, métavers en particulier). En cas de recours à ce type de technologie, la solution la plus sobre en termes de consommation en ressources doit être utilisée par défaut, et le choix doit être documenté dans la déclaration d’écoconception du service numérique.</p>
+<p>Le choix d'architecture et de composants est à documenter dans la déclaration d’écoconception au regard de l’impact environnemental (en vérifiant notamment la validation par ces éléments des critères 2.9 et 2.10 de ce référentiel), en intégrant un comparatif avec les autres options possibles.</p>
+<p>Le critère est validé si le choix de frameworks et composants de l’architecture a été fait en prenant en compte leur empreinte environnementale et l’écoconception, et qu’il est documenté dans la déclaration d’écoconception du service.</p>
 </p>
     </div>
 </div>

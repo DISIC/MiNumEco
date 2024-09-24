@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il prévu une stratégie de décommissionnement pour ses fonctionnalités, ses composants ou ses environnements non utilisés ? - Numérique écoresponsable</title>
+    <title>Le service numérique est-il utilisable sur d’anciens modèles de terminaux ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il prévu une stratégie de décommissionnement pour ses fonctionnalités, ses composants ou ses environnements non utilisés ?">
+    <meta property="og:title" content="Le service numérique est-il utilisable sur d’anciens modèles de terminaux ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il prévu une stratégie de décommissionnement pour ses fonctionnalités, ses composants ou ses environnements non utilisés ?" />
+    <meta property="twitter:title" content="Le service numérique est-il utilisable sur d’anciens modèles de terminaux ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il prévu une stratégie de décommissionnement pour ses fonctionnalités, ses composants ou ses environnements non utilisés ?</h1>
+        <h1>Le service numérique est-il utilisable sur d’anciens modèles de terminaux ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,36 @@
 
 <h2>Objectif</h2>
 
-<p><p>L'objectif est de décommisionner les environnements techniques encore actifs mais qui ne sont plus utilisés : Production, QA (Quality assurance), Test, environnement de développement, etc. Ces environnements occupent de la ressource informatique inutilement.</p>
+<p><p>Selon l’<a href="https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html">étude ADEME-Arcep</a>, les terminaux représentent 65 à 92 % de l’empreinte environnementale du numérique selon l’indicateur considéré, en particulier leur fabrication. L’allongement de la durée de vie de ces derniers est donc un levier essentiel de réduction des impacts environnementaux du numérique.
+Le service numérique doit limiter sa contribution à leur obsolescence en fonctionnant sur des équipements aussi anciens que possible.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Définir une stratégie de décomissionnement des environnements et des dates de rappel.</p>
+<p><p>Pour chaque fonctionnalité, s’assurer que le service numérique est compatible avec des équipements anciens.Par exemple, ce critère peut être ajouté dans les tests ou QA (Quality Assurance).</p>
+<p>Quelques précisions concernant le critère :</p>
+<ul>
+<li>Il s’agit de la compatibilité avec un matériel et non avec un système d’exploitation ou tout autre logiciel faisant fonctionner le service numérique (par exemple un navigateur). Il ne s’agit donc pas ici de rendre compatible le service numérique avec des logiciels ou des systèmes d’exploitation dont les mises à jour de sécurité n’ont pas été faites.</li>
+<li>Définition de « utilisable » ici : mode dégradé accepté mais sans perte de fonctionnalité incontournable ou critique ni de contenu pour le service.</li>
+<li>Si le service numérique est une application native : le service numérique doit être utilisable sur les équipements mis sur le marché il y a sept ans ou plus, dans la dernière version du système d’exploitation proposée par cet équipement.</li>
+<li>Si le service numérique fonctionne sur un navigateur web : le service numérique doit être utilisable sur les équipements dotés d’un microprocesseur mis sur le marché il y a dix ans ou plus.</li>
+<li>Pour les autres services numériques, leur utilisation doit être garantie sur des équipements ou périphériques mis sur le marché il y a sept ans ou plus.</li>
+<li>Une durée de compatibilité plus longue est recommandée. Dans ce cas l’objectif est à préciser, par exemple dans la déclaration d’écoconception.</li>
+<li>Ce critère n’exclut pas l’usage de fonctionnalités récentes permettant la réduction des impacts environnementaux à l’usage tant que le service reste disponible sur les anciennes versions (principe d’amélioration progressive).</li>
+</ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Lister les environnements actifs et leur état d'utilisation.</p>
+<p><p>Contrôler la mise en œuvre selon la nature du service en vérifiant les points suivants :</p>
+<ul>
+<li>Si le service numérique est une application native : il convient de tester les fonctionnalités critiques du service numérique sur un équipement ancien (par exemple un smartphone, une tablette ou TV connectée), c’est-à-dire mis sur le marché il y a sept ans ou plus, dans la dernière version du système d’exploitation proposé par cet équipement.</li>
+<li>Si le service numérique fonctionne sur un navigateur web : les fonctionnalités critiques doivent fonctionner sur un PC portable – ou un autre terminal, tant que cela est cohérent avec les terminaux qui sont majoritairement utilisés par les cibles utilisatrices du service définies en suivant le critère 1.2 – équipé d’un microprocesseur mis sur le marché il y a dix ans ou plus.</li>
+<li>Pour les autres services numériques : tester les fonctionnalités critiques du service sur un terminal (exemple : équipements connectés) mis sur le marché il y a sept ans ou plus.</li>
+</ul>
+<p>Sont à indiquer dans la déclaration d’écoconception du service les caractéristiques matérielles et logicielles de l’équipement ancien qui permet de faire fonctionner le service.</p>
+<p>Tenir compte du moment où l’évaluation est réalisée et non de la date de mise en ligne du service.</p>
+<p>Le critère est validé si le service est utilisable dans les conditions susmentionnées.</p>
 </p>
     </div>
 </div>

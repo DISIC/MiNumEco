@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique a-t-il pris en compte les impacts environnementaux des services tiers utilisés lors de leur sélection ? - Numérique écoresponsable</title>
+    <title>Le service numérique s’adapte-t-il à différents types de terminaux d’affichage ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique a-t-il pris en compte les impacts environnementaux des services tiers utilisés lors de leur sélection ?">
+    <meta property="og:title" content="Le service numérique s’adapte-t-il à différents types de terminaux d’affichage ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique a-t-il pris en compte les impacts environnementaux des services tiers utilisés lors de leur sélection ?" />
+    <meta property="twitter:title" content="Le service numérique s’adapte-t-il à différents types de terminaux d’affichage ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique a-t-il pris en compte les impacts environnementaux des services tiers utilisés lors de leur sélection ?</h1>
+        <h1>Le service numérique s’adapte-t-il à différents types de terminaux d’affichage ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,19 +290,26 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire les impacts environnementaux des services tiers, donc non issus de développement interne.</p>
+<p><p>Le service numérique devrait participer à limiter l’achat de nouveaux terminaux en fonctionnant sur des équipements aux dimensions d’écran variées, dont les plus petites (smartphones anciens par exemple). La possibilité d’un service numérique de s’adapter aux écrans avec une faible définition peut contribuer à lutter contre l’obsolescence des équipements induite par le logiciel.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Les services de tiers sont des services proposés par des fournisseurs externes (développeurs, organismes ou entreprises) apportant des fonctionnalités prêtes à l'emploi (par exemple suivi d'audience, lecteur vidéo, fil d'actualités des réseaux sociaux, mécanisme de captcha...) et évitant ainsi de les re-développer en interne.
-Une mesure d'outils analytics A/B test permet de connaitre les impacts environnementaux de celui-ci afin d'aider à la prise de décision sur le facteur environnemental.</p>
+<p><p>Uniquement lorsque cela est applicable, rendre l’interface du service numérique adaptable à la taille de l’écran sans perte d’utilisabilité (« responsive design »).</p>
+<p>Dans l’objectif d’éviter la multiplication des terminaux pour accéder à différents services, il est recommandé que les services numériques soient adaptatifs et capables de s’afficher parfaitement sur le petit écran d’un mobile comme sur le grand écran d’un PC. Il vaut mieux éviter de dupliquer le service numérique avec une version spécifique pour chaque terminal. Il est également préférable que les menus soient utilisables en mode tactile tout autant que via un clavier.</p>
+<p>Lorsque c’est pertinent, le développement du design de la version mobile en premier (mobile first) peut permettre l’adoption d’interface plus sobre.</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Mesures fournies par le service tiers.
-Justificatifs ou comparatifs validant le choix effectué.</p>
+<p><p>Tester les fonctionnalités critiques du service numérique sur différentes tailles d’affichage (ordinateur de bureau, tablette et mobile) :</p>
+<ul>
+<li>Le service doit adapter son mode d’affichage de manière dynamique selon la taille de l’écran (« responsive web design »).</li>
+<li>Vérifier que les différents composants de type menus soient accessibles via tout type d’interface, y compris tactile ou non, avec ou sans souris.</li>
+<li>S’assurer de l’affichage complet du service dans une zone de visualisation de 1 200 pixels de large (ce qui correspond à la définition des écrans d’ordinateurs standard de 17 pouces au format 5/4 avec 80 pixels utilisés par une barre de lancement).</li>
+<li>Pour les interfaces qui ne permettent pas de faire défiler de haut en bas l’affichage, vérifier l’affichage complet du service dans une zone de visualisation de 720 pixels de hauteur (ce qui correspond à la définition des écrans d’ordinateur de 800 pixels de haut, avec 80 pixels utilisés par une barre de lancement).</li>
+</ul>
+<p>Le critère est validé si les conditions susmentionnées sont remplies. Les tests effectués sont à documenter dans la déclaration d’écoconception.</p>
 </p>
     </div>
 </div>

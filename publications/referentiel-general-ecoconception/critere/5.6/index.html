@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique propose-t-il des contenus audio dont le niveau de compression est adapté au contenu et au contexte d&#39;écoute ? - Numérique écoresponsable</title>
+    <title>Le service numérique propose-t-il des contenus audios dont le mode de compression est adapté au contenu et au contexte d’écoute ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique propose-t-il des contenus audio dont le niveau de compression est adapté au contenu et au contexte d&#39;écoute ?">
+    <meta property="og:title" content="Le service numérique propose-t-il des contenus audios dont le mode de compression est adapté au contenu et au contexte d’écoute ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique propose-t-il des contenus audio dont le niveau de compression est adapté au contenu et au contexte d&#39;écoute ?" />
+    <meta property="twitter:title" content="Le service numérique propose-t-il des contenus audios dont le mode de compression est adapté au contenu et au contexte d’écoute ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique propose-t-il des contenus audio dont le niveau de compression est adapté au contenu et au contexte d&#39;écoute ?</h1>
+        <h1>Le service numérique propose-t-il des contenus audios dont le mode de compression est adapté au contenu et au contexte d’écoute ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,22 +290,27 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>Réduire la taille des contenus audio téléchargés par les utilisateurs et donc les ressources informatiques nécessaires.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Exemples :</p>
+<p><p>Afin de réduire la taille des contenus audio, envisager les actions suivantes :</p>
 <ul>
-<li>optimisation du Bitrate (débit), du Ratio (Taux de compression) et de la Fréquence au sein du format,</li>
-<li>choix adapté Stéréo pour de la musique ou Mono pour des dialogues,</li>
-<li>éviter le ratio poids en mega-octet/durée en minute supérieur à 1.</li>
+<li>Utiliser des codecs audio efficaces (à date : Opus, AAC, HE-AAC, HE-AAC v2, HD-AAC, Dolby E-AC-3 ou Dolby AC-4), en évitant les formats les plus volumineux. L’ensemble des navigateurs web supportent un flux audio seul (sans vidéo accompagnant le flux audio) avec le codec Opus, dans un conteneur WebM et avec le codec AAC, dans un conteneur MP4.</li>
+<li>Optimiser le bitrate (débit), le ratio (taux de compression) et la fréquence d’échantillonnage au sein du format.</li>
+<li>Faire un choix adapté : stéréo pour de la musique ou mono pour des dialogues.</li>
+<li>Éviter le ratio poids en mégaoctet/durée en minute supérieur à 1.</li>
 </ul>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la pertinence du poids de fichier audio par rapport au contenu proposé.</p>
+<p><p>Le critère est validé si le service remplit les conditions suivantes :</p>
+<ul>
+<li>Les contenus audio disponibles sur le service numérique sont proposés avec un codec audio efficace, à date Opus, AAC ou Dolby AC-4 (un codec non efficace peut être proposé en fallback, à condition qu’un codec plus performant soit proposé aux terminaux compatibles).</li>
+<li>Le(s) codec(s) audio utilisé(s) et le type d’encodage audio (débit, nombre de canaux) sont documentés dans la déclaration d’écoconception du service numérique.</li>
+</ul>
 </p>
     </div>
 </div>

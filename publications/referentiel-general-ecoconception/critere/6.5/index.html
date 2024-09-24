@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d&#39;origine correspondent aux dimensions du contexte d&#39;affichage ? - Numérique écoresponsable</title>
+    <title>Le service numérique évite-t-il de déclencher le chargement de ressources et de contenus inutilisés pour chaque fonctionnalité ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d&#39;origine correspondent aux dimensions du contexte d&#39;affichage ?">
+    <meta property="og:title" content="Le service numérique évite-t-il de déclencher le chargement de ressources et de contenus inutilisés pour chaque fonctionnalité ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d&#39;origine correspondent aux dimensions du contexte d&#39;affichage ?" />
+    <meta property="twitter:title" content="Le service numérique évite-t-il de déclencher le chargement de ressources et de contenus inutilisés pour chaque fonctionnalité ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d&#39;origine correspondent aux dimensions du contexte d&#39;affichage ?</h1>
+        <h1>Le service numérique évite-t-il de déclencher le chargement de ressources et de contenus inutilisés pour chaque fonctionnalité ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,19 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire ou limiter les données téléchargées.</p>
+<p><p>Réduire ou limiter les données téléchargées et optimiser la consommation énergétique des terminaux.</p>
+<p>Il est souvent plus simple pour l’équipe de développement de charger tous les composants, packagés dans un fichier compressé quelle que soit la fonctionnalité. Il en résulte que l’utilisateur charge des composants qui ne seront pas forcément utilisés. N’utiliser que ce qui est effectivement nécessaire au fonctionnement du service permet d’économiser de la ressource informatique.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Par exemple, lors de l'ajout des médias ou des éléments graphiques au service numérique, les dimensions d'affichages sont requises. Autre possibilité, valable surtout pour les images, un redimensionnement est réalisé coté serveur lors de l'ajout du fichier par un contributeur.
-Exception à cette règle : le cas des images pour écran Retina (l'image affichée dont la taille d'origine est généralement supérieure à son contexte d'affichage car la densité de pixels - device pixel ratio - est supérieure pour les images Retina).</p>
+<p><p>Ressources et composants ne doivent être chargés que lorsqu’ils sont effectivement utilisés.</p>
+<p>Prévoir des mécanismes de chargement progressif pour les éléments graphiques et les médias qui nécessitent un téléchargement. Par exemple : streaming pour la vidéo, chargement uniquement des images ou ressources affichées à l’écran (« lazy loading ») lorsque l'utilisateur les atteint en faisant défiler la page (Illustration : <a href="https://developer.mozilla.org/fr/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Loading">Documentation MDN sur le chargement progressif</a>).</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Contrôler que les images exploitées ou les médias utilisés sont affichés dans leur taille d'origine.</p>
+<p><p>Vérifier le contenu des ressources chargées et leur utilisation effective en s'assurant qu'elles correspondent aux fonctionnalités effectivement utilisées : pour valider ce critère, il ne doit pas y avoir de ressources chargées inutilement.</p>
 </p>
     </div>
 </div>

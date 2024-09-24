@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -289,7 +281,7 @@
     <div class="fr-col-12 fr-col-md-8">
         <h1>Le service numérique propose-t-il des images dont le niveau de compression est adapté au contenu et au contexte de visualisation ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,18 +290,42 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire le poids des fichiers téléchargés par les utilisateurs.</p>
+<p><p>Réduire le poids des images téléchargées par les utilisateurs en augmentant le niveau de compression (et donc en dégradant légèrement la qualité) ou/et en proposant des résolutions multiples.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Ex. Lors de la génération d'une image JPEG depuis un logiciel de retouche, la compression à 60 % peut être visuellement acceptable. En PNG la réduction de la palette des couleurs est conseillée.</p>
-<p>Aplatir les calques pour générer un format vectoriel SVG. Minifier et optimiser encore plus la compression en utilisant des outils dédiés.</p>
+<p><p>Lors de la génération d’une image matricielle, en mode compression avec perte (c’est le mode de compression du JPEG), la compression à une qualité de 70 % (JPEG), 72 % (WebP) ou 56 % (AVIF) peut être visuellement acceptable.</p>
+<p>Tableau pour faire une conversion approximative de la qualité de compression (en %) entre JPEG, WebP et AVIF : (source <a href="https://www.industrialempathy.com/posts/avif-webp-quality-settings/">industrialempathy.com</a>)</p>
+<p>JPEG :</p>
+<ul>
+<li>50 (qualité faible)</li>
+<li>60</li>
+<li>70</li>
+<li>80 (qualité élevée)</li>
+</ul>
+<p>WebP (compression avec perte) :</p>
+<ul>
+<li>55 (qualité faible)</li>
+<li>64</li>
+<li>72</li>
+<li>82 (qualité élevée)</li>
+</ul>
+<p>AVIF (compression avec perte) :</p>
+<ul>
+<li>48 (qualité faible)</li>
+<li>51</li>
+<li>56</li>
+<li>64 (qualité élevée)</li>
+</ul>
+<p>Les formats de compression sans perte de la qualité de l’image (PNG, WebP en mode « compression sans perte », JPEG XL en mode « compression sans perte ») ne disposent pas de paramétrage de qualité, la compression ne dégradant pas la qualité de l’image. Il est toutefois possible de réduire significativement la taille en réduisant la palette de couleurs de l’image avant compression.</p>
+<p>Des résolutions multiples peuvent être pertinentes, via les attributs « srcset » et « sizes », afin de s’adapter automatiquement à la résolution du terminal depuis lequel est consulté le site. Il faut toutefois faire attention que cela n’empêche pas le service d’adopter un « Responsive design ».</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Évaluer la qualité et le poids de l'image affichée.</p>
+<p><p>Évaluer la qualité et le poids des images matricielles affichées sur différents types de terminaux.</p>
+<p>Pour le mode de compression avec perte, documenter dans la déclaration d’écoconception la politique de paramétrage de la qualité lors de la génération ou conversion des images.</p>
 </p>
     </div>
 </div>

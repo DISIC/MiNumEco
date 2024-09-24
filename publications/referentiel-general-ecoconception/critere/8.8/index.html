@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le service numérique utilise-t-il un hébergement dont la localisation géographique est en cohérence avec celle de ses utilisateurs et de ses activités ? - Numérique écoresponsable</title>
+    <title>Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ? - Numérique écoresponsable</title>
     <meta name="description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
 
-    <meta property="og:title" content="Le service numérique utilise-t-il un hébergement dont la localisation géographique est en cohérence avec celle de ses utilisateurs et de ses activités ?">
+    <meta property="og:title" content="Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?">
     <meta property="og:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique">
     
     <meta property="og:image" content="/img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp">
     
     
-    <meta property="twitter:title" content="Le service numérique utilise-t-il un hébergement dont la localisation géographique est en cohérence avec celle de ses utilisateurs et de ses activités ?" />
+    <meta property="twitter:title" content="Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?" />
     <meta property="twitter:description" content="MiNumEco, la mission interministérielle numérique écoresponsable pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique" />
     <meta property="twitter:creator" content="MiNumEco" />
     <meta property="twitter:card" content="summary" />
@@ -235,14 +235,6 @@
 
                     
                         <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V1/" >Referentiel V1 - 2022</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
-                            <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/referentiel-V2/" >Referentiel V2 - 2024</a>
-                        </li>
-                    
-                        <li class="fr-sidemenu__item ">
                             <a class="fr-sidemenu__link" href="/publications/referentiel-general-ecoconception/a-propos/" >À propos</a>
                         </li>
                     
@@ -287,9 +279,9 @@
     </nav>
 
     <div class="fr-col-12 fr-col-md-8">
-        <h1>Le service numérique utilise-t-il un hébergement dont la localisation géographique est en cohérence avec celle de ses utilisateurs et de ses activités ?</h1>
+        <h1>Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?</h1>
 
-        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2022-11-28">28/11/2022</time></p>
+        <p class="fr-py-2w fr-text--sm">Version 2. Dernière mise à jour le <time datetime="2024-09-24">24/09/2024</time></p>
 
         
 <p>
@@ -298,17 +290,19 @@
 
 <h2>Objectif</h2>
 
-<p><p>Réduire la distance parcourue par les données et donc réduire l'infrastructure réseau mobilisée.</p>
+<p><p>Les données « chaudes » sont des données utilisées alors que les données « froides » sont des données archivées. Utiliser des hébergements différents permettrait de réduire les impacts environnementaux.</p>
 </p>
 
 <h2>Mise en œuvre</h2>
 
-<p><p>Sélectionner un hébergeur dont la localisation de ses serveurs est proche des utilisateurs ou des activités identifiées. Cela ne correspond pas à adopter les technologies Edge Computing mais de choisir un centre de données proches des utilisateurs.</p>
+<p><p>Séparer les données chaudes des données « froides » en utilisant des solutions techniques adaptées au contexte d’utilisation. Il convient d’avoir une réflexion sur le mode de stockage des données « froides » : il existe plusieurs technologies sur le marché, toutes n’ont pas nécessairement le même impact.</p>
+<p>Par exemple, les archives et les sauvegardes à conserver dans la durée peuvent être mises dans un stockage « froid ».</p>
 </p>
 
 <h2>Moyen de test ou de contrôle</h2>
 
-<p><p>Contrôler la mise en œuvre : l'identification de la localisation des utilisateurs et la localisation des serveurs.</p>
+<p><p>Vérifier la séparation des données « chaudes » et « froides » dans l'architecture du service numérique, par exemple en examinant la configuration des systèmes, en s'assurant qu'ils sont distincts pour les deux types de données.</p>
+<p>Pour valider ce critère, s'assurer que des stratégies de stockage appropriées sont mises en place pour les données « froides », en prenant en compte leur empreinte environnementale.</p>
 </p>
     </div>
 </div>
