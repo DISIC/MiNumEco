@@ -9,6 +9,10 @@ eleventyNavigation:
   order: 20
 ---
 
+## Version 2
+
+Publication de la version 2, mai 2024, mise à jour par l'Arcep
+
 ## Version 1.0.1
 
 11/01/2023 - Corrections fautes d'orthographes proposées par Cécile Geoffroy (merci !)

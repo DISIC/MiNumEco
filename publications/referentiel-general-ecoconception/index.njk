@@ -5,7 +5,7 @@ image: /img/publications/referentiel-general-ecoconception/referentiel-ecoconcep
 description: Référentiel d'Écoconception des Services Numériques.
 type: publication
 focus: true
-date: 2024-05-28
+date: 2024-09-24
 pagination:
   data: referentiel-ecoconception
   size: 1000
@@ -14,7 +14,7 @@ eleventyNavigation:
   key: referentiel-ecoconception
   parent: publications
   title: Référentiel général d'écoconception de services numériques
-  date: 2024-16-18
+  date: 2024-06-18
   image: /img/publications/referentiel-general-ecoconception/referentiel-ecoconception.webp
   order: 90
 ---
@@ -31,10 +31,6 @@ eleventyNavigation:
 <p>Cette version 2024 reprend et complète les travaux menés en 2022 dans le cadre de la mission interministérielle numérique responsable et co-pilotée par la Direction interministérielle du numérique (DINUM), le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable. </p>
 <p>Les objectifs sont de réduire la consommation de ressources informatiques et énergétiques et la contribution à l’obsolescence des équipements, qu’il s’agisse des équipements utilisateurs ou des équipements réseau ou serveur. 
 <a href="/publications/referentiel-general-ecoconception/a-propos/">En savoir plus</a>.</p>
-
-<p><a href="https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html" target="_blank">Télécharger la version de mai 2024 en PDF sur le site de l'ARCEP</a></p>
-
-<p>Mise à jour en cours</p>
 
 <nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
     <div class="fr-summary__title" id="fr-summary-title">Sommaire</div>
@@ -68,6 +64,25 @@ eleventyNavigation:
         <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ item.numero }}">{{ item.numero }} – {{ item.critere }}</button>
       </h3>
       <div class="fr-collapse" id="accordion-{{ item.numero }}">
+        <table class="fr-table">
+          <thead>
+            <tr>
+              <th>Difficulté</th>
+              <th>Priorité</th>
+              <th>Cible</th>
+              <th>Métiers</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="fr-highlight">{{ item.difficulte | default('') | markdown | safe }}</td>
+              <td class="fr-highlight">{{ item.priorite | default('') | markdown | safe }}</td>
+              <td class="fr-highlight">{{ item.cible | default('') | markdown | safe }}</td>
+              <td class="fr-highlight">{{ item.metiers | default('') | markdown | safe }}</td>
+            </tr>
+          </tbody>
+        </table>
+        
         <p><b>Objectif</b></p>
 
         <div class="fr-highlight">{{ item.objectif | markdown | safe }}</div>

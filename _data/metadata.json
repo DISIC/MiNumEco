@@ -34,41 +34,6 @@
     "consultationUrl": "https://purpoz.com/project/consultation-pour-etablir-un-guide-des-bonnes-pratiques-numerique-responsable/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions",
     "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/guide-de-bonnes-pratiques-numerique-responsable-pour-les-organisations/"
   },
-  "referentielEcoconception-v1": {
-    "version": "v1",
-    "versionTitle": "1",
-    "title": "Référentiel général d'écoconception de services numériques",
-    "description": "Référentiel piloté par la DINUM, le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable",
-    "updatedAt": "2022-11-29",
-    "consultationUrl": "https://purpoz.com/project/referentiel-general-decoconception-de-service-numerique/consultation/votez-pour-valider-les-criteres-et-ajoutez-vos-propositions",
-    "dataGouvUrl": "https://www.data.gouv.fr/fr/datasets/referentiel-general-decoconception-de-services-numeriques/",
-    "thematique": {
-      "strategie": {
-        "description": "Elle permet de déterminer et de suivre la pertinence, les enjeux et le pilotage de la conception du service numérique."
-      },
-      "specifications": {
-        "description": "Indépendamment du type de gestion projet, cette thématique regroupe les éléments de cadrage projet, les moyens mis en œuvre, les objectifs et contraintes du projet sur toute la durée de vie du service numérique."
-      },
-      "uxui": {
-        "description": "Les étapes et méthodes de conception des services numériques pour définir les meilleures solutions d'interactions destinées aux utilisateurs."
-      },
-      "contenus": {
-        "description": "Tous les documents et médias informatifs ajoutés au service numérique par des personnes contributrices et disponibles pour l'utilisateur final."
-      },
-      "architecture": {
-        "description": "La stratégie de conception et l'articulation des composants applicatifs entre le frontend et le backend."
-      },
-      "frontend": {
-        "description": "Ensemble des composants en opération sur un terminal utilisateur pour permettre l'utilisation d'un service numérique."
-      },
-      "backend": {
-        "description": "Ensemble des composants en opération côté serveur pour permettre le fonctionnement d'un service numérique."
-      },
-      "hebergement": {
-        "description": "Moyens mis en œuvre côté serveur pour permettre l'utilisation d'un service numérique."
-      }
-    }
-  },
   "referentielEcoconception": {
     "version": "v2",
     "versionTitle": "2",
@@ -77,31 +42,31 @@
     "updatedAt": "2024-05-28",
     "thematique": {
       "strategie": {
-        "description": "Elle permet de déterminer et de suivre la pertinence, les enjeux et le pilotage de la conception du service numérique."
+        "description": "La stratégie permet de déterminer et de suivre la pertinence, les enjeux et le pilotage de la conception du service numérique."
       },
       "specifications": {
-        "description": "Indépendamment du type de gestion projet, cette thématique regroupe les éléments de cadrage projet, les moyens mis en œuvre, les objectifs et contraintes du projet sur toute la durée de vie du service numérique."
-      },
-      "uxui": {
-        "description": "Les étapes et méthodes de conception des services numériques pour définir les meilleures solutions d'interactions destinées aux utilisateurs."
-      },
-      "contenus": {
-        "description": "Tous les documents et médias informatifs ajoutés au service numérique par des personnes contributrices et disponibles pour l'utilisateur final."
+        "description": "Cette partie regroupe les éléments de cadrage projet, les objectifs et contraintes du projet sur toute la durée de vie du service numérique."
       },
       "architecture": {
-        "description": "La stratégie de conception et l'articulation des composants applicatifs entre le frontend et le backend."
+        "description": "Cette partie porte sur la stratégie de conception et l'articulation des composants applicatifs entre le frontend et le backend."
       },
+      "uxui": {
+        "description": "Cette partie présente les étapes et méthodes de conception des services numériques pour définir les meilleures solutions d'interactions destinées aux utilisateurs."
+      },
+      "contenus": {
+        "description": "La partie \"contenus\" concerne les documents et médias informatifs ajoutés au service numérique par des personnes contributrices et disponibles pour l'utilisateur final."
+      },      
       "frontend": {
-        "description": "Ensemble des composants en opération sur un terminal utilisateur pour permettre l'utilisation d'un service numérique."
+        "description": "Le frontend est l'ensemble des composants en opération sur un terminal utilisateur pour permettre l'utilisation d'un service numérique."
       },
       "backend": {
-        "description": "Ensemble des composants en opération côté serveur pour permettre le fonctionnement d'un service numérique."
+        "description": "La partie s'intéresse à l'ensemble des composants en opération côté serveur pour permettre le fonctionnement d'un service numérique."
       },
       "hebergement": {
-        "description": "Moyens mis en œuvre côté serveur pour permettre l'utilisation d'un service numérique."
+        "description": "Il s'agit des moyens mis en œuvre côté hébergement pour permettre la conception/développement, l'utilisation, et si applicable, l'entrainement d'un service numérique. Toute la chaîne d'hébergement mobilisée pour les fonctionnalités critiques du service (centres de données, Content Delivery Network, etc.) doit être prise en compte pour valider les critères de cette partie."
       },
-      "Algorithmie": {
-        "description": "Moyens mis en œuvre pour l'écoconception et la frugalité quant à l'entraînement et l'inférence des modèles algorithmiques utilisés par l'IA."
+      "algorithmie": {
+        "description": "Cette partie concerne les services numériques reposant sur une intelligence artificielle (IA). Elle vise la mise en place de princies d'écoconception et de frugalité quant à l'entraînement et l'inférence des modèles algorithmiques utilisés pour l'IA. La phase d'apprentissage désigne le processsus par lequel un système réalise, à partir de données et via des modèles algorithmiques, des calculs afin de proposer des fonctionnalités. Elle est suivie par une phase d'inférence, de mise en oeuvre des modèles entraînés."
       } 
     }
   }
