@@ -5,6 +5,8 @@ description: Ce guide vise à accompagner les acheteurs publics dans la mise en 
 date: 2023-01-05
 image: /img/publications/guide-achat-indice-reparabilite/prise-en-compte-indice-reparabilite.webp
 type: publication
+focus: false # Cette publication est en 3e section
+category: autres  # Champ supplémentaire pour distinguer de la 2e section
 eleventyNavigation:
   key: guideIndiceReparabilite
   parent: publications

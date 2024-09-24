@@ -5,6 +5,7 @@ description:  Quel est l’impact réel des éco-gestes individuels dans un cadr
 date: 2021-11-23
 image: /img/publications/impact-bonnes-pratiques/apercu-impact-bonnes-pratiques.webp
 type: publication
+focus: false # Cette publication est en 2e section
 eleventyNavigation:
   key: impact-bonnes-pratiques
   parent: publications

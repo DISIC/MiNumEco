@@ -12,12 +12,14 @@ layout: layouts/base.njk
 
 <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
 
+{################ Première section : publications avec focus = true ################}
+
 {# parcourt chaque élément de la liste postslist en ordre inverse #}
 {# (c'est-à-dire du plus récent au plus ancien). #}
 {% for post in postslist | reverse %}
 
   {# vérifie si une publication a la propriété focus définie à true. #}
-  {# Si c'est le cas, cette publication est affichée de manière plus remarquable : #}
+  {# Si c'est le cas, cette publication est affichée en 1ère section #}
   {% if post.data.focus %}
 
   {# La publication est affichée sur toute la largeur  #}
@@ -54,11 +56,55 @@ layout: layouts/base.njk
 
 <div class="fr-grid-row fr-grid-row--gutters">
 
+{################ Deuxième section : publications sans focus ################}
+
 {% for post in postslist | reverse %}
 
   {# Un second bloc conditionnel s'assure que seules les publications 
-  sans la propriété focus sont affichées dans cette section. #}
-  {% if not post.data.focus %}
+  sans la propriété focus et sans la catégorie "autres" sont affichées 
+  dans cette 2e section. #}
+  {% if post.data.focus == false and post.data.category != "autres" %}
+
+  {# Ces publications sont affichées en colonnes sur un tiers de la largeur de la page 
+  pour les écrans de taille moyenne #}
+  <div class="fr-col-12 fr-col-md-4">
+    {# sous forme de cartes verticales #}
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            
+            <h3 class="fr-card__title">
+                <a href="{{ post.url | url }}" class="fr-card__link">{{ post.title }}</a>
+            </h3>
+            
+            {% if post.data.description %}
+            <p class="fr-card__desc">
+              {{ post.data.description }}
+            </p>
+            {% endif %}
+        </div>
+        <div class="fr-card__img">
+            <img src="{{ post.image }}" alt="">
+        </div>
+    </div> 
+  </div>
+  {% endif %}
+{% endfor %}
+
+</div>
+
+{# indiquer le début de l'affichage des autres publications qui n'ont pas la propriété focus #}
+<h2>Autres Ressources</h2>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+{################ Troisième section : toutes les autres publications ################}
+
+{% for post in postslist | reverse %}
+
+{# Un troisième bloc conditionnel s'assure que seules les publications 
+  sans la propriété focus et avec la catégorie "autres" sont affichées 
+  dans cette 3e section. #}
+{% if post.data.category == "autres" %}
 
   {# Ces publications sont affichées en colonnes sur un tiers de la largeur de la page 
   pour les écrans de taille moyenne #}

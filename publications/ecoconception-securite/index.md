@@ -5,6 +5,7 @@ description: La MiNumEco organise des ateliers avec des experts et des agents pu
 date: 2022-07-01
 image: /img/publications/ecoconception-securite/ecoconception-securite.webp
 type: publication
+focus: false # Cette publication est en 2e section
 eleventyNavigation:
   key: ecoconceptionSecurite
   parent: publications

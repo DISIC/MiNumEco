@@ -5,7 +5,7 @@ description: Ce guide répond à un besoin des organisations d’avoir un outil 
 date: 2023-06-19
 image: /img/publications/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
 type: publication
-focus: true
+focus: true # Cette publication est en 1ère section
 eleventyNavigation:
   key: guideBpNrAccueil
   parent: publications

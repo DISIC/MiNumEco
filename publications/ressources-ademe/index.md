@@ -5,6 +5,8 @@ description: Guides, études, expositions, articles, infographies proposées par
 date: 2022-04-14
 image: /img/publications/ressources-ademe/face-cachee-numerique.webp
 type: publication
+focus: false # Cette publication est en 3e section
+category: autres  # Champ supplémentaire pour distinguer de la 2e section
 eleventyNavigation:
   key: ressources-ademe
   parent: publications

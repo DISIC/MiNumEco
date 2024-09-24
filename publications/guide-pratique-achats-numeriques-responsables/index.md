@@ -5,7 +5,7 @@ description: Ce guide consigne de nombreuses recommandations à l’adresse des 
 date: 2021-04-29
 image: /img/publications/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp
 type: publication
-focus: true
+focus: true # Cette publication est en 1ère section
 eleventyNavigation:
   key: guideachat
   parent: publications

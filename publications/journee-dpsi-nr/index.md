@@ -5,6 +5,8 @@ description: Le 9 février 2021, s'est tenue à la DINUM, une journée de sensib
 date: 2021-10-01
 image: /img/publications/journee-dpsi/journee-dpsi.webp
 type: publication
+focus: false # Cette publication est en 3e section
+category: autres  # Champ supplémentaire pour distinguer de la 2e section
 eleventyNavigation:
   key: videos-dpsi-nr
   parent: publications
