@@ -33,18 +33,6 @@ Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco prop
       </div>
     </div>
   </div>
-  <div class="fr-col-12 fr-col-md-6">
-    <div class="fr-card fr-enlarge-link">
-      <div class="fr-card__body">
-        <h2 class="fr-card__title">
-            <a href="/posts/formations2024T3/" class="fr-card__link">Formations 8 octobre 2024</a>
-        </h2>    
-      </div>
-      <div class="fr-card__img">
-        <img src="/img/formations/formation-ecoconception.webp" alt="">
-      </div>
-    </div>
-  </div>
 </div>
 
 ## Formation : sensibilisation à l'écoconception de services numériques, 1/2 journée pour les agents publics
