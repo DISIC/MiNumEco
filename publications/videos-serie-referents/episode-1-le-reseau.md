@@ -1,6 +1,6 @@
 ---
 layout: layouts/video.njk
-title: "Épisode #1 : Les impacts environnementaux du numérique"
+title: "Épisode #1 : Présentation du réseau des référents"
 description: Comment les ministères agissent pour réduire leur empreinte environnementale ? Présentation de l'action de la MinumEco et des référents ministériels numérique écoresponsable.
 date: 2024-07-20
 image: /img/videos/miniserie/vignette-miniserie-episode1.webp
