@@ -11,7 +11,7 @@ type: formation
 ---
 
 
-## Programme
+## Programme 
 Au cours de cette formation, nous aborderons les enjeux environnementaux du numérique responsable et comment agir sur l'obsolescence matérielle avec l'éconception d’un service numérique.
 A travers des exercices et quizz, vous découvrirez comment mettre en œuvre une démarche d’écoconception et comment prendre en main le référentiel général d’écoconception de service numérique (RGESN) dans votre contexte projet.
 Les ressources de cette formation proviennent des travaux de la DINUM et de la MiNumEco (co-pilotée avec le Ministère de la transition écologique et le Commissariat général au développement durable).
