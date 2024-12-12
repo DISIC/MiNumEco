@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
-        with:
-          install_dependencies: true
+      - name: Build with Eleventy
+        run: |
+          npm install
+          npm run build-ghpages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
