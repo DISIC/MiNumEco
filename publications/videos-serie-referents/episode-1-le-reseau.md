@@ -25,4 +25,3 @@ Comment les ministères agissent pour réduire leur empreinte environnementale ?
 *Transcription*
 
 A venir
-
