@@ -5,12 +5,156 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-10-18T00:00:00Z</updated>
+	<updated>2024-12-19T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Maintenance Site</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/"/>
+		<updated>2024-12-19T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/</id>
+		<content type="html">&lt;div class=&quot;fr-notice fr-notice--warning&quot;&gt;
+    &lt;div class=&quot;fr-container&quot;&gt;
+        &lt;div class=&quot;fr-notice__body&quot;&gt;
+            &lt;p&gt;
+                &lt;span class=&quot;fr-notice__title&quot;&gt;Mise à jour du site&lt;/span&gt;
+                &lt;span class=&quot;fr-notice__desc&quot;&gt;Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.&lt;/span&gt;
+            &lt;/p&gt;
+            &lt;button title=&quot;Masquer le message&quot; onclick=&quot;const notice = this.parentNode.parentNode.parentNode; notice.parentNode.removeChild(notice)&quot; id=&quot;button-1305&quot; class=&quot;fr-btn--close fr-btn&quot;&gt;Masquer le message&lt;/button&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- chapô--&gt;
+&lt;p&gt;Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.&lt;/p&gt;
+&lt;!-- texte--&gt;
+&lt;h2&gt;Passage au DSFR&lt;/h2&gt;
+&lt;p&gt;Le site de la MiNumEco fait peau neuve. Afin de répondre aux exigences des sites gouvernementaux et de simplifier la navigation pour une meilleure expérience utilisateur, le site de la MiNumEco va passer au DSFR.&lt;/p&gt;
+&lt;p&gt;Pour cela nous allons utiliser le modèle réalisé par la mission « logiciels libres » de la DINUM, le &lt;a href=&quot;https://github.com/codegouvfr/eleventy-dsfr&quot;&gt;template elevently DSFR&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Mise à jour du site et disponibilité du contenu&lt;/h2&gt;
+&lt;p&gt;L’occasion également de nettoyer le contenu pour supprimer ceux obsolètes et vous proposer une navigation simplifiée.&lt;br /&gt;
+Les graphismes seront également amenés à être allégé et révisé, rendez-vous début 2025.&lt;/p&gt;
+&lt;h2&gt;Ecoconception et déclaration d’écoconception&lt;/h2&gt;
+&lt;p&gt;Par ailleurs, une nouvelle évaluation RGESN sera effectuée une fois les travaux réalisés et les résultats seront partagés dans la déclaration d’écoconception.&lt;/p&gt;
+&lt;div class=&quot;fr-callout fr-icon-palette-fill&quot;&gt;
+    &lt;h3 class=&quot;fr-callout__title&quot;&gt;Template Elevently DSFR et le design system de l&#39;État&lt;/h3&gt;
+		&lt;ul class=&quot;fr-callout__text&quot;&gt;
+		&lt;li&gt;&lt;a href=&quot;https://github.com/codegouvfr/eleventy-dsfr&quot;&gt;Template Elevently DSFR&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/DSFR%20-%20Syst%C3%A8me%20de%20Design%20de%20l&#39;%C3%89tat&quot;&gt;https://www.systeme-de-design.gouv.fr/&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+    &lt;button class=&quot;fr-btn&quot;&gt;
+        Label bouton MD
+    &lt;/button&gt;
+&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Référentiel de compétences</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/referentiel-competences-beta/"/>
+		<updated>2024-12-18T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/referentiel-competences-beta/</id>
+		<content type="html">&lt;!-- chapô--&gt;
+&lt;p&gt;Afin d’identifier les compétences numériques écoresponsable attendu pour les agents du numérique publique, la DINUM publie son guide en version beta.&lt;/p&gt;
+&lt;!-- texte--&gt;
+&lt;h2&gt;Base pour les formations&lt;/h2&gt;
+&lt;p&gt;Ce référentiel a permis notamment d’identifier les besoins en formation pour l’ensemble des agents et pour les agents du numérique. C’est un préalable pour l’élaboration du parcours de formation réalisé par la MiNumEco, dont le premier module est sorti le 17 décembre et les 2 suivants sortiront au premier trimestre 2025.&lt;/p&gt;
+&lt;h2&gt;Valoriser les compétences des agents publics&lt;/h2&gt;
+&lt;p&gt;Ce référentiel permet également de valoriser les compétences des agents publics pour des métiers en tension, responsable Green IT et responsable RSE. Il permettra de valoriser l’expertise des agents du numérique public.&lt;/p&gt;
+&lt;h2&gt;Mieux guider les parcours de formation et les recrutements&lt;/h2&gt;
+&lt;p&gt;De même, les connaissances et compétences en numérique responsable doivent être adaptées aux différents métiers du numérique public, ce référentiel basé sur le celui des métiers de la fonction publique de la DGAFP, permet d’ajouter dans les fiches de postes la prise en compte dans les pratiques professionnelles de l’impact environnemental du numérique.&lt;/p&gt;
+&lt;h2&gt;Version Beta&lt;/h2&gt;
+&lt;p&gt;Cette première version sera consolidée au 1er trimestre 2025 avec les retours des partenaires, pour une publication en version définitive en 2025. La version 2025 sera accompagné d’un guide de lecture, notamment pour les fonctions RH et formation.&lt;/p&gt;
+&lt;h2&gt;Contenu&lt;/h2&gt;
+&lt;p&gt;Les compétences sont réparties en 9 blocs :&lt;/p&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+&lt;ul&gt;
+	&lt;li&gt;usages quotidiens&lt;/li&gt;
+	&lt;li&gt;green IT&lt;/li&gt;
+	&lt;li&gt;Ecoconception applicative&lt;/li&gt;
+	&lt;li&gt;Data et IA&lt;/li&gt;
+	&lt;li&gt;Matériel&lt;/li&gt;
+	&lt;li&gt;Hébergement&lt;/li&gt;
+	&lt;li&gt;Réseaux et télécoms&lt;/li&gt;
+	&lt;li&gt;Mesure de l&#39;empreinte environnementale du SI&lt;/li&gt;
+	&lt;li&gt;Achats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;Sur 5 niveaux d’expertises :&lt;/p&gt;
+&lt;div class=&quot;fr-highlight&quot;&gt;
+	&lt;ul&gt;
+	&lt;li&gt;NA - non nécessaire dans la pratique professionnelle&lt;/li&gt;
+	&lt;li&gt;Niveau 1 - Bases de compréhension&lt;/li&gt;
+	&lt;li&gt;Niveau 2 - Capacité de compréhension et d&#39;échange avec un technicien, expert ou prestataire, exprimer un besoin métier&lt;/li&gt;
+	&lt;li&gt;Niveau 3 - Maîtrise des concepts et capacités de mise en oeuvre liée à son métier (dév, design, data, etc)&lt;/li&gt;
+	&lt;li&gt;Niveau 4 - Maîtrise des concepts pour l&#39;ensemble des métiers et mise en oeuvre stratégie&lt;/li&gt;
+	&lt;li&gt;Niveau 5 - Expertise - capacité à proposer une stratégie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fr-highlight fr-mt-3w fr-mb-4w&quot;&gt;
+Recensés pour 56 du numérique du &lt;a href=&quot;https://www.fonction-publique.gouv.fr/files/files/actualites/rmfp-v1-complet.pdf&quot;&gt;RMFP (Répertoires des métiers de la fonction publique) de la DGAFP - Direction Générale des Agents de la Fonction Publique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fr-card fr-enlarge-link fr-card--download&quot;&gt;
+	&lt;div class=&quot;fr-card__body&quot;&gt;
+		&lt;div class=&quot;fr-card__content&quot;&gt;
+			&lt;h3 class=&quot;fr-card__title&quot;&gt;
+					&lt;a download=&quot;&quot; href=&quot;https://ecoresponsable.numerique.gouv.fr/docs/2024/ReferentielCompetencesNumEco-Beta.xlsx&quot;&gt;
+							Télécharger le référentiel de compétences numérique écoresponsable
+					&lt;/a&gt;
+			&lt;/h3&gt;
+			&lt;p class=&quot;fr-card__desc&quot;&gt;Fichier excel, recensant les 9 blocs de compétences numérique écoresponsable, détaillé par niveau de compétence entre 1 et 4 pour les 57 métiers du numérique public, selon la nomenclature de la DGAFP&lt;/p&gt;
+			&lt;div class=&quot;fr-card__end&quot;&gt;
+					&lt;p class=&quot;fr-card__detail&quot;&gt;Excel - 38 Ko&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Module 1 - Impacts environnementaux du numérique</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/parcours-formation-numeco-module-1/"/>
+		<updated>2024-12-17T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/parcours-formation-numeco-module-1/</id>
+		<content type="html">&lt;p class=&quot;fr-badge fr-badge--success fr-badge--no-icon&quot;&gt;Nouveau&lt;/p&gt;
+&lt;!-- chapô--&gt;
+&lt;p&gt;Sortie le 17 décembre 2024 du premier module mentor de formation au numérique responsable.&lt;/p&gt;
+&lt;!-- texte--&gt;
+&lt;div class=&quot;fr-mb-3w&quot;&gt;
+	&lt;div class=&quot;fr-alert fr-icon-leaf-line fr-alert--sm&quot;&gt;
+			&lt;p&gt;Module 1 - L&#39;impact environnemental du numérique : Comment agir ? &lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;fr-alert fr-icon-account-circle-line fr-alert--sm&quot;&gt;
+			&lt;p&gt;Pour tous les agents publics&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;fr-alert fr-icon-timer-line fr-alert--sm&quot;&gt;
+			&lt;p&gt;Durée : 1 heure&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;fr-alert fr-icon-computer-line fr-alert--sm&quot;&gt;
+			&lt;p&gt;A suivre en autonomie sur mentor&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Objectifs de la formation&lt;/h2&gt;
+&lt;p&gt;À l’issue de ce module de formation, vous aurez acquis des connaissances de base sur l’impact environnemental du numérique et sur les objectifs de réduction de l’empreinte environnementale du numérique public.&lt;br /&gt;
+Vous serez également en mesure d’identifier des actions concrètes à mettre en œuvre dans votre quotidien et de trouver les ressources utiles à mobiliser pour améliorer vos pratiques professionnelles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifier les impacts environnementaux&lt;/li&gt;
+&lt;li&gt;Connaître les impacts liés au numérique&lt;/li&gt;
+&lt;li&gt;Découvrir les objectifs et le plan d’action de l’État&lt;/li&gt;
+&lt;li&gt;Améliorer mes pratiques quotidiennes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;fr-callout&quot;&gt;
+    &lt;h3 class=&quot;fr-callout__title&quot;&gt;La formation sur Mentor&lt;/h3&gt;
+    &lt;a class=&quot;fr-btn&quot; href=&quot;https://mentor.gouv.fr/catalog/3087&quot; target=&quot;_blank&quot;&gt;
+			Accédez à la formation
+    &lt;/a&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Les repairs days : Les journées de la réparation</title>
