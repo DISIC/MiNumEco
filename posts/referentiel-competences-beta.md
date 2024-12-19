@@ -8,6 +8,7 @@ tags:
   - 'MiNumEco'
   - 'Formation'
   - 'Document de référence'
+type: news
 ---
 
 <!-- chapô-->

@@ -7,6 +7,7 @@ image: /img/posts/siteMiNumEco.webp
 tags:
   - 'MiNumEco'
 showBreadcrumb: true
+type: news
 ---
 <div class="fr-notice fr-notice--warning">
     <div class="fr-container">

@@ -8,6 +8,7 @@ tags:
   - 'MiNumEco'
   - 'Formation'
 serie: Parcours MOOC Numeco
+type: news
 ---
 
 <p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
