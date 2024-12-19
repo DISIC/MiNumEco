@@ -13,10 +13,10 @@ jobs:
       - name: Build with Eleventy
         run: |
           npm install
-          npm run build-ghpages
+          npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          publish_dir: _site 
+          publish_dir: _site
           publish_branch: prod
           github_token: ${{ secrets.GITHUB_TOKEN }}
