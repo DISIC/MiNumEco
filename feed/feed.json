@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/bonne-annee-2025/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/bonne-annee-2025/",
+      "title": "Bonne année 2025",
+      "content_html": "<p class=\"fr-badge fr-badge--success fr-badge--no-icon\">Nouveau</p>\n<!-- chapô-->\n<p>La MiNumEco et les référents numérique responsable des ministères vous souhaitent une belle année 2025.</p>\n<!-- texte-->\n<h2>Bonne année 2025</h2>\n<p>En 2025 intensifions nos efforts, pour réduire ensemble l’empreinte environnementale du numérique public.</p>\n<div class=\"fr-callout\">\n    <h3 class=\"fr-callout__title\">Connaissez-vous la ou le référent numérique responsable de votre ministère ?</h3>\n    <a class=\"fr-btn\" href=\"https://www.dailymotion.com/playlist/x8ku42\" target=\"_blank\">\n\t\t\tVidéos de présentation des référents sur dailymotion\n    </a>\n</div>\n",
+      "date_published": "2025-01-06T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/",
       "title": "Maintenance Site",

@@ -5,12 +5,32 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2024-12-19T00:00:00Z</updated>
+	<updated>2025-01-06T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Bonne année 2025</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/bonne-annee-2025/"/>
+		<updated>2025-01-06T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/bonne-annee-2025/</id>
+		<content type="html">&lt;p class=&quot;fr-badge fr-badge--success fr-badge--no-icon&quot;&gt;Nouveau&lt;/p&gt;
+&lt;!-- chapô--&gt;
+&lt;p&gt;La MiNumEco et les référents numérique responsable des ministères vous souhaitent une belle année 2025.&lt;/p&gt;
+&lt;!-- texte--&gt;
+&lt;h2&gt;Bonne année 2025&lt;/h2&gt;
+&lt;p&gt;En 2025 intensifions nos efforts, pour réduire ensemble l’empreinte environnementale du numérique public.&lt;/p&gt;
+&lt;div class=&quot;fr-callout&quot;&gt;
+    &lt;h3 class=&quot;fr-callout__title&quot;&gt;Connaissez-vous la ou le référent numérique responsable de votre ministère ?&lt;/h3&gt;
+    &lt;a class=&quot;fr-btn&quot; href=&quot;https://www.dailymotion.com/playlist/x8ku42&quot; target=&quot;_blank&quot;&gt;
+			Vidéos de présentation des référents sur dailymotion
+    &lt;/a&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Maintenance Site</title>
