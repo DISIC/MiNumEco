@@ -5,12 +5,51 @@
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
-	<updated>2025-01-06T00:00:00Z</updated>
+	<updated>2025-01-13T00:00:00Z</updated>
 	<id>https://ecoresponsable.numerique.gouv.fr/</id>
 	<author>
 		<name>MiNumEco, la mission interministérielle numérique écoresponsable</name>
 		<email>numerique-responsable.dinum@modernisation.gouv.fr</email>
 	</author>
+	
+	<entry>
+		<title>Formation du 12 février</title>
+		<link href="https://ecoresponsable.numerique.gouv.fr/posts/2025-02-12-formation/"/>
+		<updated>2025-01-13T00:00:00Z</updated>
+		<id>https://ecoresponsable.numerique.gouv.fr/posts/2025-02-12-formation/</id>
+		<content type="html">&lt;h2&gt;Objectifs de la formation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Découvrir le Référentiel Général d’Ecoconception&lt;/li&gt;
+&lt;li&gt;Connaître les ressources utiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contenu de la formation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Présentation de la MiNumEco&lt;/li&gt;
+&lt;li&gt;Objectifs services publics écoresponsables&lt;/li&gt;
+&lt;li&gt;Ecoconcevoir son service&lt;/li&gt;
+&lt;li&gt;Pourquoi ?&lt;/li&gt;
+&lt;li&gt;Les outils et référentiels ?&lt;/li&gt;
+&lt;li&gt;Exercices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Pré-requis&lt;/h2&gt;
+&lt;p&gt;Avoir suivi &lt;a href=&quot;https://mentor.gouv.fr/catalog/2825&quot;&gt;le module mentor : les impacts environnementaux du numérique.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Informations pratiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Public : agent public d’État&lt;/li&gt;
+&lt;li&gt;Date : 12 février&lt;/li&gt;
+&lt;li&gt;Horaires : 09h30 / 12h30, se présenter à 09h00 à l’accueil avec sa carte d’itentité&lt;/li&gt;
+&lt;li&gt;Inscription obligatoire&lt;/li&gt;
+&lt;li&gt;Places limitées : 25 participants maximum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Inscription&lt;/h2&gt;
+&lt;div class=&quot;fr-callout&quot;&gt;
+    &lt;h3 class=&quot;fr-callout__title&quot;&gt;Inscription obligatoire&lt;/h3&gt;
+    &lt;a class=&quot;fr-btn&quot; href=&quot;https://grist.numerique.gouv.fr/o/docs/forms/1MmRRb9XJUL9CZgmQ9EMsS/55&quot; target=&quot;_blank&quot;&gt;
+			Formulaire d&#39;inscription
+    &lt;/a&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Bonne année 2025</title>
