@@ -76,19 +76,8 @@
 		<link href="https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/"/>
 		<updated>2024-12-19T00:00:00Z</updated>
 		<id>https://ecoresponsable.numerique.gouv.fr/posts/mise-a-jour-site/</id>
-		<content type="html">&lt;div class=&quot;fr-notice fr-notice--warning&quot;&gt;
-    &lt;div class=&quot;fr-container&quot;&gt;
-        &lt;div class=&quot;fr-notice__body&quot;&gt;
-            &lt;p&gt;
-                &lt;span class=&quot;fr-notice__title&quot;&gt;Mise à jour du site&lt;/span&gt;
-                &lt;span class=&quot;fr-notice__desc&quot;&gt;Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.&lt;/span&gt;
-            &lt;/p&gt;
-            &lt;button title=&quot;Masquer le message&quot; onclick=&quot;const notice = this.parentNode.parentNode.parentNode; notice.parentNode.removeChild(notice)&quot; id=&quot;button-1305&quot; class=&quot;fr-btn--close fr-btn&quot;&gt;Masquer le message&lt;/button&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- chapô--&gt;
-&lt;p&gt;Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.&lt;/p&gt;
+		<content type="html">&lt;!-- chapô--&gt;
+&lt;p&gt;Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 31 janvier 2025.&lt;/p&gt;
 &lt;!-- texte--&gt;
 &lt;h2&gt;Passage au DSFR&lt;/h2&gt;
 &lt;p&gt;Le site de la MiNumEco fait peau neuve. Afin de répondre aux exigences des sites gouvernementaux et de simplifier la navigation pour une meilleure expérience utilisateur, le site de la MiNumEco va passer au DSFR.&lt;/p&gt;
