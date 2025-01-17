@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Maintenance Site"
-description: Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.
+description: Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 31 janvier 2025.
 date: 2024-12-19
 image: /img/posts/siteMiNumEco.webp
 tags:
@@ -9,20 +9,8 @@ tags:
 showBreadcrumb: true
 type: news
 ---
-<div class="fr-notice fr-notice--warning">
-    <div class="fr-container">
-        <div class="fr-notice__body">
-            <p>
-                <span class="fr-notice__title">Mise à jour du site</span>
-                <span class="fr-notice__desc">Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.</span>
-            </p>
-            <button title="Masquer le message" onclick="const notice = this.parentNode.parentNode.parentNode; notice.parentNode.removeChild(notice)" id="button-1305" class="fr-btn--close fr-btn">Masquer le message</button>
-        </div>
-    </div>
-</div>
-
 <!-- chapô-->
-Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 20 janvier 2025.
+Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 31 janvier 2025.
 
 <!-- texte-->
 
