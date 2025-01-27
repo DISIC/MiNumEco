@@ -25,7 +25,7 @@ Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco prop
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
         <h2 class="fr-card__title">
-          <a href="/posts/formations2024T4/" class="fr-card__link">Formations 10 décembre 2024</a>
+          <a href="/posts/2025-02-12-formation/" class="fr-card__link">Formation Ecoconception 12 février</a>
         </h2>    
       </div>
       <div class="fr-card__img">
