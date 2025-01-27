@@ -9,6 +9,12 @@
     "url": "https://ecoresponsable.numerique.gouv.fr/a-propos/"
   },
   "items": [{
+      "id": "https://ecoresponsable.numerique.gouv.fr/posts/2025-03-12-formation/",
+      "url": "https://ecoresponsable.numerique.gouv.fr/posts/2025-03-12-formation/",
+      "title": "Formation éconumia : feuille de route NumEco, le 12 mars",
+      "content_html": "<!-- chapô-->\n<!-- texte-->\n<h2>Objectifs de la formation</h2>\n<p>Sous la forme d’un jeu de plateau collaboratif, définissez la feuille de route numérique responsable de votre entité.</p>\n<ul>\n<li>Comprendre les enjeux RSE</li>\n<li>Identifier les parties prenantes</li>\n<li>Définir une feuille de route NumEco</li>\n</ul>\n<h2>Contenu de la formation</h2>\n<ul>\n<li>1h de jeu de plateau : Econumia</li>\n<li>30 minutes d’explication et échanges avec l’experte numérique écoresponsable de la DINUM</li>\n</ul>\n<h2>Pré-requis</h2>\n<p>Aucun</p>\n<h2>Informations pratiques</h2>\n<ul>\n<li>Public : agent public d’État</li>\n<li>Date : 12 mars</li>\n<li>Horaires : 10h30 / 12h00, se présenter à 10h15 à l’accueil avec sa carte d’itentité</li>\n<li>Inscription obligatoire</li>\n<li>Places limitées : 8 participants maximum</li>\n</ul>\n<h2>Inscription</h2>\n<div class=\"fr-callout\">\n    <h3 class=\"fr-callout__title\">Inscription obligatoire</h3>\n    <a class=\"fr-btn\" href=\"https://grist.numerique.gouv.fr/o/docs/forms/1MmRRb9XJUL9CZgmQ9EMsS/55\" target=\"_blank\">\n\t\t\tFormulaire d'inscription\n    </a>\n</div>\n",
+      "date_published": "2025-03-12T00:00:00Z"
+    },{
       "id": "https://ecoresponsable.numerique.gouv.fr/posts/2025-02-12-formation/",
       "url": "https://ecoresponsable.numerique.gouv.fr/posts/2025-02-12-formation/",
       "title": "Formation du 12 février",
