@@ -1,0 +1,8 @@
+---
+layout: layouts/landing.njk
+title: "Autres vidéos"
+permalink: "/ressources/videos/serie/autres-videos/"
+---
+
+{% set postslist = collections['Vidéo'] | noSeries %}
+{% include "postslist.njk" %}

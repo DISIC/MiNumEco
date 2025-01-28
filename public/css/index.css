@@ -1,0 +1,197 @@
+/* Defaults */
+:root {
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
+		Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
+		Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
+		Courier, monospace;
+	--syntax-tab-size: 2;
+}
+
+/* Global stylesheet */
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+table {
+	margin: 1em 0;
+}
+
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+
+pre[class*="language-"] {
+	margin-bottom: 1.5em !important;
+}
+
+pre:not([class*="language-"]) {
+	margin: 0.5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+}
+
+code {
+	word-break: break-all;
+}
+
+/* Direct Links / Markdown Headers */
+.header-anchor {
+	background-image: none;
+	text-decoration: none;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: 0.1em;
+}
+
+a[href].header-anchor,
+a[href].header-anchor:visited {
+	color: transparent;
+}
+
+a[href].header-anchor:focus,
+a[href].header-anchor:hover {
+	text-decoration: underline;
+}
+
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+
+h2 + .header-anchor {
+	font-size: 1.5em;
+}
+
+/* Custom DSFR */
+.fr-pagination__list {
+	justify-content: flex-end !important;
+}
+
+@media (min-width: 48em) {
+	.fr-share__group {
+		justify-content: flex-end !important;
+	}
+}
+
+.fr-responsive-img.fr-ratio-auto {
+	object-fit: contain;
+}
+
+.fr-quote__image img {
+	object-fit: cover;
+}
+
+/** Properly render text in Markdown callout containers **/
+div.fr-callout__text p {
+	font-size: inherit;
+	line-height: inherit;
+}
+
+/** Missing icons **/
+.fr-follow .fr-btn--peertube:before,
+.fr-follow .fr-btn--github:before,
+.fr-follow .fr-btn--sourcehut:before {
+	margin-left: 0;
+	margin-right: 0.5rem;
+	flex: 0 0 auto;
+	display: inline-block;
+	vertical-align: calc((0.75em - var(--icon-size)) * 0.5);
+	background-color: currentColor;
+	width: var(--icon-size);
+	height: var(--icon-size);
+	-webkit-mask-size: 100% 100%;
+	mask-size: 100% 100%;
+	--icon-size: 2rem;
+	content: "";
+}
+
+.fr-follow .fr-btn--peertube:before {
+	-webkit-mask-image: url(/icons/logo/peertube.svg) !important;
+	mask-image: url(/icons/logo/peertube.svg) !important;
+}
+
+.fr-follow .fr-btn--github:before {
+	-webkit-mask-image: url(/icons/logo/github-fill.svg) !important;
+	mask-image: url(/icons/logo/github-fill.svg) !important;
+}
+
+.fr-follow .fr-btn--sourcehut:before {
+	-webkit-mask-image: url(/icons/logo/sourcehut.svg) !important;
+	mask-image: url(/icons/logo/sourcehut.svg) !important;
+}
+
+/* Custom */
+p:empty {
+	display: none;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.fr-grid-row .fr-card.fr-enlarge-link.fr-card--download {
+	height: fit-content;
+}
+
+.responsive-video-container {
+	position: relative;
+	width: 100%;
+	padding-top: 56.25%;
+	background-color: #000;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.dailymotion-placeholder {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.play-button {
+	color: white;
+	font-size: 2rem;
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 1rem 1.5rem;
+	border-radius: 5px;
+	transition: background 0.3s;
+}
+
+.play-button:hover {
+	background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.guide-bonne-pratique__summary__list .fr-summary__link::before {
+content: none;
+}

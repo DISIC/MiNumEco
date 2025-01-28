@@ -1,0 +1,135 @@
+---
+title: Accueil
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Accueil
+  order: 1
+numberOfLatestPostsToShow: 3
+---
+
+<div class="fr-notice fr-notice--info">
+  <div class="fr-container">
+    <div class="fr-notice__body">
+      <p>
+        <span class="fr-notice__title"> Mise à jour du site. </span>
+        <span class="fr-notice__desc">Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 31 janvier 2025.</span>
+      </p>
+      <button
+        title="Masquer le message"
+        onclick="const notice = this.parentNode.parentNode.parentNode; notice.parentNode.removeChild(notice)"
+        id="button-1299"
+        class="fr-btn--close fr-btn">Masquer le message</button>
+    </div>
+  </div>
+</div>
+
+<div class="fr-py-6w fr-background-alt--blue-cumulus">
+  <div class="fr-container">
+    <div class="fr-grid-row fr-grid-row--center">
+      <div class="fr-col-12 fr-col-md-8">
+        <h1>Réduire l’empreinte environnementale du numérique public</h1>
+        <p class="fr-text--lead">
+          La MiNumEco, la Mission Interministérielle Numérique Écoresponsable, accompagne les administrations dans la réduction de
+          l'empreinte environnementale du numérique public.
+        </p>
+
+				<a href="/a-propos" class="fr-btn">En savoir plus</a>
+      </div>
+      <div class="fr-hidden fr-unhidden-md fr-col-md-4">
+				<img src="/img/banniere_home.webp" alt="" class="fr-responsive-img fr-ratio-auto">
+			</div>
+    </div>
+  </div>
+</div>
+<div class="fr-container fr-pt-4w">
+  <section>
+    <h2>Les dernières actualités</h2>
+    <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
+			{% set postslist = collections.posts| head(-3) | reverse %}
+			{% include "postslist.njk" %}
+    </div>
+    <p>
+      <a href="/actualites/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir plus d'actualités</a>
+    </p>
+  </section>
+  <section class="fr-mt-8w">
+    <h2>Documents de référence</h2>
+		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/referentiel-general-ecoconception/",
+					title: "Référentiel général d'écoconception de services numériques (RGESN)",
+					image: {
+						src: "/img/referentiel-general-ecoconception/referentiel-ecoconception.webp",
+						alt: ""
+					}
+				}) }}
+			</div>
+
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/guide-pratique-achats-numeriques-responsables/",
+					title: "Guide pratique pour des achats numériques responsables",
+					image: {
+						src: "/img/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp",
+						alt: ""
+					}
+				}) }}
+			</div>
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/bonnes-pratiques/",
+					title: "Guide de bonnes pratiques numérique responsable pour les organisations",
+					image: {
+						src: "/img/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp",
+						alt: ""
+					}
+				}) }}
+			</div>
+		</div>
+		<a href="ressources/guides-referentiels/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Parcourir tous nos documents de références</a>
+  </section>
+  <section class="fr-mt-8w">
+    <h2>Ressources multimédias</h2>
+		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/ressources/videos/",
+					title: "Vidéos",
+					description: "Découvrir toutes nos vidéos"
+				}) }}
+			</div>
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/ressources/podcasts/",
+					title: "Podcasts",
+					description: "Écouter nos podcasts"
+				}) }}
+			</div>
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/ressources/lettres-information/",
+					title: "Lettres d'information",
+					description: "Relire nos lettres d'information"
+				}) }}
+			</div>
+		</div>
+	</section>
+  <section class="fr-mt-8w">
+    <h2>S'inscrire aux prochaines formations</h2>
+		{% set postslist = [] %}
+		{% for item in collections['Formation'] %}
+			{% if item.data.tags and 'Événement' in item.data.tags %}
+				{% set postslist = postslist.concat(item) %}
+			{% endif %}
+		{% endfor %}
+		{% include "postslist.njk" %}
+		<a href="formations/prochaines-formations/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Découvrir nos prochaines formations</a>
+  </section>
+</div>

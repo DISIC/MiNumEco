@@ -2,84 +2,91 @@
 layout: layouts/base.njk
 ---
 
-<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+<div class="fr-container">
+  <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
     <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
     <div class="fr-collapse" id="breadcrumb">
-        <ol class="fr-breadcrumb__list">
-            <li>
-                <a class="fr-breadcrumb__link" href="/">Accueil</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/boite-outils">Boite à outils numérique écoresponsable</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
-            </li>
-        </ol>
+      <ol class="fr-breadcrumb__list">
+        <li>
+          <a class="fr-breadcrumb__link" href="/">Accueil</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" href="/publications/boite-outils">Boite à outils numérique écoresponsable</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+        </li>
+      </ol>
     </div>
-</nav>
+  </nav>
 
-<h1>{{ title }}</h1>
+  <h1>{{ title }}</h1>
 
-<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-
+  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <div class="fr-col-12 fr-col-md-8">
-        {% if date %}
-            <p class="fr-text--sm">Dernière mis à jour de cette page le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
-        {% endif %}
+      {% if date %}
+			<p class="fr-text--sm">Dernière mis à jour de cette page le
+				<time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+			{% endif %}
+			<p>
+				<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ link }}" target="_blank">Voir le site</a>
+				{% if codeRepository %}
+					<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ codeRepository }}" target="_blank">Voir le code source</a>
+				{% endif %}
+			</p>
 
-        <p>
-            <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ link }}" target="_blank">Voir le site</a>
+			{% if image %}
+				<p><img src="{{ image }}" alt="" class="fr-responsive-img" style="border: 1px solid grey"></p>
+			{% endif %}
 
-            {% if codeRepository %}
-                <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ codeRepository }}" target="_blank">Voir le code source</a>
-            {% endif %}
-        </p>
+			{{ content | safe }}
 
-        {% if image %}
-            <p><img src="{{ image }}" alt="" style="border: 1px solid grey"></p>
-        {% endif %}
+			<p>
+				<b>Auteur</b> : {{ author }}
+			</p>
 
-        {{ content | safe }}
+			<p>
+				<b>Technologie principale</b> : {{ mainTechnology }}
+			</p>
 
-        <p><b>Auteur</b> : {{ author }}</p>
-        <p><b>Technologie principale</b> : {{ mainTechnology }}</p>
-        <p><b>Licence</b> : {{ licence }}</p>
-    </div>
-    
-    <div class="fr-col-12 fr-col-md-4">
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Périmètre</h2>
-                <p class="fr-tile__desc">{{ category }} / {{ scope }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Type</h2>
-                <p class="fr-tile__desc">{{ toolType }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Utilisateurs cibles</h2>
-                <p class="fr-tile__desc">{{ target }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Indicateurs mesurés</h2>
-                <p class="fr-tile__desc">{{ measuredIndicators }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Indicateurs environnementaux</h2>
-                <p class="fr-tile__desc">{{ environnementalIndicators }}</p>
-            </div>
-        </div>
-    </div>
+			<p>
+				<b>Licence</b> : {{ licence }}
+			</p>
+</div>
+		<div class="fr-col-12 fr-col-md-4">
+			<div class="fr-tile fr-mb-2w">
+				<div class="fr-tile__body">
+					<h2 class="fr-tile__title">Périmètre</h2>
+					<p class="fr-tile__desc">{{ category }} / {{ scope }}</p>
+				</div>
+			</div>
+			<div class="fr-tile fr-mb-2w">
+				<div class="fr-tile__body">
+					<h2 class="fr-tile__title">Type</h2>
+					<p class="fr-tile__desc">{{ toolType }}</p>
+				</div>
+			</div>
+			<div class="fr-tile fr-mb-2w">
+				<div class="fr-tile__body">
+					<h2 class="fr-tile__title">Utilisateurs cibles</h2>
+					<p class="fr-tile__desc">{{ target }}</p>
+				</div>
+			</div>
+			<div class="fr-tile fr-mb-2w">
+				<div class="fr-tile__body">
+					<h2 class="fr-tile__title">Indicateurs mesurés</h2>
+					<p class="fr-tile__desc">{{ measuredIndicators }}</p>
+				</div>
+			</div>
+			<div class="fr-tile fr-mb-2w">
+				<div class="fr-tile__body">
+					<h2 class="fr-tile__title">Indicateurs environnementaux</h2>
+					<p class="fr-tile__desc">{{ environnementalIndicators }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>

@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+title: "MiNumEchos : le podcast du numérique public responsable"
+description: "Série de podcast : sur les enjeux et les innovations autour du numérique responsable, par les acteurs du service public."
+date: 2024-09-15
+image: /img/podcast/banniere-podcast.webp
+type: publication
+focus: false # Cette publication est en 2e section
+---
+
+{% include "components/breadcrumb.njk" %}
+
+<h1>{{ title }}</h1>
+
+<p>{{ description }}</p>
+
+<div class="fr-grid-row fr-grid-row--gutters">
+
+{% set postslist = collections.podcastminumechos %}
+{% for post in postslist %}
+  <div class="fr-col-12 fr-col-md-3">
+    <div class="fr-card fr-enlarge-link">
+        <div class="fr-card__body">
+            <h2 class="fr-card__title">
+                <a href="{{ post.url | url }}" class="fr-card__link">{{ post.data.title }}</a>
+            </h2>
+            <p class="fr-card__detail"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+        </div>
+        <div>
+            <img src="{{ post.data.apercu }}" class="fr-responsive-img" loading="lazy" alt="">
+        </div>
+    </div>
+  </div>
+{% endfor %}
+
+</div>

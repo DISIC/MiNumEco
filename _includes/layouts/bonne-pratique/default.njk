@@ -2,112 +2,116 @@
 layout: layouts/base.njk
 ---
 
-{% include "layouts/bonne-pratique/breadcrumb.njk" %}
-
-{% set bonnesPratiquesListe = '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}
-{% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/', '/publications/bonnes-pratiques/glossaire/', '/publications/bonnes-pratiques/bibliographie/', '/publications/bonnes-pratiques/webographie/'] %}
-
-{% set bonnesPratiquesOuvert = false %}
-{% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
-{% for thematique in thematiques %}
+<div class="fr-container">
+  {% include "layouts/bonne-pratique/breadcrumb.njk" %}
+  {% set bonnesPratiquesListe = '/publications/bonnes-pratiques/bonnes-pratiques/' == page.url %}
+  {% set aProposOuvert = page.url in ['/publications/bonnes-pratiques/introduction/', '/publications/bonnes-pratiques/synthese/', '/publications/bonnes-pratiques/glossaire/', '/publications/bonnes-pratiques/bibliographie/', '/publications/bonnes-pratiques/webographie/'] %}
+  {% set bonnesPratiquesOuvert = false %}
+  {% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
+  {% for thematique in thematiques %}
     {% if thematique.url == page.url or thematique.key == eleventyNavigation.parent %}
-        {% set bonnesPratiquesOuvert = true %}
+      {% set bonnesPratiquesOuvert = true %}
     {% endif %}
-{% endfor %}
-
-<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
+  {% endfor %}
+  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <nav class="fr-sidemenu fr-sidemenu--sticky fr-col-12 fr-col-md-4" role="navigation" aria-label="Menu latéral">
-        <div class="fr-sidemenu__inner">
-            <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">{% if bonnesPratiquesListe %}Sommaire et filtres{% else %}Sommaire{% endif %}</button>
-            <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                <ul class="fr-sidemenu__list fr-mb-1w">
-                    <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
-                    </li>
-                    <li class="fr-sidemenu__item">
-                        <button class="fr-sidemenu__btn" aria-expanded="{% if aProposOuvert %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-apropos">À propos</button>
-                        <div class="fr-collapse" id="fr-sidemenu-item-apropos">
-                            <ul class="fr-sidemenu__list">
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/introduction/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/introduction/" {% if '/publications/bonnes-pratiques/introduction/' == page.url %}aria-current="page"{% endif %}>Introduction</a>
-                                </li>
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %}aria-current="page"{% endif %}>Synthèse</a>
-                                </li>
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/glossaire/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/glossaire/" {% if '/publications/bonnes-pratiques/glossaire/' == page.url %}aria-current="page"{% endif %}>Glossaire</a>
-                                </li>
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bibliographie/" {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}aria-current="page"{% endif %}>Bibliographie sélective</a>
-                                </li>
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/webographie/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/webographie/" {% if '/publications/bonnes-pratiques/webographie/' == page.url %}aria-current="page"{% endif %}>Webographie</a>
-                                </li>
-                                <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/journal-des-modifications/' == page.url %}fr-sidemenu__item--active{% endif %}">
-                                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/journal-des-modifications/" {% if '/publications/bonnes-pratiques/journal-des-modifications/' == page.url %}aria-current="page"{% endif %}>Journal des modifications</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class="fr-sidemenu__item {% if bonnesPratiquesListe %}fr-sidemenu__item--active{% endif %}">
-                        <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/" {% if bonnesPratiquesListe %}aria-current="page"{% endif %}>Bonnes pratiques</a>
-                    </li>
+      <div class="fr-sidemenu__inner">
+        <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">
+          {% if bonnesPratiquesListe %}Sommaire et filtres{% else %}Sommaire{% endif %}
+        </button>
+        <div class="fr-collapse" id="fr-sidemenu-wrapper">
+          <ul class="fr-sidemenu__list fr-mb-1w">
+            <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/' == page.url %}fr-sidemenu__item--active{% endif %}">
+              <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/" {% if '/publications/bonnes-pratiques/' == page.url %} aria-current="page" {% endif %}>Accueil</a>
+            </li>
+            <li class="fr-sidemenu__item">
+              <button class="fr-sidemenu__btn" aria-expanded="{% if aProposOuvert %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-apropos">À propos</button>
+              <div class="fr-collapse" id="fr-sidemenu-item-apropos">
+                <ul class="fr-sidemenu__list">
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/introduction/' == page.url %}fr-sidemenu__item--active{%
+                      endif %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/introduction/" {% if '/publications/bonnes-pratiques/introduction/' == page.url %} aria-current="page" {% endif %}>Introduction</a>
+                  </li>
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/synthese/' == page.url %}fr-sidemenu__item--active{% endif
+                      %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/synthese/" {% if '/publications/bonnes-pratiques/synthese/' == page.url %} aria-current="page" {% endif %}>Synthèse</a>
+                  </li>
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/glossaire/' == page.url %}fr-sidemenu__item--active{%
+                      endif %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/glossaire/" {% if '/publications/bonnes-pratiques/glossaire/' == page.url %} aria-current="page" {% endif %}>Glossaire</a>
+                  </li>
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %}fr-sidemenu__item--active{%
+                      endif %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bibliographie/" {% if '/publications/bonnes-pratiques/bibliographie/' == page.url %} aria-current="page" {% endif %}>Bibliographie sélective</a>
+                  </li>
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/webographie/' == page.url %}fr-sidemenu__item--active{%
+                      endif %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/webographie/" {% if '/publications/bonnes-pratiques/webographie/' == page.url %} aria-current="page" {% endif %}>Webographie</a>
+                  </li>
+                  <li class="fr-sidemenu__item {% if '/publications/bonnes-pratiques/journal-des-modifications/' == page.url
+                      %}fr-sidemenu__item--active{% endif %}">
+                    <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/journal-des-modifications/" {% if '/publications/bonnes-pratiques/journal-des-modifications/' == page.url %} aria-current="page" {% endif %}>Journal des modifications</a>
+                  </li>
                 </ul>
-
-            {% if bonnesPratiquesListe %}
-                <div class="fr-tile fr-tile--horizontal">
-                    <div class="fr-tile__body">
-                        <h2 class="fr-tile__title fr-mb-1w">Filtrer les bonnes pratiques</h2>
-                        <div class="fr-tile__desc">
-                            <div class="fr-form-group">
-                                <label class="fr-label" for="form-priority">Priorité</label>
-                                <select class="fr-select" id="form-priority" name="priority">
-                                    <option value="" selected>Toutes</option>
-                                    <option>Prioritaire</option>
-                                    <option>Recommandée</option>
-                                    <option>Aller plus loin</option>
-                                </select>
-                            </div>
-                            <div class="fr-form-group">
-                                <label class="fr-label" for="form-difficulty">Mise en oeuvre</label>
-                                <select class="fr-select" id="form-difficulty" name="difficulty">
-                                    <option value="" selected>Toutes</option>
-                                    <option>Facile</option>
-                                    <option>Moyenne</option>
-                                    <option>Difficile</option>
-                                </select>
-                            </div>
-                            <div class="fr-form-group">
-                                <label class="fr-label" for="form-who">Qui est pilote</label>
-                                <select class="fr-select" id="form-who" name="who">
-                                    <option value="" selected>Toutes</option>
-                                    <option>Délégué à la protection des données</option>
-                                    <option>Délégué au numérique responsable</option>
-                                    <option>Direction des achats</option>
-                                    <option>Direction du numérique</option>
-                                    <option>Direction générale</option>
-                                    <option>Direction logistique</option>
-                                    <option>Direction ressources humaines</option>
-                                    <option>Responsable archives</option>
-                                    <option>Responsable produit</option>
-                                    <option>Responsable projet</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
+              </div>
+            </li>
+            <li class="fr-sidemenu__item {% if bonnesPratiquesListe %}fr-sidemenu__item--active{% endif %}">
+              <a class="fr-sidemenu__link" href="/publications/bonnes-pratiques/bonnes-pratiques/" {% if bonnesPratiquesListe %} aria-current="page" {% endif %}>Bonnes pratiques</a>
+            </li>
+          </ul>
+          {% if bonnesPratiquesListe %}
+            <div class="fr-tile fr-tile--horizontal">
+              <div class="fr-tile__body">
+                <h2 class="fr-tile__title fr-mb-1w">Filtrer les bonnes pratiques</h2>
+                <div class="fr-tile__desc">
+                  <div class="fr-form-group">
+                    <label class="fr-label" for="form-priority">Priorité</label>
+                    <select class="fr-select" id="form-priority" name="priority">
+                      <option value="" selected>Toutes</option>
+                      <option>Prioritaire</option>
+                      <option>Recommandée</option>
+                      <option>Aller plus loin</option>
+                    </select>
+                  </div>
+                  <div class="fr-form-group">
+                    <label class="fr-label" for="form-difficulty">Mise en oeuvre</label>
+                    <select class="fr-select" id="form-difficulty" name="difficulty">
+                      <option value="" selected>Toutes</option>
+                      <option>Facile</option>
+                      <option>Moyenne</option>
+                      <option>Difficile</option>
+                    </select>
+                  </div>
+                  <div class="fr-form-group">
+                    <label class="fr-label" for="form-who">Qui est pilote</label>
+                    <select class="fr-select" id="form-who" name="who">
+                      <option value="" selected>Toutes</option>
+                      <option>Délégué à la protection des données</option>
+                      <option>Délégué au numérique responsable</option>
+                      <option>Direction des achats</option>
+                      <option>Direction du numérique</option>
+                      <option>Direction générale</option>
+                      <option>Direction logistique</option>
+                      <option>Direction ressources humaines</option>
+                      <option>Responsable archives</option>
+                      <option>Responsable produit</option>
+                      <option>Responsable projet</option>
+                    </select>
+                  </div>
                 </div>
-            {% endif %}
+              </div>
             </div>
+          {% endif %}
         </div>
+      </div>
     </nav>
-
     <div class="fr-col-12 fr-col-md-8">
-        <h1>{{ title }}</h1>
-
-        <p class="fr-text--sm">
-            Version {{ metadata.guideBonnesPratiques.versionTitle }}. Dernière mise à jour le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
-        </p>
-
-        {{ content | safe }}
+      <h1>{{ title }}</h1>
+      <p class="fr-text--sm">
+        Version {{ metadata.guideBonnesPratiques.versionTitle }}. Dernière mise à jour le
+        <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      </p>
+      {{ content | safe }}
     </div>
+  </div>
 </div>

@@ -1,31 +1,48 @@
 {
-  "name": "mission-numerique-ecoresponsable",
-  "version": "0.1.0",
-  "description": "Mission interministérielle numérique écoresponsable",
+  "name": "eleventy-dsfr",
+  "version": "1.1.0",
+  "description": "Une base de code pour déployer un site/blog statique avec Eleventy et le DSFR.",
   "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch",
-    "serve": "eleventy --serve",
-    "start": "eleventy --serve",
-    "debug": "DEBUG=* eleventy",
-    "deploy": "gh-pages -d _site -b prod"
+    "build": "npx @11ty/eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/MiNumEco/",
+    "postbuild": "npx pagefind --site _site/ --output-subdir \"_pagefind\"",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+    "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "git@github.com:codegouvfr/eleventy-dsfr.git"
   },
   "author": {
-    "name": "Mélanie RAPHAËL",
-    "email": "melanie.raphael@modernisation.gouv.fr"
+    "name": "Mission logiciels libres (DINUM)",
+    "email": "contact@code.gouv.fr",
+    "url": "https://code.gouv.fr/mission/"
   },
-  "license": "Licence Ouverte Etalab v2.0",
-  "homepage": "https://ecoresponsable.numerique.gouv.fr",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "homepage": "https://codegouvfr.github.io/eleventy-dsfr/",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-bundle": "^1.0.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "luxon": "^3.4.4",
-    "markdown-it": "^13.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "@codegouvfr/eleventy-plugin-calendar": "^3.0.5",
+    "@codegouvfr/eleventy-plugin-i18n": "^0.1.3",
+    "@gouvfr/dsfr": "^1.11.2",
+    "ics": "^3.8.1",
+    "luxon": "^3.5.0",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-attrs": "^4.2.0",
+    "markdown-it-container": "^4.0.0",
+    "pagefind": "^1.2.0"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
   }
 }

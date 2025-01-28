@@ -2,103 +2,105 @@
 layout: layouts/base.njk
 ---
 
-<nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+<div class="fr-container">
+  <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
     <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb">Voir le fil d’Ariane</button>
     <div class="fr-collapse" id="breadcrumb">
-        <ol class="fr-breadcrumb__list">
-            <li>
-                <a class="fr-breadcrumb__link" href="/">Accueil</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/strategie-numerique-responsable-des-collectivites/">Stratégie numérique responsable des collectivités</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" href="/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/">Catalogue d'outils</a>
-            </li>
-            <li>
-                <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
-            </li>
-        </ol>
+      <ol class="fr-breadcrumb__list">
+        <li>
+          <a class="fr-breadcrumb__link" href="/">Accueil</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" href="/publications/">Publications</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" href="/publications/strategie-numerique-responsable-des-collectivites/">Stratégie
+            numérique responsable des collectivités</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" href="/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/">
+          Catalogue d'outils</a>
+        </li>
+        <li>
+          <a class="fr-breadcrumb__link" aria-current="page">{{ title }}</a>
+        </li>
+      </ol>
     </div>
-</nav>
-
-<h1>{{ title }}</h1>
-
-<div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
-
+  </nav>
+  <h1>{{ title }}</h1>
+  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--top">
     <div class="fr-col-12 fr-col-md-8">
-        {% if date %}
-            <p class="fr-text--sm">Dernière mis à jour de cette page le <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      {% if date %}
+        <p class="fr-text--sm">Dernière mis à jour de cette page le
+          <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
         {% endif %}
-
         {% if image %}
-            <p><img src="{{ image }}" alt="" style="border: 1px solid grey"></p>
-        {% endif %}
-
-        {{ content | safe }}
-
-        <hr />
-
-        <p><b>Auteur</b> : {{ auteur }}</p>
-        <p><b>Outils en open data / open source</b> : {{ openSourceOpenData }}</p>
-        <p><b>Disponibilité</b> : {{ disponibilite }}</p>
-
-        <p>
+          <p>
+            <img src="{{ image }}" alt="" style="border: 1px solid grey"></p>
+          {% endif %}
+          {{ content | safe }} <hr/>
+          <p>
+            <b>Auteur</b>
+            : {{ auteur }}</p>
+          <p>
+            <b>Outils en open data / open source</b>
+            : {{ openSourceOpenData }}</p>
+          <p>
+            <b>Disponibilité</b>
+            : {{ disponibilite }}</p>
+          <p>
             <a class="fr-btn" href="{{ url }}" target="_blank">Voir l'outil</a>
-        </p>
+          </p>
+        </div>
+        <div class="fr-col-12 fr-col-md-4">
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Périmètre</h2>
+              <p class="fr-tile__desc">{{ perimetre }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Utilisateurs cibles</h2>
+              <p class="fr-tile__desc">{{ utilisateursCibles }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Évaluation quantitative</h2>
+              <p class="fr-tile__desc">{{ evaluationQuantitative }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Évaluation qualitative</h2>
+              <p class="fr-tile__desc">{{ evaluationQualitative }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Indicateurs environnementaux mesurés</h2>
+              <p class="fr-tile__desc">{{ indicateursEnvironnementaux }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Expérimentation auprès de collectivités</h2>
+              <p class="fr-tile__desc">{{ experimentationAupresDeCollectivites }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Retours d'expérience de collectivités</h2>
+              <p class="fr-tile__desc">{{ retoursExperienceDeCollectivites }}</p>
+            </div>
+          </div>
+          <div class="fr-tile fr-mb-2w">
+            <div class="fr-tile__body">
+              <h2 class="fr-tile__title">Accompagnement proposé</h2>
+              <p class="fr-tile__desc">{{ accompagnement }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    
-    <div class="fr-col-12 fr-col-md-4">
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Périmètre</h2>
-                <p class="fr-tile__desc">{{ perimetre }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Utilisateurs cibles</h2>
-                <p class="fr-tile__desc">{{ utilisateursCibles }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Évaluation quantitative</h2>
-                <p class="fr-tile__desc">{{ evaluationQuantitative }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Évaluation qualitative</h2>
-                <p class="fr-tile__desc">{{ evaluationQualitative }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Indicateurs environnementaux mesurés</h2>
-                <p class="fr-tile__desc">{{ indicateursEnvironnementaux }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Expérimentation auprès de collectivités</h2>
-                <p class="fr-tile__desc">{{ experimentationAupresDeCollectivites }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Retours d'expérience de collectivités</h2>
-                <p class="fr-tile__desc">{{ retoursExperienceDeCollectivites }}</p>
-            </div>
-        </div>
-        <div class="fr-tile fr-mb-2w">
-            <div class="fr-tile__body">
-                <h2 class="fr-tile__title">Accompagnement proposé</h2>
-                <p class="fr-tile__desc">{{ accompagnement }}</p>
-            </div>
-        </div>
-    </div>
-</div>

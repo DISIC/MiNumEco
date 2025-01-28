@@ -1,0 +1,96 @@
+---
+layout: layouts/numerique-responsable-collectivites.njk
+title: "Stratégie numérique responsable des collectivités : traduction opérationnelle du décret de l'article 35 de la loi REEN"
+description: Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la Mission interministérielle numérique responsable a travaillé avec le réseau des Interconnectés, dans le cadre du programme Transformation numérique des territoires à une traduction opérationnelle des nouvelles obligations fixées par ce décret.
+date: 2023-07-18
+image: /img/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
+type: publication
+focus: false # Cette publication est en 2e section
+eleventyNavigation:
+  key: strategieNumEcoCollectivites
+  parent: publications
+  title: "Stratégie numérique responsable des collectivités : traduction opérationnelle du décret de l'article 35 de la loi REEN"
+  date: 2023-07-18
+  image: /img/strategie-numerique-responsable-des-collectivites/strategie-numerique-responsable-collectivites.webp
+  order: 150
+permalink: /publications/strategie-numerique-responsable-des-collectivites/
+---
+
+<p>L’article 35 de la <a href="https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000042956321/">loi du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique</a> en France, dite loi REEN, prescrit aux communes de plus de 50 000 habitants et aux établissements publics de coopération intercommunale à fiscalité propre de plus de 50 000 habitants, d’élaborer, au plus tard le 1er janvier 2025, une stratégie numérique responsable visant à réduire l’empreinte environnementale du numérique et à prévoir les mesures nécessaires pour les atteindre.</p>
+
+<p>Le <a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046113741">décret n°2022-1084, publié le 29 juillet 2022</a>, précise le contenu et les modalités d’élaboration de la stratégie numérique responsable que les collectivités se devront d’élaborer dans ce cadre.</p>
+
+<p>Afin de faciliter l'élaboration et la mise en oeuvre de ces nouvelles obligation par les collectivités concernées, la <a href="/">Mission interministérielle numérique écoresponsable</a> a travaillé avec le <a href="https://www.interconnectes.com/qui-sommes-nous/">réseau des Interconnectés</a>, dans le cadre du <a href="https://www.numerique.gouv.fr/services/tnt/">programme Transformation numérique des territoires</a> et en collaboration avec les représentants des collectivités, à une traduction opérationnelle des nouvelles obligations fixées par ce décret. Cette traduction se décline en thématiques et pour chaque thématique sont présentés :</p>
+
+<ul>
+<li>des exemples d'actions et mesures mises en place pour y parvenir</li>
+<li>des exemples d'indicateurs à suivre</li>
+<li>les outils et ressources mobilisables</li>
+<li>et des retours d'expérience.</li>
+</ul>
+
+<h2>Prérequis</h2>
+
+<div class="fr-accordions-group">
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="element-1">Identifier les acteurs publics et privés du territoire à inclure dans le bilan et la stratégie à construire</button>
+</h3>
+<div class="fr-collapse" id="element-1">
+
+<p>Le bilan et la stratégie attendus doivent résulter d'un programme de travail avec les acteurs publics et privés concernés du territoire.</p>
+
+<p>Pour vous aider à identifier les acteurs publics et privés de votre territoire à inclure dans ce programme de travail, vous pouvez vous appuyer sur les <b><a href="/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/">outils référencés dans ce catalogue</a></b>.</p>
+
+</div>
+</section>
+
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="element-2">Réaliser un bilan de l'impact environnemental du numérique et de ses usages sur votre territoire</button>
+</h3>
+<div class="fr-collapse" id="element-2">
+
+Pour vous aider à réaliser le bilan d'impact du numérique sur votre territoire, vous pouvez vous appuyer sur plusieurs <b><a href="/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/">outils référencés dans ce catalogue</a></b>.
+
+</div>
+</section>
+
+<section class="fr-accordion">
+<h3 class="fr-accordion__title">
+<button class="fr-accordion__btn" aria-expanded="false" aria-controls="element-3">Élaborer une synthèse des actions déjà engagées sur le territoire pour atténuer l'impact environnemental du numérique</button>
+</h3>
+<div class="fr-collapse" id="element-3">
+
+Listez les actions favorisant la réduction directe ou indirecte de l'empreinte environnementale du numérique, déjà en place au sein de la collectivité, par exemple concernant les achats et le réemploi des équipements, la conception des services numériques, etc.
+
+</div>
+</section>
+</div>
+
+
+<h2>Élaborer votre stratégie numérique responsable</h2>
+
+<p>À partir du programme de travail précédemment réalisé, vous devez définir une stratégie numérique responsable incluant :</p>
+
+<ul>
+  <li>des objectifs (annuels ou pluriannuels) de réduction de l'empreinte environnementale du numérique sur votre territoire,</li>
+  <li>des mesures associées pour les atteindre,</li>
+  <li>des indicateurs pour en suivre la réalisation.</li>
+</ul>
+
+<p><b>Ces objectifs et mesures peuvent notamment porter sur les sujets suivants :</b></p>
+
+<ul>
+{% for item in collections.all | eleventyNavigation('strategieNumEcoCollectivites') %}
+  <li><a href="{{ item.url | url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2>Retours d'expérience de collectivités</h2>
+
+<ul>
+  <li><a href="https://metropole.nantes.fr/files/pdf/numerique-innovation/2022-12%20Rapport%20Numerique%20Responsable%20Prog%20WEB.pdf" target="_blank">Programme de travail Numérique Responsable de Nantes Métropole, décembre 2022</a>
+  <li><a href="https://www.calameo.com/read/00129742498b58cfe56ad?page=1" target="_blank">Feuille de route Sobriété Numérique de l'Agglomération de La Rochelle, novembre 2022</a>
+  <li><a href="https://www.bretagne.bzh/app/uploads/PlanActions_label_Numerique_responsable_-avril_2021.pdf" target="_blank">Plan d'action de la Région Bretagne, avril 2021</a>
+</ul>

@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fr-container">
+  {% include "components/breadcrumb.njk" %}
+  <div class="fr-grid-row">
+    <div class="fr-col-12 fr-col-md-4">
+      <nav class="fr-sidemenu fr-sidemenu--sticky" aria-labelledby="fr-sidemenu-title">
+        <div class="fr-sidemenu__inner">
+          <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">
+            Dans cette page
+          </button>
+          <div class="fr-collapse" id="fr-sidemenu-wrapper">
+            <div class="fr-sidemenu__title" id="fr-sidemenu-title">Sommaire</div>
+            {{ content | extractHeadings | safe }}
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class="fr-col-12 fr-col-md-8">
+      <h1>{{ title }}</h1>
+      {%- if date %}
+        <p class="fr-text--sm">Dernière mise à jour le
+          <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+        </p>
+      {% endif %}
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
+
+<script type="application/json" id="layout-data">
+  { "layout": "{{ layout }}" }
+</script>

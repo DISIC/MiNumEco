@@ -1,0 +1,13 @@
+---
+title: Vos besoins
+layout: layouts/post.njk
+permalink: /thematiques/
+---
+
+<ul>
+    {%- for thematique in collections.all | eleventyNavigationExtended('thematiques') %}
+    <li>
+        <a href="{{ thematique.url | url }}" target="_self">{{ thematique.title }}</a>
+    </li>
+    {%- endfor %}
+</ul>

@@ -1,0 +1,44 @@
+---
+layout: layouts/bonne-pratique/default.njk
+title: Guide de bonnes pratiques numérique responsable pour les organisations
+date: 2022-02-17
+image: /img/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp
+eleventyExcludeFromCollections: true
+---
+
+{% set thematiques = collections.all | eleventyNavigationExtended("guideBpNr") %}
+
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <h6 class="fr-summary__title" id="fr-summary-title">Thématiques</h6>
+    <ul class="fr-summary__list guide-bonne-pratique__summary__list" type="a">
+    {% for thematique in thematiques %}
+        <li class="fr-mb-2w">
+            <a class="fr-summary__link" href="#{{ thematique.key }}">{{ thematique.data.idThematique }} {{ thematique.title }}</a>
+
+            <ul>
+            {% for bonnePratique in thematique.children %}
+                <li><small class="fr-tag">{{ bonnePratique.data.idbp }}</small> <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+    </ul>
+</nav>
+
+{% set thematiquesContent = collections.guideBpNrThematique %}
+
+{% for thematique in thematiques %}
+    <h2 id="{{ thematique.key }}">{{ thematique.title }}</h2>
+
+    {% for thematiqueContent in thematiquesContent %}
+        {% if thematiqueContent.url == thematique.url %}
+            {{ thematiqueContent.templateContent | safe }}
+        {% endif %}
+    {% endfor %}
+
+    {% for bonnePratique in thematique.children %}
+        <h3><small class="fr-tag">{{ bonnePratique.data.idbp }}</small> <a href="{{ bonnePratique.url }}">{{ bonnePratique.data.title }}</a></h3>
+
+        <p>Bla...</p>
+    {% endfor %}
+{% endfor %}

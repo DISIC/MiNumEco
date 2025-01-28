@@ -1,0 +1,14 @@
+---
+layout: layouts/landing.njk
+pagination:
+  data: collections.parSeries
+  size: 1
+  alias: series
+  addAllPagesToCollections: true
+permalink: "/ressources/videos/serie/{{ series | slugify }}/"
+eleventyComputed:
+  title: "Série : {{ series | safe }}"
+---
+
+{% set postslist = collections['Vidéo'] | series(series) %}
+{% include "postslist.njk" %}
