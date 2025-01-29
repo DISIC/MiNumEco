@@ -32,7 +32,7 @@ L’amélioration continue étant au cœur de notre démarche, vos retours sont 
     <h3 class="fr-callout__title">Template Elevently DSFR et le design system de l'État</h3>
 		<ul class="fr-callout__text">
 		<li><a href="https://github.com/codegouvfr/eleventy-dsfr">Template Elevently DSFR</a></li>
-		<li><a href="DSFR - Système de Design de l'État">https://www.systeme-de-design.gouv.fr/</a></li>
+		<li><a href="https://www.systeme-de-design.gouv.fr">Système de Design de l'Etat</a></li>
 		</ul>
     <button class="fr-btn">
         Label bouton MD
