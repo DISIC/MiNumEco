@@ -68,7 +68,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 	{{ component("card", {
 		externalUrl: "",
 		url: "",
-		title: "Module 3 - évamuer l'empreinte environnementale de son SI et de ses services numériques",
+		title: "Module 3 - évaluer l'empreinte environnementale de son SI et de ses services numériques",
 		image: {
 			src: "/img/formations/parcours-formation-vierge.webp",
 			alt: ""
