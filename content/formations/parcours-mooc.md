@@ -1,12 +1,12 @@
 ---
-title: Parcours MOOC des agents publics
+title: Parcours MOOC Numérique Écoresponsable
 layout: layouts/page-with-summary.njk
 eleventyNavigation:
   parent: formations
   title: Parcours MOOC des agents publics
   order: 3
 ---
-## Parcours de formation
+## Le parcours de formation
 
 Basé sur le [référentiel de compétences NumEco publié par la DINUM](/formations/referentiel-competences/), le parcours NumEco de la DINUM propose 3 modules de base et un serious game.
 2 modules sont destinés à tous les agents publics et 2 modules sont destinés aux agents publics travaillant dans le numérique.
