@@ -23,7 +23,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Serious Game - The Impact Agency",
 		image: {
-			src: "img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-vierge.webp",
 			alt: ""
 		},
 		badges: ["Serious game"]
@@ -38,7 +38,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Module 1 - L’impact environnemental du numérique : comment agir ?",
 		image: {
-			src: "img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-vierge.webp",
 			alt: ""
 		},
 		badges: ["Module 1"]
@@ -54,7 +54,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Module 2 - Gestion responsable d'un projet numérique",
 		image: {
-			src: "img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-vierge.webp",
 			alt: ""
 		},
 		badges: ["Sortie le 10 mars 2025"]
@@ -70,7 +70,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Module 3 - évamuer l'empreinte environnementale de son SI et de ses services numériques",
 		image: {
-			src: "img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-vierge.webp",
 			alt: ""
 		},
 		badges: ["Sortie avril 2025"]
