@@ -44,28 +44,8 @@ Mais ce sont en réalité 65 TWh, si l’on prend en compte les data centers sit
 À noter : ces données, datant de 2022, ne reflètent pas encore la montée en puissance de l’IA générative.
 
 ## Infographie de l'ADEME 
-
-<!-- Modale LG -->
-<button class="fr-btn"  data-fr-opened="false" aria-controls="fr-modal-4" title="Modal LG (ouvre une fenêtre modale)">
-    Ouvrir l'infographie des chiffres du numérique
-</button>
-<dialog aria-labelledby="fr-modal-title-modal-4" role="dialog" id="fr-modal-4" class="fr-modal">
-    <div class="fr-container fr-container--fluid fr-container-md">
-        <div class="fr-grid-row fr-grid-row--center">
-            <div class="fr-col-12 fr-col-md-8">
-                <div class="fr-modal__body">
-                    <div class="fr-modal__header">
-                        <button class="fr-btn--close fr-btn" title="Fermer la fenêtre" aria-controls="fr-modal-4" target="_self">Fermer</button>
-                    </div>
-                    <div class="fr-modal__content">
-                        <h1 id="fr-modal-title-modal-4" class="fr-modal__title"><span class="fr-icon-arrow-right-line fr-icon--lg"></span>Infographie ADEME</h1>
-                        <p>/img/infographie-empreinte-numerique-ademe.webp</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</dialog>
+<!-- texte-->
+![Infographie des chiffres de l'ADEME](/img/infographie-empreinte-numerique-ademe.webp "Infographie des chiffres actualisés de l'ADEME")
 
 ## Télécharger le document
 <div class="fr-card fr-enlarge-link fr-card--download">
