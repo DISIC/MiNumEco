@@ -21,14 +21,14 @@ tags:
 
 ### Études et documents de références 
 * 📚🎓 Référentiel de compétences Numérique Responsable dans le secteur public
-* 📚Les chiffres de l'impact du numérique, mise à jour nov 2024 - Ademe
+* 📚 Les chiffres de l'impact du numérique, mise à jour nov 2024 - Ademe
 * 📚 Mise à jour de la PCR SI 
 
 ### En vidéos
 * 📺 Qu’est-ce que l’écoconception de services numériques ?
 * 📺 Replay Designer éthiques
 * 📺 Replay feuilles de routes numérique responsables pour les collectivités
-* 📺 "Micro-trottoir #1" - L'impact du numérique 
+* 📺 Micro-trottoir #1 - L'impact du numérique 
 
 </br>
 
