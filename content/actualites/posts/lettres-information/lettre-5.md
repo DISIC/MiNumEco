@@ -30,6 +30,6 @@ tags:
 * 📺 Replay feuilles de routes numérique responsables pour les collectivités
 * 📺 Micro-trottoir #1 - L'impact du numérique 
 
-</br>
+<br>
 
 <a href="https://www.linkedin.com/pulse/5-la-lettre-de-minumeco-mission-interministerielle-numeriq-anz3e/?trackingId=HUDL%2BgxwSki0Zza%2BnPuCLw%3D%3D" class="fr-btn">Lire en ligne sur LinkedIn</a>
