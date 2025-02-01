@@ -6,22 +6,7 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-
-<div class="fr-notice fr-notice--info">
-  <div class="fr-container">
-    <div class="fr-notice__body">
-      <p>
-        <span class="fr-notice__title"> Mise à jour du site. </span>
-        <span class="fr-notice__desc">Montée de version, mise en conformité DSFR et maintenance du site, du 19 décembre 2024 au 31 janvier 2025.</span>
-      </p>
-      <button
-        title="Masquer le message"
-        onclick="const notice = this.parentNode.parentNode.parentNode; notice.parentNode.removeChild(notice)"
-        id="button-1299"
-        class="fr-btn--close fr-btn">Masquer le message</button>
-    </div>
-  </div>
-</div>
+<!-- Bandeau accueil -->
 
 <div class="fr-py-6w fr-background-alt--blue-cumulus">
   <div class="fr-container">
@@ -41,6 +26,9 @@ numberOfLatestPostsToShow: 3
     </div>
   </div>
 </div>
+
+<!-- Container Actus -->
+
 <div class="fr-container fr-pt-4w">
   <section>
     <h2>Les dernières actualités</h2>
@@ -67,6 +55,8 @@ numberOfLatestPostsToShow: 3
 				}) }}
 			</div>
 
+<!-- Container docs de référence -->
+
 			<div class="fr-col-12 fr-col-md-4">
 				{% from "components/component.njk" import component with context %}
 				{{ component("card", {
@@ -92,6 +82,9 @@ numberOfLatestPostsToShow: 3
 		</div>
 		<a href="/ressources/documents-reference/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Parcourir tous nos documents de références</a>
   </section>
+
+<!-- Container ressources -->
+
   <section class="fr-mt-8w">
     <h2>Ressources multimédias</h2>
 		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
@@ -121,6 +114,9 @@ numberOfLatestPostsToShow: 3
 			</div>
 		</div>
 	</section>
+
+<!-- Container formations -->
+
   <section class="fr-mt-8w">
     <h2>S'inscrire aux prochaines formations</h2>
 		{% set postslist = [] %}
