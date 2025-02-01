@@ -7,7 +7,6 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 3
 ---
 <!-- Bandeau accueil -->
-
 <div class="fr-py-6w fr-background-alt--blue-cumulus">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--center">
@@ -26,10 +25,12 @@ numberOfLatestPostsToShow: 3
     </div>
   </div>
 </div>
+<!-- Fin bandeau accueil -->
 
-<!-- Container Actus -->
-
+<!-- Balise début container -->
 <div class="fr-container fr-pt-4w">
+
+<!-- Section Actus -->
   <section>
     <h2>Les dernières actualités</h2>
     <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
@@ -54,9 +55,9 @@ numberOfLatestPostsToShow: 3
 					}
 				}) }}
 			</div>
+<!-- Fin section Actus -->
 
-<!-- Container docs de référence -->
-
+<!-- Section Docs de référence -->
 			<div class="fr-col-12 fr-col-md-4">
 				{% from "components/component.njk" import component with context %}
 				{{ component("card", {
@@ -82,9 +83,9 @@ numberOfLatestPostsToShow: 3
 		</div>
 		<a href="/ressources/documents-reference/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Parcourir tous nos documents de références</a>
   </section>
+<!-- Fin section Docs de référence -->
 
-<!-- Container ressources -->
-
+<!-- Section ressources -->
   <section class="fr-mt-8w">
     <h2>Ressources multimédias</h2>
 		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
@@ -114,9 +115,9 @@ numberOfLatestPostsToShow: 3
 			</div>
 		</div>
 	</section>
+<!-- Fin section ressources -->
 
-<!-- Container formations -->
-
+<!-- Section Formation -->
   <section class="fr-mt-8w">
     <h2>S'inscrire aux prochaines formations</h2>
 		{% set postslist = [] %}
@@ -128,4 +129,7 @@ numberOfLatestPostsToShow: 3
 		{% include "postslist.njk" %}
 		<a href="formations/prochaines-formations/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Découvrir nos prochaines formations</a>
   </section>
+<!-- Fin section Formation -->
+
+<!-- Balise fin container -->
 </div>
