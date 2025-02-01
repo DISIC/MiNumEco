@@ -6,10 +6,10 @@ eleventyNavigation:
   title: Lettres d'information
   order: 4
 ---
-
- Les lettre d'information sont publiées sur LinkedIn, retrouvez le sommaire et les liens vers les différentes lettres ci-dessous.
-
 <a href="https://www.linkedin.com/newsletters/7242864226900279296/?displayConfirmation=true" target="_blank" class="fr-btn" title="S‘abonner à notre lettre d’information">S'abonner</a>
+
+Les lettres d'information de la MiNumEco sont publiées sur LinkedIn.
+Retrouvez les éditions antérieures, ci-dessous.
 
 ## Tous les lettres précédentes
 {%- if collections["Lettre d'information"] -%}
