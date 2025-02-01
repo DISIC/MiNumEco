@@ -29,7 +29,7 @@ Un webinaire organisé par la mission transformation numérique des territoires 
     <div class="fr-card__body">
         <div class="fr-card__content">
             <h3 class="fr-card__title">
-                <a href="#">Replay du webinaire</a>
+                <a href="/content/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">Replay du webinaire</a>
             </h3>
             <p class="fr-card__desc">Webinaire du 5 décembre 2024 avec Anne-Sophie Saunier, du Département des Hauts-de-Seine
 Estelle Soleillant, de Rennes Ville et Métropole.</p>
@@ -49,8 +49,7 @@ Estelle Soleillant, de Rennes Ville et Métropole.</p>
     </div>
     <div class="fr-card__header">
         <div class="fr-card__img">
-            <img class="fr-responsive-img" src="content/actualites/posts/videos/autres/tnt-decembre-2024/vignette-tnt-decembre-2024.webp" alt="" />
-            <!-- L’alternative de l’image (attribut alt) doit toujours être présente, sa valeur peut-être vide (image n’apportant pas de sens supplémentaire au contexte) ou non (porteuse de texte ou apportant du sens) selon votre contexte -->
+            <img class="fr-responsive-img" src="/img/ressources-videos.webp" alt="" />
         </div>
     </div>
 </div>
