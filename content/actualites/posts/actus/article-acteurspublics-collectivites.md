@@ -24,32 +24,16 @@ Un webinaire organisé par la mission transformation numérique des territoires 
 <!-- Lien externe-->
 <a class="fr-link fr-icon-arrow-right-line fr-link--icon-right" href="content/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">Voir l'article sur le site d'Acteurs Publics</a>  
 
-<!-- consulter la vidéo - card-->
-<div class="fr-card fr-enlarge-link fr-card--horizontal">
-    <div class="fr-card__body">
-        <div class="fr-card__content">
-            <h3 class="fr-card__title">
-                <a href="/content/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">Replay du webinaire</a>
-            </h3>
-            <p class="fr-card__desc">Webinaire du 5 décembre 2024 avec Anne-Sophie Saunier, du Département des Hauts-de-Seine
-Estelle Soleillant, de Rennes Ville et Métropole.</p>
-            <div class="fr-card__start">
-                <ul class="fr-tags-group">
-                    <li>
-                        <p class="fr-tag">Collectivités</p>
-                    </li>
-                    <li>
-                        <p class="fr-tag">Vidéo</p>
-                    </li>
-                </ul>
-            </div>
-            <div class="fr-card__end">
-            </div>
-        </div>
-    </div>
-    <div class="fr-card__header">
-        <div class="fr-card__img">
-            <img class="fr-responsive-img" src="/img/ressources-videos.webp" alt="" />
-        </div>
-    </div>
+<!-- consulter la vidéo - call out-->
+
+<div class="fr-callout fr-icon-information-line">
+    <h3 class="fr-callout__title">Replay du webinaire</h3>
+    <p class="fr-callout__text">
+        Webinaire du 5 décembre 2024 avec Anne-Sophie Saunier, du Département des Hauts-de-Seine et Estelle Soleillant, de Rennes Ville et Métropole.
+    </p>
+    <a href="/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">
+    <button class="fr-btn">
+        Label bouton MD
+    </button>
+  </a>
 </div>
