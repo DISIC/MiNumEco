@@ -29,7 +29,7 @@ Depuis la publication du référentiel d’écoconception de services numérique
     </p>
     <a href="https://peertube.designersethiques.org/w/x6HRkyv1R7bRGPR5PdjrCf?start=0s">
     <button class="fr-btn">
-        Label bouton MD
+        Voir la vidéo
     </button>
   </a>
 </div>
