@@ -4,7 +4,7 @@ title: "Lettre #2"
 description: Lettre d'information de la MiNumEco, du 25/10/2024. Résultats SEDD2024. Vidéo Cybersécurité et écoresponsabilité...
 date: 2024-10-25
 image:
-    path: ../img/lettre-1.webp
+    path: ../img/lettre-2.webp
     alt: ""
 tags:
   - "Lettre d'information"
