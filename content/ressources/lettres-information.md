@@ -11,7 +11,6 @@ eleventyNavigation:
 Les lettres d'information de la MiNumEco sont publiées sur LinkedIn.
 Retrouvez les éditions antérieures, ci-dessous.
 
-## Tous les lettres précédentes
 {%- if collections["Lettre d'information"] -%}
     {%- set allPosts = collections["Lettre d'information"] | reverse -%}
     {%- set years = allPosts | getYears -%}
