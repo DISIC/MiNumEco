@@ -41,20 +41,6 @@ numberOfLatestPostsToShow: 3
       <a href="/actualites/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Voir plus d'actualités</a>
     </p>
   </section>
-  <section class="fr-mt-8w">
-    <h2>Documents de référence</h2>
-		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
-			<div class="fr-col-12 fr-col-md-4">
-				{% from "components/component.njk" import component with context %}
-				{{ component("card", {
-					url: "/publications/referentiel-general-ecoconception/",
-					title: "Référentiel général d'écoconception de services numériques (RGESN)",
-					image: {
-						src: "/img/referentiel-general-ecoconception/referentiel-ecoconception.webp",
-						alt: ""
-					}
-				}) }}
-			</div>
 <!-- Fin section Actus -->
 
 <!-- Section ressources -->
@@ -103,7 +89,21 @@ numberOfLatestPostsToShow: 3
 
 
 <!-- Section Docs de référence -->
+  <section class="fr-mt-8w">
+    <h2>Documents de référence</h2>
+		<div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
 			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/referentiel-general-ecoconception/",
+					title: "Référentiel général d'écoconception de services numériques (RGESN)",
+					image: {
+						src: "/img/referentiel-general-ecoconception/referentiel-ecoconception.webp",
+						alt: ""
+					}
+				}) }}
+			</div>			
+  <div class="fr-col-12 fr-col-md-4">
 				{% from "components/component.njk" import component with context %}
 				{{ component("card", {
 					url: "/publications/guide-pratique-achats-numeriques-responsables/",
