@@ -202,3 +202,15 @@ et de l'information collectée par le ministère de l'Europe
 A VENIR
 </p>
 {% endtranscription %}
+
+<div class="fr-callout fr-icon-information-line">
+    <h3 class="fr-callout__title">Replay de l'intervention de Jérémie Vallet et Virginie Rozière</h3>
+    <p class="fr-callout__text">
+        Visionner le replay de l'intervention, lors du forum Ethics by Design, sur Peertube
+    </p>
+    <a href="https://peertube.designersethiques.org/w/x6HRkyv1R7bRGPR5PdjrCf?start=0s">
+    <button class="fr-btn">
+        Label bouton MD
+    </button>
+  </a>
+</div>
