@@ -22,7 +22,7 @@ S'il s'agit d'un "chantier conséquent, il peut être construit pas à pas. Les 
 Un webinaire organisé par la mission transformation numérique des territoires de la Direction interministérielle du numérique (DINUM) et la MiNumEco.   
 
 <!-- Lien externe-->
-<a class="fr-link fr-icon-arrow-right-line fr-link--icon-right" href="content/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">Voir l'article sur le site d'Acteurs Publics</a>  
+<a class="fr-link fr-icon-arrow-right-line fr-link--icon-right" href="https://acteurspublics.fr/articles/numerique-responsable-des-collectivites-cheffes-de-file-partagent-leur-experience">Voir l'article sur le site d'Acteurs Publics</a>  
 
 <!-- consulter la vidéo - call out-->
 
