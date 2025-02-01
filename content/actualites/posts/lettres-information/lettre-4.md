@@ -20,5 +20,5 @@ tags:
 * 📺 Interview d'Ugo Dessertine et Mélanie Raphaël, sur le design et l'écoconception
 * 📚 Mise à jour de la PCR SI
 * 📚 Avis de l'Ademe sur l'impact des data center  
-
+  
 <a href="https://www.linkedin.com/pulse/1-la-lettre-de-minumeco-mission-interministerielle-numeriq-kcxve/?trackingId=QUjXCwQESIOdOUN8B%2FZ46w%3D%3D" class="fr-btn">Lire en ligne sur LinkedIn</a>
