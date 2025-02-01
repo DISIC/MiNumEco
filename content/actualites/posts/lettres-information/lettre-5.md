@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Lettre #5"
-description: Première lettre d'information de 2025
+description: Première lettre d'information de 2025. Prochaines formations. Vidéo feuilles de route des collectivités...
 date: 2025-01-30
 image:
     path: ../img/lettre-5.webp
