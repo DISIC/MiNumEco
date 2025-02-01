@@ -57,34 +57,6 @@ numberOfLatestPostsToShow: 3
 			</div>
 <!-- Fin section Actus -->
 
-<!-- Section Docs de référence -->
-			<div class="fr-col-12 fr-col-md-4">
-				{% from "components/component.njk" import component with context %}
-				{{ component("card", {
-					url: "/publications/guide-pratique-achats-numeriques-responsables/",
-					title: "Guide pratique pour des achats numériques responsables",
-					image: {
-						src: "/img/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp",
-						alt: ""
-					}
-				}) }}
-			</div>
-			<div class="fr-col-12 fr-col-md-4">
-				{% from "components/component.njk" import component with context %}
-				{{ component("card", {
-					url: "/publications/bonnes-pratiques/",
-					title: "Guide de bonnes pratiques numérique responsable pour les organisations",
-					image: {
-						src: "/img/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp",
-						alt: ""
-					}
-				}) }}
-			</div>
-		</div>
-		<a href="/ressources/documents-reference/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Parcourir tous nos documents de références</a>
-  </section>
-<!-- Fin section Docs de référence -->
-
 <!-- Section ressources -->
   <section class="fr-mt-8w">
     <h2>Ressources multimédias</h2>
@@ -128,6 +100,35 @@ numberOfLatestPostsToShow: 3
 		</div>
 	</section>
 <!-- Fin section ressources -->
+
+
+<!-- Section Docs de référence -->
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/guide-pratique-achats-numeriques-responsables/",
+					title: "Guide pratique pour des achats numériques responsables",
+					image: {
+						src: "/img/guide-pratique-achats-numeriques-responsables/guide-achats-numerique-responsable.webp",
+						alt: ""
+					}
+				}) }}
+			</div>
+			<div class="fr-col-12 fr-col-md-4">
+				{% from "components/component.njk" import component with context %}
+				{{ component("card", {
+					url: "/publications/bonnes-pratiques/",
+					title: "Guide de bonnes pratiques numérique responsable pour les organisations",
+					image: {
+						src: "/img/bonnes-pratiques/guide-bonnes-pratiques-vignette.webp",
+						alt: ""
+					}
+				}) }}
+			</div>
+		</div>
+		<a href="/ressources/documents-reference/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Parcourir tous nos documents de références</a>
+  </section>
+<!-- Fin section Docs de référence -->
 
 <!-- Section Formation -->
   <section class="fr-mt-8w">
