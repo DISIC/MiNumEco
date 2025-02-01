@@ -33,7 +33,7 @@ Un webinaire organisé par la mission transformation numérique des territoires 
     </p>
     <a href="/actualites/posts/videos/autres/tnt-decembre-2024/tnt-decembre-2024.md">
     <button class="fr-btn">
-        Label bouton MD
+        Voir la vidéo
     </button>
   </a>
 </div>
