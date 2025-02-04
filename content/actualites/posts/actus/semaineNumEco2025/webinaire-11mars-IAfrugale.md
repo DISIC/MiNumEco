@@ -4,7 +4,7 @@ description: Pour une IA fugale, par Juliette Fropier, 11 mars 2025, de 11h à 1
 date: 2025-03-11
 image:
     path:
-    alt: "../img/IAfrugale.webp"
+    alt: "../../img/IAfrugale.webp"
 tags:
   - 'Ministères'
   - 'IA et Data'
