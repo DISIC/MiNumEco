@@ -1,9 +1,9 @@
 ---
 layout: layouts/outil.njk
-title: ecoCode
+title: Greedengo
 description: Analyseurs de code statique
 tags: tool
-date: 2023-05-30
+date: 2025-02-04
 image: /img/outils/ecocode.png
 category: Mesure
 scope: Logiciel
@@ -12,9 +12,9 @@ toolType: Analyse statique de code
 environnementalIndicators: aucun
 measuredIndicators: consommation d'énergie et de ressources
 mainTechnology: Java, Php, Python, Android, iOS, Swift, Javascript
-author: collectif Green Code Initiative
-link: https://github.com/green-code-initiative
-codeRepository: https://github.com/green-code-initiative/ecoCode
+author: Green Code Initiative
+link: https://green-code-initiative.org/#/
+codeRepository: https://github.com/green-code-initiative/creedengo-rules-specifications
 licence: AGPL-3.0
 permalink: /publications/boite-outils/fiches/ecocode/
 ---
