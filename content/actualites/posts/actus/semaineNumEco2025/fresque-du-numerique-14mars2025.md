@@ -9,7 +9,7 @@ tags:
   - 'Ministères'
   - 'Formation'
   - 'Événement'
-series: "Semaine NumEco"
+  - 'Semaine NumEco'
 ---
 
 <p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
