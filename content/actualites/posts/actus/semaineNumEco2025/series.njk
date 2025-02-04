@@ -1,0 +1,14 @@
+---
+layout: layouts/landing.njk
+pagination:
+  data: collections.parSeries
+  size: 1
+  alias: series
+  addAllPagesToCollections: true
+permalink: "/actualites/posts/actus/semaineNumEco2025/serie/{{ series | slugify }}/"
+eleventyComputed:
+  title: "Série : {{ series | safe }}"
+---
+
+{% set postslist = collections['Événement'] | series(series) %}
+{% include "postslist.njk" %}
