@@ -3,7 +3,7 @@ title: "Semaine NumEco 2025"
 description: Les événements organisés par les ministères à l'occasion de la semaine numérique responsable 2025
 date: 2025-03-15
 image:
-    path:
+    path: ../../img/acteurspublics-ethicsbydesign-2024.webp
     alt: ""
 tags:
   - 'MiNumEco'
@@ -12,7 +12,7 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
+<span class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</span>
 
 <!-- chapô-->
 Inscrivez-vous aux événements organisés par les ministères à l'occasion de la Semaine Numérique Ecoresponsable.

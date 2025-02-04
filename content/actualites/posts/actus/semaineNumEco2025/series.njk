@@ -1,4 +1,4 @@
----
+{# ---
 layout: layouts/landing.njk
 pagination:
   data: collections.parSeries
@@ -11,4 +11,4 @@ eleventyComputed:
 ---
 
 {% set postslist = collections['Événement'] | series(series) %}
-{% include "postslist.njk" %}
+{% include "postslist.njk" %} #}
