@@ -15,14 +15,14 @@ tags:
 <p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
 
 <!-- chapô-->
-A l'occasion de la semaine du numérique responsable, la DINUM présente sont parcours de formation en ligne dédié aux agents publics, en présence de la DINUM, de la Directrice du Numérique du ministère des Affaires Etrangères et du campus du numérique.
+A l'occasion de la semaine du numérique responsable, la DINUM présente son parcours de formation en ligne dédié aux agents publics, en présence de la DINUM, de la Directrice du Numérique du ministère des Affaires Etrangères et du campus du numérique.
 <!-- texte-->
 
 ## Programme de l'événement
 
 * Introduction par la DINUM
 * Présentation du référentiel de compétences numérique responsable, MiNumEco
-* Présentation dy parcours de formation Numérique Responsable, MiNumEco
+* Présentation du parcours de formation Numérique Responsable, MiNumEco
 * Présentation de l'offre du campus, Campus du Numérique
 
 * Introduction : sortie du module 2 - gestion responsable d'un projet numérique - Virginie Rozière, Directrice du numérique, MEAE
@@ -37,7 +37,7 @@ A l'occasion de la semaine du numérique responsable, la DINUM présente sont pa
 
 Ce module conçu par la DINUM en partenariat avec la DNUM du MEAE, est construit en 2 parties :
 * 30 minutes interactives : l'apprenant suit 2 chefs de projets dans la refonte de leur application et à travers ses réponses va tenter de faire baisser l'empreinte environnementale de celle-ci de moitié.
-* 10 étapes d'approfondissement pour gérer au mieux son ptojet de numérique public
+* 10 étapes d'approfondissement pour gérer au mieux son projet numérique public
 * L'apprenant doit obtenir 70% de bonnes réponses à l'évaluation pour valider le module.
 
 **Cible :**
