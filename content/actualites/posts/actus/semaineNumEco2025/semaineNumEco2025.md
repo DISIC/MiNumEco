@@ -3,7 +3,7 @@ title: "Semaine NumEco 2025"
 description: Les événements organisés par les ministères à l'occasion de la semaine numérique responsable 2025
 date: 2025-03-15
 image:
-    path: ../../img/SemaineNumEco2025.webp
+    path: ../../img/Site_Event_10032025_SemaineNumEco.webp
     alt: ""
 tags:
   - 'MiNumEco'
