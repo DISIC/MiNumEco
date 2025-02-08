@@ -3,7 +3,7 @@ title: "Formation écoconception, le 12 février"
 description: Formation en présentiel le 12 février - Ecoconception de Services Numériques - 3h00
 date: 2025-02-12
 image:
-    path: ../img/parcours-formation-numeco.webp
+    path: ../img/Site_Formation_Ecoconception.webp
     alt: ""
 tags:
   - 'MiNumEco'
