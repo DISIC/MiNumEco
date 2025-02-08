@@ -3,8 +3,8 @@ title: "Webinaire - pour une IA frugale"
 description: Pour une IA fugale, par Juliette Fropier, 11 mars 2025, de 11h à 12h
 date: 2025-03-11
 image:
-    path:
-    alt: "../../img/IAfrugale.webp"
+    path: ../../img/Site_Event_11032025_WebinaireJusticeIA.webp
+    alt: ""
 tags:
   - 'Ministères'
   - 'IA et Data'
