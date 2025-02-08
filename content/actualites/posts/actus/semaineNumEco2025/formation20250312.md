@@ -3,7 +3,7 @@ title: "Formation éconumia : feuille de route NumEco, le 12 mars"
 description: Formation en présentiel le 12 mars - comprendre les actions numérique responsable et les inscrire dans sa feuille de route - atelier ludique - 1h30
 date: 2025-03-12
 image:
-    path: ../../img/formation-econumia.webp
+    path: ../../img/Site_Formation_Econumia.webp
     alt: ""
 tags:
   - 'MiNumEco'
