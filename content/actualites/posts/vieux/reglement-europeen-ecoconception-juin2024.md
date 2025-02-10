@@ -5,6 +5,8 @@ date: 2024-09-23
 image:
     path: ../img/vieux/reg-eu-ecoconception-2024.webp
     alt: ""
+tags:
+  - 'Réglementation'
 ---
 
 # Le Règlement Européen sur l’Écoconception : Vers un Numérique Durable dans les Marchés Publics
