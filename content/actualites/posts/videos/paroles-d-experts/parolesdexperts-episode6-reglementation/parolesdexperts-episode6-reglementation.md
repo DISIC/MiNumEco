@@ -9,6 +9,7 @@ image:
 tags:
   - 'Vidéo'
   - 'MiNumEco'
+  - 'Réglementation'
 series: "Paroles d'experts"
 ---
 <!-- intégraton vidéo dailymotion de la chaine de la DINUM -->
