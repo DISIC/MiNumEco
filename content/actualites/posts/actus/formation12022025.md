@@ -43,11 +43,3 @@ Avoir suivi [le module mentor : les impacts environnementaux du numérique.](htt
 * Inscription obligatoire
 * Places limitées : 25 participants maximum
 
-## Inscription
-
-<div class="fr-callout">
-    <h3 class="fr-callout__title">Inscription obligatoire</h3>
-    <a class="fr-btn" href="https://grist.numerique.gouv.fr/o/docs/forms/1MmRRb9XJUL9CZgmQ9EMsS/55" target="_blank">
-			Formulaire d'inscription
-    </a>
-</div>
