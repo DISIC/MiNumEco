@@ -20,10 +20,10 @@ A l'occasion de la semaine du numérique responsable, la DINUM présente son par
 
 ## Programme de l'événement
 
-* Introduction par la DINUM
-* Présentation du référentiel de compétences numérique responsable, MiNumEco
-* Présentation du parcours de formation Numérique Responsable, MiNumEco
-* Présentation de l'offre du campus, Campus du Numérique
+* Introduction par Jérémie Vallet, Directeur Adjoint, DINUM
+* Présentation du référentiel de compétences numérique responsable, Mélanie Raphaël, DINUM
+* Présentation du parcours de formation Numérique Responsable, Mélanie Raphaël, DINUM
+* Présentation de l'offre du Campus du Numérique, Sophie Louet, DINUM
 
 * Introduction : sortie du module 2 - gestion responsable d'un projet numérique - Virginie Rozière, Directrice du numérique, MEAE
 * Présentation du module, Nicolas Gueyne - MEAE, Manon MAUS - MEAE, Mélanie Raphaël -DINUM
