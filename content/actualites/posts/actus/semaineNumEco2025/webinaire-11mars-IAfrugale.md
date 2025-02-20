@@ -1,9 +1,9 @@
 ---
 title: "Webinaire - pour une IA frugale"
-description: Pour une IA fugale, par Juliette Fropier, 11 mars 2025, de 11h à 12h
-date: 2025-03-11
+description: Pour une IA fugale, par Juliette Fropier, 12 mars 2025, de 11h à 12h
+date: 2025-03-12
 image:
-    path: ../../img/Site_Event_11032025_WebinaireJusticeIA.webp
+    path: ../../img/Site_Event_12032025_WebinaireJusticeIA.svg
     alt: ""
 tags:
   - 'Ministères'
@@ -21,7 +21,7 @@ A l'occasion de la semaine du numérique responsable, le ministère de la Justic
 ## Webinaire pour IA frugale
 
 * Avec **Juliette Fropier, de l'Ecolab, CGDD**
-* 11 mars 2025, de 11h à 12h, ouvert à toutes et tous
+* 12 mars 2025, de 11h à 12h, ouvert à toutes et tous
 * 40 minutes de présentation et 20 minutes d'échanges
 
 <div class="fr-callout">
