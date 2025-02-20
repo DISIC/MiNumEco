@@ -1,5 +1,5 @@
 ---
-title: "Webinaire - Les métaux : un enjeu critique pour le numérique"
+title: "Webinaire MTE"
 description: Webinaire - Les métaux : un enjeu critique pour le numérique, 13 mars 2025, de 11h à 12h
 date: 2025-03-13
 image:
