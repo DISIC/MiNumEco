@@ -2,7 +2,9 @@
 title: "Actualisation des chiffres de l'impact du numérique en France"
 description: l'Ademe met à jour son étude de 2022 pour ré-évaluer les impacts environnementaux du numérique
 date: 2025-01-09
-image: 
+image:
+    path: ../img/docs-reference/Site_DocReference_ADEME_nov2024.svg
+    alt: ""
 tags:
   - 'MiNumEco'
   - 'Document de référence'

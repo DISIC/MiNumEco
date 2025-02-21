@@ -3,6 +3,8 @@ title: "Mise à jour RCP SI"
 description: l'Ademe met à jour le Référentiel par Catégorie de Produit (RCP) des Systèmes d'Information
 date: 2024-11-20
 image:
+    path: ../img/docs-reference/Site_DocReference_RCPsi.svg
+    alt: ""
 tags:
   - 'MiNumEco'
   - 'Document de référence'
