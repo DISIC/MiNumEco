@@ -3,7 +3,7 @@ title: "Référentiel de compétences"
 description: Sortie du référentiel de compétences numérique écoresponsable, pour les agents publics de l'État, en version beta
 date: 2024-12-18
 image:
-    path: ../img/docs-reference/Site_DocReference_CompetencesNumEco.svg
+    path: ../img/parcours-formation-numeco.webp
     alt: ""
 tags:
   - 'MiNumEco'
