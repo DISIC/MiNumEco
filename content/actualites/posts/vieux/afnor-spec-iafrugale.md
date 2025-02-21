@@ -2,7 +2,7 @@
 title: "Publication de l'AFNOR SPEC IA frugale"
 description: "Le référentiel contient une méthodologie pour évaluer l'impact environnemental de l'IA sur plusieurs catégories d'impact et recense les bonnes pratiques qui peuvent être mises en œuvre par les organisations pour réduire l'empreinte environnementale."
 image:
-    path: ../img/Site_DocReference_afnorSpec.webp
+    path: ../img/afnorspecIAfrugale.webp
     alt: ""
 date: 2024-07-01
 ---
