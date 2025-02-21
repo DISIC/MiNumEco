@@ -3,8 +3,6 @@ title: "AFNOR Spec IA Frugale"
 description: l'Ecolab et l'Afnor mettent à disposition ce guide pour une IA frugale
 date: 2024-06-28
 image:
-    path: ../img/docs-references/Site_DocReference_afnorSpec.webp
-    alt: ""
 tags:
   - 'IA et Data'
   - 'Document de référence'
