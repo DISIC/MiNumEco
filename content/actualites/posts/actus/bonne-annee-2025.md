@@ -8,7 +8,6 @@ image:
 tags:
   - 'MiNumEco'
 ---
-<p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
 
 <!-- chapô-->
 

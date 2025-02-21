@@ -11,8 +11,6 @@ tags:
 serie: Parcours MOOC Numeco
 ---
 
-<p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
-
 <!-- chapô-->
 Sortie le 17 décembre 2024 du premier module mentor de formation au numérique responsable.
 
