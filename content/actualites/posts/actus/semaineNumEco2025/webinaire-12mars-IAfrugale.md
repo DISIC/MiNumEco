@@ -20,6 +20,8 @@ A l'occasion de la semaine du numérique responsable, le ministère de la Justic
 
 ## Webinaire pour IA frugale
 
+Constatant l'absence de méthodologie d'évaluation globale des systèmes d'IA, l'Ecolab du Commissariat Général au Développement Durable (Ministère de la Transition écologique et de la cohésion des territoires) a lancé en janvier 2024 un groupe de travail sur l'impact environnemental de l'IA, en partenariat avec l'AFNOR et dans le cadre de la Stratégie Nationale pour l'IA.
+
 * Avec **Juliette Fropier, de l'Ecolab, CGDD**
 * 12 mars 2025, de 11h à 12h, ouvert à toutes et tous
 * 40 minutes de présentation et 20 minutes d'échanges
