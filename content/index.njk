@@ -34,7 +34,7 @@ numberOfLatestPostsToShow: 3
   <section>
     <h2>Les dernières actualités</h2>
     <div class="fr-grid-row fr-grid-row--gutters fr-py-3w">
-			{% set postslist = collections.posts| head(-3) | reverse %}
+			{% set postslist = collections.posts | head(-3) | reverse %}
 			{% include "postslist.njk" %}
     </div>
     <p>
@@ -102,7 +102,7 @@ numberOfLatestPostsToShow: 3
 						alt: ""
 					}
 				}) }}
-			</div>			
+			</div>
   <div class="fr-col-12 fr-col-md-4">
 				{% from "components/component.njk" import component with context %}
 				{{ component("card", {
@@ -133,13 +133,16 @@ numberOfLatestPostsToShow: 3
 <!-- Section Formation -->
   <section class="fr-mt-8w">
     <h2>S'inscrire aux prochaines formations</h2>
+
 		{% set postslist = [] %}
-		{% for item in collections['Formation'] %}
-			{% if item.data.tags and 'Événement' in item.data.tags %}
-				{% set postslist = postslist.concat(item) %}
-			{% endif %}
-		{% endfor %}
+    {% for item in collections['Formation'] %}
+        {% if item.data.tags and 'Événement' in item.data.tags and item.data.date | isFutureDate %}
+          {% set postslist = postslist.concat(item) %}
+        {% endif %}
+    {% endfor %}
+    {% set postslist = postslist.slice(0, 3) %}
 		{% include "postslist.njk" %}
+
 		<a href="formations/prochaines-formations/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Découvrir nos prochaines formations</a>
   </section>
 <!-- Fin section Formation -->
