@@ -1,6 +1,7 @@
 ---
 title: "Atelier Phone Impact"
-description: Atelier Phone Impact de l'INRIA proposé par la DGGIP
+description: Atelier Phone Impact de l'INRIA proposé par la DGFIP
+date: 2025-03-11
 image:
     path: ../../img/Site-Event-PhoneImpact-11032025.svg
     alt: ""
