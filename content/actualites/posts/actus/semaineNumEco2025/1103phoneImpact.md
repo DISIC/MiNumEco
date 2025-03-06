@@ -32,7 +32,7 @@ Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à r
 
 * 11 mars 2025, de 14h30 à 17h
 * ouvert aux agents publics
-* 40 minutes de présentation et 20 minutes d'échanges
+* Lieu : Noisy-Le-Grand
 * Animatrice : Claire Behar 
 
 <div class="fr-callout">
