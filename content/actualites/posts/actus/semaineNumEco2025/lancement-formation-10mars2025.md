@@ -59,7 +59,7 @@ Ce module conçu par la DINUM en partenariat avec la DNUM du MEAE, est construit
 
 <div class="fr-callout">
     <h3 class="fr-callout__title">Inscription obligatoire</h3>
-    <a class="fr-btn" href="https://grist.numerique.gouv.fr/o/docs/forms/2MvKdrjpQKULRcpQwb3UQq/55" target="_blank">
-			Formulaire d'inscription
+    <a class="fr-btn" href="#" target="_blank">
+			complet
     </a>
 </div>
