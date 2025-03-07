@@ -4,7 +4,7 @@ title: "Épisode #6 : Réglementation NumEco"
 description: Quelle est la réglementation pour aller vers un numérique plus écoresponsable ?
 date: 2025-01-06
 image:
-    path: ./vignette-parolesdexperts-episode6-reglementation.webp
+    path: ./site_video_claire.svg
     alt: ""
 tags:
   - 'Vidéo'

@@ -4,7 +4,7 @@ title: "Épisode #5 : IA frugale et mesure environnementale de l'IA"
 description: Comment mesurer l'empreinte environnementale de l'Intelligence Artificielle
 date: 2025-01-05
 image:
-    path: ./vignette-parolesdexperts-episode5-mesureIA.webp
+    path: ./site_video_juliette.svg
     alt: ""
 tags:
   - 'Vidéo'

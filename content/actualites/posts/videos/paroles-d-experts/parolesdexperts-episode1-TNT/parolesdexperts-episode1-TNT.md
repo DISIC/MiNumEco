@@ -4,7 +4,7 @@ title: "Épisode #1 : Transformation Numérique des Territoires"
 description: Comment la mission TNT accompagne les territoires dans la transformation numérique et dans la mise en place des feuilles de routes numérique responsable ?
 date: 2025-01-01
 image:
-    path: ./vignette-parolesdexperts-episode1-TNT.webp
+    path: ./site_video_steeve.svg
     alt: ""
 tags:
   - 'Vidéo'

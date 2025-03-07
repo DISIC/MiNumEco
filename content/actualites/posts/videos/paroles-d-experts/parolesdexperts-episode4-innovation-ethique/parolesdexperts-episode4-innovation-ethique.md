@@ -4,7 +4,7 @@ title: "Épisode #4 : Enjeux responsables de l'IA"
 description: Quels sont les enjeux de l'IA, en matière de protection de la création, des sources, de la châine de valeurs ?
 date: 2025-01-04
 image:
-    path: ./vignette-parolesdexperts-episode4-innovation-ethique.webp
+    path: ./site_video_virginie2.svg
     alt: ""
 tags:
   - 'Vidéo'

@@ -4,7 +4,7 @@ title: "Épisode #10 : Mesure de l'empreinte environnementale de son SI"
 description: Comment mesurer l'empreinte environnementale de son Système d'Information ?
 date: 2025-01-10
 image:
-    path: ./vignette-parolesdexperts-episode10-mesureSI.webp
+    path: ./site_video_thierry.svg
     alt: ""
 tags:
   - 'Vidéo'

@@ -4,7 +4,7 @@ title: "Épisode #3 : Ecoresponsabilité et enjeux de cybersécurité"
 description: L'écoresponsabilité est-elle compatible avec la cybersécurité ?
 date: 2025-01-03
 image:
-    path: ./vignette-parolesdexperts-episode3-ecoconception-cybersecurite.webp
+    path: ./site_video_virginie1.svg
     alt: ""
 tags:
   - 'Vidéo'

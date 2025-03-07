@@ -4,7 +4,7 @@ title: "Épisode #2 : Les Logiciels Libres"
 description: Comment les logiciels libres concourent à un numérique plus responsable ?
 date: 2025-01-02
 image:
-    path: ./vignette-parolesdexperts-episode2-LogicielsLibres.webp
+    path: ./site_video_bastien.svg
     alt: ""
 tags:
   - 'Vidéo'

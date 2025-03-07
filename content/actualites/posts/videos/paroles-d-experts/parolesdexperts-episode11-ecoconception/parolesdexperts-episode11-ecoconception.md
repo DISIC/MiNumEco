@@ -4,7 +4,7 @@ title: "Épisode #11 : Écoconception"
 description: Comment l'Écoconception de services numériques concourt à des services de qualité, sécurisé et sobre ?
 date: 2025-01-11
 image:
-    path: ./vignette-parolesdexperts-episode11-ecoconception.webp
+    path: ./site_video_melanie.svg
     alt: ""
 tags:
   - 'Vidéo'

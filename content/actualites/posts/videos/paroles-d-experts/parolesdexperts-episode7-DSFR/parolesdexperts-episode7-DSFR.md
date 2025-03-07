@@ -4,7 +4,7 @@ title: "Épisode #7 : DSFR et écoconception"
 description: En quoi le design system de l'État Français concourt à l'écoconception des services numériques publics ?
 date: 2025-01-07
 image:
-    path: ./vignette-parolesdexperts-episode7-DSFR.webp
+    path: ./site_video_sig.svg
     alt: ""
 tags:
   - 'Vidéo'
