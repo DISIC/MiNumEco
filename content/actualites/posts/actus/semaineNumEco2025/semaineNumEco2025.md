@@ -12,8 +12,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<span class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</span>
-
 <!-- chapô-->
 Inscrivez-vous aux événements organisés par les ministères à l'occasion de la Semaine Numérique Ecoresponsable.
 <!-- texte-->

@@ -11,7 +11,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<span class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</span>
 
 <!-- chapô-->
 A l'occasion de la semaine du numérique responsable, 

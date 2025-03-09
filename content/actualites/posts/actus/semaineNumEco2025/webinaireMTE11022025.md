@@ -11,7 +11,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<span class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</span>
 
 <!-- chapô-->
 A l'occasion de la semaine du numérique responsable, le ministère de la Transition Ecologique organise un Webinaire ouvert aux agents publics, avec des retours d'expériences d'opérateurs ayant mis en place une démarche de numérique responsable.

@@ -12,8 +12,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<span class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</span>
-
 <!-- chapô-->
 A l'occasion de la semaine du numérique responsable, le ministère de la Justice organise un Webinaire ouvert à tous, sur l'IA frugale, avec Juliette Fropier de l'Ecolab.
 <!-- texte-->

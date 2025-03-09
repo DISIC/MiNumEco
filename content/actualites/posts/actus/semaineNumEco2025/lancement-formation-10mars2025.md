@@ -12,8 +12,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
-
 <!-- chapô-->
 A l'occasion de la semaine du numérique responsable, la DINUM présente son parcours de formation en ligne dédié aux agents publics, en présence de la DINUM, de la Directrice du Numérique du ministère des Affaires Etrangères et du campus du numérique.
 <!-- texte-->

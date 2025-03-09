@@ -12,7 +12,6 @@ tags:
   - 'Semaine NumEco'
 ---
 
-<p class="fr-badge fr-badge--success fr-badge--no-icon">Nouveau</p>
 
 <!-- chapô-->
 A l'occasion de la semaine numérique écoresponsable, participez à une fresque du numérique organisée par la DINUM et la DGFIP, pour tous les agents publics sur inscription.
