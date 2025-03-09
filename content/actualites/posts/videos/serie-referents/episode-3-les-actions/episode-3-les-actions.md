@@ -4,7 +4,7 @@ title: "Épisode #3 : Les actions des ministères vers un numérique responsable
 description: Quelles sont les actions des ministères ? Réponse des référents ministériels numérique responsable
 date: 2024-07-21
 image:
-    path: ./vignette-miniserie-episode3.webp
+    path: ./site_video_seriereferents_actions.svg
     alt: ""
 tags:
   - 'Vidéo'
