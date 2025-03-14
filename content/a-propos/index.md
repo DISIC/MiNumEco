@@ -3,13 +3,13 @@ title: À propos
 layout: layouts/page-with-summary.njk
 ---
 
-<h2>La MiNumEco, la mission interministérielle numérique écoresponsable</h2>
+## La MiNumEco, la mission interministérielle numérique écoresponsable
 
-Le numérique représente aujourd'hui de 2 à 4% des émissions mondiales de gaz à effet de serre.
+En France, le numérique représente aujourd'hui 4,4% des émissions de gaz à effet de serre.
 
 En s'appuyant sur [la circulaire services publics écoresponsables de novembre 2021 (SPE)](https://www.legifrance.gouv.fr/circulaire/id/45511), confortée en 2024 par [le plan de transformation écologique de l'Etat](https://ecoresponsable.numerique.gouv.fr/posts/lancement-plan-transformation-eco-etat/), la MiNumEco suit l'atteinte des objectifs de la mesure 8 relative au numérique publique. L'objectif des SPE est de réduire de 22% l'empreinte environnementale des services publics d'ici 2027.
 
-### Les objectifs pour le numérique public :
+## Les objectifs pour le numérique public
 
 - Développer le numérique responsable
 - Allonger la durée de vie du matériel
@@ -17,9 +17,9 @@ En s'appuyant sur [la circulaire services publics écoresponsables de novembre 2
 - 20% de matériel réemployé dans le parc informatique des ministères
 - Donner 50% du matériel informatique de moins de 10 ans
 
-Pour réussir cette mobilisation, [la formation des agents publics](https://ecoresponsable.numerique.gouv.fr/formations/) est un préalable à l’action des agents.
+Pour réussir cette mobilisation, [la formation des agents publics](https://ecoresponsable.numerique.gouv.fr/formations/parcours-mooc/) est un préalable à l’action des agents.
 
-### L'action de la MiNumEco
+## Les actions de la MiNumEco
 
 La MiNumEco anime le réseau des référents Numérique Ecoresponsable ministériel, avec un référent dans chaque ministère, afin de :
 
@@ -29,7 +29,7 @@ La MiNumEco anime le réseau des référents Numérique Ecoresponsable ministér
 - Identifier ou créer les méthodologies et outils à déployer au sein de l'administration centrale ou dans les collectivités territoriales
 - Démultiplier la sensibilisation et la formation.
 
-### Historique de la démarche
+## Historique de la démarche
 
 Dans la [Circulaire du Premier Ministre du 25 février 2020](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936), l’État s’engage pour des Services publics écoresponsables notamment concernant le numérique : « l’État développe une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné » (mesure 20).
 
@@ -46,7 +46,7 @@ Dans cette [feuille de route du gouvernement en 2021](https://www.ecologie.gouv.
 - Ancrer l’engagement du MTE : adapter et proposer une labellisation type "Numérique responsable"
 - Faire du numérique un levier de la transition écologique et solidaire avec la gestion des DEEE (déchets des équipements électriques et électroniques) et développement de l'économie circulaire.
 
-### Publications
+## Publications
 
 Les publications de cette mission inscrites dans la feuille de route gouvernementale « Numérique et environnement » :
 - Un [guide de bonnes pratiques numérique responsable](/publications/bonnes-pratiques/), publié en version bêta en février 2022.
@@ -55,12 +55,13 @@ Les publications de cette mission inscrites dans la feuille de route gouvernemen
 - Produire et participer à la mise en œuvre d'une [boîte à outils](/publications/boite-outils/) à destination des agents, initiée en octobre 2021 et en constante mise à jour.
 - Enrichissement de la méthode MAREVA2 d’évaluation de projet par un volet "numérique responsable" (en cours).
 - Diffusion et adaptation de la méthodologie de calcul de l’empreinte environnementale du numérique (en cours).
+- Publication du référentiel de compétences numérique écoresponsable des agents publics.
 
 Le périmètre de la mission ne s'arrête pas à ces livrables. De nombreux chantiers sont en cours dans les 6 thématiques couvertes : Mesure ; Achats numériques responsables ; Ecoconception de services numériques ; DEEE (gestion des déchets des équipements électriques et électroniques) et économie circulaire ; Sensibilisation et réglementation ; Outillage.
 
 Si vous êtes une administration, une direction ou une collectivité territoriale et que vous souhaitez contribuer aux travaux de la mission, [contactez-nous](/contact/).
 
-<h2>Les pilotes de la mission</h2>
+## Les pilotes de la mission
 
 ### La Direction Interministérielle du Numérique (DINUM)
 
@@ -75,25 +76,3 @@ Le Ministère de la Transition écologique et de la Cohésion des territoires me
 ### Le Commissariat Général au Développement Durable (CGDD)
 
 Le CGDD est chargé de l’élaboration, de l’animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l’ensemble des politiques publiques, notamment celle des achats publics, ainsi qu’au travers des actions de tous les acteurs socio-économiques.
-
-<h2>L’équipe</h2>
-
-<div class="fr-grid-row fr-grid-row--gutters team">
-  <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/a-propos/equipe/melanie-raphael.webp" class="fr-responsive-img" alt="photo Mélanie Raphaël">
-    <h3 class="">Mélanie Raphaël</h3>
-    <p class=""><b>Co-responsable de la MiNumEco</b><br>
-    Experte Numérique Ecoresponsable, Direction Interministérielle du Numérique (DINUM) -</p>
-  </div>
-  <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/a-propos/equipe/Catherine-Ferreol.webp" class="fr-responsive-img" alt="photo Catherine Ferreol">
-    <h3 class="">Catherine Ferreol</h3>
-    <p class=""><b>Co-responsable de la MiNumEco</b><br>
-    Directrice Adjointe du Numérique, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT), Ministère de la Transition écologique</p>
-  </div>
-  <div class="fr-col-12 fr-col-md-4">
-    <img src="/img/a-propos/equipe/thierry-lochon.webp" class="fr-responsive-img" alt="Photo Thierry Lochon">
-    <h3 class="">Thierry Lochon</h3>
-    <p class="">Directeur du Programme Numérique et Écologie, Direction du Numérique du Ministère de la Transition écologique et de la cohésion des territoires (MTECT)</p>
-  </div>
-</div>
