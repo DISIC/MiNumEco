@@ -1,14 +1,13 @@
 ---
 title: "Webinaire - Les métaux, un enjeu critique pour le numérique"
 description: "Webinaire - Les métaux, un enjeu critique pour le numérique, 13 mars 2025, de 11h à 12h. Organisé par le Ministère de la Transition écologique"
-date: 2025-03-13
+date: 2025-03-07
 image:
     path: ../../img/Site_Event_13032025_WebinaireMTEmetaux.svg
     alt: ""
 tags:
   - 'Ministères'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 <!-- chapô-->

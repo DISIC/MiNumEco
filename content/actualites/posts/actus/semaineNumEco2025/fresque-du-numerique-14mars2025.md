@@ -1,7 +1,7 @@
 ---
 title: "Fresque du numérique, le 14 mars"
 description: Participez à une fresque du numérique, organisé par la DINUM et la DGFIP, le 14 mars 2025
-date: 2025-03-14
+date: 2025-03-09
 image:
     path: ../../img/Site_Formation_Fresque.webp
     alt: ""
@@ -9,7 +9,6 @@ tags:
   - 'Ministères'
   - 'Formation'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 

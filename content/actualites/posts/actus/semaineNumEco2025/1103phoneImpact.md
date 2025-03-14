@@ -1,14 +1,13 @@
 ---
 title: "Atelier Phone Impact"
 description: Atelier Phone Impact de l'INRIA proposé par la DGFIP
-date: 2025-03-11
+date: 2025-03-04
 image:
     path: ../../img/Site-Event-PhoneImpact-11032025.svg
     alt: ""
 tags:
   - 'Ministères'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 <!-- chapô-->

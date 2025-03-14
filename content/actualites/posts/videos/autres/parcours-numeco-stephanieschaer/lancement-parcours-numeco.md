@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Parcours NumEco"
 description: "Vidéo de lancement par Stéphanie Schaer - Directrice, DINUM - du parcours de formation numérique écoresponsable sur mentor"
-date: 2025-03-16
+date: 2025-03-12
 image:
     path: ./site_video_stephanieschaer_parcoursNumEco.svg
     alt: ""

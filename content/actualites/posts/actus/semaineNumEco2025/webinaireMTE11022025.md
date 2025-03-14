@@ -1,14 +1,13 @@
 ---
 title: "Webinaire - RETEX démarches numérique responsable"
 description: "Webinaire - RETEX démarches numérique responsable, 11 mars 2025, de 11h à 12h. Organisé par le ministère de la Transition Ecologique"
-date: 2025-03-11
+date: 2025-03-04
 image:
     path: ../../img/Site_Event_11032025_WebinaireMTEretex.svg
     alt: ""
 tags:
   - 'Ministères'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 

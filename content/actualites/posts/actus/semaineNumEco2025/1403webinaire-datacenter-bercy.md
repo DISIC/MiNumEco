@@ -1,14 +1,13 @@
 ---
 title: "Webinaire labelisation des data center"
 description: webinaire proposé par le SNUM du SG ministère de l'Économie et des Finances
-date: 2025-03-14
+date: 2025-03-08
 image:
     path: ../../img/Site_Event_14032025_WebinaireBercy.svg
     alt: ""
 tags:
   - 'Ministères'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Lancement de la formation NumEco de la DINUM"
 description: Évènement de lancement de 3 modules MOOC de formation sur le numérique responsable, le 10 mars 2025, à la DINUM
-date: 2025-03-10
+date: 2025-03-03
 image:
     path: ../../img/Site_Event_10032025_MOOCNumEco_Module2.webp
     alt: ""
@@ -9,7 +9,6 @@ tags:
   - 'MiNumEco'
   - 'Formation'
   - 'Événement'
-  - 'Semaine NumEco'
 ---
 
 <!-- chapô-->

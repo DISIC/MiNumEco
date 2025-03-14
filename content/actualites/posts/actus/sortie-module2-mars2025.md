@@ -1,7 +1,7 @@
 ---
 title: "Sortie du module 2 - Mooc NumEco"
 description: Sortie du module 2 - Mooc Numérique Responsable - Gestion responsable d'un projet numérique
-date: 2025-03-16
+date: 2025-03-10
 image:
     path: ../img/parcours-formation-mooc-module2.webp
     alt: ""
