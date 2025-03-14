@@ -13,6 +13,8 @@ tags:
 ---
 <!-- image -->
 
+ <img src="/img/Site_video_replaywebinaireIAfrugale.svg" class="fr-responsive-img" alt="visuel webinaire">
+
 <!-- légende de la vidéo-->
 <br>
 
@@ -21,6 +23,17 @@ tags:
 
 <!-- transcription-->
 
-<div class="fr-highlight fr-mt-3w fr-mb-4w">
-<a href="https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/video/ade6cbf381a17869310d32af95f9f6d064eb0ec7-1741772707091/video-0.m4v">Voir le replay en ligne</a>
+<!-- consulter la vidéo - call out-->
+
+<div class="fr-callout fr-icon-information-line">
+    <h3 class="fr-callout__title">Replay du webinaire</h3>
+    <p class="fr-callout__text">
+        Replay du webinaire IA frugale, organisé par le ministère de la Justice lors de la Semaine NumEco, le 11 mars 2025. Avec Juliette Fropier, Ecolab, CGDD
+    </p>
+<a href="https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/video/ade6cbf381a17869310d32af95f9f6d064eb0ec7-1741772707091/video-0.m4v" target="_blank">
+    <button class="fr-btn">
+        Voir la vidéo
+    </button>
+</a>
 </div>
+
