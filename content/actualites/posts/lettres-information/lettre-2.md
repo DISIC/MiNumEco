@@ -23,4 +23,4 @@ tags:
 * 📅 Événement : Greentech forum
 * 📅 Événement : Ethics by Design 12 et 13 novembre  
   
-<a href="https://www.linkedin.com/pulse/1-la-lettre-de-minumeco-mission-interministerielle-numeriq-kcxve/?trackingId=QUjXCwQESIOdOUN8B%2FZ46w%3D%3D" class="fr-btn">Lire en ligne sur LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/1-la-lettre-de-minumeco-mission-interministerielle-numeriq-kcxve/?trackingId=QUjXCwQESIOdOUN8B%2FZ46w%3D%3D" class="fr-btn" target="_blank" rel="noopener noreferrer">Lire en ligne sur LinkedIn</a>

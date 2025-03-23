@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Lettre #4"
-description: Lettre d'information de la MiNumEco, du 20 décembre 2024. Sortie module 1 de formation NumEco en ligne.
+description: Lettre d'information de la MiNumEco, du 20/12/2024. Sortie module 1 de formation NumEco en ligne.
 date: 2024-12-20
 image:
     path: ../img/lettre-4.webp
@@ -21,4 +21,4 @@ tags:
 * 📚 Mise à jour de la PCR SI
 * 📚 Avis de l'Ademe sur l'impact des data center  
   
-<a href="https://www.linkedin.com/pulse/1-la-lettre-de-minumeco-mission-interministerielle-numeriq-kcxve/?trackingId=QUjXCwQESIOdOUN8B%2FZ46w%3D%3D" class="fr-btn">Lire en ligne sur LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/1-la-lettre-de-minumeco-mission-interministerielle-numeriq-kcxve/?trackingId=QUjXCwQESIOdOUN8B%2FZ46w%3D%3D" class="fr-btn" target="_blank" rel="noopener noreferrer">Lire en ligne sur LinkedIn</a>
