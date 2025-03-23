@@ -23,10 +23,9 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Serious Game - The Impact Agency",
 		image: {
-			src: "/img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-mooc-seriousgame.webp",
 			alt: ""
-		},
-		badges: ["Serious game"]
+		}
 	}) }}
 	</div>
 
@@ -38,10 +37,9 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Module 1 - L’impact environnemental du numérique : comment agir ?",
 		image: {
-			src: "/img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-mooc-module1.webp",
 			alt: ""
-		},
-		badges: ["Module 1"]
+		}
 	}) }}
 </div>
 <!-- /carte 2 -->
@@ -50,14 +48,13 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 <div class="fr-col-12 fr-col-md-6">
 	{% from "components/component.njk" import component with context %}
 	{{ component("card", {
-		externalUrl: "",
+		externalUrl: "https://mentor.gouv.fr/catalog/3244",
 		url: "",
 		title: "Module 2 - Gestion responsable d'un projet numérique",
 		image: {
-			src: "/img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-mooc-module2.webp",
 			alt: ""
-		},
-		badges: ["Sortie le 10 mars 2025"]
+		}
 	}) }}
 </div>
 <!-- /carte 3 -->
@@ -70,7 +67,7 @@ Basé sur le [référentiel de compétences NumEco publié par la DINUM](/format
 		url: "",
 		title: "Module 3 - évaluer l'empreinte environnementale de son SI et de ses services numériques",
 		image: {
-			src: "/img/formations/parcours-formation-vierge.webp",
+			src: "/img/formations/parcours-formation-mooc-module3.webp",
 			alt: ""
 		},
 		badges: ["Sortie avril 2025"]
