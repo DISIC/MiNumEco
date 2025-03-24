@@ -66,7 +66,7 @@ Ces modules sont accessibles sur mentor.gouv.fr à tous les agents de la fonctio
 <!-- carte 1 -->
 	{% from "components/component.njk" import component with context %}
 	{{ component("card", {
-		externalUrl: "https://mentor.gouv.fr/catalog/2825",
+		externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-serious-game/",
 		url: "",
 		title: "Serious Game - The Impact Agency",
 		image: {
@@ -80,7 +80,7 @@ Ces modules sont accessibles sur mentor.gouv.fr à tous les agents de la fonctio
 <div class="fr-col-12 fr-col-md-6">
 	{% from "components/component.njk" import component with context %}
 	{{ component("card", {
-		externalUrl: "https://mentor.gouv.fr/catalog/3087",
+		externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-1/",
 		url: "",
 		title: "Module 1 - L’impact environnemental du numérique : comment agir ?",
 		image: {
@@ -95,7 +95,7 @@ Ces modules sont accessibles sur mentor.gouv.fr à tous les agents de la fonctio
 <div class="fr-col-12 fr-col-md-6">
 	{% from "components/component.njk" import component with context %}
 	{{ component("card", {
-		externalUrl: "https://mentor.gouv.fr/catalog/3244",
+		externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-2/",
 		url: "",
 		title: "Module 2 - Gestion responsable d'un projet numérique",
 		image: {
