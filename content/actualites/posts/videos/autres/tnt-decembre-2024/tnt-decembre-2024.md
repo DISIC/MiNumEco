@@ -4,7 +4,7 @@ title: "Webinaire collectivités - feuille de route numérique responsable"
 description: "Webinaire sur les feuilles de route numérique responsable des collectivités, en partenariat avec TNT"
 date: 2024-12-05
 image:
-    path: ./vignette-tnt-decembre-2024.webp
+    path: ./site_video_webinaire_collectivites.svg
     alt: ""
 tags:
   - 'Vidéo'
