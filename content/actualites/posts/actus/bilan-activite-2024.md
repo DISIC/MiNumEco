@@ -8,6 +8,7 @@ image:
 tags:
   - 'MiNumEco'
   - 'Document de référence'
+  - 'Ministères'
 ---
 <br>
 
