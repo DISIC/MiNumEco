@@ -59,3 +59,5 @@ tags:
 <p>participez, organisez une formation ou une sensibilisation,</p>
 <p>contactez votre référent ministériel ou bien la MiNumEco</p>
 {% endtranscription %}
+
+<!-- fin de la transcription-->
