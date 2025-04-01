@@ -57,7 +57,7 @@ Elle s'adresse principalement aux agents travaillant dans le numérique : cheffe
     <h3 class="fr-callout__title">Accéder au module de formation sur mentor</h3>
     <a href="https://mentor.gouv.fr/catalog/3244">
     <button class="fr-btn" target="_blank">
-        Accéder au module Serious Game
+        Accéder au module 2
     </button>
   </a>
 </div>
