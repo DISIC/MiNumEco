@@ -50,7 +50,7 @@ Sans pré-requis.
     <h3 class="fr-callout__title">Accéder au module de formation sur mentor</h3>
     <a href="https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=3087">
     <button class="fr-btn" target="_blank">
-        Accéder au module Serious Game
+        Accéder au module 1
     </button>
   </a>
 </div>
