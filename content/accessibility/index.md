@@ -1,7 +1,7 @@
 ---
-title: Exemple de déclaration d’accessibilité
+title: Déclaration d’accessibilité
 layout: layouts/post.njk
-description: Déclaration d’accessibilité à compléter
+description: Déclaration d’accessibilité
 slugOverride: accessibilite
 showBreadcrumb: true
 permalink: /accessibilite/
