@@ -195,3 +195,16 @@ p:empty {
 .guide-bonne-pratique__summary__list .fr-summary__link::before {
 content: none;
 }
+
+.logo-white {
+	display: none !important;
+}
+
+[data-fr-theme="dark"] {
+  .logo {
+    display: none !important;
+  }
+  .logo-white {
+    display: block !important;
+  }
+}

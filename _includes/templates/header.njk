@@ -10,7 +10,12 @@
             <div class="fr-header__operator">
               <img
                 src="/img/logo.webp"
-                class="fr-responsive-img"
+                class="fr-responsive-img logo"
+                style="width:9rem; border-radius:0.5rem"
+                alt="MiNumEco, la mission interministérielle numérique écoresponsable"/>
+              <img
+                src="/img/logo-white.webp"
+                class="fr-responsive-img logo-white"
                 style="width:9rem; border-radius:0.5rem"
                 alt="MiNumEco, la mission interministérielle numérique écoresponsable"/>
             </div>
@@ -20,7 +25,6 @@
               </button>
             </div>
           </div>
-
           <div class="fr-header__service">
             <a href="{{ "/" | locale_url }}" title="{{ "home" | i18n }} - {{ metadata.title }} - {{ metadata.service }}">
               <p class="fr-header__service-title">
@@ -30,7 +34,6 @@
             <p class="fr-header__service-tagline">{{ metadata.subtitle }}</p>
           </div>
         </div>
-
         <div class="fr-header__tools">
           <div class="fr-header__tools-links">
             <ul class="fr-links-group">
@@ -46,16 +49,12 @@
       </div>
     </div>
   </div>
-
   <div class="fr-header__menu fr-modal" id="modal-491" aria-labelledby="button-492">
     <div class="fr-container">
       <button class="fr-btn--close fr-btn" aria-controls="modal-491" title="{{ "close" | i18n }}">
         {{ "close" | i18n }}
       </button>
-
-      <div class="fr-header__menu-links">
-			</div>
-
+      <div class="fr-header__menu-links"></div>
       {% include "templates/navigation.njk" %}
     </div>
   </div>
