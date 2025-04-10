@@ -1,6 +1,6 @@
 ---
 title: "Formation éconumia : feuille de route NumEco, le 29 avril 2025"
-description: Formation en présentiel le 29 avril 2025 - Atelier ludique pour : découvrir les actions numérique responsable, construire une feuille de route, impliquer les parties prenantes.
+description: "Formation en présentiel le 29 avril 2025 - Atelier ludique pour : découvrir les actions numérique responsable, construire une feuille de route, impliquer les parties prenantes."
 date: 2025-04-29
 image:
     path: ../../img/Site_Formation_Econumia.webp
