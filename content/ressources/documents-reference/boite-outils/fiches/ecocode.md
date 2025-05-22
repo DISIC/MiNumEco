@@ -1,7 +1,7 @@
 ---
 layout: layouts/outil.njk
-title: Greedengo
-description: Analyseurs de code statique
+title: Creedengo
+description: Analyseur statique de code
 tags: tool
 date: 2025-02-04
 image: /img/outils/ecocode.png
