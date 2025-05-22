@@ -8,6 +8,18 @@ eleventyNavigation:
 ---
 
 <!-- <article class="fr-mb-6w">
+	{% set seriesName = "Saison 2" %}
+	<h2>Série {{seriesName}}</h2>
+	{% set postslist = collections.Podcast | series("Saison 2") | limit(3) %}
+	{% include "postslist.njk" %}
+	<a href="/ressources/podcasts/serie/{{ seriesName | slugify }}">Voir toutes les podcasts de la série {{seriesName}}</a>
+</article> -->
+
+## Saison 2
+{% set postslist = collections.Podcast | series("Saison 2") %}
+{% include "postslist.njk" %}
+
+<!-- <article class="fr-mb-6w">
 	{% set seriesName = "Saison 1" %}
 	<h2>Série {{seriesName}}</h2>
 	{% set postslist = collections.Podcast | series("Saison 1") | limit(3) %}
