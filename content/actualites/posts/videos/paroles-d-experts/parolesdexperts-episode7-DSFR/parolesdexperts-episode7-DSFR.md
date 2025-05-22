@@ -22,13 +22,13 @@ Maxime Beaugrand, responsable du Système de Design de l’État, et Jean Delpec
 
 <!-- transcription-->
 
-{% transcription " Maxime Beaugrand 1/2" %}
+{% transcription " Maxime Beaugrand et Jean-Delpech" %}
 <p>
   Maxime Beaugrand<br>
   responsable du Système de Design de l’État<br>
   Service d'Information du Gouvernement SIG
 </p>
-
+<br>
 <p>Tous les sites de l'administration doivent passer au Design Système de l'État.</p>
 <p>Tout participe du RGESN dans l'utilisation du DSFR.</p>
 <p>Le DSFR, c'est le Système de Design de l'État.</p>
@@ -44,15 +44,13 @@ Maxime Beaugrand, responsable du Système de Design de l’État, et Jean Delpec
 <p>C'est un design qui va être le moins énergivore possible</p>
 <p>et qui va faire en sorte de véhiculer les bonnes informations au bon moment aux utilisateurs</p>
 <p>et de ne pas rajouter de surcouches ou de surplus qui ne seraient pas nécessaires.</p>
-{% endtranscription %}
-
-{% transcription " Jean Delpech 1/2" %}
+<br>
 <p>
   Jean Delpech<br>
   adjoint en charge du numérique<br>
   Service d'Information du Gouvernement SIG
 </p>
-
+<br>
 <p>En adoptant le DSFR, on se conforme au RGV,</p>
 <p>parce qu'on réutilise une bibliothèque qui existe déjà,</p>
 <p>qui a été pensée, conçue et développée pour être la plus optimum possible en termes de consommation d'énergie.</p>
@@ -62,28 +60,25 @@ Maxime Beaugrand, responsable du Système de Design de l’État, et Jean Delpec
 <p>sans avoir à les redévelopper une nouvelle fois,</p>
 <p>et sans développer des composants qui seraient énergivores.</p>
 <p>Donc, tout participe du RGV-SN dans l'utilisation du DSFR.</p>
-{% endtranscription %}
-
-{% transcription " Maxime Beaugrand 2/2" %}
+<br>
 <p>
   Maxime Beaugrand<br>
   responsable du Système de Design de l’État<br>
   Service d'Information du Gouvernement SIG
 </p>
-
+<br>
 <p>Aujourd'hui, on va travailler avec l'équipe en charge du RGESN</p>
 <p>pour pouvoir l'appliquer au design system composant par composant et critère par critère.</p>
 <p>C'est quelque chose qui n'existait pas encore il y a 4 ans quand le design system a été créé.</p>
 <p>Donc, la démarche aujourd'hui, ça va être d'aller plus loin dans la prise en compte de ces critères</p>
 <p>composant par composant et étape par étape.</p>
-{% endtranscription %}
-
-{% transcription " Jean Delpech 2/2" %}
+<br>
 <p>
   Jean Delpech<br>
   adjoint en charge du numérique<br>
   Service d'Information du Gouvernement SIG
 </p>
+<br>
 <p>Je ne peux pas parler de toutes les évolutions à venir du DSFR</p>
 <p>parce qu'on est encore en train de travailler sur pas mal de choses,</p>
 <p>mais une évolution qui va être intéressante du point de vue du RGESN,</p>
