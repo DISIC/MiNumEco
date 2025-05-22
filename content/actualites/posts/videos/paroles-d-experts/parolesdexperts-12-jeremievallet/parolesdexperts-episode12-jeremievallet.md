@@ -12,8 +12,9 @@ tags:
   - 'Ministères'
 series: "Paroles d'experts"
 ---
+
 <!-- intégraton vidéo dailymotion de la chaine de la DINUM -->
-{%- dailymotion "https://dai.ly/x9h51js" -%}
+{%- dailymotion "x9h51js" -%}
 
 <!-- légende de la vidéo-->
 **Jérémie Vallet, Directeur Adjoint de la DINUM**
