@@ -1,14 +1,15 @@
 ---
-title: 'Présence de la MiNumEco à Vivatech 2025'
-description: 'Les interventions sur le Numérique Responsable sur le stand du numérique de l'Etat'
+title: "Présence de la MiNumEco à Vivatech 2025"
+description: "Les interventions sur le Numérique Responsable sur le stand du numérique de l'État"
 date: 2025-06-06
 image:
-    path: ../img/actu_vivatech_2025.webp
-    alt: ""
+  path: ../img/actu_vivatech_2025.webp
+  alt: ""
 tags:
-  - 'MiNumEco'
+  - "MiNumEco"
 showBreadcrumb: true
 ---
+
 
 <!-- chapô-->
 
