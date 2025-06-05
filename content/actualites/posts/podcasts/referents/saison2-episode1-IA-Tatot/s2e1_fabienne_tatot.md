@@ -7,6 +7,7 @@ image:
     path: ./Site_podcast_FabienneTatot.svg
     alt: ""
 tags:
+  - 'IA et Data'
   - 'Podcast'
 series: 'Saison 2'
 ---
