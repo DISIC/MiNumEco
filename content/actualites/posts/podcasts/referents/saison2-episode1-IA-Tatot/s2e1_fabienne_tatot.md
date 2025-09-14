@@ -29,7 +29,7 @@ series: 'Saison 2'
 
 # Série IA et environnement
 
-Dans ce premier épisode de la série "IA et environnement" animée **Mélanie RAPHAËL**, Experte numérique écoresponsable de la DINUM (Direction Interministéruelle du Numérique), nous recevons **Fabienne TATOT** représentante des salariés au CESE (Conseil économique, sociale et environnemental).
+Dans ce premier épisode de la série "IA et environnement" animée **Mélanie RAPHAËL**, Experte numérique écoresponsable de la DINUM (Direction Interministérielle du Numérique), nous recevons **Fabienne TATOT** représentante des salariés au CESE (Conseil économique, sociale et environnemental).
 
 ## Présentation de l'épisode
 

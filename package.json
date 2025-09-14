@@ -43,6 +43,7 @@
     "pagefind": "^1.2.0"
   },
   "dependencies": {
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.0",
+    "nanoid": "^3.3.11"
   }
 }
