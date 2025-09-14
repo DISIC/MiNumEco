@@ -9,7 +9,7 @@ image:
 tags:
   - 'Vidéo'
   - 'IA et Data'
-series: "Paroles d'experts"
+series: "Paroles d'experts saison 1"
 ---
 <!-- intégraton vidéo dailymotion de la chaine de la DINUM -->
 {%- dailymotion "x97u63a" -%}

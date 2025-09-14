@@ -9,7 +9,7 @@ image:
 tags:
   - 'Vidéo'
   - 'Ecoconception'
-series: "Paroles d'experts"
+series: "Paroles d'experts saison 1"
 ---
 <!-- intégraton vidéo dailymotion de la chaine de la DINUM -->
 {%- dailymotion "x99f2q2" -%}

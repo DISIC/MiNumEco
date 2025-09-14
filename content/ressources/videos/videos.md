@@ -6,8 +6,17 @@ eleventyNavigation:
   title: Vidéos
   order: 2
 ---
+
 <article class="fr-mb-6w">
-	{% set seriesName = "Paroles d'experts" %}
+	{% set seriesName = "Paroles d'experts saison 2" %}
+	<h2>Série {{seriesName}}</h2>
+	{% set postslist = collections['Vidéo'] | series(seriesName) | limit(3) %}
+	{% include "postslist.njk" %}
+	<a href="/ressources/videos/serie/{{ seriesName | slugify }}">Voir toutes les vidéos de la série {{seriesName}}</a>
+</article>
+
+<article class="fr-mb-6w">
+	{% set seriesName = "Paroles d'experts saison 1" %}
 	<h2>Série {{seriesName}}</h2>
 	{% set postslist = collections['Vidéo'] | series(seriesName) | limit(3) %}
 	{% include "postslist.njk" %}
