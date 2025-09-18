@@ -117,7 +117,7 @@ Ces modules sont accessibles sur mentor.gouv.fr à tous les agents de la fonctio
 			src: "/img/formations/parcours-formation-mooc-module3.webp",
 			alt: ""
 		},
-		badges: ["Sortie avril 2025"]
+		badges: ["Sortie novembre 2025"]
 	}) }}
 </div>
 <!-- /carte 4 -->
