@@ -20,58 +20,57 @@ Ces modules sont accessibles sur mentor.gouv.fr à tous les agents de la fonctio
 <br>
 <br>
 
-<!-- grille avec les cartes présentant les différents modules-->
-
+<!-- Grille avec les cartes présentant les différents modules -->
 <div class="fr-grid-row fr-grid-row--gutters fr-mb-1w">
-<div class="fr-col-12 fr-col-md-6">
 
-<!-- carte 1 -->
-<div class="fr-col-12 fr-col-md-6">
-	{% from "components/component.njk" import component with context %}
-	{{ component("card", {
-		externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-1/",
-		url: "",
-		title: "Module 1 - L’impact environnemental du numérique : comment agir ?",
-		image: {
-			src: "/img/formations/parcours-formation-mooc-module1.webp",
-			alt: ""
-		}
-	}) }}
-</div>
-<!-- /carte 1 -->
+  <!-- carte 1 -->
+  <div class="fr-col-12 fr-col-md-4">
+    {% from "components/component.njk" import component with context %}
+    {{ component("card", {
+      externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-1/",
+      url: "",
+      title: "Module 1 - L’impact environnemental du numérique : comment agir ?",
+      image: {
+        src: "/img/formations/parcours-formation-mooc-module1.webp",
+        alt: "Image du module 1"
+      }
+    }) }}
+  </div>
+  <!-- /carte 1 -->
 
-<!-- carte 2 -->
-<div class="fr-col-12 fr-col-md-6">
-	{% from "components/component.njk" import component with context %}
-	{{ component("card", {
-		externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-2/",
-		url: "",
-		title: "Module 2 - Gestion responsable d'un projet numérique",
-		image: {
-			src: "/img/formations/parcours-formation-mooc-module2.webp",
-			alt: ""
-		}
-	}) }}
-</div>
-<!-- /carte 2 -->
+  <!-- carte 2 -->
+  <div class="fr-col-12 fr-col-md-4">
+    {% from "components/component.njk" import component with context %}
+    {{ component("card", {
+      externalUrl: "https://ecoresponsable.numerique.gouv.fr/actualites/module-2/",
+      url: "",
+      title: "Module 2 - Gestion responsable d'un projet numérique",
+      image: {
+        src: "/img/formations/parcours-formation-mooc-module2.webp",
+        alt: "Image du module 2"
+      }
+    }) }}
+  </div>
+  <!-- /carte 2 -->
 
-<!-- carte 3 -->
-<div class="fr-col-12 fr-col-md-6">
-	{% from "components/component.njk" import component with context %}
-	{{ component("card", {
-		externalUrl: "",
-		url: "",
-		title: "Module 3 - évaluer l'empreinte environnementale de son SI et de ses services numériques",
-		image: {
-			src: "/img/formations/parcours-formation-mooc-module3.webp",
-			alt: ""
-		},
-		badges: ["Sortie fin 2025"]
-	}) }}
-</div>
-<!-- /carte 3 -->
+  <!-- carte 3 -->
+  <div class="fr-col-12 fr-col-md-4">
+    {% from "components/component.njk" import component with context %}
+    {{ component("card", {
+      externalUrl: "",
+      url: "",
+      title: "Module 3 - Évaluer l'empreinte environnementale de son SI et de ses services numériques",
+      image: {
+        src: "/img/formations/parcours-formation-mooc-module3.webp",
+        alt: "Image du module 3"
+      },
+      badges: ["Sortie fin 2025"]
+    }) }}
+  </div>
+  <!-- /carte 3 -->
 
 </div>
+
 
 ## Lancement du parcours 
 
