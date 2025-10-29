@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Saison 2 Épisode #4 : Quelle Diplomatie pour un numérique écoresponsable et souverain ?"
+title: "Saison 2 Épisode #1 : Quelle Diplomatie pour un numérique écoresponsable et souverain ?"
 description: Quelle Diplomatie pour un numérique écoresponsable et souverain ?
 date: 2025-07-01
 image:
