@@ -1,15 +1,15 @@
 ---
-title: "Webinaire de lancement du guide d'achats responsables de solutions IA"
-description: 'Webinaire de lancement du guide d'achats responsables de solutions IA'
-date: 2025-12-05
+title: "Webinaire 5 décembre - achats responsables en IA"
+description: "Webinaire de lancement du guide d’achats responsables de solutions IA"
+date: "2025-12-05"
 image:
-    path: ../img/Site-Event-Webinaire-Achats-IA.webp
-    alt: ""
+  path: "../img/Site-Event-Webinaire-Achats-IA.webp"
+  alt: ""
 tags:
-  - 'Document de référence'
-  - 'Événement'
-  - 'IA et Data'
-  - 'Achats'
+  - "Document de référence"
+  - "Événement"
+  - "IA et Data"
+  - "Achats"
 ---
 
 <!-- chapô-->
