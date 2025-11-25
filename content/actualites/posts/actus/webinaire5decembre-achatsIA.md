@@ -1,5 +1,5 @@
 ---
-title: 'Webinaire 5 décembre - achats responsables en IA'
+title: "Webinaire de lancement du guide d'achats responsables de solutions IA"
 description: 'Webinaire de lancement du guide d'achats responsables de solutions IA'
 date: 2025-12-05
 image:
