@@ -12,6 +12,7 @@ tags:
 ---
 
 <!-- chapô-->
+<br>
 Cette fiche, élaborée par la DINUM – Direction Interministérielle du Numérique, avec la DAE – Direction des Achats de l’Etat et l’Ecolab du CGDD – Commissariat Général eu Développement Durable, propose un cadre clair et opérationnel pour aider les acheteurs publics et les chefs de projet à mieux intégrer les impacts environnementaux et sociaux de l’IA dans leurs marchés.
 <!-- texte-->
 
@@ -30,7 +31,8 @@ La fiche a été conçue pour aider les équipes publiques à :
 * évaluer l’empreinte environnementale des projets d’IA grâce aux apports méthodologiques de l’Ecolab ;
 * encourager une IA frugale, plus économe en ressources et mieux alignée avec les objectifs de sobriété de l’État.
 
-L’objectif : donner aux prescripteurs et aux acheteurs les repères nécessaires pour orienter leurs projets vers des solutions pertinentes, soutenables et conformes au cadre de la commande publique.
+<br>
+L’objectif est de donner aux prescripteurs et aux acheteurs les repères nécessaires pour orienter leurs projets vers des solutions pertinentes, soutenables et conformes au cadre de la commande publique.
 
 ## Télécharger la fiche
 
