@@ -6,8 +6,18 @@ eleventyNavigation:
   title: Documents de référence
   order: 1
 ---
-
 <div class="fr-grid-row fr-grid-row--gutters fr-mb-6v">
+	<div class="fr-col-12 fr-col-md-4">
+		{% from "components/component.njk" import component with context %}
+		{{ component("card", {
+			url: "/actualites/fiche-HA-IA/",
+			title: "Fiche pour l'achat responsable de solutions d'IA",
+			image: {
+				src: "/img/Site_DocReference_HA_IA.svg",
+				alt: ""
+			}
+		}) }}
+	</div>
 	<div class="fr-col-12 fr-col-md-4">
 		{% from "components/component.njk" import component with context %}
 		{{ component("card", {

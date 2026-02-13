@@ -1,9 +1,9 @@
 ---
 title: "Fiche achat responsable de solutions d'IA"
-description: Fiche achat responsable de solutions d'IA - co-rédigée par la DAE, Ecolab et DINUM
+description: Fiche achat responsable de solutions d'IA - co-rédigée par la DAE, l'Ecolab et la DINUM
 date: 2025-12-05
 image:
-    path: ../img/Site_bannieres_doc_HA_IA.webp
+    path: ../img/Site_DocReference_HA_IA.svg
     alt: ""
 tags:
   - 'MiNumEco'
