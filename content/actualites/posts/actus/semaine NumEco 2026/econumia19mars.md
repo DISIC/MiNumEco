@@ -1,7 +1,7 @@
 ---
 title: "Formation éconumia : feuille de route NumEco, le 19 mars 2026"
 description: "Formation en présentiel le 19 mars 2026 - Atelier ludique pour : découvrir les actions numérique responsable, construire une feuille de route, impliquer les parties prenantes."
-date: 2026-02-12
+date: 2026-02-13
 image:
     path: ../../img/Site_Formation_Econumia.webp
     alt: ""

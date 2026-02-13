@@ -130,22 +130,5 @@ numberOfLatestPostsToShow: 3
   </section>
 <!-- Fin section Docs de référence -->
 
-<!-- Section Formation -->
-  <section class="fr-mt-8w">
-    <h2>S'inscrire aux prochaines formations</h2>
-
-		{% set postslist = [] %}
-    {% for item in collections['Formation'] %}
-        {% if item.data.tags and 'Événement' in item.data.tags and item.data.date | isFutureDate %}
-          {% set postslist = postslist.concat(item) %}
-        {% endif %}
-    {% endfor %}
-    {% set postslist = postslist.slice(0, 3) %}
-		{% include "postslist.njk" %}
-
-		<a href="formations/prochaines-formations/" class="fr-link fr-fi-arrow-right-line fr-link--icon-right">Découvrir nos prochaines formations</a>
-  </section>
-<!-- Fin section Formation -->
-
 <!-- Balise fin container -->
 </div>
