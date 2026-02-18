@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "ICR Épisode #0 : Evénement de lancement de l'ICR parcours public"
+title: "ICR Épisode #1 : Evénement de lancement de l'ICR parcours public"
 description: "Evénement de lancement de l'ICR parcours public"
 date: 2026-02-10
 image:
