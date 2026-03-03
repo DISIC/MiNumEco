@@ -1,5 +1,5 @@
 ---
-title: "Impact Agency : enquêtez sur les impacts environnementaux du numérique"
+title: "à partir du 16 mars - Impact Agency : enquêtez sur les impacts environnementaux du numérique"
 description: "Le serious game Impact Agency est disponible sur Mentor à partir du 16 mars 2026 pour une durée limitée de 6 mois."
 date: 2026-03-16
 image:

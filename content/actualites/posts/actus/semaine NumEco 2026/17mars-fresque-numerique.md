@@ -1,5 +1,5 @@
 ---
-title: "Atelier Fresque du numérique, le 17 mars 2026"
+title: "17 mars - Atelier Fresque du numérique"
 description: "Atelier collaboratif le 17 mars 2026 - Comprendre les impacts environnementaux du numérique et identifier des leviers d’action concrets."
 date: 2026-03-15
 image:
