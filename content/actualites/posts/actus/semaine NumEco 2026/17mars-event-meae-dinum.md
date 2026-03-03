@@ -1,7 +1,7 @@
 ---
 title: "Sobriété et souveraineté numérique : quelles ressources pour un numérique résilient ?"
 description: "Le 17 mars, une matinée d’échanges organisée par la DINUM et le MEAE pour interroger les liens entre sobriété numérique, ressources et souveraineté."
-date: 2026-03-15
+date: 2026-03-17
 image:
     path: ./Minumeco_semaine_NumEco_vignette_V2.webp
     alt: ""

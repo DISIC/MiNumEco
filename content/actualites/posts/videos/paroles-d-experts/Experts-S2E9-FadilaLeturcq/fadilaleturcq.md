@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Saison 2 Épisode #10 : Former les agents publics pour réussir la transition numérique responsable"
+title: "Saison 2 Épisode #9 : Former les agents publics pour réussir la transition numérique responsable"
 description: "Former les agents publics pour réussir la transition numérique responsable"
 date: 2026-02-12
 image:

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "ICR Épisode #3 : adapter l’Index de conception responsable aux services publics"
 description: "Pourquoi et comment l’Index de conception responsable (ICR) a été adapté pour accompagner l’écoconception des services numériques publics."
-date: 2026-03-16
+date: 2026-03-15
 image:
     path: ./ICR3.png
     alt: ""
