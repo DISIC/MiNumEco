@@ -6,9 +6,9 @@ image:
     path: ./parcours-formation-mooc-seriousgame.webp
     alt: ""
 tags:
-  - 'Ecoconception'
   - 'Formation'
   - 'MiNumEco'
+  - 'Semaine NumEco 2026'
 ---
 
 <!-- chapô-->
