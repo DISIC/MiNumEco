@@ -65,10 +65,10 @@ L’objectif est triple :
 <br>
 
 <div class="fr-callout">
-    <h3 class="fr-callout__title">Inscription</h3>
-    <p>
-    ⚠️ Événement en présentiel — nombre de places limité à 80.
-    <br><br>
-    👉 <a href="https://grist.numerique.gouv.fr/o/docs/forms/bjvTdigvhj5sT7UNcXeNfM/4">S’inscrire à l’événement</a>
+    <h3 class="fr-callout__title">Inscription obligatoire</h3>
+    <p>⚠️ Événement en présentiel — nombre de places limité à 80.
     </p>
+    <a class="fr-btn" href="https://grist.numerique.gouv.fr/o/docs/forms/bjvTdigvhj5sT7UNcXeNfM/4" target="_blank">
+			Formulaire d'inscription
+    </a>
 </div>

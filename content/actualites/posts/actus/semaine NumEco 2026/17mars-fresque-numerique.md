@@ -50,7 +50,7 @@ Aucun
 
 <div class="fr-callout">
     <h3 class="fr-callout__title">Inscription obligatoire</h3>
-    <a class="fr-btn" href="https://grist.numerique.gouv.fr/o/docs/forms/bjvTdigvhj5sT7UNcXeNfM/4" target="_blank">
+    <a class="fr-btn" href="https://grist.numerique.gouv.fr/o/docs/forms/txREA1asYhCmAev2dhTadP/4" target="_blank">
 			Formulaire d'inscription
     </a>
 </div>
