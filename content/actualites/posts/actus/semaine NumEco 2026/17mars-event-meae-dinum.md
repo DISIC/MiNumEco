@@ -73,23 +73,23 @@ L’objectif est triple :
 
 - **9h30 — Accueil café**
 
-- **10h00 — Ouverture**  
-  par **Stéphanie Schaer**, directrice interministérielle du numérique (DINUM)
+- **10h00 — Ouverture**
+  - Stéphanie Schaer, directrice interministérielle du numérique (DINUM)
 
-- **10h15 — Séquence introductive**  
-  par **Mélanie Raphaël**, experte numérique écoresponsable (DINUM)
+- **10h15 — Séquence introductive**
+  - Mélanie Raphaël, experte numérique écoresponsable (DINUM)
 
 - **10h40 — Table ronde**  
-  animée par **Victoria Beurnez**, journaliste numérique – *Acteurs Publics*
+  Animation : Victoria Beurnez, journaliste numérique – *Acteurs Publics*
 
-  - **Sandrine Berthet** — Déléguée à la transition écologique, Direction générale des entreprises (DGE), ministère de l’Économie  
-  - **Sébastien Henry** — Directeur général adjoint du pôle Clients, Systèmes et Innovation, RTE  
-  - **Intervenant·e de la direction de la diplomatie économique** — Ministère de l’Europe et des Affaires étrangères  
-  - **Ted Marx** — Directeur technique et numérique, Groupe Caisse des Dépôts  
-  - **Laurent de Mercey** — Ingénieur général des Mines, Conseil général de l’économie (CGE)
+  - Sandrine Berthet — DGE, ministère de l’Économie  
+  - Sébastien Henry — RTE  
+  - Représentant·e de la direction de la diplomatie économique — MEAE  
+  - Ted Marx — Groupe Caisse des Dépôts  
+  - Laurent de Mercey — CGE
 
-- **12h00 — Conclusion**  
-  par **Virginie Rozière**, directrice du numérique, ministère de l’Europe et des Affaires étrangères
+- **12h00 — Conclusion**
+  - Virginie Rozière, directrice du numérique, MEAE
 
 <br>
 
