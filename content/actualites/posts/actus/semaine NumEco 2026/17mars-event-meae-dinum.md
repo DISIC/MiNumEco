@@ -68,8 +68,8 @@ L’objectif est triple :
 
 ## Programme
 
-📅 **17 mars 2026**  
-📍 **Lieu de la transformation publique — Paris 15**
+📅 17 mars 2026  
+📍 Lieu de la transformation publique — Paris 15
 
 - **9h30 — Accueil café**
 
