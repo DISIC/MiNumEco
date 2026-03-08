@@ -3,7 +3,7 @@ title: "17 mars - Sobriété et souveraineté numérique : quelles ressources po
 description: "Le 17 mars, une matinée d’échanges organisée par la DINUM et le MEAE pour interroger les liens entre sobriété numérique, ressources et souveraineté."
 date: 2026-03-17
 image:
-    path: ./Minumeco_semaine_NumEco_vignette_V2.webp
+    path: ./Minumeco_Event_17mars_vignette.jpg
     alt: ""
 tags:
   - 'MiNumEco'
@@ -21,6 +21,8 @@ Comment concilier transition numérique, transition écologique et souveraineté
 
 C’est la question au cœur de la matinée d’échanges organisée **le 17 mars**, dans le cadre de la **Semaine NumEco 2026**, en partenariat entre la **DINUM** et la **direction du numérique du ministère de l’Europe et des Affaires étrangères (MEAE)**.
 
+<!-- img invitation-->
+![Invitation à la matinée du 17 mars](/actualites/posts/actus/semaine NumEco 2026/Minumeco_Event_17mars_invitation_V1.jpg)
 <!-- texte-->
 
 ## Comprendre les vulnérabilités du numérique
