@@ -22,7 +22,20 @@ Comment concilier transition numérique, transition écologique et souveraineté
 C’est la question au cœur de la matinée d’échanges organisée **le 17 mars**, dans le cadre de la **Semaine NumEco 2026**, en partenariat entre la **DINUM** et la **direction du numérique du ministère de l’Europe et des Affaires étrangères (MEAE)**.
 
 <!-- img invitation-->
-![Invitation à la matinée du 17 mars](/actualites/posts/actus/semaine NumEco 2026/Minumeco_Event_17mars_invitation_V1.jpg)
+
+<figure class="fr-content-media" style="text-align: center;">
+  <div class="fr-content-media__img">
+    <img
+      src="/img/Minumeco_Event_17mars_invitation_V1.jpg"
+      alt="Invitation à la matinée d’échanges du 17 mars 2026 sur la sobriété et la souveraineté numérique"
+      style="max-width: 560px; width: 100%; height: auto;"
+    >
+  </div>
+  <figcaption class="fr-content-media__caption">
+    Matinée d’échanges consacrée aux enjeux de sobriété et de souveraineté numérique, le 17 mars 2026 au Lieu de la transformation publique.
+  </figcaption>
+</figure>
+
 <!-- texte-->
 
 ## Comprendre les vulnérabilités du numérique
@@ -56,13 +69,27 @@ L’objectif est triple :
 ## Programme
 
 📅 **17 mars 2026**  
-📍 **Lieu de la transformation publique — Paris**
+📍 **Lieu de la transformation publique — Paris 15**
 
-9h30 — Accueil café  
-10h00 — Ouverture par **Stéphanie Schaer**, directrice interministérielle du numérique  
-10h15 — Débat mouvant  
-10h40 — Table ronde  
-12h00 — Conclusion
+- **9h30 — Accueil café**
+
+- **10h00 — Ouverture**  
+  par **Stéphanie Schaer**, directrice interministérielle du numérique (DINUM)
+
+- **10h15 — Séquence introductive**  
+  par **Mélanie Raphaël**, experte numérique écoresponsable (DINUM)
+
+- **10h40 — Table ronde**  
+  animée par **Victoria Beurnez**, journaliste numérique – *Acteurs Publics*
+
+  - **Sandrine Berthet** — Déléguée à la transition écologique, Direction générale des entreprises (DGE), ministère de l’Économie  
+  - **Sébastien Henry** — Directeur général adjoint du pôle Clients, Systèmes et Innovation, RTE  
+  - **Intervenant·e de la direction de la diplomatie économique** — Ministère de l’Europe et des Affaires étrangères  
+  - **Ted Marx** — Directeur technique et numérique, Groupe Caisse des Dépôts  
+  - **Laurent de Mercey** — Ingénieur général des Mines, Conseil général de l’économie (CGE)
+
+- **12h00 — Conclusion**  
+  par **Virginie Rozière**, directrice du numérique, ministère de l’Europe et des Affaires étrangères
 
 <br>
 
