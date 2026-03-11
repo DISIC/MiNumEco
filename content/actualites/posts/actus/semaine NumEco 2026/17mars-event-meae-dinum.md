@@ -83,8 +83,8 @@ L’objectif est triple :
   Animation : Victoria Beurnez, journaliste numérique – *Acteurs Publics*
 
   - Sandrine Berthet — DGE, ministère de l’Économie  
-  - Sébastien Henry — RTE  
-  - Représentant·e de la direction de la diplomatie économique — MEAE  
+  - Sébastien Henry — RTE
+  - Rami ABI AKL, chef de la mission Numérique et IA de la Direction de la diplomatie économique - ministère de l'Europe et des Affaires étrangères
   - Ted Marx — Groupe Caisse des Dépôts  
   - Laurent de Mercey — CGE
 
