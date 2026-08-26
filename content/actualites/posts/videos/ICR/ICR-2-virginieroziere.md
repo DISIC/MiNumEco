@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "ICR Épisode #2 : Evénement de lancement de l'ICR parcours public"
+title: "ICR Épisode #2 : Virginie Rozière - l'écoconception constitue un levier de performance, de qualité de service et d’adaptation aux usages"
 description: "Evénement de lancement de l'ICR parcours public : interview de Virginie Rozière, directrice du numérique du MEAE"
 date: 2026-02-16
 image:
