@@ -31,9 +31,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Eleventy
+        env:
+          DSFR_ACCEPT_LICENSE: 1
         run: |
           npm install
           npm run build-ghpages
