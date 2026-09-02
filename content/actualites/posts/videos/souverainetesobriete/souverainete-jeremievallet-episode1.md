@@ -1,9 +1,11 @@
-```markdown
 ---
 layout: layouts/post.njk
 title: "Souveraineté, sobriété Épisode #1 : la sobriété numérique au service de notre souveraineté"
 description: "Jérémie Vallet, directeur adjoint de la DINUM, revient sur les liens entre souveraineté numérique, maîtrise des chaînes d’approvisionnement et sobriété."
 date: 2026-07-20
+image:
+    path: ./jérémie-vallet-souveraineté.webp
+    alt: ""
 tags:
   - 'Vidéo'
   - 'MiNumEco'
@@ -62,4 +64,4 @@ Cette transformation nécessite enfin une mobilisation collective. Directions du
 <br>
 
 À travers cette série, la MiNumEco propose de revenir sur les différentes dimensions de cette convergence entre **sobriété, résilience et souveraineté numériques**, à partir des interventions de la matinée « Sobriété numérique et souveraineté » organisée par la DINUM et le ministère de l’Europe et des Affaires étrangères.
-```
+
