@@ -1,4 +1,3 @@
-```markdown
 ---
 title: 'Maîtriser nos dépendances : un enjeu de souveraineté et de sobriété numériques'
 description: 'Retour sur la rencontre organisée par la DINUM et le MEAE autour des liens entre sobriété, résilience et souveraineté numériques.'
@@ -79,5 +78,4 @@ Ces travaux se poursuivent au sein de la **MiNumEco**, avec l’ensemble des min
 
 <figure>
   <img src="../img/souverainetesobriete-event-3.webp" alt="">
-</figure>
-```
+</figure> 
