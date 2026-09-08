@@ -1,0 +1,634 @@
+[
+  {
+    "id": "1.1",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service been given a favourable assessment in terms of its usefulness, measured against its environmental impact?",
+    "objective": "Avoid unnecessary digital services: if the digital service is not in line with at least one of the Sustainable Development Goals (SDGs), one of the Planetary boundaries issues, or any other such framework, then all of the environmental impacts it generates are futile and should be avoided.",
+    "implementation": "To evaluate the usefulness of the service, refer to reference systems and determine upstream of the project whether it is genuinely useful, for example:\\n- the [17 UN SDGs](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)\\n- the [9 Planetary boundaries](https://en.wikipedia.org/wiki/Planetary_boundaries)\\n\\nIf the utility of the service is not in line with these frames of reference, justify how the service is useful, and how it contributes to the general interest or supports a public policy.\\n\\nDisplay the SDGs with which the service is in line in the ecodesign declaration (refer to the dedicated criteria) or in the legal wording.\\nCheck, for example, one or more of these points: its relevance, its usefulness, the extent to which it creates value, its soundness, how it serves the general interest, how it meets essential needs, how it helps foster the emergence of a digital commons, etc.",
+    "test": "How was the service assessed, e.g. what sustainability goals does the service meet, what solutions for keeping within global limits or other reference frameworks used (specify which one), and their relevance in the ecodesign declaration for this digital service."
+  },
+  {
+    "id": "1.2",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service defined its target users?",
+    "objective": "In order to meet the needs of the users of the digital service, it is essential to know these targets, how they intend to use it, their needs and their behaviour. This is so as to avoid overloading the digital applications with features and content, while at the same time not stripping them down to the point that they fail to meet expectations. Neither too much, nor too little.\\nWithout identifying primary and secondary user categories, it is difficult to size the digital service correctly.",
+    "implementation": "Tools and components of the UX research phase: competitive study, analysis of the existing situation, definition of personas, interviews or surveys with users, observation, etc.",
+    "test": "Have access to these research phase reference documents: user interviews, UX study, benchmark, personas, marketing study, etc., so that target users can be precisely defined."
+  },
+  {
+    "id": "1.3",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service defined the business needs and real expectations of the target users?",
+    "objective": "Uncertainties lead to having to extrapolate needs, often beyond real expectations.\\nAlso, one cannot meet the \\\"right needs\\\" because there is no clear idea of who the users are, or one is only meeting the client�s needs. All this ends up being a bad investment of resources, time spent and environmental impacts generated.\\nIt is important to avoid any non-essential features and functions.\\nOn the other hand, it is important to check whether or not one or more existing services already meet the need, so as not to duplicate them.",
+    "implementation": "* Interviews with the various stakeholders and the business functions concerned,\\n* UX research focusing on target users,\\n* Define primary and secondary users,\\n* Allied practice: agile approaches.\\n* Observation of usage statistics in the event of an already existing service",
+    "test": "Have access to a reference document: interviews, research, observations, surveys or other documents so that the way in which the business need is expressed or the real expectations of target users can be precisely defined."
+  },
+  {
+    "id": "1.4",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service determined the list of hardware profiles that users will be able to use to access it?",
+    "objective": "A digital service that uses only the latest technical resources may incentivise users to renew their devices in order to be able to access it (hardware obsolescence).\\nThis means that some uses may be constrained by users' devices. In order to enable a wider selection of devices to be used, even older ones, and to limit the need to replace devices, it is important to know the hardware profiles that users will be able to use, today and tomorrow: screen size, touch screen or not, smartphone, tablet, laptop, desktop, etc.",
+    "implementation": "Define the profile of supported hardware as old as possible to avoid hardware obsolescence.",
+    "test": "Profiles of supported devices included in the ecodesign declaration to be displayed on the site (see dedicated criterion 1.12)."
+  },
+  {
+    "id": "1.5",
+    "thematic": "Strategy",
+    "criterion": "Can the digital service be used on devices that are 5 years old or older?",
+    "objective": "The energy savings that result from using new devices do not offset the impacts of their manufacture. The digital service must help to prevent older devices from becoming obsolescent by running on the oldest possible devices.",
+    "implementation": "Ensure for each feature that the digital service is compatible with older devices. For example, this criterion can be added in the tests or QA (Quality assurance).\\n Details of the criterion:\\n- This is to do with compatibility with a device and not with an operating system or any other software used to run the digital service (e.g. a browser). It is therefore not a question here of making the digital service compatible with software or with operating systems whose security updates have not been implemented.\\n- Definition of \\\"Usable\\\" here: degraded mode accepted but without loss of essential functionality or content for the service.\\n-This is 5 years rolling, i.e. the moment the audit is carried out needs to be taken into consideration and not the date that the service goes online.\\n- A longer compatibility period is recommended. In such cases, specify the target, for example in the ecodesign declaration.\\n- This criterion does not exclude the use of recent features and functions designed to reduce environmental impact during use as long as the service remains available on older versions (principle of progressive improvement).",
+    "test": "Test critical digital service functionality on legacy devices."
+  },
+  {
+    "id": "1.6",
+    "thematic": "Strategy",
+    "criterion": "Does the digital service adapt to devices with different types of displays?",
+    "objective": "The digital service should help to keep the numbers of new devices which need to be purchased by running on devices with a variety of screen sizes, including the smallest (e.g. old smartphones), to a minimum.",
+    "implementation": "Only if applicable, ensure that the digital service�s interface adapts to the size of the screen without usability being compromised (\"Responsive design\"). Furthermore, it is best to avoid duplicating the digital service with specific versions for each type of device.",
+    "test": "Test the digital service�s features and functions on different display sizes (desktop, tablet and mobile)."
+  },
+  {
+    "id": "1.7",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service been designed using standard interoperable technologies rather than specific and closed technologies?",
+    "objective": "The aim is to combat software-induced device obsolescence. For example, native applications need the latest OS (operating system) versions or even the latest hardware versions to work, leading to hardware obsolescence. Few native applications work on devices longer than 7 years. Whereas digital web services, for example, can be used with any browser and on any device. This ensures good interoperability and longevity.",
+    "implementation": "Well upstream of the development process, assess the feasibility of using standard technologies (e.g. web rather than proprietary applications) to meet user and business needs.\\It is also important to ensure that the APIs used are standard and well supported (JavaScript APIs in web browsers for example).\\nUsing interoperable technologies helps combat software obsolescence. Similarly, developing a service using open-source components means that you can maintain control over code maintenance. This maximises the longevity of the code and reduces the risk of obsolescence created by the software on the hardware.",
+    "test": "If this is the case, assess the need to have made the decision to develop a proprietary application: technical constraint, control over the target device?"
+  },
+  {
+    "id": "1.8",
+    "thematic": "Strategy",
+    "criterion": "Does the digital service have at least one identified digital eco-design referent?",
+    "objective": "Digital ecodesign is aimed at a very broad scope, which is difficult to grasp fully in each one of the project phases. It is essential that the professionals involved in the project be able to rely on one or more coordinators at all times to assist them in ensuring that best practice is used.",
+    "implementation": "The referent(s), whether internal or external, ensure that the project teams are familiar with the concept of ecodesign in digital services in order to encourage its inclusion in the projects.",
+    "test": "Names of referents and certifications or qualifications obtained."
+  },
+  {
+    "id": "1.9",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service identified indicators for measuring its environmental impacts?",
+    "objective": "Know the environmental impacts of the digital service. Have an overview of the impacts that the digital service has at each phase (beginning, during use, end) and by integrating the environmental impacts of the hardware devices used, in the production and in the use of this digital service.",
+    "implementation": "Conduct a diagnosis based on an LCA methodology, a multi-criteria life cycle analysis (screening, simplified or ISO). The environmental impact indicators to be considered are (as a minimum) primary energy consumption, GHG emissions, blue water consumption and depletion of abiotic resources.\\nThe scope of the life cycle analysis can be extended, for example, by taking into account the means of production: environmental impacts of the design equipment, the online services mobilised (testing and QA environment, etc.), travel for the teams, etc.",
+    "test": "A reference document (Life Cycle Assessment - LCA - for example) of the actions to be undertaken or already undertaken, ranked by project phase.\\n* What indicators have been defined?\\n* How are these indicators monitored?\\n* Are they published / in the public domain and if so, where?\\n* What measuring arrangements have been made?"
+  },
+  {
+    "id": "1.10",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service set targets for reducing or limiting its own environmental impacts?",
+    "objective": "Minimise the environmental footprint of the digital service.",
+    "implementation": "Set targets for the digital service's environmental footprint in relation to the expected number of users. The indicators to be monitored are (as a minimum) primary energy consumption, GHG emissions, blue water consumption and depletion of abiotic resources.\\nDepending on the context, it should be specified whether the indicators are absolute (kg CO2e) or relative (kg CO2e/user).",
+    "test": "What targets have been set?"
+  },
+  {
+    "id": "1.11",
+    "thematic": "Strategy",
+    "criterion": "Does the digital service conduct regular reviews to ensure that it is reducing or limiting its environmental impacts ?",
+    "objective": "Depending on the context, a digital service may evolve: the team might change, users might add content, processing operations might become more resource-hungry, etc. \\nTo ensure that the ecodesign approach lasts over time, it is important to conduct reviews on a regular basis.",
+    "implementation": "Regular review, audit or self-audit, monthly or yearly depending on the context and size of the project, applying this reference framework.\\nIn addition, conduct performance audits and load tests on the application/component/microservice, identifying any bottlenecks, all resources used, etc.",
+    "test": "Results of the review, results of the performance and load audits, results of the audit based on this reference framework, etc."
+  },
+  {
+    "id": "1.12",
+    "thematic": "Strategy",
+    "criterion": "Has the digital service published an ecodesign declaration or policy?",
+    "objective": "Communicate the strategy in place for reducing the environmental impact of the digital service, including reducing the way it contributes to rendering devices obsolescent.",
+    "implementation": "This voluntary declaration, to be displayed for example in the legal notice, alongside the declaration of accessibility or on a dedicated page, will contain the following, for example:\\n* Sustainable Development Goals (SDGs), responses to the challenges posed by global limitations or any other reference framework (to be specified) within which this digital service lies.\\n*Software versions of the supported user device (browser, operating system, etc.). Example: \\�iOS 11 minimum, Android 2015 minimum... \\\"\\n* Type, year of manufacture or target versions of user devices supported (type of smartphone, screen size, etc.). Example: \\\"iPhone 5 / Samsung Galaxy S3 minimum\\\" or \\\"Any mobile device manufactured after 2014\\\".\\n* Minimum connection for accessing the service. Example: \\\"2G on a mobile device / 512 Kbs with a broadband connection\\\".\\n* Adaptation to different screen sizes: yes / no. If yes, specify the minimum screen size.\\n* Strategy implemented and targets in terms of reducing or limiting environmental impacts: indicate the actions implemented to reduce resource consumption, e.g. maximum number of server requests, size taken up by resources per screen or for a given user path.\\n* Date of publication or update of this declaration.",
+    "test": "Detailed presence of an ecodesign declaration or policy"
+  },
+  {
+    "id": "2.1",
+    "thematic": "Specifications",
+    "criterion": "Has the digital service been designed with a design review and a code review so as to reduce the environmental impacts of each feature?",
+    "objective": "In order to arrive at the most efficient solution possible while at the same time meeting the need, the whole team's collective intelligence is required. And for this, it is not enough to simply validate the design by undertaking a code review � a practice that is now quite widespread. You need to think about the design and architectural choices upstream of the development process, with minimising environmental impacts as one of the objectives. This is also positive for the team and for the project more widely.",
+    "implementation": "By involving the entire team and all the business functions, a design review is conducted upstream of development process to choose a solution that meets the requirement, while at the same time minimising the environmental impact. Then, if code has been written to implement the solution, a code review is undertaken after the development.",
+    "test": "What development process is in place?"
+  },
+  {
+    "id": "2.2",
+    "thematic": "Specifications",
+    "criterion": "Does the digital service have a decommissioning strategy for its unused features, components or environments?",
+    "objective": "The aim is to decommission technical environments that are still active but no longer in use: Production, QA (Quality assurance), Test, development environment, etc. These environments take up IT resources unnecessarily.",
+    "implementation": "Define a strategy for decommissioning environments and set withdrawal dates.",
+    "test": "List the active environments and their state of use."
+  },
+  {
+    "id": "2.3",
+    "thematic": "Specifications",
+    "criterion": "Does the digital service require its suppliers to ensure that they reduce their environmental impact?",
+    "objective": "A project is rarely implemented entirely within the scope covered by organisation. Many external resources are mobilised during the project and must be aligned with the approach.",
+    "implementation": "Identify the necessary resources and associate them with environmental requirements. The scope of the approach covers the design of the digital service (not the supplier itself). Refer to the [Practical Guide to Sustainable Digital Procurement](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/) (in french).",
+    "test": "What specifications incorporating environmental clauses have been imposed on suppliers for the design of the digital service?"
+  },
+  {
+    "id": "2.4",
+    "thematic": "Specifications",
+    "criterion": "Has the digital service taken the environmental impacts of the off-the-shelf interface components used into consideration?",
+    "objective": "Know the environmental impacts of interface components (buttons, forms, etc.), design systems that are overlays to the operating system interfaces, used as part of the digital service.",
+    "implementation": "For example, gauge the size of these interface components so as to make informed choices.",
+    "test": "Are these interface components designed to reduce their environmental impacts?\\nAre there any comparative measures available with similar components?"
+  },
+  {
+    "id": "2.5",
+    "thematic": "Specifications",
+    "criterion": "Has the digital service taken the environmental impacts of the third-party services used into consideration when selecting them?",
+    "objective": "Reduce the environmental impacts of third-party services, namely ones that were not developed internally.",
+    "implementation": "Third-party services are services offered by external suppliers (developers, organisations or companies) providing ready-to-use features and functions (e.g. audience tracking, video player, social network news feed, captcha mechanism, etc.), eliminating the need to redevelop them internally.\\nAn A/B test analytics tool measurement provides information about the environmental impacts in order to help with decision-making regarding the environmental factor.",
+    "test": "Measurements provided by the third-party service. \\n Supporting evidence or comparisons justifying the choice made."
+  },
+  {
+    "id": "3.1",
+    "thematic": "Architecture",
+    "criterion": "Is the digital service underpinned by architecture, resources or components designed to reduce their own environmental impacts?",
+    "objective": "The digital service may depend on components that are not developed by the same team or that are provided by production frameworks. It is then necessary to ensure that these dependencies are also designed to reduce their own environmental impacts.",
+    "implementation": "Assess the design of existing components. Are they themselves governed by this reference framework?\\nSee also criteria 2.4 and 2.5 for factoring in the impacts of interface components and third-party services.",
+    "test": "Implementation checks"
+  },
+  {
+    "id": "3.2",
+    "thematic": "Architecture",
+    "criterion": "Does the digital service operate based on an architecture that can adapt the quantity of resources used based on how the service is used?",
+    "objective": "The aim is to avoid over-sized architecture and to give preference to architecture that can be scaled up.",
+    "implementation": "Finely assess the need and the number of users in order to adapt the necessary IT resources.",
+    "test": "For example, to obtain a comparison between the resources allocated and those consumed over a period of time."
+  },
+  {
+    "id": "3.3",
+    "thematic": "Architecture",
+    "criterion": "Has the digital service taken the technical evolution of protocols into account?",
+    "objective": "Prevent the service from becoming obsolescent as a result of the obsolescence of the protocol used, for example: \\n*in the face of a shortage of IPv4 addresses and the increasingly widespread use of IPv6 addresses (in the medium term, some Internet service providers will no longer offer IPv4) by guaranteeing its interoperability and durability,\\n* browsers are tending to block the HTTP protocol and require the use of HTTPS.",
+    "implementation": "For example:\\n* Define an IPv6 test policy that includes testing from a device on which IPv4 connectivity has been disabled. Objective: to detect code or functions that work only in IPv4, which will be unusable in the medium term, once IPv4 has been completely phased out,\\n* In a context in which the user accesses the digital service via their browser, it is mandatory to use HTTPS instead of HTTP.",
+    "test": "Check that the various components that make up the digital service are working properly:\\n* in IPv6 and not using any IPv4-only service,\\n* and that they use HTTPS and not HTTP.\\n\\nIt will probably be complex to check these cases via an external audit. Ask the team if any of the components use �hard� IPs or http URLs."
+  },
+  {
+    "id": "3.4",
+    "thematic": "Architecture",
+    "criterion": "Does the digital service use a suitable exchange protocol for the content transferred?",
+    "objective": "Limit or reduce data transfer by choosing a protocol adapted to the data to be exchanged, operating as efficiently as possible to cater to current and future uses.",
+    "implementation": "You need to make sure that the protocol you have chosen is appropriate for the type of content being shared, and you need to analyse existing protocols in terms of content and functionality, taking into account their environmental footprint.\\nThere are many protocols, each with their own specific advantages and disadvantages. For example,\\n* for video streaming: HTTP Live Streaming (HLS), Real-Time Messaging Protocol (RTMP), Web Real-Time Communications (WebRTC)...\\n* for APIs: REST, SOAP, GraphQL, Protocol Buffers...",
+    "test": "Assess the suitability of the protocol used in relation to the content transferred."
+  },
+  {
+    "id": "3.5",
+    "thematic": "Architecture",
+    "criterion": "Does the digital service provide patches throughout the expected lifetime of the devices and software that make up the service?",
+    "objective": "Help prevent the equipment used for the service from becoming obsolete.",
+    "implementation": "Maintain the digital service throughout the planned life of the device.\\nThis includes specific devices and connected objects (IoT).",
+    "test": "Check that the support timeframe is given and that updates are indeed available."
+  },
+  {
+    "id": "3.6",
+    "thematic": "Architecture",
+    "criterion": "Does the digital service include the installation of corrective updates independently of evolutionary updates?",
+    "objective": "Help prevent users' devices from becoming obsolete.\\nPromote long-term support policies (\\\"Long term support\\\").",
+    "implementation": "This criterion is applicable above all for a digital service such as an API / component / library / framework / open source tool, and more rarely applies for a product intended for end users.\\nFor example, is there a version management strategy with �Long-term support� versions in place and is there a changelog that correctly details the changes included in each update?",
+    "test": "Implementation checks"
+  },
+  {
+    "id": "4.1",
+    "thematic": "UX/UI",
+    "criterion": "Can the digital service be used via a low-speed connection?",
+    "objective": "If the digital service is aimed at a wide audience, then you will not have control over connection speeds. Care should be taken not to exclude certain audiences who do not have high-speed Internet access.\\nIn addition to bridging the digital divide, this is also good practice for the environment. This is because users do not always know what slows down a digital service: the network connection, the digital service or the device used?\\nA lighter digital service therefore needs far fewer network resources to operate.",
+    "implementation": "Test the usability of the service with low-speed connections, measuring and improving response time. Content can be served in low-quality versions when necessary.",
+    "test": "Test the usability of the service with low-speed connections (3G mobile and 512 Kbs broadband)."
+  },
+  {
+    "id": "4.2",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service only contain animation, video and sound elements for which automatic playback has been disabled?",
+    "objective": "Avoid preloading content and launching it without the user's consent.",
+    "implementation": "For example, avoid preloading and automatically playing videos, sounds, animations, carousels, etc.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.3",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service only display content without infinite page scrolling?",
+    "objective": "Avoid walls of content, infinite lists, infinite content sequences.",
+    "implementation": "Have clear pagination where content is loaded at the user's request and not as content is scrolled through.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.4",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service optimise the navigation path for each main feature?",
+    "objective": "Minimise the time that the user has to spend on the digital service.",
+    "implementation": "During the design phase, eliminate non-essential functionality and optimise the navigation path(s) for each main functional unit making up the digital service. Then, look at the visit and usage statistics, alongside the means for observing UX (user experience), in order to optimise this path.\\nFor example, a main functional unit of the service may be �book a ticket�, �search for a term�, �find an address�, �contact support�, �chat�, etc.\\n A qualitative analysis first needs to be conducted, which can then be supplemented by a quantitative analysis: \\n* Properly define the main functional units of the service (in the sense of the Life Cycle Assessment).\\n* Leverage all the resources and tools available in the UX in order to understand how users are actually using the service, particularly with regard to their browsing paths for each main functional unit.\\n* Implement a non-intrusive analysis system that respects privacy in order to identify the typical paths that users take when using the digital service. Analyse these statistics from time to time to improve the user experience and the environmental impact of these \"critical paths\".\\n* Also measure the technical indicators for the identified paths: number of requests, size of resources downloaded and convert them into environmental impact indicators.",
+    "test": "* UX tools for design, optimisation and continuous monitoring: card sorting, polling, interviews, user surveys, U-tests, etc.\\n* Monitoring implementation of usage statistics.\\n* Life cycle analysis."
+  },
+  {
+    "id": "4.5",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service allow the user to decide whether to activate a third-party service?",
+    "objective": "Limit the loading of third-party services that are not required for the service to function properly. For example, without cookies enabled, some video players are disabled and will ask for user consent before playing a video.",
+    "implementation": "Load non-essential content only at the explicit request of the user. This criterion is one of the obligations formalised in the GDPR: consent is requested before third-party content is loaded.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.6",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service use mainly native functional components forming part of the operating system, browser or programming language used?",
+    "objective": "Functional components are � for example � interface components (menu, button, form, etc.). Generally, a system�s native components require relatively few resources to function, unlike components developed as part of an overlay.",
+    "implementation": "Give preference to using functional components that are native to the operating system, browser or language used in order to meet the need.",
+    "test": "Otherwise, assess the need to have chosen to use non-native components (technical constraint for example?)."
+  },
+  {
+    "id": "4.7",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service only use video, audio and animated content that includes information?",
+    "objective": "Remove the media resources downloaded and used for the purposes of making the service aesthetic.",
+    "implementation": "Check the utility of all video, animation and audio used: do these media elements carry information? Or are they only used for decorative purposes?\\nQuestion the utility of using decorative video, animation and audio content.\\nNon-decorative micro interface animations that provide the user with information (UX) are authorised.",
+    "test": "Assess the utility of displaying decorative animation, video or audio content."
+  },
+  {
+    "id": "4.8",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service use text or images instead of video, audio or animated content whenever possible?",
+    "objective": "Reduce the size of the resources used, bearing in mind that a video element is generally much bigger than a text containing images.",
+    "implementation": "Question the need to display media (video, animation or audio recording) very early on and choose the most efficient solution possible while at the same time meeting the user's needs.",
+    "test": "Assess the utility of choosing to display a video or play an animation or audio recording."
+  },
+  {
+    "id": "4.9",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service allow animations, scrolling or flashing to be paused?",
+    "objective": "Give control to the user so they can limit the use of unnecessary resources.",
+    "implementation": "Systematically offer the user the option to pause animations.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.10",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service use mainly operating system fonts?",
+    "objective": "Reduce the quantity of custom fonts used and the amount of data that they require. Whenever possible, give preference to using system fonts when customisation is not necessary.",
+    "implementation": "For example, set a target of using a maximum of two different fonts and no more than four variants in total. Check, for example, the compression of fonts or the use of any necessary glyphs.\\For a website, also pay attention to the loading mode: blocking, non-blocking...",
+    "test": "Assess the number of character fonts used and the amount of data that they require."
+  },
+  {
+    "id": "4.11",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service limit server requests during user input?",
+    "objective": "Avoid making unnecessary client/server requests. For example, when a form is being filled in, are results suggested, etc.?",
+    "implementation": "For autocompletion, wait until you have at least 3 characters and 200 ms after entry before launching a network request.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.12",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service inform the user of the expected input format before validation?",
+    "objective": "Limit client/server exchanges by verifying the input on the user terminal side.",
+    "implementation": "Check the expected formats for user input before submitting the form and indicate input errors.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.13",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service check the inputs and mandatory data formats when submitting a form without a server request where possible?",
+    "objective": "The aim is to avoid unnecessary server requests. In some cases it is not possible to check on the client side at the end of the form, so the check will be on the server side.",
+    "implementation": "Validate entries and mandatory data formats when submitting a form without a server request where possible. Note: pre-validating data on the front end does not mean that validation on the back end no longer has to be performed.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.14",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service inform the user of the expected sizes and formats of the files before the transfer?",
+    "objective": "Limit the sharing of large files between the client and server by informing the user of the expected prerequisites.",
+    "implementation": "Inform the user, prior to the transfer, of the expected file sizes and formats: a file type, a maximum image size, etc.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.15",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service check size and format limits on the files that can be sent by the user?",
+    "objective": "Limit the sharing of large files between the client and server by imposing limits on the user.",
+    "implementation": "Submitting the form is not possible if the indicated file size and format requirements are not met.\\nHowever, not applicable in certain contexts where the file requested may be potentially quite large, for example for an online process.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.16",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service inform the user that using a particular feature has significant environmental impacts?",
+    "objective": "Detail the environmental impacts of the most resource-hungry operations for the user.\\nInform users upstream of the environmental impacts of the most resource-hungry operations before the user uses a particular feature, when the operation in question is more resource-hungry than the rest of the service.",
+    "implementation": "For example, for each downloadable file, video or media element accessed, or for a lengthy process, such as data export, information about the size of the file or the time required for the operation is displayed to the user beforehand.\\nThere is no need to provide environmental impact equivalents. If they are available, the source and methodology should be specified. However, care must be taken to ensure that this information is multi-criteria, not just CO2 equivalent.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.17",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service provide notifications only when necessary?",
+    "objective": "Reduce the use of IT resources by not attracting unnecessary user attention or consuming unnecessary IT resources.",
+    "implementation": "The notifications envisaged by the digital service are designed to benefit the user in terms of need. Notifications also avoid information being shared redundantly via various channels (SMS, email, application notification, interface notification, pop-in, etc.).",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.18",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service provide the user with the means to manage the notifications they receive?",
+    "objective": "Reduce the use of IT resources by not attracting unnecessary user attention.",
+    "implementation": "The user can disable notifications or choose how often they are received.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "4.19",
+    "thematic": "UX/UI",
+    "criterion": "Does the digital service provide the user with the means to control their content and services to reduce environmental impacts?",
+    "objective": "Empower users to limit the environmental impact of their use.",
+    "implementation": "Examples: functions providing the means to choose the definition of the image to be downloaded, options to choose media resolutions (videos, sounds, images, documents), to disable the display of media, etc.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "5.1",
+    "thematic": "Content",
+    "criterion": "Does the digital service use a file format that is appropriate for the content and the context within which each image is viewed?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "Choose an image format appropriate for the type of image and the context within which it is displayed: use vector format such as SVG when possible (illustrations, icons, logos, graphs, etc.), JPG format for photos and PNG format for illustrations with solid colours.",
+    "test": "Assess the appropriateness of the image format displayed."
+  },
+  {
+    "id": "5.2",
+    "thematic": "Content",
+    "criterion": "Does the digital service have images with a level of compression that is appropriate for the content and the context within which they are viewed?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "For example, when generating a JPEG image using editing software, 60% compression may be visually acceptable. In PNG format, reducing the colour palette is recommended.\\n\\Flatten the layers to generate an SVG vector format file. Minimise and further optimise compression using dedicated tools.",
+    "test": "Assess the quality and size of the displayed image."
+  },
+  {
+    "id": "5.3",
+    "thematic": "Content",
+    "criterion": "Does the digital service use a file format that is appropriate for the content and the context within which each video is viewed?",
+    "objective": "Sometimes video content is in high definition when the viewing context does not require it. The aim is to reduce the size of files downloaded by users.",
+    "implementation": "For example, avoid videos with a definition of 1080p or higher displayed on the website when the target or detected device is a smartphone. If it is not possible to implement this adaptation based on the target device, use video content that is as low-definition as possible without compromising people's ability to understand it.",
+    "test": "Test video playback on different devices and check that the videos are in a suitable format."
+  },
+  {
+    "id": "5.4",
+    "thematic": "Content",
+    "criterion": "Does the digital service have videos with a level of compression that is appropriate for the content and the context within which they are viewed?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "For example, optimise the format�s bitrate.",
+    "test": "Assess the quality and size of the displayed video."
+  },
+  {
+    "id": "5.5",
+    "thematic": "Content",
+    "criterion": "Does the digital service use a file format that is appropriate for the content and the context within which each piece of audio content is listened to?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "For example, use MP3, OGG or AAC instead of FLAC, AIFF or WAV.",
+    "test": "Assess the appropriateness of the audio file format for the content: music, speech, etc."
+  },
+  {
+    "id": "5.6",
+    "thematic": "Content",
+    "criterion": "Does the digital service have audio content with a level of compression that is appropriate for the content and the context within which it is listened to?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "Examples: \\n- optimise the bitrate, compression rate and frequency of the format, \\n choose stereo for music or mono for dialogue, \\n- avoid a size (in megabytes) to length (in minutes) ratio greater than 1.",
+    "test": "Assess the appropriateness of the audio file size for the content."
+  },
+  {
+    "id": "5.7",
+    "thematic": "Content",
+    "criterion": "Does the digital service use a file format that is appropriate for the content and the context within which each document is used?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "E.g.: use web-optimised PDFs (i.e. with 72 dpi images) for online viewing and HD print-optimised PDFs (i.e. with 150 or 300 dpi images) for use in HD printing.",
+    "test": "Assess the appropriateness of the documents."
+  },
+  {
+    "id": "5.8",
+    "thematic": "Content",
+    "criterion": "Does the digital service have documents with a level of compression that is appropriate for the content and the context within which they are used?",
+    "objective": "Reduce the size of files downloaded by users.",
+    "implementation": "Example: optimise the compression settings to generate PDFs with a resolution of 72 dpi for all media in the document.",
+    "test": "Assess the size of the document in relation to its content."
+  },
+  {
+    "id": "5.9",
+    "thematic": "Content",
+    "criterion": "Does the digital service have a strategy for archiving and deleting obsolete or outdated content, either automatically or manually?",
+    "objective": "Remove unnecessary data from databases and physical servers.",
+    "implementation": "Define a strategy for archiving and deleting the digital service's obsolete, outdated or unnecessary content. This strategy can be automatic by setting an expiry date and implementing an automatic archiving and/or purging process.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "6.1",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service have a maximum weight per screen?",
+    "objective": "Reduce or limit downloaded data",
+    "implementation": "The term �screen� is used here to mean \\�virtual screen�\\ and not physical screen. If the digital service is a website, the screen refers to the page, for an API, the screen refers to the server response.\\nDefine and monitor an indicator for the maximum size for each screen, taking into account all downloaded resources (interface components, data, content, scripts, stylesheets, etc.). For example, for a web page (with all resources loaded) that is 2 MB, the goal would be to get it down to 500 KB. Depending on the context, this target may be much lower.",
+    "test": "What is the maximum size per screen?"
+  },
+  {
+    "id": "6.2",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service have a limit on the number of requests per screen?",
+    "objective": "Reduce or limit client-server exchanges.",
+    "implementation": "The term �screen� is used here to mean \\�virtual screen�\\ and not physical screen. If the digital service is a website, the screen refers to the page, for an API, the screen refers to the server response.\\nDefine and monitor an indicator for the maximum number of client / server requests for each screen, taking into account all downloaded resources (interface components, data, content, scripts, stylesheets, etc.). For example, for a website, it would be desirable to have fewer than 30 requests per page instead of 100.\\nNote that the number of requests alone cannot guarantee the efficiency of the digital service, since one request is enough to load several dozen megabytes� worth of data. Care must be taken to validate all the criteria of this reference framework, in particular criterion 6.1 on limiting the maximum amount of data per screen.",
+    "test": "What is the maximum number of requests per screen?"
+  },
+  {
+    "id": "6.3",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service use caching mechanisms for all transferred content over which it has control?",
+    "objective": "Reduce the quantity of data exchanged.",
+    "implementation": "The caching strategy must be adapted to the application context and usage scenario. Controlling offline mode is sometimes very useful, sometimes not. Implement a user-side cache mechanism, on the frontend (HTTP cache for example).",
+    "test": "Check the implementation"
+  },
+  {
+    "id": "6.4",
+    "thematic": "Frontend",
+    "criterion": "Has the digital service implemented compression techniques on all transferred assets over which it has control?",
+    "objective": "Reduce or limit downloaded data.",
+    "implementation": "Compression, minification of script files for example. However, be careful not to consume resources if there is a need for computing power to \\�decompress�\\ the files: systematically compressing .tgz type small files, for example, can be counter-productive.This criterion only applies to text files (HTML, CSS, JavaScript, for example). Not to be confused with criterion 5.2 on image compression.",
+    "test": "Check that downloaded files are compressed."
+  },
+  {
+    "id": "6.5",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service display predominantly graphics and media the original dimensions of which match the dimensions of the context in which they are displayed?",
+    "objective": "Reduce or limit downloaded data.",
+    "implementation": "For example, when adding media or graphic elements to the digital service, the display dimensions are required. Another possibility, which applies especially to images, resizing is performed on the server side when a contributor adds a file.\\nAn exception to this rule: images for Retina screens (the displayed image the original size of which is generally greater than the context in which it is displayed because the device pixel ratio is greater for Retina images).",
+    "test": "Check that the images or media used are displayed in their original size."
+  },
+  {
+    "id": "6.6",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service offer a progressive loading mechanism for graphics and media that require it?",
+    "objective": "Reduce or limit downloaded data.",
+    "implementation": "Examples: streaming for video, loading only the images or resources displayed on the screen (\\\"lazy loading\\\")...",
+    "test": "Check implementation"
+  },
+  {
+    "id": "6.7",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service only load the components used within the libraries when possible?",
+    "objective": "Use only what is necessary for running the service, thus saving computer resources.",
+    "implementation": "Load only the necessary components. Some libraries make components available for unitary use (e.g. [Bootstrap](https://getbootstrap.com/). Another example, the [French design system](https://www.systeme-de-design.gouv.fr/) is available in packaged form (style sheets and scripts) with all components. It is rarely necessary to use all the components. It is possible to load just the CSS and JavaScript files of the necessary components.",
+    "test": "Check the content of the loaded libraries and how they are actually used."
+  },
+  {
+    "id": "6.8",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service prevent the loading of unused resources and content for each feature from being triggered?",
+    "objective": "It is often easier for the development team to load all the components, packaged in a compressed file, irrespective of functionality. The result is that the user loads components that will not necessarily be used. Using only what is actually needed to run the service saves computer resources.",
+    "implementation": "Only load resources and components when they are actually being used.\\nAlso see criterion 6.7 for interface components.",
+    "test": "Check the content of the loaded resources and how they are actually used."
+  },
+  {
+    "id": "6.9",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service use client-side storage of some resources to avoid unnecessary network exchanges?",
+    "objective": "Reduce or limit client-server exchanges.",
+    "implementation": "For example, it is possible to store frequently used data in the web browser in order to limit exchanges with the server.",
+    "test": "Check that no feature makes identical and redundant requests."
+  },
+  {
+    "id": "6.10",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service restrict the use of sensors on user devices to just what the service requires rather than permanently?",
+    "objective": "Reduce or limit the quantity of data exchanged, including personal data (such as webcam, microphone or geolocation, for example) with the digital service.",
+    "implementation": "Validation of alert and consent mechanisms prior to any user-accepted device sensor activation.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "6.11",
+    "thematic": "Frontend",
+    "criterion": "Does the digital service host the transferred static resources of which it is the sender on the same domain?",
+    "objective": "Limit the number of different domains and therefore of servers used.",
+    "implementation": "Limit the number of different domains for the resources used in order to take advantage of the multiplexing offered by HTTP/2",
+    "test": "Check implementation"
+  },
+  {
+    "id": "7.1",
+    "thematic": "Backend",
+    "criterion": "Does the digital service use a server cache system for the most used data?",
+    "objective": "Limit the consumption of computer resources.",
+    "implementation": "Identify the most used data, API entries, resources to be cached in order to avoid having to regenerate them. Allow for an expiry time to refresh them.",
+    "test": "What server caches are in place?"
+  },
+  {
+    "id": "7.2",
+    "thematic": "Backend",
+    "criterion": "Is the digital service configured to transmit compressed content from the server to the client accepting it?",
+    "objective": "Reduce the quantity of resources transferred over the network.",
+    "implementation": "Implement end-to-end compression (e.g. https://developer.mozilla.org/fr/docs/Web/HTTP/Compression)",
+    "test": "Check the implementation of data compression"
+  },
+  {
+    "id": "7.3",
+    "thematic": "Backend",
+    "criterion": "Does the digital service define retention periods for the data and documents that require them?",
+    "objective": "Remove unnecessary data from databases and physical servers.",
+    "implementation": "Set expiry dates on data (files, database entries, etc.) so it can later be archived and/or deleted. See criterion: 7.4",
+    "test": "Declarative request to the development team. This can be outlined in a data management policy/strategy document."
+  },
+  {
+    "id": "7.4",
+    "thematic": "Backend",
+    "criterion": "Does the digital service archive or delete data and documents after the retention period has expired?",
+    "objective": "Remove unnecessary data from databases and physical servers.",
+    "implementation": "Set up a process (preferably automatic) for archiving or deleting data (files, database entries, etc.) the retention period of which has expired. See criterion 7.3",
+    "test": "Monitor changes in the sizes of stored files and databases"
+  },
+  {
+    "id": "7.5",
+    "thematic": "Backend",
+    "criterion": "Does the digital service inform the user of ongoing processing in the background?",
+    "objective": "Avoid simultaneous requests caused by the user if they do not know that their operation is being taken into account.",
+    "implementation": "Make the operation causing the processing unavailable (e.g. a form submission button) and inform the user that processing is in progress, possibly with an approximate processing time.",
+    "test": "Check implementation"
+  },
+  {
+    "id": "8.1",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that is a signatory to the European Code of Conduct for Datacentres?",
+    "objective": "Encourage the use of hosting services that are committed to protecting the environment.",
+    "implementation": "Select a hosting company committed to this approach or ask the hosting company for commitments in this respect.\\nProposed by the European Commission, the European Code of Conduct is a voluntary initiative that was created in response to increased energy consumption by data centres and the need to reduce the impact on the environment of their operation. The aim is to inform and encourage data centre operators and owners to reduce energy consumption without hindering the critical function of data centres. The Code of Conduct aims to achieve this by improving our understanding of data centre energy demand, raising awareness and recommending best practice and targets for energy efficiency.\\nSignatory parties must adhere to this code of conduct and abide by a set of commitments.Find out more about the [European code of conduct](https://e3p.jrc.ec.europa.eu/sites/default/files/documents/publications/jrc128184_jrc128184_jrc128184_2022_best_practice_guidelines-1.pdf) (pdf, 2022).",
+    "test": "Proof of the hosting company's ratification of the Code of Conduct and associated actions"
+  },
+  {
+    "id": "8.2",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that is committed to reducing its environmental impact?",
+    "objective": "Encourage the use of a hosting company that has made environmental commitments, other than the European Code of Conduct for Data Centres.",
+    "implementation": "Select a hosting company that has made environmental commitments or request commitments from the hosting company in this regard: \\n- charter, policy\\n-, environmental certification: ISO14001, ISO50001, LEED, BREAM, HQE, etc.\\n- measuring and reporting impacts\\n- pooling of machine resources\\n-type of cooling that uses renewable energy sources (water, air, etc.) or recovery of waste heat\\n- environmental impact analysis of \\\"move to cloud\\\" for players which have their cloud on the premises? calculators made available by suppliers upstream of the migration?\\n- how was the data centre created? soil artificialisation \\n- etc.\\n\\nBeware of green washing when it comes to sharing information about net zero, a charter, a policy or an internal roadmap, without the possibility to verify its implementation, or without an independent third party certifying its implementation.",
+    "test": "Proof of the hosting company's environmental commitments"
+  },
+  {
+    "id": "8.3",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that has a sustainable equipment management policy?",
+    "objective": "Give preference to a hosting company that is committed to the environment, particularly in terms of the way in which it manages equipment: environmental impacts of the purchase of this equipment, purchasing policy (sustainable, repairable purchase), usage policy (upgrade, repair for example) and end-of-use policy (re-use and management of WEEE � Waste Electrical and Electronic Equipment).",
+    "implementation": "Select a hosting company or request commitments from a hosting company with a transparent and ecological equipment management policy.\\nFor example, it would be desirable for the hosting company to share details of the total service life of its equipment > 8 years.",
+    "test": "Purchase and management policy of the hosting company's equipment"
+  },
+  {
+    "id": "8.4",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that provides environmental impact indicators for its activity?",
+    "objective": "Encourage the use of a hosting company that measures the environmental impacts of using it and makes this information available.",
+    "implementation": "Select a hosting company or request commitments from a hosting company which shares environmental metrics, e.g. PUE, WUE, REF standard indicators.",
+    "test": "Environmental indicators and / or failing that, but not sufficient, energy consumption indicators provided by the hosting company."
+  },
+  {
+    "id": "8.5",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that provides details of its PUE (Power Usage Effectiveness)?",
+    "objective": "Know the PUE of your hosting company. \\nReduce or limit energy consumption to what is required for the proper functioning and cooling of servers.",
+    "implementation": "Select a hosting company that shares information about its PUE and the strategy it implements to reduce it.\\nThe PUE is an energy efficiency indicator which is a ratio between the total energy consumed by the whole operation centre (including cooling, air treatment, UPS, etc.) and the part that is actually consumed by the IT systems that this centre uses (servers, storage, network).\\nThe closer the PUE is to 1, the better.\\nGenerally, a PUE of 1.1 is observed for hyperscalers and 2 for older data centres. A PUE > 2.5 is too high.\\nHowever, improving this indicator can negatively impact other indicators, without reducing either the overall impact or energy consumption, hence the utility in monitoring several indicators (energy consumption, water consumption, equipment management policy, etc.).",
+    "test": "What is the PUE of the digital service�s hosting company?"
+  },
+  {
+    "id": "8.6",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that provides details of its WUE (Water Usage Effectiveness)?",
+    "objective": "Know the WUE of your hosting company, an indicator that is often not taken into account.\\nReduce or limit the consumption of water needed to cool servers.\\nAvoid water stress (i.e. a shortage of drinking water). Local water stress can also be taken into account: a high WUE in an area without water stress will be less problematic.",
+    "implementation": "Select a hosting company that shares information about its WUE. This indicator is the ratio between the amount of water consumed and the total energy used by the data centre. It is measured in L/kWh.\\nNB: currently, there is little or no open data about local water stress.\\nAs with the PUE, improving this indicator can negatively impact other indicators, without reducing either the overall impact or energy consumption, hence the utility in monitoring several indicators (energy consumption, water consumption, equipment management policy, etc.).",
+    "test": "What is the WUE of the digital service�s hosting company?"
+  },
+  {
+    "id": "8.7",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service where the majority of electricity consumption is from renewable sources?",
+    "objective": "Promote the transition to renewable energy.",
+    "implementation": "Ask the hosting company about its electricity purchasing policy. PPAs (Power Purchasing Agreements) � long-term renewable energy contracts � are considered to be of higher quality than electricity certificates of origin. [On this topic, see the report: �Development of the EU Green Public Procurement (GPP) criteria for data centres, server rooms and cloud services, Renewable Energy Factor, page 99](https://op.europa.eu/en/publication-detail/-/publication/89971797-a9fa-11ea-bb7a-01aa75ed71a1/language-en/format-PDF/source-search). A standardised indicator can be monitored: the [REF, Renewable Energy Factor](https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-3:ed-1:v1:en).",
+    "test": "Ask for proof of the source of the electricity consumed by the host (PPA - Power Purchase Agreement as a priority, otherwise certificate of origin of the electricity)."
+  },
+  {
+    "id": "8.8",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that is geographically consistent with the location of its users and activities?",
+    "objective": "Reduce the distance travelled by the data and therefore reduce the network infrastructure used.",
+    "implementation": "Select a hosting company whose servers are located close to the users or identified activities. This does not mean adopting Edge Computing technologies, but choosing a data centre close to the users.",
+    "test": "Control implementation: identifying the location of users and the location of servers."
+  },
+  {
+    "id": "8.9",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service host \"hot\" and \"cold\" data separately?",
+    "objective": "Hot data is data that is used extensively, while cold data is archived data. Using different hosting company (e.g. different databases) would reduce environmental impacts.",
+    "implementation": "Separate hot data from cold data by using technical solutions adapted to the context in which it is used.\\nIt is advisable to think about how cold data is stored: there are several technologies on the market, not all of which necessarily have the same impact.",
+    "test": "Implementation checks"
+  },
+  {
+    "id": "8.10",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service duplicate data only when necessary?",
+    "objective": "Reduce the amount of computing and storage resources used.\\nQuestion whether the right level of service has been selected for the actual need. The higher the required availability rate, the more financially and environmentally costly the infrastructure required is.",
+    "implementation": "Do not systematically duplicate all data. Identify the data that needs to be duplicated (e.g. critical or high demand data). A balance has to be struck between security (to avoid data loss) and dissemination (having too much data everywhere).",
+    "test": "Reference document, specifications indicating design choices for data redundancy, adjusted as necessary."
+  },
+  {
+    "id": "8.11",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use redundancy only when necessary?",
+    "objective": "Reduce the amount of computing and storage resources used.\\nQuestion whether the right level of service has been selected for the actual need. The higher the required availability rate, the more financially and environmentally costly the infrastructure required is.",
+    "implementation": "Question the utility of service redundancy. Is it critical if the digital service is not available for a certain period of time?\\n* Backup & Restore is the least expensive, perfectly adapted to applications which have an RTO (Recovery Time Objective) or RPO (Recovery Point Objective) of a few hours.\\n* The Pilot Light, for example, is a \\�mirrored\\� / duplicated database but with VMs turned off, a little more expensive than Backup & Restore and works for most applications that do not have extreme SLA requirements (less than 1 hour).\\n* Warm Standby is when VMs are already running but with limited scalability, almost in real time but potentially with slightly degraded quality if an incident occurs.\\n* Multi-Site Hot Standby: total resilience for real time SLAs. No loss of service is tolerated, but of course this comes at a cost.",
+    "test": "Verification of the presence of an SLA (Service Level Agreement) adjusted according to needs, for example"
+  },
+  {
+    "id": "8.12",
+    "thematic": "Hosting",
+    "criterion": "Does the digital service use a hosting service that recovers waste heat from the servers?",
+    "objective": "Encourage initiatives to recover the energy produced � to heat buildings in winter, for example. [Definition of waste heat according to the ADEME] (https://grand-est.ademe.fr/expertises/produire-autrement/chaleur-fatale/chaleur-fatale-de-quoi-parle-t)",
+    "implementation": "Select a hosting service or request commitments from a hosting company to reuse the waste heat generated, for example, to directly heat offices or other facilities nearby.",
+    "test": "Documentation of the hosting company's initiatives for the recovery and reuse of waste heat. If not applicable, justify why. The overall environmental report on reusing the heat produced does not need to be positive, taking into account the initial investment on building or adapting the facilities."
+  }
+]
