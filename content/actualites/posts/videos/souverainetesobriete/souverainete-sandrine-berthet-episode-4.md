@@ -1,4 +1,3 @@
-
 ---
 layout: layouts/post.njk
 title: "Souveraineté, sobriété Épisode #4 : réduire nos dépendances pour renforcer notre souveraineté"
@@ -77,4 +76,3 @@ Le développement de ces modèles n'est toutefois pas acquis. Sandrine Berthet r
 <br>
 
 À travers cette série, la MiNumEco explore les différentes dimensions de cette convergence entre **sobriété, résilience et souveraineté numériques**, à partir des interventions de la matinée « Sobriété numérique et souveraineté », organisée le 17 mars 2026 par la DINUM et le ministère de l'Europe et des Affaires étrangères.
-
