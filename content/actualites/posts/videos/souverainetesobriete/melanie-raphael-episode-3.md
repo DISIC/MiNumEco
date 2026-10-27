@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Souveraineté, sobriété Épisode #3 : maîtriser nos dépendances pour renforcer notre souveraineté numérique"
 description: "Mélanie Raphaël, experte numérique écoresponsable à la DINUM et pilote de la MiNumEco, explique comment la sobriété numérique contribue à réduire nos dépendances et à construire un numérique public plus souverain, performant et résilient."
-date: 2026-10-27
+date: 2026-10-12
 image:
     path: ./video_souverainete_3_melanieraphael.webp
     alt: "Mélanie Raphaël, experte numérique écoresponsable à la DINUM"
